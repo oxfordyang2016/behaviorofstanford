@@ -1,0 +1,9205 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.500 --> 00:00:02.964
+[MUSIC PLAYING]
+
+00:00:04.940 --> 00:00:05.836
+Stanford University.
+
+00:00:20.470 --> 00:00:25.000
+Picking up from Monday,
+OK, so we are now well
+
+00:00:25.000 --> 00:00:27.720
+into our second topic
+of the second half,
+
+00:00:27.720 --> 00:00:31.710
+looking at aggression,
+competition, cooperation,
+
+00:00:31.710 --> 00:00:33.290
+empathy, all those guys.
+
+00:00:33.290 --> 00:00:36.850
+And we've got the drill down
+by now, starting with behavior
+
+00:00:36.850 --> 00:00:39.060
+all the way to the right,
+working our way to the left
+
+00:00:39.060 --> 00:00:41.860
+all the way back to evolution,
+genetics, blah, blah.
+
+00:00:41.860 --> 00:00:44.420
+Where we left off the
+other day was just
+
+00:00:44.420 --> 00:00:47.540
+getting into the first
+box worth of what's
+
+00:00:47.540 --> 00:00:48.510
+going on in the brain?
+
+00:00:48.510 --> 00:00:51.840
+What is the neurobiology
+of what's occurring seconds
+
+00:00:51.840 --> 00:00:55.550
+before that aggressive act, that
+compassionate act, all of that?
+
+00:00:55.550 --> 00:00:58.720
+As we know already, right in
+the middle of the limbic system,
+
+00:00:58.720 --> 00:01:02.070
+of course, as we know
+already, the amygdala
+
+00:01:02.070 --> 00:01:03.760
+is playing a really
+central role,
+
+00:01:03.760 --> 00:01:06.010
+and seeing all the
+evidence for it--
+
+00:01:06.010 --> 00:01:09.880
+lesion studies, stimulation
+studies, the bizarre rarer
+
+00:01:09.880 --> 00:01:14.090
+realm of humans who have
+had lesions, or stimulation
+
+00:01:14.090 --> 00:01:18.400
+there, accidents, or intentional
+psycho surgical interventions,
+
+00:01:18.400 --> 00:01:20.470
+beginning to look at
+the amygdala there,
+
+00:01:20.470 --> 00:01:22.310
+and the role that it plays.
+
+00:01:22.310 --> 00:01:24.270
+Now, part of what
+becomes relevant
+
+00:01:24.270 --> 00:01:26.390
+there is seeing the
+kind of information
+
+00:01:26.390 --> 00:01:27.960
+that the amygdala is getting.
+
+00:01:27.960 --> 00:01:29.440
+And an important
+thing to focus on
+
+00:01:29.440 --> 00:01:30.940
+is something that
+was mentioned back
+
+00:01:30.940 --> 00:01:33.110
+in the limbic
+lecture, the notion we
+
+00:01:33.110 --> 00:01:34.900
+ended with the other
+day, the amygdala.
+
+00:01:34.900 --> 00:01:38.940
+OK, so you look at somebody
+who has had amygdala damage.
+
+00:01:38.940 --> 00:01:43.770
+And they tend to not be able
+to detect fear-evoking faces.
+
+00:01:43.770 --> 00:01:45.800
+They are overly trustful.
+
+00:01:45.800 --> 00:01:48.020
+They are underlie skeptical.
+
+00:01:48.020 --> 00:01:51.420
+They are not taking in
+the sort of information
+
+00:01:51.420 --> 00:01:53.650
+we would that leads
+us to conclude
+
+00:01:53.650 --> 00:01:56.720
+this is a circumstance
+that demands arousal,
+
+00:01:56.720 --> 00:01:58.050
+vigilance, so on.
+
+00:01:58.050 --> 00:02:00.480
+One of the things that was
+seen, interesting study
+
+00:02:00.480 --> 00:02:02.300
+that I noted at the
+end the other day,
+
+00:02:02.300 --> 00:02:05.930
+was looking at people with
+amygdala lesions, Damasio
+
+00:02:05.930 --> 00:02:08.500
+and his group looking at
+this, keeping track of where
+
+00:02:08.500 --> 00:02:09.509
+the eyes are looking.
+
+00:02:09.509 --> 00:02:12.920
+When they see another face, they
+are not looking with the eyes
+
+00:02:12.920 --> 00:02:15.590
+any or near as much as
+everybody else would.
+
+00:02:15.590 --> 00:02:18.670
+They are instead tracking around
+all sorts of extraneous parts
+
+00:02:18.670 --> 00:02:19.530
+of the face.
+
+00:02:19.530 --> 00:02:23.120
+Normally, people look
+at the eyes a whole lot.
+
+00:02:23.120 --> 00:02:25.460
+And what that winds
+up showing is not only
+
+00:02:25.460 --> 00:02:28.740
+is the amygdala playing
+a role in deciding
+
+00:02:28.740 --> 00:02:32.980
+this is a fear or
+aggression-evoking stimulus,
+
+00:02:32.980 --> 00:02:35.140
+the amygdala is also
+on the lookout for it.
+
+00:02:35.140 --> 00:02:38.030
+And what we will see in a little
+while is one of the things
+
+00:02:38.030 --> 00:02:42.060
+testosterone does is
+make the amygdala better
+
+00:02:42.060 --> 00:02:45.380
+at looking for fear and
+anger-evoking faces.
+
+00:02:45.380 --> 00:02:47.380
+So part of what the
+amygdala is doing
+
+00:02:47.380 --> 00:02:49.970
+is taking in
+sensory information.
+
+00:02:49.970 --> 00:02:53.511
+We touched in the limbic lecture
+on one interesting aspect
+
+00:02:53.511 --> 00:02:54.010
+of it.
+
+00:02:54.010 --> 00:02:58.430
+OK, back to that business,
+that the limbic strategy
+
+00:02:58.430 --> 00:03:01.580
+of counting the number of
+synapses, that strange business
+
+00:03:01.580 --> 00:03:04.670
+about olfaction being
+only one synapse away
+
+00:03:04.670 --> 00:03:07.470
+from lots of parts
+of the limbic system,
+
+00:03:07.470 --> 00:03:09.530
+including the amygdala
+if you were dealing
+
+00:03:09.530 --> 00:03:12.570
+with a [INAUDIBLE],
+the olfactory world
+
+00:03:12.570 --> 00:03:14.410
+as being so emotional
+for a rodent.
+
+00:03:14.410 --> 00:03:17.400
+For us, we've got something
+else interesting happening.
+
+00:03:17.400 --> 00:03:19.170
+And I think I mentioned this.
+
+00:03:19.170 --> 00:03:21.070
+OK, so you've got
+the visual system.
+
+00:03:21.070 --> 00:03:22.860
+And what we have
+is the usual rule
+
+00:03:22.860 --> 00:03:25.110
+that visual information--
+just like auditory,
+
+00:03:25.110 --> 00:03:27.870
+just like tactile--
+comes in, and goes
+
+00:03:27.870 --> 00:03:30.760
+by way of a way station along
+the way, whose name we won't
+
+00:03:30.760 --> 00:03:33.540
+worry about, and goes
+through all these levels
+
+00:03:33.540 --> 00:03:36.520
+of cortical processing,
+and [? bio cort ?] people
+
+00:03:36.520 --> 00:03:39.460
+will remember layer one,
+doing dots, to lines,
+
+00:03:39.460 --> 00:03:42.590
+to moving lines, all of
+that, eventually processing
+
+00:03:42.590 --> 00:03:45.200
+assessment, come up with
+an idea that, oh, dear,
+
+00:03:45.200 --> 00:03:46.760
+this is a menacing face.
+
+00:03:46.760 --> 00:03:49.110
+And then let the
+amygdala know about this.
+
+00:03:49.110 --> 00:03:51.400
+What was also found
+a number of years ago
+
+00:03:51.400 --> 00:03:53.330
+is that there is a shortcut.
+
+00:03:53.330 --> 00:03:56.890
+There is a branch coming off
+of this way station called
+
+00:03:56.890 --> 00:03:58.320
+the lateral geniculate.
+
+00:03:58.320 --> 00:04:01.370
+There's a branch coming
+off, which then is only one
+
+00:04:01.370 --> 00:04:03.445
+synapse away from the amygdala.
+
+00:04:03.445 --> 00:04:06.970
+What we heard is
+that's really useful,
+
+00:04:06.970 --> 00:04:10.640
+in that it can get you
+fear-evoking, arousing
+
+00:04:10.640 --> 00:04:13.640
+information that much faster
+than going through all
+
+00:04:13.640 --> 00:04:15.040
+this cortical processing.
+
+00:04:15.040 --> 00:04:16.399
+It is a short cut.
+
+00:04:16.399 --> 00:04:18.500
+It is not a one synapse away.
+
+00:04:18.500 --> 00:04:20.940
+But it certainly makes
+for fewer synapses.
+
+00:04:20.940 --> 00:04:23.030
+That's a faster
+system that we've
+
+00:04:23.030 --> 00:04:25.650
+got in order to
+very quickly pick up
+
+00:04:25.650 --> 00:04:28.120
+information that
+should be of interest
+
+00:04:28.120 --> 00:04:31.350
+to the amygdala and all
+of its fear, anxiety,
+
+00:04:31.350 --> 00:04:32.977
+aggression-type concerns.
+
+00:04:32.977 --> 00:04:33.810
+So that's wonderful.
+
+00:04:33.810 --> 00:04:35.380
+That's terrific
+for the amygdala.
+
+00:04:35.380 --> 00:04:36.860
+What I think we
+also heard it is it
+
+00:04:36.860 --> 00:04:41.210
+comes with a downside, which is
+you send all this information
+
+00:04:41.210 --> 00:04:42.630
+through all these
+different steps
+
+00:04:42.630 --> 00:04:45.450
+there because it's doing
+all this cortical processing
+
+00:04:45.450 --> 00:04:46.160
+for you.
+
+00:04:46.160 --> 00:04:48.170
+It's figuring out
+all the details
+
+00:04:48.170 --> 00:04:50.620
+of the sensory information
+you're getting in.
+
+00:04:50.620 --> 00:04:53.520
+This way, it gets to
+the amygdala faster.
+
+00:04:53.520 --> 00:04:56.490
+But what gets there
+is less accurate.
+
+00:04:56.490 --> 00:04:58.940
+You're more likely
+to make a mistake.
+
+00:04:58.940 --> 00:05:02.510
+And that's the whole world of
+people reacting really quickly
+
+00:05:02.510 --> 00:05:04.740
+to some peripheral
+piece of information,
+
+00:05:04.740 --> 00:05:07.760
+which turns out to be different
+than they thought it was.
+
+00:05:07.760 --> 00:05:10.050
+And before they knew
+it, they had reacted.
+
+00:05:10.050 --> 00:05:13.080
+This is the cortex sitting
+there, still trying to decide,
+
+00:05:13.080 --> 00:05:14.770
+is this a
+three-dimensional object
+
+00:05:14.770 --> 00:05:16.110
+or a two-dimensional one?
+
+00:05:16.110 --> 00:05:18.920
+And through this route, you've
+already stabbed the individual.
+
+00:05:18.920 --> 00:05:23.990
+This is a very, very clear
+trade-off-- faster information,
+
+00:05:23.990 --> 00:05:25.070
+less accurate.
+
+00:05:25.070 --> 00:05:27.200
+And there is, by now,
+a lot of evidence
+
+00:05:27.200 --> 00:05:29.920
+to suggest that this
+particular pathway is
+
+00:05:29.920 --> 00:05:33.710
+hyper excitable in individuals
+with post-traumatic stress
+
+00:05:33.710 --> 00:05:37.450
+disorder, where that
+whole world of all sorts
+
+00:05:37.450 --> 00:05:42.070
+of acute sensory stimuli
+suddenly fling the person back
+
+00:05:42.070 --> 00:05:45.200
+into where they were when
+that happened to them,
+
+00:05:45.200 --> 00:05:47.540
+and without the processing
+time to figure out,
+
+00:05:47.540 --> 00:05:49.510
+this isn't exactly the same.
+
+00:05:49.510 --> 00:05:52.530
+In fact, this is a world away
+from where that happened.
+
+00:05:52.530 --> 00:05:55.200
+Already, the amygdala
+is responding.
+
+00:05:55.200 --> 00:05:57.089
+So these short cuts--
+but telling you,
+
+00:05:57.089 --> 00:05:59.130
+one of the things you give
+up with the short cuts
+
+00:05:59.130 --> 00:06:02.310
+is the analytical accuracy.
+
+00:06:02.310 --> 00:06:05.630
+OK, so amygdala for that,
+amygdala equals fear,
+
+00:06:05.630 --> 00:06:07.860
+equals anxiety,
+equals aggression.
+
+00:06:07.860 --> 00:06:09.170
+Isn't that interesting?
+
+00:06:09.170 --> 00:06:11.660
+In a world in which
+amygdala is not afraid,
+
+00:06:11.660 --> 00:06:14.090
+there's no aggression,
+that whole theme there.
+
+00:06:14.090 --> 00:06:16.710
+The amygdala isn't
+always about fear,
+
+00:06:16.710 --> 00:06:18.480
+and aggression, and anxiety.
+
+00:06:18.480 --> 00:06:20.610
+And it's very
+informative, the examples
+
+00:06:20.610 --> 00:06:22.420
+where that's not the case.
+
+00:06:22.420 --> 00:06:25.580
+One case, really
+interesting syndrome
+
+00:06:25.580 --> 00:06:27.357
+called Williams
+syndrome, which we're
+
+00:06:27.357 --> 00:06:29.440
+going to hear a lot about
+in the language lecture.
+
+00:06:29.440 --> 00:06:34.300
+Williams syndrome appears to be
+a poorly understood imprinted
+
+00:06:34.300 --> 00:06:37.620
+genetic disorder where you
+get, among other things,
+
+00:06:37.620 --> 00:06:41.950
+kids who are unbelievably
+facile with language
+
+00:06:41.950 --> 00:06:44.030
+and emotional expressivity.
+
+00:06:44.030 --> 00:06:46.030
+This whole world
+of Williams kids,
+
+00:06:46.030 --> 00:06:48.060
+it's this fascinating
+disorder where
+
+00:06:48.060 --> 00:06:52.110
+you get kids who are basically
+borderline retarded in terms
+
+00:06:52.110 --> 00:06:53.370
+of cognitive function.
+
+00:06:53.370 --> 00:06:57.140
+Yet, they have this spectacular
+adeptness at language,
+
+00:06:57.140 --> 00:07:00.640
+at reading emotions in other
+people, at communicating them.
+
+00:07:00.640 --> 00:07:03.420
+They are famously
+affectionate kids
+
+00:07:03.420 --> 00:07:06.220
+amid being very
+cognitively impaired.
+
+00:07:06.220 --> 00:07:07.680
+We'll see in the
+language lecture,
+
+00:07:07.680 --> 00:07:10.030
+most people think
+about Williams syndrome
+
+00:07:10.030 --> 00:07:13.820
+as an interesting example of
+the modularity of language
+
+00:07:13.820 --> 00:07:15.320
+control in the cortex.
+
+00:07:15.320 --> 00:07:20.050
+You can have very, very
+facile language skills
+
+00:07:20.050 --> 00:07:22.760
+in these individuals who,
+nonetheless, are typically
+
+00:07:22.760 --> 00:07:25.990
+in the IQ range of about
+70, argument being,
+
+00:07:25.990 --> 00:07:28.720
+we'll see in a couple of weeks,
+that there are specialized
+
+00:07:28.720 --> 00:07:30.700
+cortical areas for language.
+
+00:07:30.700 --> 00:07:32.500
+For our purposes,
+the interesting thing
+
+00:07:32.500 --> 00:07:35.210
+about Williams kids, and
+eventually Williams adults,
+
+00:07:35.210 --> 00:07:38.540
+is they are extremely trustful.
+
+00:07:38.540 --> 00:07:40.850
+They are extremely gregarious.
+
+00:07:40.850 --> 00:07:44.220
+They are incredibly
+vulnerable as adults
+
+00:07:44.220 --> 00:07:47.200
+to being taken advantage
+of by other people.
+
+00:07:47.200 --> 00:07:50.450
+And what you see with Williams
+individuals is you basically
+
+00:07:50.450 --> 00:07:55.370
+cannot evoke amygdala
+activation with scary faces.
+
+00:07:55.370 --> 00:07:58.100
+They don't register in
+someone with Williams.
+
+00:07:58.100 --> 00:08:01.090
+So there, we see that
+this is not universally
+
+00:08:01.090 --> 00:08:02.760
+serving that role.
+
+00:08:02.760 --> 00:08:04.330
+Another example
+where there seems
+
+00:08:04.330 --> 00:08:06.210
+to be an exception
+until you think about it
+
+00:08:06.210 --> 00:08:09.190
+a little bit, people
+with social phobias.
+
+00:08:09.190 --> 00:08:12.700
+What studies have shown
+is, show a social phobic
+
+00:08:12.700 --> 00:08:17.280
+any sort of face-- human face--
+and their amygdala activates.
+
+00:08:17.280 --> 00:08:19.990
+Oh, that's not telling
+us anything informative.
+
+00:08:19.990 --> 00:08:22.330
+It's telling us something
+very informative,
+
+00:08:22.330 --> 00:08:25.200
+which is if you have a
+severe social phobia,
+
+00:08:25.200 --> 00:08:27.820
+any face is a scary face to you.
+
+00:08:27.820 --> 00:08:30.960
+All faces do that, rather
+than only ones communicating
+
+00:08:30.960 --> 00:08:33.490
+certain threatening emotions.
+
+00:08:33.490 --> 00:08:35.530
+Another one that seems
+puzzling, but which
+
+00:08:35.530 --> 00:08:38.080
+then makes perfect sense
+when you think about it, when
+
+00:08:38.080 --> 00:08:41.159
+you take people with clinical
+depression the amygdala
+
+00:08:41.159 --> 00:08:43.450
+doesn't necessarily
+activate when
+
+00:08:43.450 --> 00:08:46.540
+you show them a picture
+of something frightening.
+
+00:08:46.540 --> 00:08:50.700
+It activates when you show them
+a picture of something sad.
+
+00:08:50.700 --> 00:08:54.990
+OK, so now instead of
+doing fear and depression,
+
+00:08:54.990 --> 00:08:57.440
+the amygdala does
+sadness or something.
+
+00:08:57.440 --> 00:08:58.920
+If you think about
+it for a minute,
+
+00:08:58.920 --> 00:09:00.600
+that makes perfect sense.
+
+00:09:00.600 --> 00:09:03.430
+What the amygdala might
+very well be doing
+
+00:09:03.430 --> 00:09:07.020
+is responding to whatever it
+is that is most ethologically
+
+00:09:07.020 --> 00:09:11.380
+frightening to you-- you as a
+species, you as an individual.
+
+00:09:11.380 --> 00:09:13.310
+If you are somebody
+who's depressed,
+
+00:09:13.310 --> 00:09:15.020
+the most frightening
+thing on Earth
+
+00:09:15.020 --> 00:09:18.690
+is something sad around you, as
+more justification for feeling
+
+00:09:18.690 --> 00:09:21.730
+even more depressed, the
+amygdala being far more
+
+00:09:21.730 --> 00:09:25.320
+subtle than, oh, here's a scary
+predator with a knife coming
+
+00:09:25.320 --> 00:09:28.850
+at me, very much contextual.
+
+00:09:28.850 --> 00:09:32.780
+OK, another thing that the
+amygdala is brilliant at,
+
+00:09:32.780 --> 00:09:35.220
+which we will come
+back to in more detail,
+
+00:09:35.220 --> 00:09:37.710
+but on a first pass
+it is so depressing,
+
+00:09:37.710 --> 00:09:40.930
+is the amygdala is probably
+the part of your brain
+
+00:09:40.930 --> 00:09:44.827
+that is best at doing
+dichotomizing between us
+
+00:09:44.827 --> 00:09:48.880
+and them-- forming categories
+in-group, out-group,
+
+00:09:48.880 --> 00:09:52.340
+and responding to
+out-group stimuli.
+
+00:09:52.340 --> 00:09:55.840
+And we will see two things down
+the line, probably on Friday.
+
+00:09:55.840 --> 00:09:59.670
+Number one, it is
+really, really depressing
+
+00:09:59.670 --> 00:10:01.730
+how readily the
+amygdala forms some
+
+00:10:01.730 --> 00:10:04.735
+of these us-them dichotomies,
+and the sort of them
+
+00:10:04.735 --> 00:10:07.790
+that it responds to--
+really depressing.
+
+00:10:07.790 --> 00:10:09.310
+But also some good
+news in there,
+
+00:10:09.310 --> 00:10:12.990
+remarkably subtle social
+manipulations that
+
+00:10:12.990 --> 00:10:15.610
+will change the sort
+of us-them dichotomies
+
+00:10:15.610 --> 00:10:17.540
+that the amygdala responds to.
+
+00:10:17.540 --> 00:10:19.440
+So stay tuned for that.
+
+00:10:19.440 --> 00:10:21.490
+OK, so shifting
+from the amygdala,
+
+00:10:21.490 --> 00:10:24.910
+going to the incredibly
+interesting and important
+
+00:10:24.910 --> 00:10:26.180
+frontal cortex.
+
+00:10:26.180 --> 00:10:28.710
+And frontal cortex, obviously,
+was doing all sorts of stuff
+
+00:10:28.710 --> 00:10:31.120
+two lectures ago
+in the sex lecture,
+
+00:10:31.120 --> 00:10:33.530
+getting you to have
+the appropriate context
+
+00:10:33.530 --> 00:10:36.570
+for sexual behavior, getting
+to do the harder thing,
+
+00:10:36.570 --> 00:10:39.200
+like leaping over
+streams, and head butting
+
+00:10:39.200 --> 00:10:41.300
+with other antlered
+beasts if that's
+
+00:10:41.300 --> 00:10:42.590
+part of your mating season.
+
+00:10:42.590 --> 00:10:45.800
+Where the frontal cortex
+is particularly involved
+
+00:10:45.800 --> 00:10:49.770
+is this whole world of
+regulating appropriate behavior
+
+00:10:49.770 --> 00:10:53.940
+in the context of violence,
+aggression, competition,
+
+00:10:53.940 --> 00:10:54.950
+cooperation.
+
+00:10:54.950 --> 00:10:58.610
+Frontal cortex is
+incredibly important here.
+
+00:10:58.610 --> 00:11:01.830
+OK, back to the limbic
+lecture-- the limbic system
+
+00:11:01.830 --> 00:11:06.450
+is about sub-cortical structures
+underneath, things like that.
+
+00:11:06.450 --> 00:11:08.570
+And the cortex is
+about the cortex.
+
+00:11:08.570 --> 00:11:10.150
+And we heard in
+the limbic lecture,
+
+00:11:10.150 --> 00:11:12.740
+instead what was originally
+that heretical view
+
+00:11:12.740 --> 00:11:15.120
+by that neuroanatomist
+Nauta saying,
+
+00:11:15.120 --> 00:11:18.250
+actually, the frontal cortex
+is part of the limbic system.
+
+00:11:18.250 --> 00:11:19.520
+It should be viewed as such.
+
+00:11:19.520 --> 00:11:21.650
+And over the years since,
+it being viewed as,
+
+00:11:21.650 --> 00:11:24.760
+this is the cortical part
+of the limbic system.
+
+00:11:24.760 --> 00:11:28.710
+This is the cortical region
+that is intensely involved
+
+00:11:28.710 --> 00:11:31.290
+with limbic function,
+with emotional function.
+
+00:11:31.290 --> 00:11:33.980
+On an anatomical level,
+what we've already seen
+
+00:11:33.980 --> 00:11:38.510
+is just as a first pass, tons
+of bidirectional connections,
+
+00:11:38.510 --> 00:11:40.500
+everything in the
+limbic system talking
+
+00:11:40.500 --> 00:11:42.800
+to the frontal
+cortex, frontal cortex
+
+00:11:42.800 --> 00:11:45.550
+sending projections back
+over the limbic system.
+
+00:11:45.550 --> 00:11:47.930
+So anatomically, it's there.
+
+00:11:47.930 --> 00:11:51.430
+So in terms of what it's doing--
+the best way to describe what
+
+00:11:51.430 --> 00:11:53.910
+the frontal cortex is
+about is when there's
+
+00:11:53.910 --> 00:11:57.590
+a choice between doing something
+harder and something easier,
+
+00:11:57.590 --> 00:11:59.830
+and the harder thing is
+the better thing to do,
+
+00:11:59.830 --> 00:12:02.640
+it's the thing that makes
+you do the harder thing.
+
+00:12:02.640 --> 00:12:04.950
+And we'll see this
+plays out in all sorts
+
+00:12:04.950 --> 00:12:07.520
+of domains, the
+frontal cortex getting
+
+00:12:07.520 --> 00:12:09.740
+you to do the harder thing.
+
+00:12:09.740 --> 00:12:14.330
+First beginning to see the way
+it works in terms of wiring--
+
+00:12:14.330 --> 00:12:16.970
+OK, here we have
+reduced the entire world
+
+00:12:16.970 --> 00:12:19.690
+down to a simplified,
+there's two neurons
+
+00:12:19.690 --> 00:12:22.149
+that account for all the easier
+things you do in your life.
+
+00:12:22.149 --> 00:12:23.731
+And there's three
+neurons that account
+
+00:12:23.731 --> 00:12:24.840
+for all the harder ones.
+
+00:12:24.840 --> 00:12:27.400
+Here, we have some
+circumstance where
+
+00:12:27.400 --> 00:12:31.130
+there's a circuit at some
+juncture, the easier but less
+
+00:12:31.130 --> 00:12:32.720
+desirable outcome.
+
+00:12:32.720 --> 00:12:35.840
+Behavior is this way,
+the harder one that way.
+
+00:12:35.840 --> 00:12:40.950
+And what you see is this has
+more inputs then this one.
+
+00:12:40.950 --> 00:12:44.280
+This is obviously some
+entire circuit of neurons.
+
+00:12:44.280 --> 00:12:46.680
+And this is highly
+simplified, blah, blah.
+
+00:12:46.680 --> 00:12:48.630
+But what we see is the
+way it's set up here
+
+00:12:48.630 --> 00:12:52.410
+is that there are more
+inputs into this pathway.
+
+00:12:52.410 --> 00:12:54.990
+This is what makes
+this neuron easier
+
+00:12:54.990 --> 00:12:57.050
+to activate than this one.
+
+00:12:57.050 --> 00:13:00.000
+There are stronger
+inputs into this pathway.
+
+00:13:00.000 --> 00:13:02.800
+This one has only two
+axons going to it.
+
+00:13:02.800 --> 00:13:05.060
+This one has three--
+yes, simplified.
+
+00:13:05.060 --> 00:13:08.430
+When you look at the wiring
+of the frontal cortex,
+
+00:13:08.430 --> 00:13:11.540
+it's sending projections
+all over the limbic system,
+
+00:13:11.540 --> 00:13:13.380
+all over motor areas.
+
+00:13:13.380 --> 00:13:15.460
+A characteristic
+of the projections
+
+00:13:15.460 --> 00:13:19.880
+is that very rarely are
+they very strong projections
+
+00:13:19.880 --> 00:13:22.100
+to any given target area.
+
+00:13:22.100 --> 00:13:25.700
+They're not the sort of
+projections where, here's
+
+00:13:25.700 --> 00:13:27.990
+this frontal cortical
+neuron that is now
+
+00:13:27.990 --> 00:13:31.300
+dumping all of its axon
+terminals into this one neuron
+
+00:13:31.300 --> 00:13:32.110
+down there.
+
+00:13:32.110 --> 00:13:35.210
+It does not exert a
+very strong influence
+
+00:13:35.210 --> 00:13:38.430
+over the excitation
+of any given neuron.
+
+00:13:38.430 --> 00:13:42.830
+Instead, what it has is a
+whole lot of weak but diffuse
+
+00:13:42.830 --> 00:13:43.880
+projections.
+
+00:13:43.880 --> 00:13:46.370
+What is the frontal
+cortex doing?
+
+00:13:46.370 --> 00:13:49.540
+It's slowly massaging
+the area there.
+
+00:13:49.540 --> 00:13:54.540
+It is giving biasing bits of
+de-polarization of excitation.
+
+00:13:54.540 --> 00:13:58.004
+So what we've got here
+is-- OK, the numbers
+
+00:13:58.004 --> 00:13:58.920
+are not quite working.
+
+00:13:58.920 --> 00:14:00.940
+But in any case,
+what we have here is,
+
+00:14:00.940 --> 00:14:03.740
+here's doing the right
+thing that's harder.
+
+00:14:03.740 --> 00:14:05.850
+And it's a lot harder
+to get this neuron
+
+00:14:05.850 --> 00:14:07.900
+to do the right
+thing that's harder,
+
+00:14:07.900 --> 00:14:10.360
+because there is less of
+an input than this pathway.
+
+00:14:10.360 --> 00:14:12.400
+What the frontal
+cortex tends to do
+
+00:14:12.400 --> 00:14:16.610
+is have these relatively weak
+inputs into all these systems
+
+00:14:16.610 --> 00:14:20.160
+where it makes it a little
+bit harder to just fall
+
+00:14:20.160 --> 00:14:21.130
+for this one.
+
+00:14:21.130 --> 00:14:23.840
+It gives more strength
+into this pathway.
+
+00:14:23.840 --> 00:14:25.970
+The frontal
+projections very rarely
+
+00:14:25.970 --> 00:14:27.940
+are activating on their own.
+
+00:14:27.940 --> 00:14:32.260
+Yes, indeed, we have another
+example here of modulating.
+
+00:14:32.260 --> 00:14:35.080
+If and only if this
+pathway is already
+
+00:14:35.080 --> 00:14:37.020
+struggling to do
+the right thing,
+
+00:14:37.020 --> 00:14:40.030
+the frontal cortex tends
+to be able to push it
+
+00:14:40.030 --> 00:14:42.060
+over the top there
+to pull it off.
+
+00:14:42.060 --> 00:14:46.450
+Frontal projections as very
+diffuse, relatively weak,
+
+00:14:46.450 --> 00:14:51.250
+but biasing towards excitation,
+rather than causing it,
+
+00:14:51.250 --> 00:14:54.660
+that tends to be the
+thing that it does.
+
+00:14:54.660 --> 00:14:58.140
+What you see in terms of making
+sense of frontal function
+
+00:14:58.140 --> 00:14:59.930
+is, as we heard
+the other day also,
+
+00:14:59.930 --> 00:15:04.270
+a huge whopping projection
+from that nucleus accumbens.
+
+00:15:04.270 --> 00:15:06.830
+You remember ventral
+tegmental, nucleus accumbens,
+
+00:15:06.830 --> 00:15:12.250
+this huge dopamine releasing
+projection into there.
+
+00:15:12.250 --> 00:15:15.390
+And on a certain level--
+you want a totally useless
+
+00:15:15.390 --> 00:15:19.070
+metaphor, but on a certain level
+with the dopamine projection
+
+00:15:19.070 --> 00:15:22.140
+is about is-- so here, you've
+got the frontal cortex.
+
+00:15:22.140 --> 00:15:23.740
+The frontal cortex,
+for a living,
+
+00:15:23.740 --> 00:15:25.510
+makes you do the
+harder thing when
+
+00:15:25.510 --> 00:15:27.020
+it's the right thing to do.
+
+00:15:27.020 --> 00:15:30.920
+Dopamine is, in a sense,
+the fuel for that activity.
+
+00:15:30.920 --> 00:15:35.320
+Dopamine, the expectation,
+the anticipation, the capacity
+
+00:15:35.320 --> 00:15:38.970
+of dopamine to generate
+goal-directed behaviors
+
+00:15:38.970 --> 00:15:41.460
+is heavily running
+through this pathway.
+
+00:15:41.460 --> 00:15:43.530
+Dopamine is a thing
+that's giving,
+
+00:15:43.530 --> 00:15:45.940
+in a sense, the frontal
+cortex the energy
+
+00:15:45.940 --> 00:15:48.870
+to just push you over the
+edge, and to tell you,
+
+00:15:48.870 --> 00:15:52.790
+yes, go this way instead of
+this way, which also intrinsic
+
+00:15:52.790 --> 00:15:58.270
+in this lots and lots of frontal
+projections that are inhibitory
+
+00:15:58.270 --> 00:15:59.180
+in that realm.
+
+00:15:59.180 --> 00:16:02.180
+An awful lot of what
+frontal cortex is also doing
+
+00:16:02.180 --> 00:16:04.380
+is whispering to
+this pathway saying,
+
+00:16:04.380 --> 00:16:05.800
+you really shouldn't do that.
+
+00:16:05.800 --> 00:16:07.120
+You're going to regret it.
+
+00:16:07.120 --> 00:16:08.600
+I know it's tempting right now.
+
+00:16:08.600 --> 00:16:12.470
+Don't do it, don't do it-- this
+super ego sort of neuroanatomy
+
+00:16:12.470 --> 00:16:16.780
+there of frontal cortex,
+dopamine as very strongly
+
+00:16:16.780 --> 00:16:20.250
+stimulatory in there, the
+whole role of dopamine
+
+00:16:20.250 --> 00:16:23.140
+as driving
+goal-directed behavior.
+
+00:16:23.140 --> 00:16:25.540
+And that was that critical
+business we saw in that study
+
+00:16:25.540 --> 00:16:28.680
+showing you let the monkey
+know that it's now entered one
+
+00:16:28.680 --> 00:16:30.930
+of those periods where
+if it lever presses,
+
+00:16:30.930 --> 00:16:32.072
+it gets the reward.
+
+00:16:32.072 --> 00:16:35.350
+Oh, I know just how this works--
+anticipation, that's great.
+
+00:16:35.350 --> 00:16:36.600
+Up goes dopamine.
+
+00:16:36.600 --> 00:16:39.080
+If you prevent the
+dopamine from going up,
+
+00:16:39.080 --> 00:16:41.070
+you don't get the
+lever pressing.
+
+00:16:41.070 --> 00:16:44.090
+Dopamine is not just
+about anticipation.
+
+00:16:44.090 --> 00:16:48.370
+Dopamine is about driving
+the behavior needed
+
+00:16:48.370 --> 00:16:50.650
+to get the reward that
+you are anticipating,
+
+00:16:50.650 --> 00:16:54.250
+dopamine as
+goal-directed behavior.
+
+00:16:54.250 --> 00:16:57.200
+OK, so what you
+begin to see in terms
+
+00:16:57.200 --> 00:17:00.350
+of how this frontal
+cortex does this making
+
+00:17:00.350 --> 00:17:03.570
+you do the harder thing,
+it's manifest in all sorts
+
+00:17:03.570 --> 00:17:04.609
+of domains.
+
+00:17:04.609 --> 00:17:06.470
+Easiest, most
+accessible realm is
+
+00:17:06.470 --> 00:17:08.770
+seeing what it has
+to do with cognition,
+
+00:17:08.770 --> 00:17:10.819
+the way in which the
+frontal cortex gets
+
+00:17:10.819 --> 00:17:12.339
+you to do the harder thing.
+
+00:17:12.339 --> 00:17:16.480
+What it helps you to do is
+organize bits of information
+
+00:17:16.480 --> 00:17:19.690
+in ways that makes it
+easier to make sense of.
+
+00:17:19.690 --> 00:17:22.700
+Here is, if you ever find
+yourself being borderline
+
+00:17:22.700 --> 00:17:24.680
+demented, and somebody
+is giving you a test,
+
+00:17:24.680 --> 00:17:26.805
+this is one of the tests
+they're going to give you.
+
+00:17:26.805 --> 00:17:27.760
+So start preparing.
+
+00:17:27.760 --> 00:17:30.190
+This is this
+horrifying test called
+
+00:17:30.190 --> 00:17:34.650
+the CVLT-- the California
+Verbal Learning Task
+
+00:17:34.650 --> 00:17:36.110
+or some such thing like that.
+
+00:17:36.110 --> 00:17:37.110
+But here's what they do.
+
+00:17:37.110 --> 00:17:39.000
+Some neuropsychologist
+sits you down.
+
+00:17:39.000 --> 00:17:41.294
+And says, oh, I'm just
+going to tell you something,
+
+00:17:41.294 --> 00:17:42.210
+a list of things here.
+
+00:17:42.210 --> 00:17:43.440
+See if you can remember.
+
+00:17:43.440 --> 00:17:45.140
+Today I went to the market.
+
+00:17:45.140 --> 00:17:50.220
+And I bought one tomato, one
+hammer, one box of cereal,
+
+00:17:50.220 --> 00:17:53.310
+one grape, one-- and
+goes through a list of 16
+
+00:17:53.310 --> 00:17:55.330
+of these, one
+every second or so.
+
+00:17:55.330 --> 00:17:56.000
+And they finish.
+
+00:17:56.000 --> 00:17:56.615
+And they say.
+
+00:17:56.615 --> 00:17:58.990
+OK, do you happen to remember
+what I bought at the market
+
+00:17:58.990 --> 00:17:59.640
+today?
+
+00:17:59.640 --> 00:18:01.860
+Oh my God, it is so stressful.
+
+00:18:01.860 --> 00:18:04.760
+So you manage to get out like
+maybe seven of them correct.
+
+00:18:04.760 --> 00:18:07.127
+And the person says,
+OK, that's very good.
+
+00:18:07.127 --> 00:18:07.960
+Let's do that again.
+
+00:18:07.960 --> 00:18:09.170
+Today, I went to the market.
+
+00:18:09.170 --> 00:18:13.080
+And I brought one tomato, one
+hammer, one box of Cheerios,
+
+00:18:13.080 --> 00:18:15.320
+one box of-- and goes
+through this list again,
+
+00:18:15.320 --> 00:18:17.870
+and seeing each time how
+many of them you remember,
+
+00:18:17.870 --> 00:18:20.500
+beginning to see your
+memory acquisition
+
+00:18:20.500 --> 00:18:22.885
+thing as you're getting closer
+and closer to remembering
+
+00:18:22.885 --> 00:18:24.370
+all 16.
+
+00:18:24.370 --> 00:18:27.410
+It's not until you're maybe
+in the third or fourth round
+
+00:18:27.410 --> 00:18:29.470
+of doing this that
+you begin to notice
+
+00:18:29.470 --> 00:18:34.650
+something, which is of the 16
+items four of them are fruits.
+
+00:18:34.650 --> 00:18:37.130
+Four of them are hardware items.
+
+00:18:37.130 --> 00:18:39.840
+Four of them are
+bread cereal things.
+
+00:18:39.840 --> 00:18:41.206
+Four of them are who knows what.
+
+00:18:41.206 --> 00:18:42.580
+And they're
+scattered throughout.
+
+00:18:42.580 --> 00:18:44.500
+What the people
+typically start doing
+
+00:18:44.500 --> 00:18:47.540
+by the third or fourth
+one is you begin to group
+
+00:18:47.540 --> 00:18:48.970
+them by categories.
+
+00:18:48.970 --> 00:18:54.520
+And instead of remembering back
+OK, tomato, hammer, cereal,
+
+00:18:54.520 --> 00:18:58.100
+fruit, whatever, you first
+tell the three out of the four
+
+00:18:58.100 --> 00:18:59.600
+fruits that you remember.
+
+00:18:59.600 --> 00:19:01.980
+Then you tell the two out
+of the four hardware items.
+
+00:19:01.980 --> 00:19:05.030
+You are beginning to
+group the information.
+
+00:19:05.030 --> 00:19:08.170
+And what that is called
+is executive function.
+
+00:19:08.170 --> 00:19:11.000
+Executive organizing
+strategy, it
+
+00:19:11.000 --> 00:19:16.240
+is sheer memory systems that are
+remembering these 16 factoids.
+
+00:19:16.240 --> 00:19:19.080
+It is executive organizing
+that's telling you,
+
+00:19:19.080 --> 00:19:20.790
+do you notice some
+patterns there?
+
+00:19:20.790 --> 00:19:22.640
+Don't just remember
+it in sequence.
+
+00:19:22.640 --> 00:19:24.900
+Don't try to just
+remember it in sequence.
+
+00:19:24.900 --> 00:19:26.070
+Stop for a second.
+
+00:19:26.070 --> 00:19:27.972
+And try to keep track
+of the categories,
+
+00:19:27.972 --> 00:19:29.430
+because that's
+going to be a better
+
+00:19:29.430 --> 00:19:31.060
+strategy in the long run.
+
+00:19:31.060 --> 00:19:33.200
+That's what the
+frontal cortex does.
+
+00:19:33.200 --> 00:19:35.720
+You get someone with
+frontal cortical damage,
+
+00:19:35.720 --> 00:19:38.710
+and their capacity to
+remember, the learning curve
+
+00:19:38.710 --> 00:19:41.030
+is not all that different
+from anyone else.
+
+00:19:41.030 --> 00:19:43.380
+But they never start
+doing the grouping.
+
+00:19:43.380 --> 00:19:46.750
+They never start doing what
+we might think of as almost
+
+00:19:46.750 --> 00:19:49.290
+cognitive strategizing.
+
+00:19:49.290 --> 00:19:50.990
+Oh, I see a pattern here.
+
+00:19:50.990 --> 00:19:54.030
+And I suspect if I put
+the effort into exploiting
+
+00:19:54.030 --> 00:19:56.990
+that pattern, it's going to
+make it more productive for me
+
+00:19:56.990 --> 00:19:59.460
+to try to remember things
+rather than just trying
+
+00:19:59.460 --> 00:20:00.680
+to do it in sequence.
+
+00:20:00.680 --> 00:20:03.290
+So the frontal cortex
+is good for that.
+
+00:20:03.290 --> 00:20:05.610
+Where else do you get
+in the cognitive realm
+
+00:20:05.610 --> 00:20:09.080
+the frontal cortex getting
+you to do the harder thing?
+
+00:20:09.080 --> 00:20:10.930
+Where you get all
+this information
+
+00:20:10.930 --> 00:20:13.290
+in the cognitive realm
+is when you study people
+
+00:20:13.290 --> 00:20:16.510
+with frontal damage-- either
+people with accidents,
+
+00:20:16.510 --> 00:20:20.310
+or very often older individuals
+who have strokes there.
+
+00:20:20.310 --> 00:20:22.430
+There's a very distinctive
+type of dementia
+
+00:20:22.430 --> 00:20:25.140
+that takes out the
+frontal cortex called
+
+00:20:25.140 --> 00:20:26.310
+frontotemporal dementia.
+
+00:20:26.310 --> 00:20:28.610
+And all sorts of cognitive
+tests in those cases
+
+00:20:28.610 --> 00:20:31.140
+showing in the
+cognitive realm what
+
+00:20:31.140 --> 00:20:34.310
+happens when you're not
+having this going on
+
+00:20:34.310 --> 00:20:36.120
+throughout all the circuitry.
+
+00:20:36.120 --> 00:20:37.580
+One thing that
+would be given-- OK,
+
+00:20:37.580 --> 00:20:39.390
+so you sit down this individual.
+
+00:20:39.390 --> 00:20:43.540
+And you say, OK, you
+recognize this, don't you?
+
+00:20:43.540 --> 00:20:45.730
+Even though most of you
+guys don't by now growing up
+
+00:20:45.730 --> 00:20:47.040
+in the digital era.
+
+00:20:47.040 --> 00:20:48.792
+But this is the face of a clock.
+
+00:20:48.792 --> 00:20:50.750
+And it comes with a little
+hand and a big hand.
+
+00:20:50.750 --> 00:20:52.730
+And they point in
+informative directions.
+
+00:20:52.730 --> 00:20:55.760
+So you ask the person,
+OK, you recognize this.
+
+00:20:55.760 --> 00:20:57.260
+Of course, this is a clock face.
+
+00:20:57.260 --> 00:20:59.280
+Now, where would
+you draw the hands
+
+00:20:59.280 --> 00:21:03.490
+if I said the time was 11:10?
+
+00:21:03.490 --> 00:21:05.770
+11:10, so sit for a minute,
+and think about where.
+
+00:21:05.770 --> 00:21:08.212
+And, of course, it's
+10 minutes after 11:00.
+
+00:21:08.212 --> 00:21:09.920
+And that's that where
+the hands would go.
+
+00:21:09.920 --> 00:21:14.170
+Someone with frontal damage,
+instead, would draw the hands
+
+00:21:14.170 --> 00:21:16.170
+at 11 and 10.
+
+00:21:16.170 --> 00:21:17.520
+What are the rest of us doing?
+
+00:21:17.520 --> 00:21:18.960
+We're saying, OK,
+the easier thing
+
+00:21:18.960 --> 00:21:22.210
+is to just get gummed
+up on the number 11
+
+00:21:22.210 --> 00:21:24.670
+and the number 10-- wait,
+wait, don't do that.
+
+00:21:24.670 --> 00:21:28.020
+Hold on, remember,
+10 is a coding
+
+00:21:28.020 --> 00:21:30.240
+for multiples of five
+minutes, because that's
+
+00:21:30.240 --> 00:21:31.770
+the way clocks are organized.
+
+00:21:31.770 --> 00:21:33.600
+So 10 is actually two of these.
+
+00:21:33.600 --> 00:21:35.100
+So it's 11:10.
+
+00:21:35.100 --> 00:21:37.780
+10 is a shorthand for
+saying 10 minutes after.
+
+00:21:37.780 --> 00:21:39.530
+And you put your hands
+in the right place.
+
+00:21:39.530 --> 00:21:42.240
+Somebody with frontal
+damage can't hold off.
+
+00:21:42.240 --> 00:21:45.340
+And they get pulled by
+the easiest interpretation
+
+00:21:45.340 --> 00:21:47.150
+of the sound 11:10.
+
+00:21:47.150 --> 00:21:49.790
+They draw the
+hands at 11 and 10.
+
+00:21:49.790 --> 00:21:51.770
+So this is what you would see.
+
+00:21:51.770 --> 00:21:55.000
+More examples-- what the
+frontal cortex is good at
+
+00:21:55.000 --> 00:21:57.910
+is getting you to
+inhibit the easier
+
+00:21:57.910 --> 00:22:00.400
+route when it is a
+very well-learned, very
+
+00:22:00.400 --> 00:22:01.750
+well-conditioned one.
+
+00:22:01.750 --> 00:22:02.810
+Here's what you would do.
+
+00:22:02.810 --> 00:22:04.351
+Now you take the
+person who you think
+
+00:22:04.351 --> 00:22:05.630
+may have some frontal damage.
+
+00:22:05.630 --> 00:22:08.250
+And you say, OK, here's
+a task I want you to do.
+
+00:22:08.250 --> 00:22:11.140
+Starting with December,
+tell me the months
+
+00:22:11.140 --> 00:22:13.110
+of the year backwards.
+
+00:22:13.110 --> 00:22:16.010
+What have we all learned
+since way back in first grade
+
+00:22:16.010 --> 00:22:16.900
+or whatever?
+
+00:22:16.900 --> 00:22:19.720
+That this is an easy
+thing going forward.
+
+00:22:19.720 --> 00:22:21.650
+This is the harder
+thing right now.
+
+00:22:21.650 --> 00:22:23.590
+And you will see a person
+with frontal damage
+
+00:22:23.590 --> 00:22:31.990
+will say OK, December, November,
+October, September, October,
+
+00:22:31.990 --> 00:22:33.100
+November, December.
+
+00:22:33.100 --> 00:22:35.260
+They manage to pull
+it off for a while.
+
+00:22:35.260 --> 00:22:38.890
+And then they just slip on the
+ice back into the easier way.
+
+00:22:38.890 --> 00:22:41.530
+It is, you normally
+have December followed
+
+00:22:41.530 --> 00:22:43.930
+by January, not by November.
+
+00:22:43.930 --> 00:22:46.060
+It takes more work
+to do it that way.
+
+00:22:46.060 --> 00:22:49.340
+People with frontal damage,
+they have this intrusion.
+
+00:22:49.340 --> 00:22:53.150
+They can't hold off the
+over-learned response,
+
+00:22:53.150 --> 00:22:55.720
+the more habitual response.
+
+00:22:55.720 --> 00:22:57.950
+You would then see with
+frontal damage something
+
+00:22:57.950 --> 00:22:59.539
+that's termed intrusions.
+
+00:22:59.539 --> 00:23:01.830
+Now you would say to the same
+person, OK, that's great.
+
+00:23:01.830 --> 00:23:02.371
+That's great.
+
+00:23:02.371 --> 00:23:05.090
+Now what I want you to do
+is start with the number 20
+
+00:23:05.090 --> 00:23:06.560
+and count backwards.
+
+00:23:06.560 --> 00:23:14.810
+And the person will say, OK, 20,
+19, 18, 17, September, October,
+
+00:23:14.810 --> 00:23:15.990
+November, December.
+
+00:23:15.990 --> 00:23:18.830
+And they've slipped back
+into the previous task.
+
+00:23:18.830 --> 00:23:21.102
+They don't have the
+effort here to say,
+
+00:23:21.102 --> 00:23:22.810
+we've stopped it with
+the months already.
+
+00:23:22.810 --> 00:23:23.950
+Now we're doing numbers.
+
+00:23:23.950 --> 00:23:26.420
+Don't slip back into
+that month stuff.
+
+00:23:26.420 --> 00:23:28.860
+But, yet, that's
+exactly what occurs.
+
+00:23:28.860 --> 00:23:30.800
+You take somebody
+with frontal damage.
+
+00:23:30.800 --> 00:23:33.550
+You give them would be
+called a verbal fluency test.
+
+00:23:33.550 --> 00:23:36.460
+You say, OK, one minute,
+tell me as many words
+
+00:23:36.460 --> 00:23:39.637
+as you could think of starting
+with the letter F. Great.
+
+00:23:39.637 --> 00:23:41.220
+Now tell me as many
+words as you could
+
+00:23:41.220 --> 00:23:43.370
+think of starting with the
+letter M, with the letter P,
+
+00:23:43.370 --> 00:23:43.960
+so on.
+
+00:23:43.960 --> 00:23:47.350
+And you go with the letter
+M. And by the fifth word,
+
+00:23:47.350 --> 00:23:50.810
+they're back to words with
+F. The previous task intrudes
+
+00:23:50.810 --> 00:23:51.560
+in there.
+
+00:23:51.560 --> 00:23:54.452
+It has trouble
+organizing, strategizing,
+
+00:23:54.452 --> 00:23:55.910
+we're done with
+the letter F. We're
+
+00:23:55.910 --> 00:23:57.400
+done with doing the months.
+
+00:23:57.400 --> 00:23:59.320
+Concentrate now,
+we're doing the letter
+
+00:23:59.320 --> 00:24:01.390
+M. We're doing
+numbers backwards.
+
+00:24:01.390 --> 00:24:04.830
+Don't fall for the easy
+version of just saying 11:10.
+
+00:24:04.830 --> 00:24:07.490
+This is the stuff the
+frontal cortex does.
+
+00:24:07.490 --> 00:24:10.530
+This is what it looks like
+when you are getting damage
+
+00:24:10.530 --> 00:24:12.710
+to the frontal cortex.
+
+00:24:12.710 --> 00:24:15.190
+So cognitive aspects
+of that-- what's
+
+00:24:15.190 --> 00:24:19.040
+the frontal cortex particularly
+good at in the cognitive realm?
+
+00:24:19.040 --> 00:24:23.920
+It is making you work, and work,
+and work for a cognitive reward
+
+00:24:23.920 --> 00:24:25.160
+way down the line.
+
+00:24:25.160 --> 00:24:27.790
+And that's the entire world
+of all of you guys already
+
+00:24:27.790 --> 00:24:30.400
+gunning for the perfect
+GPA that will get you
+
+00:24:30.400 --> 00:24:32.350
+into a good nursing
+home someday.
+
+00:24:32.350 --> 00:24:36.060
+That is your frontal cortex
+working to your advantage.
+
+00:24:36.060 --> 00:24:38.930
+That's your frontal cortex
+doing that, this task
+
+00:24:38.930 --> 00:24:41.400
+of gratification postponement.
+
+00:24:41.400 --> 00:24:43.010
+Do the harder thing.
+
+00:24:43.010 --> 00:24:45.360
+Where am I going to
+get the energy for it?
+
+00:24:45.360 --> 00:24:47.930
+It's these frontal
+inputs that's just
+
+00:24:47.930 --> 00:24:52.250
+biasing so I could do the harder
+pathway rather than the easier.
+
+00:24:52.250 --> 00:24:55.230
+You find this also when you're
+doing electrophysiological,
+
+00:24:55.230 --> 00:24:57.510
+when you're recording, you're
+sticking in electrodes,
+
+00:24:57.510 --> 00:24:59.560
+and seeing when
+neurons are excited.
+
+00:24:59.560 --> 00:25:01.710
+Suppose, for example,
+you've got a monkey.
+
+00:25:01.710 --> 00:25:03.100
+And you are recording.
+
+00:25:03.100 --> 00:25:05.500
+You have electrodes both
+in the visual cortex
+
+00:25:05.500 --> 00:25:07.960
+and some other ones
+in the frontal cortex.
+
+00:25:07.960 --> 00:25:10.490
+And, again, this is one
+of those tasks where
+
+00:25:10.490 --> 00:25:14.010
+when the bell sounds--
+bells don't beep,
+
+00:25:14.010 --> 00:25:16.380
+when some buzzer beeps, it
+means to the monkey, now,
+
+00:25:16.380 --> 00:25:18.327
+OK, every time
+the light goes on,
+
+00:25:18.327 --> 00:25:19.910
+you have to press a
+lever three times.
+
+00:25:19.910 --> 00:25:21.260
+And you get a reward.
+
+00:25:21.260 --> 00:25:22.010
+That's the rule.
+
+00:25:22.010 --> 00:25:24.810
+Buzzer means we're starting
+one of those testing sessions
+
+00:25:24.810 --> 00:25:25.430
+again.
+
+00:25:25.430 --> 00:25:28.240
+Light comes on, hit lever,
+light comes on, hit lever.
+
+00:25:28.240 --> 00:25:31.364
+So you record from
+the visual cortex.
+
+00:25:31.364 --> 00:25:32.530
+And here's what's happening.
+
+00:25:32.530 --> 00:25:34.430
+This is when the
+buzzer comes on saying,
+
+00:25:34.430 --> 00:25:37.510
+oh, we've just started
+one of these test periods.
+
+00:25:37.510 --> 00:25:39.220
+And now the light flashes.
+
+00:25:39.220 --> 00:25:42.320
+And the visual cortex
+activates each time.
+
+00:25:42.320 --> 00:25:44.860
+What's going on in
+the frontal cortex?
+
+00:25:44.860 --> 00:25:48.840
+The second the buzzer goes off,
+the frontal cortex activates.
+
+00:25:48.840 --> 00:25:52.410
+And it stays up the whole time.
+
+00:25:52.410 --> 00:25:55.090
+What is the visual
+cortex coding for?
+
+00:25:55.090 --> 00:25:58.060
+Individual examples
+of this task.
+
+00:25:58.060 --> 00:26:00.210
+What's the frontal
+cortex coding for?
+
+00:26:00.210 --> 00:26:02.453
+It's remembering the rule.
+
+00:26:02.453 --> 00:26:04.770
+OK, the buzzer went on.
+
+00:26:04.770 --> 00:26:06.760
+That means-- now,
+remember, remember,
+
+00:26:06.760 --> 00:26:09.780
+remember for the next whatever
+period of time, get ready.
+
+00:26:09.780 --> 00:26:12.590
+Every time the light
+flashes, hit the lever there.
+
+00:26:12.590 --> 00:26:15.140
+The task of the
+frontal cortex is
+
+00:26:15.140 --> 00:26:18.380
+to maintain the rule
+throughout, transcending
+
+00:26:18.380 --> 00:26:20.650
+the individual examples of it.
+
+00:26:20.650 --> 00:26:22.580
+So you can already
+see where we're
+
+00:26:22.580 --> 00:26:25.350
+heading with moral
+development in kids,
+
+00:26:25.350 --> 00:26:27.134
+and frontal maturation.
+
+00:26:27.134 --> 00:26:28.800
+And all of that's
+going to fit in really
+
+00:26:28.800 --> 00:26:31.600
+well, the frontal cortex
+doing stuff like that.
+
+00:26:31.600 --> 00:26:35.230
+What you should begin to notice
+is intrinsic in all of this,
+
+00:26:35.230 --> 00:26:37.740
+the frontal cortex is
+sending these projections
+
+00:26:37.740 --> 00:26:39.110
+all over the brain.
+
+00:26:39.110 --> 00:26:42.530
+The frontal cortex does not
+code for individual examples
+
+00:26:42.530 --> 00:26:46.410
+of rules, but instead maintains
+rules for long, long periods.
+
+00:26:46.410 --> 00:26:49.860
+The frontal cortex
+works really hard.
+
+00:26:49.860 --> 00:26:53.190
+Frontal cortical neurons have
+very high metabolic rates.
+
+00:26:53.190 --> 00:26:56.990
+And a whole world of neurology,
+thus, is built around the fact
+
+00:26:56.990 --> 00:26:59.830
+that frontal cortical
+neurons are very fragile.
+
+00:26:59.830 --> 00:27:01.540
+They die very readily.
+
+00:27:01.540 --> 00:27:04.040
+All sorts of
+neurological disorders
+
+00:27:04.040 --> 00:27:07.400
+damage the frontal cortex
+with behavioral changes
+
+00:27:07.400 --> 00:27:09.730
+that go along with that.
+
+00:27:09.730 --> 00:27:12.730
+So you've got the wiring,
+the patterning, all of that.
+
+00:27:12.730 --> 00:27:15.980
+But then at some point
+you wonder, well, I
+
+00:27:15.980 --> 00:27:17.310
+learn all sorts of rules.
+
+00:27:17.310 --> 00:27:19.430
+Back when I was about
+three years old,
+
+00:27:19.430 --> 00:27:22.870
+I learned this rule having
+to do with no more diapers.
+
+00:27:22.870 --> 00:27:24.750
+And if you go to the
+potty, you get M&amp;Ms.
+
+00:27:24.750 --> 00:27:27.640
+And, in fact, I sort of
+have internalized this.
+
+00:27:27.640 --> 00:27:30.840
+And same does that mean the,
+you need to go to the bathroom
+
+00:27:30.840 --> 00:27:34.340
+now is internalized that there's
+a frontal cortical neuron that
+
+00:27:34.340 --> 00:27:36.100
+got excited when I
+was three years old
+
+00:27:36.100 --> 00:27:39.460
+and got toilet trained, and has
+been firing ever since then?
+
+00:27:39.460 --> 00:27:44.120
+No, what you see after a while
+is the frontal cortical realm
+
+00:27:44.120 --> 00:27:45.274
+of remember.
+
+00:27:45.274 --> 00:27:47.690
+Remember, you go to the bathroom
+when you need to do this.
+
+00:27:47.690 --> 00:27:49.648
+Remember, remember, you
+say the months forward.
+
+00:27:49.648 --> 00:27:51.280
+Remember all these
+sorts of things.
+
+00:27:51.280 --> 00:27:54.200
+At some point, it
+becomes automatic.
+
+00:27:54.200 --> 00:27:56.350
+It becomes reflexive.
+
+00:27:56.350 --> 00:27:58.750
+And what is seen
+is at that point,
+
+00:27:58.750 --> 00:28:03.020
+the frontal cortex stops
+being the area that is active.
+
+00:28:03.020 --> 00:28:05.030
+At some point,
+instead, it becomes
+
+00:28:05.030 --> 00:28:08.630
+implicit procedural pathways.
+
+00:28:08.630 --> 00:28:11.290
+It gets stored
+elsewhere in the brain.
+
+00:28:11.290 --> 00:28:14.990
+What you see in individuals
+with Alzheimer's disease
+
+00:28:14.990 --> 00:28:17.860
+where you get a lot of
+damage to the hippocampus
+
+00:28:17.860 --> 00:28:20.440
+and the cortex-- particularly
+the frontal cortex-- what
+
+00:28:20.440 --> 00:28:24.220
+you see is all sorts of things
+that were learned way back
+
+00:28:24.220 --> 00:28:27.470
+when, and learned enough
+to just be habitual,
+
+00:28:27.470 --> 00:28:29.200
+people can still do.
+
+00:28:29.200 --> 00:28:33.210
+You will have somebody who
+is demented enough that they
+
+00:28:33.210 --> 00:28:36.660
+cannot tell you what decade it
+is, the name of their spouse,
+
+00:28:36.660 --> 00:28:39.120
+the name of their children,
+how many children they have,
+
+00:28:39.120 --> 00:28:39.750
+whatever.
+
+00:28:39.750 --> 00:28:43.110
+But this is someone who
+still knows how to knit.
+
+00:28:43.110 --> 00:28:45.780
+They learned when they were
+seven years old how to knit.
+
+00:28:45.780 --> 00:28:48.490
+And now 80 years later,
+they can still do that.
+
+00:28:48.490 --> 00:28:51.810
+This is not the frontal cortex
+remembering the knitting rules
+
+00:28:51.810 --> 00:28:54.260
+for the last 70 years or so.
+
+00:28:54.260 --> 00:28:58.190
+This is, it became automatic
+and got moved elsewhere.
+
+00:28:58.190 --> 00:29:00.590
+And a whole bizarre
+world you see
+
+00:29:00.590 --> 00:29:02.717
+with frontal damage
+in individuals
+
+00:29:02.717 --> 00:29:04.800
+with these dementias where
+some of the things that
+
+00:29:04.800 --> 00:29:09.290
+become automatic are remarkable,
+suggesting that you've
+
+00:29:09.290 --> 00:29:12.160
+got storage capacity in
+other places in the brain
+
+00:29:12.160 --> 00:29:14.050
+when you don't
+have to consciously
+
+00:29:14.050 --> 00:29:17.390
+think about it, when something
+has become so automatic.
+
+00:29:17.390 --> 00:29:21.110
+You go to the bathroom when
+you need to void your bladder.
+
+00:29:21.110 --> 00:29:23.250
+OK, we don't have to
+think about that anymore.
+
+00:29:23.250 --> 00:29:26.320
+It has now gotten to
+a pathway like this.
+
+00:29:26.320 --> 00:29:29.490
+Other brain regions
+particularly, the cerebellum,
+
+00:29:29.490 --> 00:29:31.580
+seems to play a
+larger role in that.
+
+00:29:31.580 --> 00:29:32.570
+Stay tuned.
+
+00:29:32.570 --> 00:29:35.800
+We are going to be getting
+to a very interesting point
+
+00:29:35.800 --> 00:29:37.940
+about moral development in kids.
+
+00:29:37.940 --> 00:29:40.950
+When do certain moral
+rules stop having
+
+00:29:40.950 --> 00:29:43.280
+to be coded in the
+frontal cortex,
+
+00:29:43.280 --> 00:29:46.340
+and instead become as
+habitual as toilet training?
+
+00:29:46.340 --> 00:29:48.550
+We'll see some really
+interesting implications
+
+00:29:48.550 --> 00:29:49.810
+of that.
+
+00:29:49.810 --> 00:29:53.500
+OK, so what do you see when
+you get frontal damage?
+
+00:29:53.500 --> 00:29:56.830
+You get all these
+cognitive problems there,
+
+00:29:56.830 --> 00:29:59.790
+and these problems with doing
+the harder but more correct
+
+00:29:59.790 --> 00:30:01.040
+thing cognitively.
+
+00:30:01.040 --> 00:30:03.460
+You see it as well
+in terms of doing
+
+00:30:03.460 --> 00:30:05.900
+the harder but more
+correct thing in terms
+
+00:30:05.900 --> 00:30:08.180
+of behavior, social behavior.
+
+00:30:08.180 --> 00:30:10.790
+First classic
+example of this, they
+
+00:30:10.790 --> 00:30:12.677
+take away your
+neurobiology license
+
+00:30:12.677 --> 00:30:14.510
+if you don't mention
+this guy at some point.
+
+00:30:14.510 --> 00:30:17.640
+How many of you have
+heard to Phineas Gage?
+
+00:30:17.640 --> 00:30:20.060
+How many of you have not
+heard of Phineas Gage?
+
+00:30:20.060 --> 00:30:21.645
+OK, time for Phineas Gage.
+
+00:30:21.645 --> 00:30:23.520
+OK, but the ones who
+have heard of him, let's
+
+00:30:23.520 --> 00:30:24.890
+all say this in unison.
+
+00:30:24.890 --> 00:30:28.230
+OK, Phineas Gage was the
+first identified individual
+
+00:30:28.230 --> 00:30:30.150
+to have massive frontal damage.
+
+00:30:30.150 --> 00:30:33.870
+Phineas Gage was a foreman
+on a railroad construction
+
+00:30:33.870 --> 00:30:36.050
+line in Vermont in the 1840s.
+
+00:30:36.050 --> 00:30:39.440
+One day, thanks to somebody or
+other doing something wrong,
+
+00:30:39.440 --> 00:30:41.820
+there was an explosion
+of some dynamite, which
+
+00:30:41.820 --> 00:30:44.610
+blew a large metal rod
+through his forehead
+
+00:30:44.610 --> 00:30:48.020
+and out the other side,
+taking out his frontal cortex
+
+00:30:48.020 --> 00:30:49.420
+in the process.
+
+00:30:49.420 --> 00:30:50.940
+And this was rather dramatic.
+
+00:30:50.940 --> 00:30:52.450
+And this was this
+large metal pole
+
+00:30:52.450 --> 00:30:55.400
+that went through fast enough
+that, in fact, cauterized
+
+00:30:55.400 --> 00:30:56.550
+all the blood vessels.
+
+00:30:56.550 --> 00:30:59.710
+And you can see that metal pole
+at the museum in the Harvard
+
+00:30:59.710 --> 00:31:01.650
+Med School Library,
+where you can also
+
+00:31:01.650 --> 00:31:04.120
+see his skull, which
+is very interesting,
+
+00:31:04.120 --> 00:31:06.970
+because the rest of Phineas
+Gage is about 20 miles from here
+
+00:31:06.970 --> 00:31:07.920
+buried in Colma.
+
+00:31:07.920 --> 00:31:10.126
+So I don't quite know
+how his skull wound up
+
+00:31:10.126 --> 00:31:11.250
+at that end of the country.
+
+00:31:11.250 --> 00:31:13.630
+But in the either case, he
+was buried in San Francisco,
+
+00:31:13.630 --> 00:31:17.140
+minus-- well, I guess the Dean
+of Harvard Med School swooped
+
+00:31:17.140 --> 00:31:17.640
+in.
+
+00:31:17.640 --> 00:31:19.700
+And before you knew it,
+the skull was on its way
+
+00:31:19.700 --> 00:31:20.950
+east there with the metal rod.
+
+00:31:20.950 --> 00:31:23.770
+But in any case,
+OK, so Phineas Gage
+
+00:31:23.770 --> 00:31:27.180
+had his frontal cortex
+splattered 15 feet behind him.
+
+00:31:27.180 --> 00:31:29.720
+And what happened
+was, amazingly,
+
+00:31:29.720 --> 00:31:32.000
+because it went through
+with such force and so fast,
+
+00:31:32.000 --> 00:31:34.240
+that it cauterized
+all the blood vessels,
+
+00:31:34.240 --> 00:31:37.940
+he was actually, like, able
+to get up at that point.
+
+00:31:37.940 --> 00:31:40.500
+And, most remarkably, with
+a bunch of people from work,
+
+00:31:40.500 --> 00:31:42.930
+he was able to walk
+a mile and a half
+
+00:31:42.930 --> 00:31:46.440
+to the nearest doctor, who
+being a good diagnostician,
+
+00:31:46.440 --> 00:31:48.730
+took a look at Phineas Gage,
+and tilted his head back.
+
+00:31:48.730 --> 00:31:50.271
+And looked, and he
+said, whoa, you've
+
+00:31:50.271 --> 00:31:52.259
+got a hole there in
+your head, and was
+
+00:31:52.259 --> 00:31:54.050
+sort of looking in more
+detail, and saying,
+
+00:31:54.050 --> 00:31:56.920
+whoa, you've got frontal cortex
+got blown out of your head
+
+00:31:56.920 --> 00:31:57.420
+there.
+
+00:31:57.420 --> 00:32:01.330
+And this was sort of the peak of
+diagnostic skills at the time.
+
+00:32:01.330 --> 00:32:04.986
+But what happened was the boss
+there on the railroad line
+
+00:32:04.986 --> 00:32:07.860
+said, Gage, you know what?
+
+00:32:07.860 --> 00:32:09.120
+Take the rest of the day off.
+
+00:32:09.120 --> 00:32:10.210
+See you tomorrow.
+
+00:32:10.210 --> 00:32:11.330
+So Gage goes home.
+
+00:32:11.330 --> 00:32:14.630
+And the next day he returns, not
+just figuratively but literally
+
+00:32:14.630 --> 00:32:16.370
+transformed overnight.
+
+00:32:16.370 --> 00:32:19.210
+Gage, who was this
+sober, sobrietous,
+
+00:32:19.210 --> 00:32:22.940
+religious man, highly reliable
+foreman of this entire work
+
+00:32:22.940 --> 00:32:23.930
+place, et cetera.
+
+00:32:23.930 --> 00:32:26.380
+Gage was never able
+to work a day steadily
+
+00:32:26.380 --> 00:32:27.660
+for the rest of his life.
+
+00:32:27.660 --> 00:32:32.420
+He became this brawling,
+abusive, sexually predatory,
+
+00:32:32.420 --> 00:32:33.880
+out of control individual.
+
+00:32:33.880 --> 00:32:37.080
+And that original doctor,
+seeing what he turned into,
+
+00:32:37.080 --> 00:32:38.580
+was the first one
+who said, well,
+
+00:32:38.580 --> 00:32:41.390
+whatever that part of the brain
+was that got taken out there,
+
+00:32:41.390 --> 00:32:43.950
+whatever it was, that
+part of the brain
+
+00:32:43.950 --> 00:32:46.990
+reigns in our animal energies.
+
+00:32:46.990 --> 00:32:51.380
+And 170 years later, there's
+not a hugely better definition
+
+00:32:51.380 --> 00:32:54.540
+out there as to what the
+frontal cortex is about.
+
+00:32:54.540 --> 00:32:58.760
+So Phineas Gage being
+the official first one,
+
+00:32:58.760 --> 00:33:00.280
+and you learn all
+about this guy.
+
+00:33:00.280 --> 00:33:02.800
+But very interestingly,
+about a year ago somebody
+
+00:33:02.800 --> 00:33:06.000
+found the very first
+photograph of Phineas Gage.
+
+00:33:06.000 --> 00:33:07.510
+And go look at that online.
+
+00:33:07.510 --> 00:33:11.250
+What's interesting is he looks
+like a perfectly normal guy.
+
+00:33:11.250 --> 00:33:14.280
+The pole took out his eye
+along with the frontal cortex.
+
+00:33:14.280 --> 00:33:16.840
+And, obviously, there
+was that problem.
+
+00:33:16.840 --> 00:33:19.860
+But this is, like, the face
+of somebody from the 1850s.
+
+00:33:19.860 --> 00:33:21.360
+And there's something,
+I don't know,
+
+00:33:21.360 --> 00:33:23.600
+I found very moving
+about seeing this face
+
+00:33:23.600 --> 00:33:25.520
+that everybody learns
+about Phineas Gage.
+
+00:33:25.520 --> 00:33:28.540
+And everybody has seen his
+skull, and the reconstruction
+
+00:33:28.540 --> 00:33:29.420
+of the accident.
+
+00:33:29.420 --> 00:33:30.630
+And that's right.
+
+00:33:30.630 --> 00:33:32.830
+This was, like, a
+regular old person
+
+00:33:32.830 --> 00:33:35.270
+whose life was
+completely destroyed
+
+00:33:35.270 --> 00:33:37.760
+when the frontal
+cortex scattered
+
+00:33:37.760 --> 00:33:40.850
+all behind him there--
+remarkable first example
+
+00:33:40.850 --> 00:33:41.470
+of that.
+
+00:33:41.470 --> 00:33:44.730
+Since then, most of the evidence
+for what frontal cortex is
+
+00:33:44.730 --> 00:33:47.610
+about from damage
+is older individuals
+
+00:33:47.610 --> 00:33:50.562
+who have stroke damage
+to the frontal cortex.
+
+00:33:50.562 --> 00:33:52.770
+And what I mentioned, I
+think, in the limbic lecture,
+
+00:33:52.770 --> 00:33:55.030
+one example of what
+this looks like was
+
+00:33:55.030 --> 00:33:58.570
+a horrifying case in a
+facility in the East Bay
+
+00:33:58.570 --> 00:34:01.130
+some years ago where
+an 80-year-old man who
+
+00:34:01.130 --> 00:34:03.760
+had had extensive frontal
+damage due to a stroke
+
+00:34:03.760 --> 00:34:06.320
+was found to have raped
+an 80-year-old woman
+
+00:34:06.320 --> 00:34:07.880
+with Alzheimer's disease.
+
+00:34:07.880 --> 00:34:11.699
+This is what frontal damage
+looks like in an 80-year-old.
+
+00:34:11.699 --> 00:34:14.590
+Here's something very
+interesting to consider,
+
+00:34:14.590 --> 00:34:16.600
+and seeing exactly
+the terrain we're
+
+00:34:16.600 --> 00:34:19.530
+heading into here with
+this sort of information,
+
+00:34:19.530 --> 00:34:25.290
+approximately 25% of men on
+death row in this country
+
+00:34:25.290 --> 00:34:27.570
+have a history of
+concussive head trauma
+
+00:34:27.570 --> 00:34:29.600
+to the front of their head.
+
+00:34:29.600 --> 00:34:32.110
+Front of the head,
+where you wind up
+
+00:34:32.110 --> 00:34:35.790
+damaging the front of the
+brain, frontal cortical damage.
+
+00:34:35.790 --> 00:34:39.130
+And what we enter into
+here is this whole realm
+
+00:34:39.130 --> 00:34:43.400
+where this stuff is stupefyingly
+relevant to making sense
+
+00:34:43.400 --> 00:34:47.130
+of criminal behavior in
+humans-- possibilities
+
+00:34:47.130 --> 00:34:48.760
+of frontal damage.
+
+00:34:48.760 --> 00:34:51.540
+Currently, there
+is one law that's
+
+00:34:51.540 --> 00:34:54.190
+on the books in the majority
+of states in this country
+
+00:34:54.190 --> 00:34:58.470
+for deciding when somebody is so
+organically impaired that they
+
+00:34:58.470 --> 00:35:00.670
+count as having an
+insanity defense,
+
+00:35:00.670 --> 00:35:05.300
+rather than being criminally
+culpable for their acts.
+
+00:35:05.300 --> 00:35:07.800
+And this is something
+called the McNaughton rule.
+
+00:35:07.800 --> 00:35:09.930
+McNaughton rule,
+everybody gets taught.
+
+00:35:09.930 --> 00:35:12.750
+What the McNaughton rule
+is, can the individual
+
+00:35:12.750 --> 00:35:16.020
+tell the difference
+between right and wrong?
+
+00:35:16.020 --> 00:35:18.640
+This is the gold
+standard in courts
+
+00:35:18.640 --> 00:35:22.490
+as to whether or not somebody
+gets a organically impaired
+
+00:35:22.490 --> 00:35:24.560
+insanity defense ruling or not.
+
+00:35:24.560 --> 00:35:28.850
+McNaughton, whose work was
+all of this cutting edge
+
+00:35:28.850 --> 00:35:32.480
+neurobiology was based on,
+McNaughton was most probably
+
+00:35:32.480 --> 00:35:35.530
+a paranoid schizophrenic,
+a guy in 1840
+
+00:35:35.530 --> 00:35:38.370
+who attempted to assassinate
+the Prime Minister of England,
+
+00:35:38.370 --> 00:35:42.170
+and was so clearly,
+clearly psychotic
+
+00:35:42.170 --> 00:35:43.910
+that this was the
+first case of the jury
+
+00:35:43.910 --> 00:35:46.640
+formally saying that,
+no, there is something
+
+00:35:46.640 --> 00:35:50.130
+too sick about this man to hold
+him responsible for his acts.
+
+00:35:50.130 --> 00:35:52.520
+And the clearest thing that
+came through in that trial
+
+00:35:52.520 --> 00:35:55.700
+was, he could not
+distinguish right from wrong.
+
+00:35:55.700 --> 00:35:57.600
+And the sort of
+thing that absolutely
+
+00:35:57.600 --> 00:36:00.930
+does in somebody attempting
+to a McNaughton defense
+
+00:36:00.930 --> 00:36:03.030
+in a criminal trial
+is if there's evidence
+
+00:36:03.030 --> 00:36:06.170
+that they tried to cover
+their tracks afterward,
+
+00:36:06.170 --> 00:36:09.160
+that they were aware that
+they had done something
+
+00:36:09.160 --> 00:36:10.570
+which was unacceptable.
+
+00:36:10.570 --> 00:36:12.357
+What you see with
+people who can't
+
+00:36:12.357 --> 00:36:14.190
+tell the difference
+between right and wrong,
+
+00:36:14.190 --> 00:36:15.700
+there is no evidence
+of them trying
+
+00:36:15.700 --> 00:36:16.920
+to cover up their tracks.
+
+00:36:16.920 --> 00:36:20.020
+Where do you see the McNaughton
+rule standardly applied?
+
+00:36:20.020 --> 00:36:22.590
+Severe, severe schizophrenics.
+
+00:36:22.590 --> 00:36:24.990
+And, for example, John
+Hinckley, the person
+
+00:36:24.990 --> 00:36:34.580
+who tried to assassinate
+Reagan in the 1980s,
+
+00:36:34.580 --> 00:36:37.620
+and he was found
+innocent-- or guilty
+
+00:36:37.620 --> 00:36:40.000
+with an insanity
+defense, because he
+
+00:36:40.000 --> 00:36:43.250
+failed a McNaughton ruling,
+severe schizophrenic.
+
+00:36:43.250 --> 00:36:46.350
+So this has been the gold
+standard in most of the courts,
+
+00:36:46.350 --> 00:36:48.120
+in most of the states,
+in this country.
+
+00:36:48.120 --> 00:36:51.580
+The only way you could
+be held not accountable
+
+00:36:51.580 --> 00:36:54.530
+for your criminal actions
+because of organic impairment
+
+00:36:54.530 --> 00:36:56.450
+would be if you can't
+tell the difference
+
+00:36:56.450 --> 00:36:59.350
+between right and wrong.
+
+00:36:59.350 --> 00:37:01.830
+But then you've got a problem,
+because you get people
+
+00:37:01.830 --> 00:37:03.570
+with frontal cortical damage.
+
+00:37:03.570 --> 00:37:06.700
+And they can tell the difference
+between right and wrong.
+
+00:37:06.700 --> 00:37:07.900
+They know the rules.
+
+00:37:07.900 --> 00:37:09.630
+They can state them for you.
+
+00:37:09.630 --> 00:37:12.460
+Yet, they can't control
+their behaviors.
+
+00:37:12.460 --> 00:37:14.680
+And this comes through
+with all sorts of tests.
+
+00:37:14.680 --> 00:37:18.120
+But you could show this now
+with people with frontal damage.
+
+00:37:18.120 --> 00:37:21.310
+And, for example, here's the
+M&amp;M test that you give them.
+
+00:37:21.310 --> 00:37:23.720
+And what you've got is
+something desirable.
+
+00:37:23.720 --> 00:37:26.280
+In this hand, you have
+five M&amp;Ms. In this hand,
+
+00:37:26.280 --> 00:37:27.320
+you have one.
+
+00:37:27.320 --> 00:37:30.770
+And the rule is, if the person
+reaches for the five M&amp;Ms,
+
+00:37:30.770 --> 00:37:32.380
+you pull your hand away quickly.
+
+00:37:32.380 --> 00:37:34.690
+And they get one
+M&amp;M as a reward.
+
+00:37:34.690 --> 00:37:37.670
+If they reach for the one
+M&amp;M, you pull your hand away.
+
+00:37:37.670 --> 00:37:39.470
+And you give them five M&amp;Ms.
+
+00:37:39.470 --> 00:37:42.440
+In other words, can they
+be disciplined enough
+
+00:37:42.440 --> 00:37:45.100
+to not reach for the
+five M&amp;M, and instead
+
+00:37:45.100 --> 00:37:46.750
+hold out and go for one?
+
+00:37:46.750 --> 00:37:48.800
+You get more of a
+reward that way.
+
+00:37:48.800 --> 00:37:51.930
+By doing the harder thing,
+you will get more of a reward.
+
+00:37:51.930 --> 00:37:54.600
+Extensive frontal
+damage, they never,
+
+00:37:54.600 --> 00:37:57.360
+ever, ever are able to
+reach for the one M&amp;M.
+
+00:37:57.360 --> 00:38:01.160
+They always get pulled
+towards the easier solution--
+
+00:38:01.160 --> 00:38:03.490
+the easier, more
+superficial way.
+
+00:38:03.490 --> 00:38:05.790
+There's five M&amp;Ms.
+That's what I want.
+
+00:38:05.790 --> 00:38:08.550
+Instead of being able to
+do the executive stepping
+
+00:38:08.550 --> 00:38:12.630
+back, and saying, if I go for a
+one right now, I will get five.
+
+00:38:12.630 --> 00:38:16.140
+What is remarkable is you get an
+individual with frontal damage.
+
+00:38:16.140 --> 00:38:18.870
+And they will tell
+you what the rule is.
+
+00:38:18.870 --> 00:38:21.270
+They will sit there
+and say, I know.
+
+00:38:21.270 --> 00:38:22.510
+I know what you're up to.
+
+00:38:22.510 --> 00:38:24.000
+You want me to grab the five.
+
+00:38:24.000 --> 00:38:25.125
+But then I'll only get one.
+
+00:38:25.125 --> 00:38:28.420
+What I need to do is grab the--
+and then they go for the five.
+
+00:38:28.420 --> 00:38:31.040
+They can verbalize
+the rule right there.
+
+00:38:31.040 --> 00:38:34.170
+They know the difference
+between right and wrong.
+
+00:38:34.170 --> 00:38:37.480
+This is not organic impairment
+of knowing the rules.
+
+00:38:37.480 --> 00:38:40.800
+This is organic impairment of
+being able to follow the rules.
+
+00:38:40.800 --> 00:38:44.500
+And it is extraordinary
+what this one feature
+
+00:38:44.500 --> 00:38:48.040
+of what the frontal cortex does,
+the difference between knowing
+
+00:38:48.040 --> 00:38:50.480
+that there is a difference,
+and being able to
+
+00:38:50.480 --> 00:38:52.790
+activate this pathway
+instead of that.
+
+00:38:52.790 --> 00:38:56.930
+This is hugely, hugely
+challenging in the courts.
+
+00:38:56.930 --> 00:38:59.800
+At the time that Hinckley
+attempted to kill Reagan,
+
+00:38:59.800 --> 00:39:01.580
+every single state
+in the country
+
+00:39:01.580 --> 00:39:03.850
+that had a McNaughton
+ruling in place-- yeah?
+
+00:39:03.850 --> 00:39:06.048
+So for those people that
+just have the damage
+
+00:39:06.048 --> 00:39:07.833
+and know the rules,
+would they cover up
+
+00:39:07.833 --> 00:39:10.411
+the tracks in court case so
+they would be deemed not worthy
+
+00:39:10.411 --> 00:39:12.480
+of the McNaughton rule?
+
+00:39:12.480 --> 00:39:18.240
+OK, yeah, would fail the
+McNaughton ruling, absolutely,
+
+00:39:18.240 --> 00:39:20.841
+because they know the difference
+between right and wrong.
+
+00:39:20.841 --> 00:39:22.299
+So they would carry
+out the action,
+
+00:39:22.299 --> 00:39:24.900
+then realize it was
+wrong, so try and hide it?
+
+00:39:24.900 --> 00:39:26.010
+Yeah, exactly.
+
+00:39:26.010 --> 00:39:28.870
+Or if they're disturbed
+enough-- OK, for our purposes,
+
+00:39:28.870 --> 00:39:30.870
+yes, the person will
+know the difference
+
+00:39:30.870 --> 00:39:32.000
+between right and wrong.
+
+00:39:32.000 --> 00:39:35.040
+But they still cannot
+regulate their behavior.
+
+00:39:35.040 --> 00:39:37.050
+And this is a huge problem.
+
+00:39:37.050 --> 00:39:39.490
+What you wind up seeing
+is the McNaughton rule
+
+00:39:39.490 --> 00:39:42.440
+has generally been accepted in
+most states in this country.
+
+00:39:42.440 --> 00:39:46.840
+At the time that the Reagan
+assassination attempt was made,
+
+00:39:46.840 --> 00:39:50.240
+federal criminal rulings
+had McNaughton ruling in it.
+
+00:39:50.240 --> 00:39:51.960
+Almost all the states
+had McNaughton.
+
+00:39:51.960 --> 00:39:55.010
+And something, about
+10 or 11 of them,
+
+00:39:55.010 --> 00:39:59.890
+also had organic impairment of
+volitional control recognizing
+
+00:39:59.890 --> 00:40:01.440
+realms of frontal damage.
+
+00:40:01.440 --> 00:40:03.020
+And what was very
+interesting was
+
+00:40:03.020 --> 00:40:05.990
+in the aftermath of Hinckley
+being found criminally
+
+00:40:05.990 --> 00:40:08.660
+insane instead of
+guilty, there were
+
+00:40:08.660 --> 00:40:12.920
+these neanderthal bellowings
+all over the country, editorials
+
+00:40:12.920 --> 00:40:16.060
+everywhere, about how Hinckley
+had gotten away with it.
+
+00:40:16.060 --> 00:40:19.520
+Within a month, the
+federal government Congress
+
+00:40:19.520 --> 00:40:22.170
+revoked the ability to
+have a McNaughton ruling
+
+00:40:22.170 --> 00:40:25.160
+in any federal criminal trial.
+
+00:40:25.160 --> 00:40:27.160
+The vast majority of
+states in this country,
+
+00:40:27.160 --> 00:40:30.080
+their legislatures
+promptly leapt into action
+
+00:40:30.080 --> 00:40:31.520
+to repeal McNaughton.
+
+00:40:31.520 --> 00:40:35.040
+And along the way, I think
+in all but one or two states,
+
+00:40:35.040 --> 00:40:37.190
+the volitional
+impairment rulings
+
+00:40:37.190 --> 00:40:38.860
+went down the tubes also.
+
+00:40:38.860 --> 00:40:40.960
+And at this point,
+the vast majority
+
+00:40:40.960 --> 00:40:44.300
+of states in this country, you
+could have your frontal cortex
+
+00:40:44.300 --> 00:40:46.820
+blown out of the water and
+you've got one half neuron
+
+00:40:46.820 --> 00:40:48.040
+still functioning there.
+
+00:40:48.040 --> 00:40:50.920
+And that is not relevant
+in a court of law--
+
+00:40:50.920 --> 00:40:54.370
+an area that desperately,
+desperately needs some reform.
+
+00:40:54.370 --> 00:40:57.510
+To give you a sense of how
+bizarre this could look,
+
+00:40:57.510 --> 00:40:59.530
+this dissociation
+here between knowing
+
+00:40:59.530 --> 00:41:01.390
+the difference between
+right and wrong
+
+00:41:01.390 --> 00:41:04.130
+and being able to
+regulate your behavior,
+
+00:41:04.130 --> 00:41:07.520
+this is what it would look like
+in terms of criminal behavior
+
+00:41:07.520 --> 00:41:09.300
+with frontal cortical damage.
+
+00:41:09.300 --> 00:41:10.970
+And, bizarrely,
+this was actually
+
+00:41:10.970 --> 00:41:13.560
+a law case I was involved
+with some years ago,
+
+00:41:13.560 --> 00:41:15.680
+where this was an
+individual who had just
+
+00:41:15.680 --> 00:41:18.620
+been convicted of his
+eighth and ninth murders.
+
+00:41:18.620 --> 00:41:20.770
+And this was a serial murderer.
+
+00:41:20.770 --> 00:41:24.690
+And he was like a nightmare
+beyond imagination,
+
+00:41:24.690 --> 00:41:26.460
+what this man was.
+
+00:41:26.460 --> 00:41:28.790
+And this eighth and
+ninth one had just
+
+00:41:28.790 --> 00:41:33.760
+been two boys he had abducted,
+kept captive for a week,
+
+00:41:33.760 --> 00:41:38.860
+sexually raped, sexually
+mutilated, then strangled.
+
+00:41:38.860 --> 00:41:40.770
+And this was number
+eight and nine.
+
+00:41:40.770 --> 00:41:43.260
+And he had been brought
+out of a maximum security
+
+00:41:43.260 --> 00:41:46.730
+prison in Florida, were
+we serving a whole bunch
+
+00:41:46.730 --> 00:41:48.170
+of other life sentences.
+
+00:41:48.170 --> 00:41:49.839
+And this was a case
+down in San Diego
+
+00:41:49.839 --> 00:41:51.380
+that he was brought
+out for that one.
+
+00:41:51.380 --> 00:41:54.610
+And the defense consisted of
+three minutes of the defense
+
+00:41:54.610 --> 00:41:57.020
+attorneys getting up and
+saying, yes, he did it.
+
+00:41:57.020 --> 00:41:58.210
+He absolutely did it.
+
+00:41:58.210 --> 00:41:59.480
+This was the defense.
+
+00:41:59.480 --> 00:42:02.300
+So this was now in the
+penalty phase deciding,
+
+00:42:02.300 --> 00:42:04.360
+was this person going to
+get the death penalty?
+
+00:42:04.360 --> 00:42:06.730
+Or was he going to
+get life in prison
+
+00:42:06.730 --> 00:42:08.340
+without the chance for parole?
+
+00:42:08.340 --> 00:42:10.170
+And the relevant
+thing about him was
+
+00:42:10.170 --> 00:42:13.610
+when he was six years old he had
+had a massive car accident that
+
+00:42:13.610 --> 00:42:15.340
+destroyed his frontal cortex.
+
+00:42:15.340 --> 00:42:18.230
+He spent two months in
+a coma, no prior history
+
+00:42:18.230 --> 00:42:22.080
+of anti-social behavior, no
+family history of any of it.
+
+00:42:22.080 --> 00:42:25.960
+Came out of it extremely
+behaviorally disinhibited.
+
+00:42:25.960 --> 00:42:29.420
+By age 11, he had assaulted his
+first individual, first murder
+
+00:42:29.420 --> 00:42:32.970
+by age 13-- a completely
+broken machine.
+
+00:42:32.970 --> 00:42:35.340
+Here's what behavior
+looks like in somebody
+
+00:42:35.340 --> 00:42:37.750
+with no frontal
+cortex in this realm.
+
+00:42:37.750 --> 00:42:39.580
+One of the things he
+also did, in addition
+
+00:42:39.580 --> 00:42:42.420
+to his string of murders,
+were kidnapping, and rape,
+
+00:42:42.420 --> 00:42:44.500
+and aggravated
+assault. And this was
+
+00:42:44.500 --> 00:42:48.010
+one woman who had managed to,
+fortunately, survive this.
+
+00:42:48.010 --> 00:42:50.810
+And she'd been abducted
+by him, where he took her
+
+00:42:50.810 --> 00:42:53.650
+to his apartment and kept
+her there for a week,
+
+00:42:53.650 --> 00:42:56.560
+repeatedly raping her,
+beating her senseless, days
+
+00:42:56.560 --> 00:42:58.150
+and days of this going on.
+
+00:42:58.150 --> 00:43:01.750
+And, eventually, whatever it
+is that shifted in him shifted.
+
+00:43:01.750 --> 00:43:05.410
+He had, of course, her wallet in
+the process of kidnapping her,
+
+00:43:05.410 --> 00:43:07.280
+and seeing her name,
+where she lived,
+
+00:43:07.280 --> 00:43:11.190
+he finally says, OK, time to
+go, bundles her into his car,
+
+00:43:11.190 --> 00:43:12.750
+and drive her home.
+
+00:43:12.750 --> 00:43:16.420
+And as he lets her out, he
+says, I had a really good time.
+
+00:43:16.420 --> 00:43:17.560
+I hope you did too.
+
+00:43:17.560 --> 00:43:18.740
+Here's my phone number.
+
+00:43:18.740 --> 00:43:22.650
+Maybe we can get together again
+sometime, and drives away.
+
+00:43:22.650 --> 00:43:25.960
+And no surprise, he was
+arrested within an hour or so,
+
+00:43:25.960 --> 00:43:28.940
+and eventually sort of
+pinned to a whole bunch
+
+00:43:28.940 --> 00:43:29.830
+of these other ones.
+
+00:43:29.830 --> 00:43:33.380
+This is what it looks like when
+you've got no frontal cortex.
+
+00:43:33.380 --> 00:43:37.050
+What's interesting there is
+he's obviously made no attempt
+
+00:43:37.050 --> 00:43:38.290
+to cover his tracks.
+
+00:43:38.290 --> 00:43:41.370
+He was able to verbalize
+some of these rules,
+
+00:43:41.370 --> 00:43:43.100
+and say it was inappropriate.
+
+00:43:43.100 --> 00:43:46.940
+And he was able even to be told
+the specifics of his own case
+
+00:43:46.940 --> 00:43:49.080
+with other names used,
+and be able to say,
+
+00:43:49.080 --> 00:43:51.420
+whoa, that's not
+something you should do.
+
+00:43:51.420 --> 00:43:52.680
+That against the law.
+
+00:43:52.680 --> 00:43:56.210
+At these junctures, though,
+completely going off the rails.
+
+00:43:56.210 --> 00:43:59.070
+He had an interesting
+combination, though,
+
+00:43:59.070 --> 00:44:00.700
+which is that there
+were some elements
+
+00:44:00.700 --> 00:44:05.000
+of the difference between
+right and wrong aspect of it.
+
+00:44:05.000 --> 00:44:08.730
+The fact that he had his frontal
+cortex damage so early in life,
+
+00:44:08.730 --> 00:44:13.130
+what you tend to see is
+around age 5 or 6 or younger,
+
+00:44:13.130 --> 00:44:16.790
+the person tends to never quite
+incorporate the rules either.
+
+00:44:16.790 --> 00:44:18.700
+It's not till you
+get-- say, adults
+
+00:44:18.700 --> 00:44:20.160
+who get frontal
+damage that you get
+
+00:44:20.160 --> 00:44:25.740
+the absolutely pure dissociation
+between this is not OK to do.
+
+00:44:25.740 --> 00:44:27.520
+This is a wrong thing to do.
+
+00:44:27.520 --> 00:44:28.860
+I am not going to do it.
+
+00:44:28.860 --> 00:44:30.260
+And then goes and does it.
+
+00:44:30.260 --> 00:44:33.060
+He, instead, had this much
+more mixed case there.
+
+00:44:33.060 --> 00:44:35.370
+When you get the frontal
+damage around ages five,
+
+00:44:35.370 --> 00:44:37.620
+or six, or younger,
+you get what is now
+
+00:44:37.620 --> 00:44:40.000
+termed acquired sociopothy.
+
+00:44:40.000 --> 00:44:42.800
+You don't do a great
+job of incorporating
+
+00:44:42.800 --> 00:44:44.100
+the rules themselves.
+
+00:44:44.100 --> 00:44:45.850
+And you certainly
+can't act on it.
+
+00:44:45.850 --> 00:44:47.990
+So this is what it
+looks like with someone
+
+00:44:47.990 --> 00:44:51.980
+who is that broken in
+this part of the brain.
+
+00:44:51.980 --> 00:44:55.475
+Ironic ending, first
+jury was hungry.
+
+00:44:55.475 --> 00:44:58.740
+We got one person to hold
+out for organic impairment
+
+00:44:58.740 --> 00:45:01.070
+and give him life
+without parole.
+
+00:45:01.070 --> 00:45:02.190
+So that was a mistrial.
+
+00:45:02.190 --> 00:45:04.689
+And second jury went through
+the whole thing all over again.
+
+00:45:04.689 --> 00:45:07.390
+And it took them three hours
+to give him the death penalty.
+
+00:45:07.390 --> 00:45:11.140
+So what's very
+interesting there is,
+
+00:45:11.140 --> 00:45:14.410
+like, 25% of men
+on death row have
+
+00:45:14.410 --> 00:45:18.430
+a history of concussive trauma
+to their frontal cortex--
+
+00:45:18.430 --> 00:45:20.710
+really, really interesting.
+
+00:45:20.710 --> 00:45:25.020
+But now we begin to see some
+of those if-then clauses.
+
+00:45:25.020 --> 00:45:27.870
+Here's another individual with
+a history of frontal damage.
+
+00:45:27.870 --> 00:45:30.530
+And this is a relative of
+a close friend of mine.
+
+00:45:30.530 --> 00:45:32.810
+And this was someone who
+when he was being born
+
+00:45:32.810 --> 00:45:34.580
+there was a birth complication.
+
+00:45:34.580 --> 00:45:37.080
+And they had to use calipers,
+and something slipped,
+
+00:45:37.080 --> 00:45:38.580
+and caused frontal damage.
+
+00:45:38.580 --> 00:45:41.380
+And frontally disinhibited.
+
+00:45:41.380 --> 00:45:45.200
+This is an individual who is now
+an adult who is unconstrained
+
+00:45:45.200 --> 00:45:47.130
+by the laws of society.
+
+00:45:47.130 --> 00:45:50.730
+This is an individual who
+cannot regulate his behavior.
+
+00:45:50.730 --> 00:45:51.830
+What does he do?
+
+00:45:51.830 --> 00:45:53.780
+Whenever there's
+family get-togethers,
+
+00:45:53.780 --> 00:45:57.190
+he plays the piano way
+longer than anybody else
+
+00:45:57.190 --> 00:45:58.250
+wants to listen to.
+
+00:45:58.250 --> 00:46:01.040
+He can't pick up the cues
+that everybody has had enough
+
+00:46:01.040 --> 00:46:02.510
+and wants to go eat dinner.
+
+00:46:02.510 --> 00:46:04.130
+Well, that was great.
+
+00:46:04.130 --> 00:46:06.400
+I think the pot roast is
+getting a little cold by now.
+
+00:46:06.400 --> 00:46:07.524
+Wasn't that great everyone?
+
+00:46:07.524 --> 00:46:10.210
+Wasn't that-- and
+just keeps, oh my God.
+
+00:46:10.210 --> 00:46:11.800
+He's out of control.
+
+00:46:11.800 --> 00:46:14.420
+No less frontal damage
+than this guy did.
+
+00:46:14.420 --> 00:46:16.120
+So here we have this puzzle.
+
+00:46:16.120 --> 00:46:19.110
+We do not have the simple
+machine output there,
+
+00:46:19.110 --> 00:46:21.960
+of, oh, massive frontal
+damage, this person
+
+00:46:21.960 --> 00:46:23.280
+is a serial murderer.
+
+00:46:23.280 --> 00:46:24.990
+Massive frontal
+damage, this person
+
+00:46:24.990 --> 00:46:27.590
+plays Scott Joplin
+for hours and hours
+
+00:46:27.590 --> 00:46:30.630
+until even his grandmother
+can't stay in the room anymore.
+
+00:46:30.630 --> 00:46:31.890
+What's the difference?
+
+00:46:31.890 --> 00:46:34.900
+I think we begin to see
+some of our if-then clauses
+
+00:46:34.900 --> 00:46:36.200
+perhaps relevant.
+
+00:46:36.200 --> 00:46:39.520
+The Scott Joplin playing one,
+upper middle class family,
+
+00:46:39.520 --> 00:46:41.460
+tremendous family support.
+
+00:46:41.460 --> 00:46:43.470
+This guy coming from
+a family anything
+
+00:46:43.470 --> 00:46:48.010
+but that, we begin to see the,
+if you have no frontal cortex
+
+00:46:48.010 --> 00:46:51.530
+but you have tremendous
+amounts of family support, lots
+
+00:46:51.530 --> 00:46:54.370
+of opportunities, blah, blah,
+it is going to look different
+
+00:46:54.370 --> 00:46:56.510
+than the massive case of it.
+
+00:46:56.510 --> 00:46:59.640
+OK, so now looking
+at that, what we see
+
+00:46:59.640 --> 00:47:01.640
+is there's just a
+couple of states
+
+00:47:01.640 --> 00:47:03.637
+and the couple of juries
+in this country that
+
+00:47:03.637 --> 00:47:05.470
+could deal with the
+implications of somebody
+
+00:47:05.470 --> 00:47:08.600
+having 99% of their
+frontal cortex destroyed.
+
+00:47:08.600 --> 00:47:11.690
+All you need to do to see the
+problem we're up against is,
+
+00:47:11.690 --> 00:47:13.180
+what happens if
+you've got somebody
+
+00:47:13.180 --> 00:47:18.170
+who's got 97% of their frontal
+cortex, destroyed or 94%,
+
+00:47:18.170 --> 00:47:18.980
+or 85?
+
+00:47:18.980 --> 00:47:22.690
+Or finally in our realm, where
+we all just have different
+
+00:47:22.690 --> 00:47:23.660
+sized ones.
+
+00:47:23.660 --> 00:47:26.920
+And the person next to you
+has 5% more synapses there,
+
+00:47:26.920 --> 00:47:30.560
+or 3% fewer re-uptake
+pumps, or whatever.
+
+00:47:30.560 --> 00:47:34.200
+That is beginning to get into a
+realm that is very challenging.
+
+00:47:34.200 --> 00:47:37.790
+OK, so legal implications
+there-- enormous ones,
+
+00:47:37.790 --> 00:47:41.390
+and ones where reform
+is desperately needed.
+
+00:47:41.390 --> 00:47:42.400
+This reminds me.
+
+00:47:42.400 --> 00:47:44.320
+Here is an example
+which strikes me
+
+00:47:44.320 --> 00:47:46.590
+as historically quite amazing.
+
+00:47:46.590 --> 00:47:48.610
+So we have this
+system saying, yes, it
+
+00:47:48.610 --> 00:47:52.320
+is possible to be responsible
+for your criminal behavior.
+
+00:47:52.320 --> 00:47:53.930
+But here's this one exception.
+
+00:47:53.930 --> 00:47:56.960
+If you happen to have all
+of these neurons destroyed
+
+00:47:56.960 --> 00:47:59.740
+and you're in Oregon, you can
+have this criminal defense.
+
+00:47:59.740 --> 00:48:00.716
+And it's effective.
+
+00:48:00.716 --> 00:48:02.040
+Oh yeah, there's this footnote.
+
+00:48:02.040 --> 00:48:04.810
+Every now and then,
+something can happen so
+
+00:48:04.810 --> 00:48:06.440
+that you get into a
+different category
+
+00:48:06.440 --> 00:48:10.610
+than people who have done
+something awful because soul,
+
+00:48:10.610 --> 00:48:13.810
+or evil, or whatever
+terms are coming in there.
+
+00:48:13.810 --> 00:48:16.030
+Really interesting
+piece of history--
+
+00:48:16.030 --> 00:48:18.870
+16th century, during
+the period where
+
+00:48:18.870 --> 00:48:21.620
+if you had an epileptic seizure,
+you were virtually guaranteed
+
+00:48:21.620 --> 00:48:23.460
+to be burned at the
+stake as a witch,
+
+00:48:23.460 --> 00:48:25.440
+because there was a
+medical explanation
+
+00:48:25.440 --> 00:48:29.180
+for epilepsy at the time,
+which was demonic possession.
+
+00:48:29.180 --> 00:48:31.910
+And you were obviously a
+witch of some sort or other.
+
+00:48:31.910 --> 00:48:35.450
+And, OK, so that was the
+medical knowledge of the time.
+
+00:48:35.450 --> 00:48:37.800
+And if someone was
+accused of a witch in most
+
+00:48:37.800 --> 00:48:41.060
+Western European countries where
+the Inquisition was occurring,
+
+00:48:41.060 --> 00:48:42.610
+the rule of the law
+at the time was,
+
+00:48:42.610 --> 00:48:45.170
+how do you confirm if
+somebody is a witch or not?
+
+00:48:45.170 --> 00:48:47.930
+You read them the story
+of the crucifixion.
+
+00:48:47.930 --> 00:48:51.030
+And if they don't cry,
+they are obviously a witch.
+
+00:48:51.030 --> 00:48:52.430
+And that was the test.
+
+00:48:52.430 --> 00:48:53.450
+That was the legal test.
+
+00:48:53.450 --> 00:48:55.320
+If somebody was
+not moved to tears
+
+00:48:55.320 --> 00:48:57.170
+by the story of Christ
+being crucified,
+
+00:48:57.170 --> 00:48:59.410
+they were obviously a witch,
+and would very quickly
+
+00:48:59.410 --> 00:49:01.590
+be burned at the stake.
+
+00:49:01.590 --> 00:49:05.720
+At that point, one very,
+very progressive physician
+
+00:49:05.720 --> 00:49:09.150
+who was up on the top of
+behavioral biology insights
+
+00:49:09.150 --> 00:49:13.320
+at the time wrote a pamphlet
+saying, well, yes, of course,
+
+00:49:13.320 --> 00:49:15.790
+we need to get rid of witches
+because they're bad news.
+
+00:49:15.790 --> 00:49:16.920
+And of course we
+should burn them.
+
+00:49:16.920 --> 00:49:18.044
+And this is very good test.
+
+00:49:18.044 --> 00:49:20.460
+You have to remember,
+though, that every now
+
+00:49:20.460 --> 00:49:24.130
+and then in some elderly
+women the lacrimal glands can
+
+00:49:24.130 --> 00:49:25.190
+atrophy.
+
+00:49:25.190 --> 00:49:27.110
+So they can't cry.
+
+00:49:27.110 --> 00:49:31.270
+So this would be someone who
+is involuntarily unable to cry,
+
+00:49:31.270 --> 00:49:32.794
+rather than they're a witch.
+
+00:49:32.794 --> 00:49:34.210
+You just need to
+keep that in mind
+
+00:49:34.210 --> 00:49:36.210
+when you do some of that
+witch sentencing stuff.
+
+00:49:36.210 --> 00:49:39.040
+Sometimes it could be due
+to this organic impairment
+
+00:49:39.040 --> 00:49:39.580
+business.
+
+00:49:39.580 --> 00:49:43.140
+But the overall structure, yeah,
+let's get rid of those witches.
+
+00:49:43.140 --> 00:49:45.030
+And that's a very good
+way of getting at it.
+
+00:49:45.030 --> 00:49:46.930
+That makes no sense at all.
+
+00:49:46.930 --> 00:49:50.460
+I suspect ultimately saying that
+in a small handful of places,
+
+00:49:50.460 --> 00:49:52.830
+if you have no
+frontal cortex at all,
+
+00:49:52.830 --> 00:49:54.310
+we're talking about neurology.
+
+00:49:54.310 --> 00:49:55.840
+If you've got any
+frontal cortex,
+
+00:49:55.840 --> 00:49:59.470
+we're talking about morality,
+and soul, and even all of that.
+
+00:49:59.470 --> 00:50:02.460
+I suspect it will eventually
+make as little sense
+
+00:50:02.460 --> 00:50:06.150
+as lacrimal glands drying up.
+
+00:50:06.150 --> 00:50:08.114
+OK, I'm obviously just
+on the edge of tirading.
+
+00:50:08.114 --> 00:50:09.530
+So let's take a
+five minute break.
+
+00:50:09.530 --> 00:50:12.524
+And we will continue.
+
+00:50:12.524 --> 00:50:14.690
+Frontal cortex [? of ?]
+[? viewers, ?] keeping track
+
+00:50:14.690 --> 00:50:18.060
+of all those different rules,
+and keeping you from belching
+
+00:50:18.060 --> 00:50:19.530
+loudly in the
+middle of a lecture,
+
+00:50:19.530 --> 00:50:22.040
+and all those other frontal
+cortical sort of tasks.
+
+00:50:22.040 --> 00:50:27.526
+What's the time of day when your
+frontal cortex is least active?
+
+00:50:27.526 --> 00:50:28.025
+Any guesses?
+
+00:50:31.260 --> 00:50:33.713
+OK, wait somebody
+say something clear.
+
+00:50:33.713 --> 00:50:34.460
+Late at night.
+
+00:50:34.460 --> 00:50:36.325
+Late at night,
+when late at night?
+
+00:50:36.325 --> 00:50:37.200
+When you're sleeping.
+
+00:50:37.200 --> 00:50:40.730
+When you're sleeping,
+when when you're sleeping?
+
+00:50:40.730 --> 00:50:43.780
+REM sleep-- REM sleep,
+your frontal cortex
+
+00:50:43.780 --> 00:50:45.830
+basically shuts down entirely.
+
+00:50:45.830 --> 00:50:48.529
+That's why your
+dreams make no sense.
+
+00:50:48.529 --> 00:50:50.070
+That's where your
+dreams you're doing
+
+00:50:50.070 --> 00:50:53.430
+all sorts of things you would
+never want to do in real life.
+
+00:50:53.430 --> 00:50:55.230
+The thing about
+the frontal cortex
+
+00:50:55.230 --> 00:50:58.940
+is that it keeps you from doing
+and saying the sort of stuff
+
+00:50:58.940 --> 00:51:01.530
+that all of us contemplate
+at various times,
+
+00:51:01.530 --> 00:51:05.070
+but we would die if anybody
+knew we were thinking that.
+
+00:51:05.070 --> 00:51:08.770
+You wipe out the frontal
+cortex, and you do it.
+
+00:51:08.770 --> 00:51:10.887
+Or you take the
+frontal cortex offline
+
+00:51:10.887 --> 00:51:11.970
+in the middle of dreaming.
+
+00:51:11.970 --> 00:51:15.260
+And, suddenly, that seems like
+a wonderfully prudent thing
+
+00:51:15.260 --> 00:51:17.840
+to be doing with yourself
+in the middle of a dream.
+
+00:51:17.840 --> 00:51:21.030
+That's when the frontal
+cortex is least active.
+
+00:51:21.030 --> 00:51:23.770
+OK, so now frontal
+cortex, looking
+
+00:51:23.770 --> 00:51:26.060
+at one of its most
+distinctive, interesting things
+
+00:51:26.060 --> 00:51:28.490
+about its function,
+its development.
+
+00:51:28.490 --> 00:51:31.065
+When does it
+develop after birth?
+
+00:51:31.065 --> 00:51:32.690
+And I think what I've
+already mentioned
+
+00:51:32.690 --> 00:51:35.230
+is the frontal
+cortex is interesting
+
+00:51:35.230 --> 00:51:39.700
+because it's the last part of
+your brain to fully develop.
+
+00:51:39.700 --> 00:51:42.880
+It is the last part of
+your brain to fully form
+
+00:51:42.880 --> 00:51:45.650
+all of the myelin on its axons.
+
+00:51:45.650 --> 00:51:48.560
+It's the last part to get
+its full large complement
+
+00:51:48.560 --> 00:51:51.750
+of synapses, and branching
+connections, and such.
+
+00:51:51.750 --> 00:51:54.250
+It's the last part of
+the brain to develop.
+
+00:51:54.250 --> 00:51:58.360
+When does the frontal cortex, on
+the average, completely mature,
+
+00:51:58.360 --> 00:52:00.310
+go online for the first time?
+
+00:52:00.310 --> 00:52:05.100
+Around age 25, which
+is astonishing,
+
+00:52:05.100 --> 00:52:08.020
+which among other things
+should be reckoned
+
+00:52:08.020 --> 00:52:10.490
+in the context that,
+probably, all sorts of you
+
+00:52:10.490 --> 00:52:13.940
+guys still have a whole lot
+more myelin to lay down there
+
+00:52:13.940 --> 00:52:15.170
+in the frontal cortex.
+
+00:52:15.170 --> 00:52:17.920
+It is the last part of the
+brain to fully develop.
+
+00:52:17.920 --> 00:52:21.270
+Some immediate implications
+of that-- if it
+
+00:52:21.270 --> 00:52:24.000
+is the last part of the
+brain to develop, it is,
+
+00:52:24.000 --> 00:52:26.010
+by definition, the
+part of the brain
+
+00:52:26.010 --> 00:52:28.480
+least constrained by genes.
+
+00:52:28.480 --> 00:52:32.280
+And it is the part of the brain
+most sculpted by environment
+
+00:52:32.280 --> 00:52:35.510
+and experience, which is
+real interesting, given
+
+00:52:35.510 --> 00:52:38.760
+that it is the most definedly
+human part of the brain.
+
+00:52:38.760 --> 00:52:42.010
+So frontal cortical development
+in kids-- what we've already
+
+00:52:42.010 --> 00:52:46.010
+heard is by age 5 or
+younger, get frontal damage,
+
+00:52:46.010 --> 00:52:48.020
+and you get this
+acquired sociopathy.
+
+00:52:48.020 --> 00:52:51.325
+You don't get as clear of a
+disassociation between you
+
+00:52:51.325 --> 00:52:54.370
+know what the rules are, you
+simply can't carry them out.
+
+00:52:54.370 --> 00:52:57.250
+It's more of a mixed
+bag at that point.
+
+00:52:57.250 --> 00:52:59.890
+Frontal development after
+that-- the frontal cortex
+
+00:52:59.890 --> 00:53:02.870
+works in a very interesting,
+perfectly logical way
+
+00:53:02.870 --> 00:53:05.260
+in teenagers, as follows.
+
+00:53:05.260 --> 00:53:07.350
+When you look at
+frontal activity,
+
+00:53:07.350 --> 00:53:08.940
+and the extent to
+which it is being
+
+00:53:08.940 --> 00:53:12.060
+driven by dopamine with one
+of these brain scanners,
+
+00:53:12.060 --> 00:53:14.730
+take an adult, and
+take a teenager.
+
+00:53:14.730 --> 00:53:17.720
+And they each have circumstances
+where they're doing some task
+
+00:53:17.720 --> 00:53:18.990
+and they get a reward.
+
+00:53:18.990 --> 00:53:21.270
+And some of the time,
+they get a smaller reward
+
+00:53:21.270 --> 00:53:23.520
+than they think they deserve
+from the amount of effort
+
+00:53:23.520 --> 00:53:24.270
+they put in.
+
+00:53:24.270 --> 00:53:27.710
+And some of the time, they get
+an unexpectedly large reward.
+
+00:53:27.710 --> 00:53:30.920
+Circumstance where the
+individual gets a bigger reward
+
+00:53:30.920 --> 00:53:34.210
+than anticipated,
+dopamine goes up in adults
+
+00:53:34.210 --> 00:53:37.080
+and drives frontal metabolism
+to a certain extent.
+
+00:53:37.080 --> 00:53:40.670
+Dopamine goes up much
+higher in the teenager.
+
+00:53:40.670 --> 00:53:44.120
+Now a circumstance where the
+task is being carried out.
+
+00:53:44.120 --> 00:53:46.480
+And you don't get the reward.
+
+00:53:46.480 --> 00:53:48.790
+Dopamine goes down in the
+adult, frontal metabolism
+
+00:53:48.790 --> 00:53:49.820
+goes down a bit.
+
+00:53:49.820 --> 00:53:53.200
+Dopamine goes down much
+more in the teenager.
+
+00:53:53.200 --> 00:53:56.070
+The gyrations are
+much more extreme.
+
+00:53:56.070 --> 00:54:00.200
+The dopamine-driven metabolic
+changes in the frontal cortex
+
+00:54:00.200 --> 00:54:02.950
+are more dramatically
+large for reward,
+
+00:54:02.950 --> 00:54:05.860
+are more dramatically
+having the floor fall out
+
+00:54:05.860 --> 00:54:08.880
+under it for lack of
+reward, for disappointment.
+
+00:54:08.880 --> 00:54:11.970
+It's a system that is
+simply less regulated.
+
+00:54:11.970 --> 00:54:14.700
+And this, this fact that the
+frontal cortex is the last
+
+00:54:14.700 --> 00:54:18.070
+maturing part of the brain, had
+to do with one of the wisest
+
+00:54:18.070 --> 00:54:20.360
+things the Supreme Court
+has done in a long time,
+
+00:54:20.360 --> 00:54:23.470
+which was about 10 years ago,
+when they made a ruling that
+
+00:54:23.470 --> 00:54:26.340
+individuals who
+are under age 18,
+
+00:54:26.340 --> 00:54:28.770
+when they carry out
+a capital crime,
+
+00:54:28.770 --> 00:54:31.880
+you cannot have the death
+penalty applied to someone
+
+00:54:31.880 --> 00:54:35.130
+for a crime they did
+between ages 16 and 18,
+
+00:54:35.130 --> 00:54:38.440
+because explicitly stated
+in the court decision,
+
+00:54:38.440 --> 00:54:41.720
+the brain and the regulatory
+areas of the brain are not
+
+00:54:41.720 --> 00:54:45.830
+fully mature at that point--
+the most neurologically informed
+
+00:54:45.830 --> 00:54:47.800
+the Supreme Court has
+been in a long time.
+
+00:54:47.800 --> 00:54:51.060
+Again, the McNaughton rule--
+the McNaughton rule, which
+
+00:54:51.060 --> 00:54:53.940
+is the backbone of the criminal
+defense and legal system
+
+00:54:53.940 --> 00:54:59.070
+in this country, is based on
+170-year-old neurobiology.
+
+00:54:59.070 --> 00:55:02.216
+So this was a major leap
+forward in jurisprudence
+
+00:55:02.216 --> 00:55:04.590
+meets neurobiology in this
+country with the Supreme Court
+
+00:55:04.590 --> 00:55:05.160
+ruling.
+
+00:55:05.160 --> 00:55:08.080
+Of course, what
+one might ask is,
+
+00:55:08.080 --> 00:55:10.630
+so what exactly happens in
+the brain on the morning
+
+00:55:10.630 --> 00:55:12.800
+of your 18th birthday
+that now makes
+
+00:55:12.800 --> 00:55:15.444
+it OK to put you to death,
+where the science simply
+
+00:55:15.444 --> 00:55:16.110
+doesn't back it?
+
+00:55:16.110 --> 00:55:19.600
+But at least that recognition,
+the Supreme Court actually
+
+00:55:19.600 --> 00:55:23.090
+dealing with the fact that
+a 17-year-old does not have
+
+00:55:23.090 --> 00:55:25.930
+a normal frontal cortex yet.
+
+00:55:25.930 --> 00:55:28.330
+What else goes on?
+
+00:55:28.330 --> 00:55:31.210
+Thus, by the time you get a
+fully online frontal cortex,
+
+00:55:31.210 --> 00:55:34.800
+around age 25 or so, one of
+the truly depressing things
+
+00:55:34.800 --> 00:55:37.540
+out the other end of it
+is the frontal cortex
+
+00:55:37.540 --> 00:55:42.790
+is the third most vulnerable
+brain region to normal aging--
+
+00:55:42.790 --> 00:55:43.790
+bummer.
+
+00:55:43.790 --> 00:55:45.140
+That is a drag.
+
+00:55:45.140 --> 00:55:48.230
+What that winds up meaning is
+you have spectacular impulse
+
+00:55:48.230 --> 00:55:50.070
+control for about
+three and a half weeks
+
+00:55:50.070 --> 00:55:51.580
+on your 25th birthday.
+
+00:55:51.580 --> 00:55:53.356
+And it's all
+downhill from there.
+
+00:55:53.356 --> 00:55:55.730
+There's a motor system in the
+brain called the substantia
+
+00:55:55.730 --> 00:55:59.300
+nigra which loses most of
+its neurons with aging.
+
+00:55:59.300 --> 00:56:01.520
+That has something to do
+with the tremor of old age,
+
+00:56:01.520 --> 00:56:02.880
+Parkinson's disease.
+
+00:56:02.880 --> 00:56:06.310
+The hippocampus lose substantial
+percentage of its neurons
+
+00:56:06.310 --> 00:56:06.870
+with age.
+
+00:56:06.870 --> 00:56:09.350
+That has something to do with
+some of the memory problems.
+
+00:56:09.350 --> 00:56:12.410
+Number three on the list
+is the frontal cortex.
+
+00:56:12.410 --> 00:56:15.200
+Frontal cortex loses
+lots of neurons
+
+00:56:15.200 --> 00:56:16.640
+over the course of aging.
+
+00:56:16.640 --> 00:56:19.370
+And what you see, then,
+is all of those tests
+
+00:56:19.370 --> 00:56:22.010
+of cognitive function,
+of frontal functioning,
+
+00:56:22.010 --> 00:56:24.650
+they all have to be
+age-adjusted because people
+
+00:56:24.650 --> 00:56:28.670
+as they get older have more
+trouble doing this, inhibiting
+
+00:56:28.670 --> 00:56:31.590
+the over-learned response,
+preventing something
+
+00:56:31.590 --> 00:56:33.270
+from intruding previously.
+
+00:56:33.270 --> 00:56:36.530
+There's fewer of these
+projections coming in there.
+
+00:56:36.530 --> 00:56:38.470
+And what does this
+begin to explain?
+
+00:56:38.470 --> 00:56:41.990
+This is this whole world
+of grandmothers telling you
+
+00:56:41.990 --> 00:56:45.260
+exactly how hideous they
+think your new hairdo is.
+
+00:56:45.260 --> 00:56:48.560
+That's the world of disinhibited
+80-year-olds speaking.
+
+00:56:48.560 --> 00:56:51.150
+And what has always been
+the case in that literature,
+
+00:56:51.150 --> 00:56:54.940
+it has always been interpreted
+in a social, psychological
+
+00:56:54.940 --> 00:56:56.710
+maturation framework.
+
+00:56:56.710 --> 00:56:59.400
+By the time you get
+to a certain age,
+
+00:56:59.400 --> 00:57:01.990
+you finally accept,
+this is who I am.
+
+00:57:01.990 --> 00:57:05.040
+I'm not in middle school anymore
+just trying to be popular.
+
+00:57:05.040 --> 00:57:07.140
+If I need to march to
+a different drummer,
+
+00:57:07.140 --> 00:57:09.690
+so be it, because I am
+at peace with who I am.
+
+00:57:09.690 --> 00:57:10.610
+I accept myself.
+
+00:57:10.610 --> 00:57:11.430
+It's not that.
+
+00:57:11.430 --> 00:57:12.770
+It's the brain damage.
+
+00:57:12.770 --> 00:57:16.320
+It's the brain damage that kicks
+in at that point, that being
+
+00:57:16.320 --> 00:57:19.190
+a feature of normative aging.
+
+00:57:19.190 --> 00:57:22.220
+Now, where else do you wind
+up seeing abnormalities
+
+00:57:22.220 --> 00:57:23.630
+and frontal function?
+
+00:57:23.630 --> 00:57:26.100
+Other individuals,
+individual differences--
+
+00:57:26.100 --> 00:57:28.750
+one personality
+style where you see
+
+00:57:28.750 --> 00:57:30.940
+elevated frontal metabolism.
+
+00:57:30.940 --> 00:57:32.620
+And this is people
+with what's called
+
+00:57:32.620 --> 00:57:34.910
+repressive personalities.
+
+00:57:34.910 --> 00:57:38.840
+These are individuals who
+are highly regimented, highly
+
+00:57:38.840 --> 00:57:43.150
+disciplined, highly capable
+of controlling their behavior.
+
+00:57:43.150 --> 00:57:46.640
+These are individuals who do not
+express emotions very readily.
+
+00:57:46.640 --> 00:57:49.810
+They're very bad at reading
+emotions in other people.
+
+00:57:49.810 --> 00:57:50.830
+They're not depressed.
+
+00:57:50.830 --> 00:57:51.700
+They're not anxious.
+
+00:57:51.700 --> 00:57:54.590
+In order to be labeled with
+a repressive personality,
+
+00:57:54.590 --> 00:57:55.740
+those are rule-outs.
+
+00:57:55.740 --> 00:57:58.240
+You have an extremely
+structured life.
+
+00:57:58.240 --> 00:58:01.170
+These are the people
+who can tell you
+
+00:58:01.170 --> 00:58:03.630
+everything they're planning to
+do for the next three years.
+
+00:58:03.630 --> 00:58:05.090
+And it's already scheduled out.
+
+00:58:05.090 --> 00:58:07.770
+This is the roommate who
+always has all the work
+
+00:58:07.770 --> 00:58:09.717
+done three weeks
+before the due date.
+
+00:58:09.717 --> 00:58:11.300
+This is the person
+who makes you crazy
+
+00:58:11.300 --> 00:58:13.341
+because you wish you could
+be half as disciplined
+
+00:58:13.341 --> 00:58:14.230
+as they are.
+
+00:58:14.230 --> 00:58:16.410
+People with
+personalities like this,
+
+00:58:16.410 --> 00:58:20.600
+elevated resting metabolism
+in the frontal cortex.
+
+00:58:20.600 --> 00:58:24.520
+So which sort of people have
+far lower than normal metabolism
+
+00:58:24.520 --> 00:58:26.390
+in the frontal cortex?
+
+00:58:26.390 --> 00:58:27.260
+Any guesses?
+
+00:58:27.260 --> 00:58:27.990
+Shout out.
+
+00:58:31.336 --> 00:58:32.770
+Thrill seekers.
+
+00:58:32.770 --> 00:58:35.180
+Thrill seekers,
+yeah-- thrill seekers,
+
+00:58:35.180 --> 00:58:37.890
+it seems to be more at the
+dopamine end of things.
+
+00:58:37.890 --> 00:58:41.170
+And the zebra book considers
+that at one point in there.
+
+00:58:41.170 --> 00:58:43.400
+When it's more
+manifest in, how are
+
+00:58:43.400 --> 00:58:45.630
+you going to pull
+off stuff like this,
+
+00:58:45.630 --> 00:58:49.530
+sociopaths have much lower
+than normal metabolic rates
+
+00:58:49.530 --> 00:58:50.732
+in the frontal cortex.
+
+00:58:50.732 --> 00:58:52.190
+In fact, in a couple
+of weeks there
+
+00:58:52.190 --> 00:58:53.930
+is a guy coming to
+give a lecture--
+
+00:58:53.930 --> 00:58:55.786
+and I'll announce in
+here when and where--
+
+00:58:55.786 --> 00:58:57.410
+who is one of the
+people doing the most
+
+00:58:57.410 --> 00:58:58.580
+interesting work with this.
+
+00:58:58.580 --> 00:59:01.800
+What this guy has is a
+functional MRI machine
+
+00:59:01.800 --> 00:59:03.990
+on a trailer, which
+he drives around
+
+00:59:03.990 --> 00:59:06.460
+from one maximum security
+prison to another
+
+00:59:06.460 --> 00:59:09.560
+throughout this country--
+really interesting research
+
+00:59:09.560 --> 00:59:13.390
+on violent individuals who
+are or aren't sociopathic,
+
+00:59:13.390 --> 00:59:15.780
+decreased frontal metabolism.
+
+00:59:15.780 --> 00:59:17.170
+But now something interesting.
+
+00:59:17.170 --> 00:59:20.530
+You take a sociopath whose
+resting metabolic rate
+
+00:59:20.530 --> 00:59:23.680
+in the frontal cortex
+is lower than normal.
+
+00:59:23.680 --> 00:59:27.480
+Now you give them a task
+which demands a certain degree
+
+00:59:27.480 --> 00:59:29.070
+of frontal function.
+
+00:59:29.070 --> 00:59:32.090
+Not, oh, be a law abiding
+citizen in society,
+
+00:59:32.090 --> 00:59:34.270
+but something like the
+tell the months of the year
+
+00:59:34.270 --> 00:59:36.330
+backwards as fast as you can go.
+
+00:59:36.330 --> 00:59:38.990
+And what you see is
+in order to generate
+
+00:59:38.990 --> 00:59:42.060
+the same level of
+performance, they
+
+00:59:42.060 --> 00:59:44.590
+have to activate more
+of the frontal cortex
+
+00:59:44.590 --> 00:59:45.835
+than other people do.
+
+00:59:45.835 --> 00:59:48.980
+In other words, under
+resting circumstances,
+
+00:59:48.980 --> 00:59:52.480
+there is a hypometabolism
+in the frontal cortex.
+
+00:59:52.480 --> 00:59:55.990
+And in the rare, relatively
+unemotional circumstances
+
+00:59:55.990 --> 00:59:59.610
+where a sociopath does want to
+pull off a lot of regulation
+
+00:59:59.610 --> 01:00:02.280
+of behavior, they've got
+to recruit a lot more
+
+01:00:02.280 --> 01:00:04.200
+of the frontal cortex to do it.
+
+01:00:04.200 --> 01:00:07.040
+It takes more work to do.
+
+01:00:07.040 --> 01:00:09.230
+Other aspects of
+frontal cortex--
+
+01:00:09.230 --> 01:00:12.110
+not only are kids not
+dealing with a whole lot
+
+01:00:12.110 --> 01:00:13.220
+of frontal cortex.
+
+01:00:13.220 --> 01:00:15.340
+Other species are not
+dealing with a whole lot
+
+01:00:15.340 --> 01:00:16.600
+of frontal cortex.
+
+01:00:16.600 --> 01:00:19.670
+Again, humans have more
+frontal cortex proportionately
+
+01:00:19.670 --> 01:00:21.150
+than any other species.
+
+01:00:21.150 --> 01:00:23.400
+There is no chimpanzee
+on Earth who
+
+01:00:23.400 --> 01:00:26.330
+could master the five
+M&amp;M, one M&amp;M task.
+
+01:00:26.330 --> 01:00:29.370
+And that is regularly used as
+a test for frontal function
+
+01:00:29.370 --> 01:00:29.900
+on them.
+
+01:00:29.900 --> 01:00:34.010
+Chimps cannot do it because it
+is simply too tempting to reach
+
+01:00:34.010 --> 01:00:37.950
+for the five M&amp;Md
+because it's right there.
+
+01:00:37.950 --> 01:00:41.670
+Interesting assay of how many
+frontal neurons a chimp does
+
+01:00:41.670 --> 01:00:46.320
+have, though, which is now
+instead of 5 M&amp;Ms and 1 M&amp;M,
+
+01:00:46.320 --> 01:00:49.200
+five chips of wood
+and one chip of wood.
+
+01:00:49.200 --> 01:00:53.420
+Reach for the five chips
+of wood, you get one M&amp;M.
+
+01:00:53.420 --> 01:00:57.480
+Reach for the one chip of
+wood, you get five M&amp;Ms.
+
+01:00:57.480 --> 01:00:59.080
+Every chimp can do it now.
+
+01:00:59.080 --> 01:01:01.350
+They can all do it now
+because they're just looking
+
+01:01:01.350 --> 01:01:02.591
+at these pieces of wood.
+
+01:01:02.591 --> 01:01:04.090
+And they can remember,
+that's right.
+
+01:01:04.090 --> 01:01:05.540
+Don't go for the
+five pieces of wood.
+
+01:01:05.540 --> 01:01:06.748
+Go for the one piece of wood.
+
+01:01:06.748 --> 01:01:08.720
+When it's chocolate,
+though, in front of them,
+
+01:01:08.720 --> 01:01:11.290
+it's smells so great.
+
+01:01:11.290 --> 01:01:14.110
+And how can you expect them
+to keep track of the rules?
+
+01:01:14.110 --> 01:01:15.862
+And it's just the five.
+
+01:01:15.862 --> 01:01:18.070
+And before you know it,
+they've done the wrong thing.
+
+01:01:18.070 --> 01:01:20.770
+If you take away some
+of the viscera of it,
+
+01:01:20.770 --> 01:01:24.210
+if you step back sensorially,
+if you substitute
+
+01:01:24.210 --> 01:01:27.190
+this in your face chocolate
+for these little bits of wood,
+
+01:01:27.190 --> 01:01:29.870
+chimps on the average have
+enough frontal function
+
+01:01:29.870 --> 01:01:33.300
+to be able to pull
+that task off.
+
+01:01:33.300 --> 01:01:35.330
+Kids, again, could
+never do this.
+
+01:01:35.330 --> 01:01:38.090
+And this is one classic
+sort of developmental test.
+
+01:01:38.090 --> 01:01:39.130
+You take a kid.
+
+01:01:39.130 --> 01:01:40.390
+And they're in a room.
+
+01:01:40.390 --> 01:01:42.080
+And you put a marshmallow there.
+
+01:01:42.080 --> 01:01:46.010
+And you say, OK, does
+people know this one?
+
+01:01:46.010 --> 01:01:49.700
+OK, so do people
+now know this one?
+
+01:01:49.700 --> 01:01:50.880
+OK, so here's what you do.
+
+01:01:50.880 --> 01:01:52.130
+You put the marshmallow there.
+
+01:01:52.130 --> 01:01:54.132
+And you tell the child,
+OK, I've got to go out
+
+01:01:54.132 --> 01:01:55.340
+of the room for a little bit.
+
+01:01:55.340 --> 01:01:57.214
+You can have a marshmallow
+whenever you want.
+
+01:01:57.214 --> 01:01:59.960
+But if you haven't had it
+by the time I come back,
+
+01:01:59.960 --> 01:02:01.370
+you can have two marshmallows.
+
+01:02:01.370 --> 01:02:03.670
+In other words,
+how many synapses
+
+01:02:03.670 --> 01:02:05.850
+do you have in your
+frontal cortex?
+
+01:02:05.850 --> 01:02:08.740
+Because that is
+spectacularly predictive
+
+01:02:08.740 --> 01:02:11.230
+of frontal metabolism
+in these kids.
+
+01:02:11.230 --> 01:02:15.160
+How long can they hold out
+doing the harder thing that
+
+01:02:15.160 --> 01:02:16.570
+gets more of a reward?
+
+01:02:16.570 --> 01:02:18.310
+What those studies
+also were showing
+
+01:02:18.310 --> 01:02:20.850
+is the length of time
+a kid could hold out
+
+01:02:20.850 --> 01:02:23.370
+on the marshmallow test
+when they're five years old
+
+01:02:23.370 --> 01:02:27.410
+is predictive of SAT
+scores many years later,
+
+01:02:27.410 --> 01:02:31.620
+is predictive of all sorts
+of aspects of the trajectory
+
+01:02:31.620 --> 01:02:34.520
+of that frontal development.
+
+01:02:34.520 --> 01:02:37.390
+Here's an even better assay
+for frontal function in a kid.
+
+01:02:37.390 --> 01:02:40.287
+And this one, I think this
+is even more informative
+
+01:02:40.287 --> 01:02:41.370
+than the marshmallow test.
+
+01:02:41.370 --> 01:02:42.350
+Here's what you do.
+
+01:02:42.350 --> 01:02:43.600
+You've got your five-year-old.
+
+01:02:43.600 --> 01:02:46.310
+And you play hide
+and seek with them.
+
+01:02:46.310 --> 01:02:49.160
+And the deal is you're
+the one who counts first
+
+01:02:49.160 --> 01:02:50.160
+while they go and hide.
+
+01:02:50.160 --> 01:02:51.870
+And what you do is
+you finish counting.
+
+01:02:51.870 --> 01:02:54.850
+And then you loudly,
+excitedly say, here I come.
+
+01:02:54.850 --> 01:02:55.351
+Here I come.
+
+01:02:55.351 --> 01:02:56.225
+I'm going to get you.
+
+01:02:56.225 --> 01:02:56.880
+Here I come.
+
+01:02:56.880 --> 01:02:58.150
+Oh, where are you?
+
+01:02:58.150 --> 01:03:01.070
+And then they instantly say,
+right here under the piano,
+
+01:03:01.070 --> 01:03:03.380
+because they don't have
+enough frontal neurons to keep
+
+01:03:03.380 --> 01:03:04.607
+themselves from saying that.
+
+01:03:04.607 --> 01:03:06.690
+They can't stop themselves
+from saying, here I am.
+
+01:03:06.690 --> 01:03:08.000
+Here I am, falling for that.
+
+01:03:08.000 --> 01:03:09.250
+Now, they switch.
+
+01:03:09.250 --> 01:03:10.730
+And it's their turn to count.
+
+01:03:10.730 --> 01:03:11.450
+And they count.
+
+01:03:11.450 --> 01:03:12.480
+You count up to 10.
+
+01:03:12.480 --> 01:03:15.940
+And they go 7, 8, 9,
+10, 11, 12, 13, 14,
+
+01:03:15.940 --> 01:03:18.460
+because they're so excited
+to have discovered recently
+
+01:03:18.460 --> 01:03:23.250
+there's all these numbers, that
+why not count all of them off?
+
+01:03:23.250 --> 01:03:26.450
+And they've long forgotten
+you're supposed to stop at 10.
+
+01:03:26.450 --> 01:03:28.630
+They can't inhibit
+that response.
+
+01:03:28.630 --> 01:03:31.810
+This is what frontal function
+looks like in a kid--
+
+01:03:31.810 --> 01:03:34.680
+so marshmallow tests
+and hide and seek tests.
+
+01:03:34.680 --> 01:03:37.220
+How's this, though, for
+taking that charming world
+
+01:03:37.220 --> 01:03:39.680
+of five-year-old
+regulation and putting it
+
+01:03:39.680 --> 01:03:43.440
+into a much more depressing
+developmental context?
+
+01:03:43.440 --> 01:03:49.200
+Studies by now showing at age 5,
+already kindergarten-aged kids,
+
+01:03:49.200 --> 01:03:52.660
+there is a relationship between
+your socioeconomic status
+
+01:03:52.660 --> 01:03:55.240
+and the thickness of
+your frontal cortex
+
+01:03:55.240 --> 01:03:57.910
+and its resting metabolic rate.
+
+01:03:57.910 --> 01:03:59.420
+What's the part
+of the brain that
+
+01:03:59.420 --> 01:04:01.690
+has some of the highest
+levels of receptors
+
+01:04:01.690 --> 01:04:03.410
+for glucocorticoids?
+
+01:04:03.410 --> 01:04:04.870
+The frontal cortex.
+
+01:04:04.870 --> 01:04:08.060
+What do glucocorticoids
+do to the frontal cortex?
+
+01:04:08.060 --> 01:04:10.200
+They atrophy neurons there.
+
+01:04:10.200 --> 01:04:12.240
+So what you are
+already seeing is,
+
+01:04:12.240 --> 01:04:15.450
+get yourself an unfortunate,
+imprudent decision
+
+01:04:15.450 --> 01:04:18.300
+in terms of which family
+you got yourself born into.
+
+01:04:18.300 --> 01:04:20.630
+And be raised with
+the stress of poverty.
+
+01:04:20.630 --> 01:04:24.380
+And by age 5, already there
+are socioeconomic differences
+
+01:04:24.380 --> 01:04:27.570
+in the size and the activity
+of the frontal cortex.
+
+01:04:27.570 --> 01:04:30.580
+And that is, I think, one
+of those factoids that
+
+01:04:30.580 --> 01:04:33.830
+should have people rioting
+at the barricades in terms
+
+01:04:33.830 --> 01:04:38.010
+of how screwed you are, how
+early on in life in the most
+
+01:04:38.010 --> 01:04:41.460
+straight forwardly
+neurobiological way by some
+
+01:04:41.460 --> 01:04:45.370
+of these oddities of
+experience and bad luck.
+
+01:04:45.370 --> 01:04:49.640
+OK, so looking finally at the
+frontal cortex-- one thing
+
+01:04:49.640 --> 01:04:54.120
+to ask at the end of the day
+is, so, frontal disinhibition?
+
+01:04:54.120 --> 01:04:57.490
+Why don't you see with people
+with massive frontal damage,
+
+01:04:57.490 --> 01:04:59.610
+instead of them becoming
+serial murderers,
+
+01:04:59.610 --> 01:05:03.060
+why don't they become like
+serial people getting married?
+
+01:05:03.060 --> 01:05:06.530
+Why aren't they serial standing
+on street corners giving away
+
+01:05:06.530 --> 01:05:09.540
+their money and announcing
+their love to the whole world,
+
+01:05:09.540 --> 01:05:12.890
+and doing equally disinhibited
+things in that realm?
+
+01:05:12.890 --> 01:05:13.890
+It's not clear.
+
+01:05:13.890 --> 01:05:17.910
+It's not clear why this is
+so much more tightly involved
+
+01:05:17.910 --> 01:05:21.150
+in regulation of stuff
+going on in the amygdala.
+
+01:05:21.150 --> 01:05:24.080
+OK, so as implied,
+though, by this arrow,
+
+01:05:24.080 --> 01:05:26.730
+it is not one direction
+of inputs there.
+
+01:05:26.730 --> 01:05:28.160
+It is bidirectional.
+
+01:05:28.160 --> 01:05:32.000
+What you also see is a lot of
+ways in which the amygdala can
+
+01:05:32.000 --> 01:05:33.970
+regulate the frontal cortex.
+
+01:05:33.970 --> 01:05:36.350
+And what you already can
+guess is the projection
+
+01:05:36.350 --> 01:05:39.600
+from the frontal cortex to
+the amygdala is inhibitory.
+
+01:05:39.600 --> 01:05:42.720
+The projection from the
+amygdala to the frontal cortex
+
+01:05:42.720 --> 01:05:44.260
+is inhibitory.
+
+01:05:44.260 --> 01:05:46.910
+The frontal cortex is
+trying to get the amygdala
+
+01:05:46.910 --> 01:05:48.680
+to restrain itself.
+
+01:05:48.680 --> 01:05:51.160
+The amygdala is trying
+to get the frontal cortex
+
+01:05:51.160 --> 01:05:53.000
+to stop sermonizing at it.
+
+01:05:53.000 --> 01:05:56.160
+And what you wind up seeing
+is in rats, in primates,
+
+01:05:56.160 --> 01:05:59.160
+and humans there is
+an inverse correlation
+
+01:05:59.160 --> 01:06:02.480
+under resting conditions
+between the metabolic level
+
+01:06:02.480 --> 01:06:04.850
+in the amygdala and
+the frontal cortex.
+
+01:06:04.850 --> 01:06:08.310
+They move in opposition.
+
+01:06:08.310 --> 01:06:11.540
+And what you see is, what
+are the circumstances where,
+
+01:06:11.540 --> 01:06:15.230
+in effect, the amygdala is going
+crazy enough to be silencing
+
+01:06:15.230 --> 01:06:16.620
+the frontal cortex?
+
+01:06:16.620 --> 01:06:18.170
+That's the world
+in which you are
+
+01:06:18.170 --> 01:06:22.230
+making astonishingly bad
+decisions about things
+
+01:06:22.230 --> 01:06:24.600
+during moments of great
+duress and arousal
+
+01:06:24.600 --> 01:06:26.750
+that you spend the rest
+of your life regretting.
+
+01:06:26.750 --> 01:06:30.780
+That's the world of the amygdala
+getting very inaccurate, rapid
+
+01:06:30.780 --> 01:06:34.870
+fire information, and being able
+to silence the frontal cortex.
+
+01:06:34.870 --> 01:06:38.730
+And then out comes behavior
+that is really unregulated.
+
+01:06:38.730 --> 01:06:41.380
+The frontal cortex and
+the amygdala, in a sense,
+
+01:06:41.380 --> 01:06:46.150
+constantly wrestling in
+terms of their reciprocity.
+
+01:06:46.150 --> 01:06:48.950
+So what happens when
+somebody has learned
+
+01:06:48.950 --> 01:06:50.390
+to be afraid of something?
+
+01:06:50.390 --> 01:06:53.740
+And slowly, over time, they
+learn that, in fact, this thing
+
+01:06:53.740 --> 01:06:55.300
+is not fearful?
+
+01:06:55.300 --> 01:06:59.120
+They habituate to this
+fear-conditioned response.
+
+01:06:59.120 --> 01:07:02.060
+They habituate to yoking.
+
+01:07:02.060 --> 01:07:04.700
+This buzzer means I'm
+going to get a shock.
+
+01:07:04.700 --> 01:07:06.600
+They extinguish the behavior.
+
+01:07:06.600 --> 01:07:08.380
+That's the term given for that.
+
+01:07:08.380 --> 01:07:11.660
+You gradually see the amygdala
+activates less and less.
+
+01:07:11.660 --> 01:07:13.479
+Oh, play the buzzer,
+play the tone,
+
+01:07:13.479 --> 01:07:15.770
+that you've been conditioned
+to associate with a shock.
+
+01:07:15.770 --> 01:07:17.560
+Amygdala goes crazy.
+
+01:07:17.560 --> 01:07:19.810
+No shock this time,
+do the buzzer again,
+
+01:07:19.810 --> 01:07:21.560
+no shock, not quite as active.
+
+01:07:21.560 --> 01:07:25.010
+Next time, not quite as active,
+and it slowly habituates away.
+
+01:07:25.010 --> 01:07:27.600
+Destroy the frontal
+cortex, and the amygdala
+
+01:07:27.600 --> 01:07:30.820
+never habituates to
+a learned response,
+
+01:07:30.820 --> 01:07:34.350
+a fear-conditioned response
+which is no longer fearful.
+
+01:07:34.350 --> 01:07:37.200
+It can't learn to
+stop being afraid--
+
+01:07:37.200 --> 01:07:40.750
+so another realm of this
+reciprocal inhibitory
+
+01:07:40.750 --> 01:07:46.430
+relationship between the
+frontal cortex and the amygdala.
+
+01:07:46.430 --> 01:07:50.030
+OK, final bit here in terms
+of their interactions--
+
+01:07:50.030 --> 01:07:53.410
+the easiest way to frame it
+is, each inhibits the other.
+
+01:07:53.410 --> 01:07:55.000
+They work reciprocally.
+
+01:07:55.000 --> 01:07:58.490
+There are circumstances, though,
+where both the frontal cortex
+
+01:07:58.490 --> 01:08:02.030
+and the amygdala will activate
+because all you have to think
+
+01:08:02.030 --> 01:08:04.850
+are of some circumstances
+where whatever
+
+01:08:04.850 --> 01:08:08.770
+your cultural conditioning is,
+doing the harder thing, which
+
+01:08:08.770 --> 01:08:11.980
+is the right thing, is
+also the scarier thing.
+
+01:08:11.980 --> 01:08:14.540
+Just think what it takes to
+have somebody blow a whistle.
+
+01:08:14.540 --> 01:08:17.729
+And you leap up over the top
+of your trench in World War I.
+
+01:08:17.729 --> 01:08:19.810
+And you're going
+to be dead 10 steps
+
+01:08:19.810 --> 01:08:22.029
+into running towards
+the other trench line.
+
+01:08:22.029 --> 01:08:24.279
+At some point,
+the frontal cortex
+
+01:08:24.279 --> 01:08:27.840
+is, in fact, stimulating
+the amygdala very strongly
+
+01:08:27.840 --> 01:08:29.490
+to produce its behaviors.
+
+01:08:29.490 --> 01:08:32.240
+That's showing a circumstance
+where that is, indeed,
+
+01:08:32.240 --> 01:08:33.160
+the harder behavior.
+
+01:08:33.160 --> 01:08:37.200
+It is simplifying to say that
+they always work in opposition.
+
+01:08:37.200 --> 01:08:39.399
+But as a general rule,
+that's happening.
+
+01:08:39.399 --> 01:08:42.689
+OK, what this allows us
+do now is step back a bit
+
+01:08:42.689 --> 01:08:45.430
+and now look at another
+brain region, one
+
+01:08:45.430 --> 01:08:48.270
+which is in effect
+working in opposition
+
+01:08:48.270 --> 01:08:52.199
+to the amygdala in another
+realm, which is the septum.
+
+01:08:52.199 --> 01:08:53.720
+And you remember the septum.
+
+01:08:53.720 --> 01:08:57.229
+The hippocampus sends its
+loop through the fornix
+
+01:08:57.229 --> 01:08:58.710
+down to that septum thing.
+
+01:08:58.710 --> 01:09:02.100
+In some manner, the septum
+inhibits aggression.
+
+01:09:02.100 --> 01:09:04.760
+In the same way that,
+simplistically, the amygdala
+
+01:09:04.760 --> 01:09:07.590
+mediates it, the exact
+same sort of evidence,
+
+01:09:07.590 --> 01:09:10.960
+lesion studies, stimulation
+studies, recording studies.
+
+01:09:10.960 --> 01:09:13.100
+For reasons I don't
+fully understand,
+
+01:09:13.100 --> 01:09:15.460
+the septum has never
+been really a hot spot
+
+01:09:15.460 --> 01:09:16.790
+for a lot of research.
+
+01:09:16.790 --> 01:09:19.680
+Nonetheless, it, in some
+ways, works in opposition
+
+01:09:19.680 --> 01:09:20.920
+to the amygdala.
+
+01:09:20.920 --> 01:09:23.410
+You could now sit with
+one of those circuit
+
+01:09:23.410 --> 01:09:26.800
+diagrams of the limbic system
+seeing who's connecting to who.
+
+01:09:26.800 --> 01:09:29.060
+And you could see
+what sort of wiring
+
+01:09:29.060 --> 01:09:31.090
+there must be for
+the septum to try
+
+01:09:31.090 --> 01:09:35.080
+to silence the amygdala, what
+the circuitry there would be.
+
+01:09:35.080 --> 01:09:37.810
+Back to that limbic rule,
+all these limbic structures
+
+01:09:37.810 --> 01:09:39.910
+are trying to yell
+at the hypothalamus
+
+01:09:39.910 --> 01:09:43.630
+and get it to listen to them
+and not to the other regions.
+
+01:09:43.630 --> 01:09:45.950
+Another area implicated
+in aggression--
+
+01:09:45.950 --> 01:09:50.450
+the lateral
+hypothalamus, subject
+
+01:09:50.450 --> 01:09:53.220
+of a huge amount of research
+in the 1960s, people
+
+01:09:53.220 --> 01:09:54.470
+interested in aggression.
+
+01:09:54.470 --> 01:09:56.984
+And then people acted
+like ethologists
+
+01:09:56.984 --> 01:09:58.650
+and learned the thing
+that we've already
+
+01:09:58.650 --> 01:10:02.160
+talked about a bit in here,
+which is, oh, actually
+
+01:10:02.160 --> 01:10:04.980
+the lateral hypothalamus has
+nothing to do with aggression.
+
+01:10:04.980 --> 01:10:07.070
+It's got to do with
+predatory behavior.
+
+01:10:07.070 --> 01:10:10.090
+When a rat leaps on a
+mouse and shreds it,
+
+01:10:10.090 --> 01:10:11.570
+that's not an act of aggression.
+
+01:10:11.570 --> 01:10:13.380
+That's an act of foraging.
+
+01:10:13.380 --> 01:10:18.680
+Oh, lateral hypothalamus, food
+acquisition, not aggression.
+
+01:10:18.680 --> 01:10:21.700
+Tons of research in the
+'60s went down the tubes
+
+01:10:21.700 --> 01:10:24.600
+when people began
+to figure that out.
+
+01:10:24.600 --> 01:10:27.670
+Now flipping to the other
+side of all of this stuff
+
+01:10:27.670 --> 01:10:30.800
+rather than the aggression
+realm, the empathy realm,
+
+01:10:30.800 --> 01:10:33.870
+the compassionate realm-- where
+are the structures coming in?
+
+01:10:33.870 --> 01:10:36.450
+And we already know
+one area from the sex
+
+01:10:36.450 --> 01:10:38.130
+lectures that is
+pertinent, which
+
+01:10:38.130 --> 01:10:41.230
+is the anterior
+cingulate, sitting just
+
+01:10:41.230 --> 01:10:42.970
+behind the frontal cortex.
+
+01:10:42.970 --> 01:10:45.550
+And we already know about some
+of the things that it does.
+
+01:10:45.550 --> 01:10:47.540
+Remember, that's the
+part of the brain,
+
+01:10:47.540 --> 01:10:51.600
+somebody pokes your finger, it
+activates, along with your pain
+
+01:10:51.600 --> 01:10:53.060
+receptor pathways.
+
+01:10:53.060 --> 01:10:56.090
+You watch the finger of your
+loved on gets poked with a pin,
+
+01:10:56.090 --> 01:10:58.910
+anterior cingulate
+activates as well.
+
+01:10:58.910 --> 01:11:02.120
+That is the part of the brain
+where, literally and not just
+
+01:11:02.120 --> 01:11:06.490
+metaphorically, you feel the
+pain of other individuals.
+
+01:11:06.490 --> 01:11:07.670
+How is this?
+
+01:11:07.670 --> 01:11:10.400
+Now, a study-- this was done
+recently by a guy at Harvard
+
+01:11:10.400 --> 01:11:11.420
+named Josh Green.
+
+01:11:11.420 --> 01:11:14.770
+What he does is he puts people
+in brain scanners, functional
+
+01:11:14.770 --> 01:11:15.470
+MRIs.
+
+01:11:15.470 --> 01:11:18.890
+And he gives them one of
+the great, horrifying moral
+
+01:11:18.890 --> 01:11:21.270
+decisions that ever
+sort of actually
+
+01:11:21.270 --> 01:11:24.660
+occurred in history, which
+was the old scenario that
+
+01:11:24.660 --> 01:11:28.140
+and a bunch of people are hiding
+from the Nazis who are nearby.
+
+01:11:28.140 --> 01:11:30.020
+And there is a baby with you.
+
+01:11:30.020 --> 01:11:31.760
+And the baby who keeps crying.
+
+01:11:31.760 --> 01:11:33.370
+And it is clear
+if the baby keeps
+
+01:11:33.370 --> 01:11:35.880
+crying you are all going
+to be caught and killed.
+
+01:11:35.880 --> 01:11:38.110
+Is it OK to smother the child?
+
+01:11:38.110 --> 01:11:40.370
+And this wonderfully
+hypothetical,
+
+01:11:40.370 --> 01:11:42.590
+let's write a doctoral
+thesis dissertation
+
+01:11:42.590 --> 01:11:44.620
+on this problem
+here, was one which
+
+01:11:44.620 --> 01:11:46.810
+was a human sort
+of decision that
+
+01:11:46.810 --> 01:11:48.900
+had to be made endless
+number of times.
+
+01:11:48.900 --> 01:11:51.240
+What would you do in
+that circumstance?
+
+01:11:51.240 --> 01:11:53.260
+And what he shows
+in these studies
+
+01:11:53.260 --> 01:11:57.610
+are that people who activate
+the anterior cingulate less
+
+01:11:57.610 --> 01:11:59.930
+when they are
+contemplating this decision
+
+01:11:59.930 --> 01:12:02.380
+are more likely to reach
+the decision that it
+
+01:12:02.380 --> 01:12:04.740
+is OK to smother the child.
+
+01:12:04.740 --> 01:12:08.730
+You see that in these studies,
+something about the feeling
+
+01:12:08.730 --> 01:12:11.970
+the pain element,
+the empathizing,
+
+01:12:11.970 --> 01:12:14.920
+something about that,
+when it is not as extreme,
+
+01:12:14.920 --> 01:12:17.810
+that it is a predictor in these
+studies of the individuals
+
+01:12:17.810 --> 01:12:20.030
+who will vote for
+the smothering.
+
+01:12:20.030 --> 01:12:22.740
+All of this has given
+rise to this view
+
+01:12:22.740 --> 01:12:25.970
+that a lot of what's
+happening between the cortex
+
+01:12:25.970 --> 01:12:28.970
+and the limbic system is a
+whole lot more complicated
+
+01:12:28.970 --> 01:12:32.807
+than this old dichotomy
+between thought and emotion.
+
+01:12:32.807 --> 01:12:34.140
+And the cortex is about thought.
+
+01:12:34.140 --> 01:12:35.910
+And the limbic system
+is about emotion.
+
+01:12:35.910 --> 01:12:39.000
+What is clear is, instead,
+they are inseparable.
+
+01:12:39.000 --> 01:12:40.900
+This whole notion
+brought up already,
+
+01:12:40.900 --> 01:12:44.400
+that Guy Damasio, major figure
+in the field, this book of his
+
+01:12:44.400 --> 01:12:46.200
+called Descartes'
+Error, where he
+
+01:12:46.200 --> 01:12:50.310
+goes over Descartes' notion
+of the separability of thought
+
+01:12:50.310 --> 01:12:52.720
+and emotion, and how in
+terms of brain function
+
+01:12:52.720 --> 01:12:54.770
+that is not remotely the case.
+
+01:12:54.770 --> 01:12:57.290
+In some realms,
+you can partially
+
+01:12:57.290 --> 01:13:01.780
+separate frontal cortical
+function from limbic function.
+
+01:13:01.780 --> 01:13:04.780
+One example of this-- and
+this was a classic study done
+
+01:13:04.780 --> 01:13:06.397
+by that same guy, Josh Green.
+
+01:13:06.397 --> 01:13:08.480
+And this was when he was
+still a graduate student.
+
+01:13:08.480 --> 01:13:11.430
+It involved making use of
+people with a brain scanner
+
+01:13:11.430 --> 01:13:13.950
+with what's apparently
+a classic test
+
+01:13:13.950 --> 01:13:16.140
+in, or a classic
+puzzle in, philosophy--
+
+01:13:16.140 --> 01:13:18.620
+the runaway trolley problem.
+
+01:13:18.620 --> 01:13:20.220
+Here's the scenario.
+
+01:13:20.220 --> 01:13:22.110
+There is a trolley
+which is somehow
+
+01:13:22.110 --> 01:13:23.650
+broken loose from its brake.
+
+01:13:23.650 --> 01:13:25.490
+It is rolling down
+the tracks, where
+
+01:13:25.490 --> 01:13:29.180
+it is going to roll over
+there and kill five people.
+
+01:13:29.180 --> 01:13:31.560
+First scenario,
+you have a choice.
+
+01:13:31.560 --> 01:13:34.880
+You can pull a lever, which
+will cause the trolley
+
+01:13:34.880 --> 01:13:36.960
+to be diverted onto a
+different track, where
+
+01:13:36.960 --> 01:13:38.710
+it will kill one person.
+
+01:13:38.710 --> 01:13:42.540
+Is it OK to pull the lever,
+saving these five people,
+
+01:13:42.540 --> 01:13:44.530
+and one person getting killed?
+
+01:13:44.530 --> 01:13:47.160
+Second scenario, you
+have the option--
+
+01:13:47.160 --> 01:13:49.590
+you're standing behind
+this big beefy person.
+
+01:13:49.590 --> 01:13:52.580
+And you can push him onto the
+track, where the trolley will
+
+01:13:52.580 --> 01:13:53.810
+hit them and kill them.
+
+01:13:53.810 --> 01:13:57.350
+But it will stop it from
+hitting the five people.
+
+01:13:57.350 --> 01:14:01.200
+Are you willing to kill one
+person in order to save five?
+
+01:14:01.200 --> 01:14:03.860
+And something that is shown
+in these studies over and over
+
+01:14:03.860 --> 01:14:08.080
+is 75% of people are
+willing to pull the lever.
+
+01:14:08.080 --> 01:14:11.640
+25% of people or so or
+willing with their own hands
+
+01:14:11.640 --> 01:14:13.560
+to push somebody onto the track.
+
+01:14:13.560 --> 01:14:16.410
+The math, the logic,
+is absolutely equal.
+
+01:14:16.410 --> 01:14:18.860
+But this is always
+interpreted as how
+
+01:14:18.860 --> 01:14:20.730
+we make different
+sorts of decisions
+
+01:14:20.730 --> 01:14:23.700
+when it is a much more
+visceral, in your face,
+
+01:14:23.700 --> 01:14:27.020
+you are going to have to
+push this person to his death
+
+01:14:27.020 --> 01:14:28.870
+with your own hands,
+versus something
+
+01:14:28.870 --> 01:14:31.850
+as impersonal as
+pulling a lever sitting
+
+01:14:31.850 --> 01:14:35.200
+in a cockpit in a military
+base in Las Vegas,
+
+01:14:35.200 --> 01:14:37.360
+and killing people on the
+other side of the globe.
+
+01:14:37.360 --> 01:14:39.760
+How salient, in your face is it?
+
+01:14:39.760 --> 01:14:42.780
+You get very
+different responses.
+
+01:14:42.780 --> 01:14:45.110
+And what Green showed
+in his study was,
+
+01:14:45.110 --> 01:14:47.180
+have people contemplating
+whether or not
+
+01:14:47.180 --> 01:14:50.450
+to pull the lever, it's the
+cortex that's activating--
+
+01:14:50.450 --> 01:14:52.320
+predominantly frontal cortex.
+
+01:14:52.320 --> 01:14:55.420
+Have people decide whether or
+not to push with their hands,
+
+01:14:55.420 --> 01:14:58.347
+it's predominately
+limbic activation.
+
+01:14:58.347 --> 01:15:00.430
+Another version of this--
+this has been researched
+
+01:15:00.430 --> 01:15:02.920
+by a guy at Dartmouth named
+Oliver Goodenough-- again,
+
+01:15:02.920 --> 01:15:03.990
+brain imaging.
+
+01:15:03.990 --> 01:15:06.750
+And he is both a neurobiologist
+and also on the law
+
+01:15:06.750 --> 01:15:08.040
+school faculty there.
+
+01:15:08.040 --> 01:15:09.720
+And here's the sort
+of study he does.
+
+01:15:09.720 --> 01:15:11.780
+You will see the
+equivalency of it.
+
+01:15:11.780 --> 01:15:13.060
+Put people in a scanner.
+
+01:15:13.060 --> 01:15:15.790
+And they've been going
+through a mock jury trial.
+
+01:15:15.790 --> 01:15:18.020
+And what they now
+receive on the scanner
+
+01:15:18.020 --> 01:15:20.690
+are the judge's
+orders to the jury
+
+01:15:20.690 --> 01:15:22.560
+before they go and deliberate.
+
+01:15:22.560 --> 01:15:26.460
+First version, the judge says,
+remember what you are here for.
+
+01:15:26.460 --> 01:15:27.636
+You may have your feelings.
+
+01:15:27.636 --> 01:15:30.260
+You may have your feelings about
+the person, and what they did,
+
+01:15:30.260 --> 01:15:31.390
+or what they didn't do.
+
+01:15:31.390 --> 01:15:35.390
+But at the end of the day, your
+job as a juror now deliberating
+
+01:15:35.390 --> 01:15:39.440
+is simply to decide, was
+this law violated or not?
+
+01:15:39.440 --> 01:15:42.060
+This is not for you to decide
+if it's a good law or not.
+
+01:15:42.060 --> 01:15:45.030
+This is simply, was
+this law broken?
+
+01:15:45.030 --> 01:15:48.082
+Second scenario, the judge
+stands there and says, OK,
+
+01:15:48.082 --> 01:15:49.540
+as you go and
+deliberate, remember,
+
+01:15:49.540 --> 01:15:50.665
+of course, what the law is.
+
+01:15:50.665 --> 01:15:53.470
+But, remember, at the end of the
+day, what is this system about?
+
+01:15:53.470 --> 01:15:56.410
+It is about protecting the
+weak from the powerful.
+
+01:15:56.410 --> 01:15:59.060
+And you are a decision
+maker at this point-- two
+
+01:15:59.060 --> 01:15:59.990
+totally different.
+
+01:15:59.990 --> 01:16:01.330
+One is rule bound.
+
+01:16:01.330 --> 01:16:02.690
+On is empathy bound.
+
+01:16:02.690 --> 01:16:06.040
+People get the first sets of
+rules, cortex is activating.
+
+01:16:06.040 --> 01:16:09.040
+Second set of rules, limbic
+system is activating.
+
+01:16:09.040 --> 01:16:11.160
+So those are some domains
+where, in fact, they
+
+01:16:11.160 --> 01:16:13.170
+are quite separable.
+
+01:16:13.170 --> 01:16:15.490
+What you see,
+though, is that there
+
+01:16:15.490 --> 01:16:18.490
+are all sorts of domains
+in which it is a completely
+
+01:16:18.490 --> 01:16:21.650
+ridiculous dichotomy
+to make between, oh,
+
+01:16:21.650 --> 01:16:25.280
+pure abstract cognitive
+decisions, and these messy,
+
+01:16:25.280 --> 01:16:28.100
+yucky, emotive limbic
+sorts of ones--
+
+01:16:28.100 --> 01:16:31.820
+instead, tremendous amounts of
+interactions between the two.
+
+01:16:31.820 --> 01:16:34.450
+One domain where
+you see this, which
+
+01:16:34.450 --> 01:16:37.390
+is what happens when
+you begin to damage
+
+01:16:37.390 --> 01:16:38.510
+some of these structures?
+
+01:16:38.510 --> 01:16:41.860
+You change the flavor of
+the decisions that are made.
+
+01:16:41.860 --> 01:16:44.110
+Get people with frontal damage.
+
+01:16:44.110 --> 01:16:46.880
+And give them the
+runaway trolley problem.
+
+01:16:46.880 --> 01:16:49.330
+And they are far more
+likely to say, yes,
+
+01:16:49.330 --> 01:16:52.570
+it is OK to push
+somebody onto the tracks.
+
+01:16:52.570 --> 01:16:56.200
+They get a far more
+utilitarian decision.
+
+01:16:56.200 --> 01:16:58.770
+Equally interesting, and
+the same sort of punch line,
+
+01:16:58.770 --> 01:17:01.240
+studies where a technique
+that's now just being worked out
+
+01:17:01.240 --> 01:17:03.340
+called transmagnetic
+stimulation,
+
+01:17:03.340 --> 01:17:06.140
+were you can
+decrease the activity
+
+01:17:06.140 --> 01:17:09.520
+of certain cortical regions for
+a couple of minutes at a time.
+
+01:17:09.520 --> 01:17:13.260
+Turn off one sub region of
+the frontal cortex in people,
+
+01:17:13.260 --> 01:17:14.250
+in volunteers.
+
+01:17:14.250 --> 01:17:16.890
+And in various game theory
+games that they're doing,
+
+01:17:16.890 --> 01:17:19.500
+they become a lot
+more utilitarian.
+
+01:17:19.500 --> 01:17:21.620
+They become a lot more selfish.
+
+01:17:21.620 --> 01:17:24.920
+So modulating interactions
+between there,
+
+01:17:24.920 --> 01:17:27.070
+cross talk between the two.
+
+01:17:27.070 --> 01:17:29.530
+In some ways the most
+interesting demonstration
+
+01:17:29.530 --> 01:17:32.040
+for me of the ways in which
+these are not separable,
+
+01:17:32.040 --> 01:17:34.580
+this thought from
+emotion stuff, is
+
+01:17:34.580 --> 01:17:36.790
+this really interesting
+domain of how
+
+01:17:36.790 --> 01:17:39.360
+the human brain does metaphor.
+
+01:17:39.360 --> 01:17:41.350
+OK, so we get to symbols.
+
+01:17:41.350 --> 01:17:42.920
+We get to abstract things.
+
+01:17:42.920 --> 01:17:46.310
+We get into a world where
+we have a legal system
+
+01:17:46.310 --> 01:17:49.080
+where not only can we judge
+that somebody has done something
+
+01:17:49.080 --> 01:17:51.960
+wrong to somebody else, if they
+have murdered them, or stolen
+
+01:17:51.960 --> 01:17:53.000
+their possessions.
+
+01:17:53.000 --> 01:17:55.930
+But they can be viewed as having
+done something transgressive
+
+01:17:55.930 --> 01:17:59.120
+if they've ruined the
+reputation of somebody else,
+
+01:17:59.120 --> 01:18:02.980
+if they've stolen the ideas
+of somebody else, plagiarism.
+
+01:18:02.980 --> 01:18:06.200
+This is a very abstract
+world of judgments we have.
+
+01:18:06.200 --> 01:18:08.850
+These are very symbolic
+realms of decision
+
+01:18:08.850 --> 01:18:10.890
+making we are often into.
+
+01:18:10.890 --> 01:18:13.330
+Yet, we have this
+problem that we
+
+01:18:13.330 --> 01:18:17.520
+have this very old evolutionary
+brain that did not necessarily
+
+01:18:17.520 --> 01:18:20.430
+evolve for doing
+symbols and metaphors.
+
+01:18:20.430 --> 01:18:22.190
+And one of the things
+you wind of seeing
+
+01:18:22.190 --> 01:18:25.080
+is when the brain
+evolved the ability
+
+01:18:25.080 --> 01:18:27.620
+to do some of this more
+metaphorical stuff,
+
+01:18:27.620 --> 01:18:31.050
+it had to make use of the
+old circuitry that was there.
+
+01:18:31.050 --> 01:18:32.980
+And, thus, what
+you wind up seeing
+
+01:18:32.980 --> 01:18:37.350
+is very often when dealing
+with extremely abstract issues
+
+01:18:37.350 --> 01:18:39.550
+of decision making,
+we treat some
+
+01:18:39.550 --> 01:18:41.610
+of the metaphorical
+components as
+
+01:18:41.610 --> 01:18:43.870
+if they were absolutely real.
+
+01:18:43.870 --> 01:18:45.720
+What would be an
+example of this?
+
+01:18:45.720 --> 01:18:50.000
+Here's one very cool study
+that was done recently.
+
+01:18:50.000 --> 01:18:53.170
+So your body and your
+brain is very wired
+
+01:18:53.170 --> 01:18:55.700
+up for doing
+temperature regulation.
+
+01:18:55.700 --> 01:18:56.730
+Oh, this is hot.
+
+01:18:56.730 --> 01:18:57.660
+This is cold.
+
+01:18:57.660 --> 01:18:59.070
+These are different
+temperatures.
+
+01:18:59.070 --> 01:19:02.330
+There's a whole metric,
+in temperature-sensitive
+
+01:19:02.330 --> 01:19:03.340
+receptors.
+
+01:19:03.340 --> 01:19:05.330
+And there's a whole
+circuitry thing.
+
+01:19:05.330 --> 01:19:08.080
+And it's going about
+the very physical task
+
+01:19:08.080 --> 01:19:10.530
+in the very real world
+of telling something
+
+01:19:10.530 --> 01:19:13.970
+about temperature oscillation
+of ions, or whatever.
+
+01:19:13.970 --> 01:19:15.550
+Get a hold of this study.
+
+01:19:15.550 --> 01:19:17.060
+Somebody is coming
+up through what
+
+01:19:17.060 --> 01:19:18.940
+they believe is some
+sort of psych testing
+
+01:19:18.940 --> 01:19:20.510
+that they have volunteered for.
+
+01:19:20.510 --> 01:19:22.670
+They get in the
+elevator to go up.
+
+01:19:22.670 --> 01:19:25.560
+And the actual experiment
+has started in the elevator.
+
+01:19:25.560 --> 01:19:27.689
+Somebody working on the
+experiment comes in.
+
+01:19:27.689 --> 01:19:29.480
+And they're holding a
+whole bunch of books,
+
+01:19:29.480 --> 01:19:30.710
+and barely holding on to them.
+
+01:19:30.710 --> 01:19:32.270
+And they're having
+a cup of something.
+
+01:19:32.270 --> 01:19:34.200
+And they ask the person,
+can you do me a favor?
+
+01:19:34.200 --> 01:19:35.158
+I'm about to drop this.
+
+01:19:35.158 --> 01:19:37.070
+Could you just hold
+this cup until we get up
+
+01:19:37.070 --> 01:19:38.310
+to the fourth floor?
+
+01:19:38.310 --> 01:19:41.100
+In one case, the
+cup is iced tea.
+
+01:19:41.100 --> 01:19:42.750
+The cup is cold.
+
+01:19:42.750 --> 01:19:46.740
+In the other case, the
+cup is warm tea, warm.
+
+01:19:46.740 --> 01:19:48.720
+So the person spends
+about 15 seconds
+
+01:19:48.720 --> 01:19:51.489
+holding either this cold
+cup or this hot cup.
+
+01:19:51.489 --> 01:19:53.030
+And the person thanks
+them afterward.
+
+01:19:53.030 --> 01:19:54.200
+And out they go.
+
+01:19:54.200 --> 01:19:56.090
+And then they are
+asked to evaluate
+
+01:19:56.090 --> 01:19:58.440
+the personality of the
+person they just interacted
+
+01:19:58.440 --> 01:19:59.560
+with in the elevator.
+
+01:19:59.560 --> 01:20:02.430
+And hold the warm cup,
+and you rate the person
+
+01:20:02.430 --> 01:20:07.220
+as having a warmer, more
+expressive personality.
+
+01:20:07.220 --> 01:20:09.920
+No, no, no, temperature
+we're talking about,
+
+01:20:09.920 --> 01:20:12.180
+like how fast molecules
+are oscillating.
+
+01:20:12.180 --> 01:20:13.830
+That's what temperature is.
+
+01:20:13.830 --> 01:20:15.870
+Warmth, that's just a metaphor.
+
+01:20:15.870 --> 01:20:17.230
+They get intermixed.
+
+01:20:17.230 --> 01:20:19.690
+When brains had to invent
+dealing with things
+
+01:20:19.690 --> 01:20:23.130
+like how warm of a
+personality somebody has,
+
+01:20:23.130 --> 01:20:25.330
+or even something
+as nutty as how warm
+
+01:20:25.330 --> 01:20:27.840
+is the color of the
+carpeting in this room,
+
+01:20:27.840 --> 01:20:29.540
+where are you going to stuff it?
+
+01:20:29.540 --> 01:20:31.930
+In some way, it
+is hijacking some
+
+01:20:31.930 --> 01:20:34.980
+of the far more literal
+pathways of storage
+
+01:20:34.980 --> 01:20:36.770
+of information in the brain.
+
+01:20:36.770 --> 01:20:39.530
+Another example-- here
+is a wonderful one.
+
+01:20:39.530 --> 01:20:42.530
+We already know that the same
+part of the brain, the anterior
+
+01:20:42.530 --> 01:20:45.000
+cingulate that will tell
+you that your finger was
+
+01:20:45.000 --> 01:20:48.390
+just poked, is telling you
+that somebody else's finger was
+
+01:20:48.390 --> 01:20:48.890
+poked.
+
+01:20:48.890 --> 01:20:52.570
+You are feeling their pain in
+the same part of the brain that
+
+01:20:52.570 --> 01:20:54.990
+is doing pain in the
+literal sort of way,
+
+01:20:54.990 --> 01:20:58.140
+another case of the brain
+kind of mixing metaphor
+
+01:20:58.140 --> 01:21:00.120
+and symbol with the real thing.
+
+01:21:00.120 --> 01:21:02.850
+Here's a particularly
+interesting version.
+
+01:21:02.850 --> 01:21:06.620
+Go get yourself exposed
+to some totally rotting,
+
+01:21:06.620 --> 01:21:09.700
+smelly carcass, or
+inadvertently take a bite
+
+01:21:09.700 --> 01:21:12.300
+into some truly rotten food.
+
+01:21:12.300 --> 01:21:14.890
+And you will have an area
+of the brain activate called
+
+01:21:14.890 --> 01:21:17.310
+the insular cortex.
+
+01:21:17.310 --> 01:21:19.560
+And what that does in
+every species looked at
+
+01:21:19.560 --> 01:21:24.770
+is it processes foul,
+disgusting stimuli-- disgusting
+
+01:21:24.770 --> 01:21:27.580
+spoiled food, or rotten,
+smell all of that.
+
+01:21:27.580 --> 01:21:29.970
+That's what the
+insular cortex does.
+
+01:21:29.970 --> 01:21:34.190
+And, no doubt, there's
+tongue receptors telling you
+
+01:21:34.190 --> 01:21:37.220
+bacterial loads, or acidity
+of this rotten food,
+
+01:21:37.220 --> 01:21:38.420
+or some such thing.
+
+01:21:38.420 --> 01:21:40.860
+And that's what this
+part of the brain does.
+
+01:21:40.860 --> 01:21:42.930
+Now, sit down a person.
+
+01:21:42.930 --> 01:21:46.490
+And tell them a story of
+somebody being totally, totally
+
+01:21:46.490 --> 01:21:51.040
+mistreated by somebody powerful,
+and some completely exploited
+
+01:21:51.040 --> 01:21:52.480
+of horrible circumstance.
+
+01:21:52.480 --> 01:21:55.960
+And the insular
+cortex will activate.
+
+01:21:55.960 --> 01:21:58.640
+Have somebody play some
+game with somebody else,
+
+01:21:58.640 --> 01:22:00.560
+one of the prisoner's
+dilemma type games,
+
+01:22:00.560 --> 01:22:02.851
+where the person
+totally stabs him
+
+01:22:02.851 --> 01:22:04.850
+in the back, the person
+they're playing against.
+
+01:22:04.850 --> 01:22:08.280
+And gets away with it, and
+make a really exploitative,
+
+01:22:08.280 --> 01:22:09.400
+rotten gesture.
+
+01:22:09.400 --> 01:22:12.580
+And the insular
+cortex activates.
+
+01:22:12.580 --> 01:22:15.780
+Sit somebody down and
+say in the control group,
+
+01:22:15.780 --> 01:22:17.370
+tell me about some
+event that happened
+
+01:22:17.370 --> 01:22:18.520
+when you were growing up.
+
+01:22:18.520 --> 01:22:21.570
+Versus the experimental
+group, tell me about a time
+
+01:22:21.570 --> 01:22:24.690
+when you were growing up that
+you did something really awful
+
+01:22:24.690 --> 01:22:26.050
+to somebody else.
+
+01:22:26.050 --> 01:22:28.190
+And the person describes
+that circumstance.
+
+01:22:28.190 --> 01:22:31.160
+And the insular
+cortex activates.
+
+01:22:31.160 --> 01:22:33.680
+What does this part
+of the brain do?
+
+01:22:33.680 --> 01:22:36.390
+It's saying, oh, yes, this
+food is full of maggots
+
+01:22:36.390 --> 01:22:37.940
+and does not taste very well.
+
+01:22:37.940 --> 01:22:41.240
+But it also does moral disgust.
+
+01:22:41.240 --> 01:22:44.490
+When you are feeling
+disgusted with how someone
+
+01:22:44.490 --> 01:22:48.190
+has been treated, when how you
+have been treated it activates.
+
+01:22:48.190 --> 01:22:51.460
+When you are having
+moral self-disgust
+
+01:22:51.460 --> 01:22:54.000
+recounting something
+awful you did to somebody,
+
+01:22:54.000 --> 01:22:55.870
+this part of the
+brain activates.
+
+01:22:55.870 --> 01:22:59.270
+My God, don't they realize
+up there this is a metaphor?
+
+01:22:59.270 --> 01:23:01.230
+You're not really
+eating rotten food.
+
+01:23:01.230 --> 01:23:05.080
+And every language on
+Earth has words referring
+
+01:23:05.080 --> 01:23:07.850
+to moral failures
+with words denoting
+
+01:23:07.850 --> 01:23:10.780
+gustatory, repellent stimuli.
+
+01:23:10.780 --> 01:23:13.200
+I am disgusted by what you did.
+
+01:23:13.200 --> 01:23:15.440
+The fact that they did
+this, when I hear about what
+
+01:23:15.440 --> 01:23:17.200
+they did, it makes me nauseous.
+
+01:23:17.200 --> 01:23:19.460
+Something about
+this smells rotten.
+
+01:23:19.460 --> 01:23:22.430
+Every culture has
+terms that intermixes
+
+01:23:22.430 --> 01:23:25.880
+literal sensory disgust
+with moral disgust.
+
+01:23:25.880 --> 01:23:28.810
+And what that's telling you
+is that when humans came up
+
+01:23:28.810 --> 01:23:31.490
+with something as fancy
+as moral transgressions,
+
+01:23:31.490 --> 01:23:33.550
+where are you going to
+stick the sense of outrage
+
+01:23:33.550 --> 01:23:35.425
+you feel when there is
+a moral transgression?
+
+01:23:35.425 --> 01:23:36.930
+I know.
+
+01:23:36.930 --> 01:23:38.730
+Let's hijack the part
+of the brain that
+
+01:23:38.730 --> 01:23:41.110
+tells you you're eating
+some rotten food,
+
+01:23:41.110 --> 01:23:43.410
+shoehorning into there.
+
+01:23:43.410 --> 01:23:46.430
+Now what you see is
+it is possible for us
+
+01:23:46.430 --> 01:23:50.090
+to begin to confuse on which
+level those areas are working.
+
+01:23:50.090 --> 01:23:52.500
+Another study, amazing
+one a couple of years
+
+01:23:52.500 --> 01:23:54.420
+ago-- here's what was
+done in the study.
+
+01:23:54.420 --> 01:23:56.030
+You take people.
+
+01:23:56.030 --> 01:23:58.030
+And you put them
+through their paces
+
+01:23:58.030 --> 01:23:59.807
+of either telling me
+something wonderful
+
+01:23:59.807 --> 01:24:01.390
+you did when you
+were a kid, something
+
+01:24:01.390 --> 01:24:05.010
+neutral, or some moral
+transgression you once had.
+
+01:24:05.010 --> 01:24:06.060
+Tell me all about it.
+
+01:24:06.060 --> 01:24:08.010
+And then afterward,
+saying, well,
+
+01:24:08.010 --> 01:24:09.975
+thanks for
+participating in this.
+
+01:24:09.975 --> 01:24:11.640
+And tell you what?
+
+01:24:11.640 --> 01:24:13.240
+We can't pay you.
+
+01:24:13.240 --> 01:24:15.930
+But we can either
+give you this pen set.
+
+01:24:15.930 --> 01:24:18.640
+Or we can give you
+this nice flash drive.
+
+01:24:18.640 --> 01:24:23.110
+Or we can give you this little
+soap set of scented soaps,
+
+01:24:23.110 --> 01:24:23.760
+or whatever.
+
+01:24:23.760 --> 01:24:27.020
+And have people talk about
+their moral failings,
+
+01:24:27.020 --> 01:24:30.450
+and they're more likely to
+choose the soap afterward.
+
+01:24:30.450 --> 01:24:34.340
+People want to wash their
+hands of their sins.
+
+01:24:34.340 --> 01:24:38.290
+And starting with [? pilot ?]
+washing his hands of whatever,
+
+01:24:38.290 --> 01:24:42.570
+this is in intermixing of
+metaphor with reality, showing
+
+01:24:42.570 --> 01:24:44.240
+how clearly this was the case.
+
+01:24:44.240 --> 01:24:47.740
+Now what they next did in the
+study was have people wallow
+
+01:24:47.740 --> 01:24:50.710
+in recounting something awful
+they had done to somebody else.
+
+01:24:50.710 --> 01:24:53.112
+And then they were allowed
+to go to the bathroom.
+
+01:24:53.112 --> 01:24:54.570
+And I don't quite
+remember how they
+
+01:24:54.570 --> 01:24:57.028
+did this, if they had cameras
+in the bathroom, which I kind
+
+01:24:57.028 --> 01:24:59.980
+of suspect they didn't, or if
+they weighed the soap afterward
+
+01:24:59.980 --> 01:25:00.550
+or something.
+
+01:25:00.550 --> 01:25:03.340
+But people who had just gone
+through the moral transgression
+
+01:25:03.340 --> 01:25:05.590
+recounting were much more
+likely to go in the bathroom
+
+01:25:05.590 --> 01:25:07.480
+and washed their
+hands at that point.
+
+01:25:07.480 --> 01:25:09.310
+But now what they
+had were people
+
+01:25:09.310 --> 01:25:12.010
+who had done the moral
+transgression recounting.
+
+01:25:12.010 --> 01:25:14.260
+Either they were
+given the opportunity
+
+01:25:14.260 --> 01:25:16.910
+to wash their hands
+afterward of it.
+
+01:25:16.910 --> 01:25:19.920
+Or they were not
+given the opportunity.
+
+01:25:19.920 --> 01:25:22.780
+Now sitting in the
+test room, what happens
+
+01:25:22.780 --> 01:25:23.940
+is the staged thing.
+
+01:25:23.940 --> 01:25:26.340
+One of the people
+working on the project
+
+01:25:26.340 --> 01:25:28.550
+comes in holding a
+whole bunch of books,
+
+01:25:28.550 --> 01:25:30.960
+and accidentally drops them.
+
+01:25:30.960 --> 01:25:34.070
+And a bunch of pencils
+scattered all over the floor.
+
+01:25:34.070 --> 01:25:38.810
+If you were allowed to wash your
+hands of your metaphorical sins
+
+01:25:38.810 --> 01:25:41.420
+in the previous few minutes,
+what they showed was
+
+01:25:41.420 --> 01:25:45.750
+you were less likely to
+jump up and help the person.
+
+01:25:45.750 --> 01:25:48.270
+People translating
+a sense of being
+
+01:25:48.270 --> 01:25:52.960
+morally soiled into being an
+imperative of helping somebody
+
+01:25:52.960 --> 01:25:53.550
+else.
+
+01:25:53.550 --> 01:25:57.080
+Let somebody go wash their hands
+of recounting the awful thing
+
+01:25:57.080 --> 01:25:58.820
+they did to somebody
+else, and they're
+
+01:25:58.820 --> 01:26:01.330
+less likely to help
+people afterward.
+
+01:26:01.330 --> 01:26:03.280
+What I think we're
+seeing here is
+
+01:26:03.280 --> 01:26:07.690
+this amazing intertwining
+of doing some of our most
+
+01:26:07.690 --> 01:26:11.480
+abstract judgments, and
+decision making, and decisions
+
+01:26:11.480 --> 01:26:14.520
+about behaviors or not
+where we just got these old,
+
+01:26:14.520 --> 01:26:18.360
+ancient, mammalian brains
+that those rotten food,
+
+01:26:18.360 --> 01:26:20.150
+doesn't do rotten ethics.
+
+01:26:20.150 --> 01:26:22.020
+You've got the systems confused.
+
+01:26:22.020 --> 01:26:25.850
+What this begins to speak to is
+work by very prominent person
+
+01:26:25.850 --> 01:26:28.790
+in the field, a guy University
+of Virginia Jonathan Haight,
+
+01:26:28.790 --> 01:26:33.360
+whose work emphasizes just how
+much moral decision making is
+
+01:26:33.360 --> 01:26:37.420
+not decision making, how much
+it is affective decisions,
+
+01:26:37.420 --> 01:26:41.600
+showing first with brain imaging
+how often you are getting
+
+01:26:41.600 --> 01:26:46.030
+the affective, the limbic,
+the disgusted cortical levels
+
+01:26:46.030 --> 01:26:49.310
+of response before you
+have the decision making.
+
+01:26:49.310 --> 01:26:52.670
+Argument being,
+there it is affect
+
+01:26:52.670 --> 01:26:55.170
+driving the decision making,
+rather than the other way
+
+01:26:55.170 --> 01:26:55.850
+around.
+
+01:26:55.850 --> 01:26:58.400
+But what he also points
+out is the frequency
+
+01:26:58.400 --> 01:27:00.270
+you give people
+scenarios-- and he's
+
+01:27:00.270 --> 01:27:02.320
+doing really interesting
+work with this-- where
+
+01:27:02.320 --> 01:27:06.190
+you give somebody a
+scenario where it just
+
+01:27:06.190 --> 01:27:07.580
+strikes you as wrong.
+
+01:27:07.580 --> 01:27:10.120
+Here are three of
+the ones that he
+
+01:27:10.120 --> 01:27:11.720
+uses very often in the studies.
+
+01:27:11.720 --> 01:27:15.040
+First one, you describe
+a pair of siblings.
+
+01:27:15.040 --> 01:27:16.520
+They are grown up.
+
+01:27:16.520 --> 01:27:18.539
+They are post-reproductive.
+
+01:27:18.539 --> 01:27:19.830
+She has gone through menopause.
+
+01:27:19.830 --> 01:27:21.390
+He's had a vasectomy, whatever.
+
+01:27:21.390 --> 01:27:25.000
+And they are in love, and not
+in the platonic sibling way.
+
+01:27:25.000 --> 01:27:28.260
+And they want to have a sexual
+incestuous relationship.
+
+01:27:28.260 --> 01:27:31.540
+Is it OK for them to do
+it completely in private?
+
+01:27:31.540 --> 01:27:34.480
+Second scenario-- your
+elderly grandmother
+
+01:27:34.480 --> 01:27:37.880
+says it is absolutely fine with
+her to slap her in the face
+
+01:27:37.880 --> 01:27:38.650
+right now.
+
+01:27:38.650 --> 01:27:41.970
+Do you feel like it is OK to do?
+
+01:27:41.970 --> 01:27:44.510
+Third scenario, one
+that he brings up
+
+01:27:44.510 --> 01:27:47.620
+having to do with burning
+a flag and stomping on it,
+
+01:27:47.620 --> 01:27:50.380
+something laden with symbolism,
+but at the end of the day
+
+01:27:50.380 --> 01:27:52.800
+is nothing more than
+just some cloth.
+
+01:27:52.800 --> 01:27:55.330
+Another one he brings
+up is, you're hungry.
+
+01:27:55.330 --> 01:27:56.840
+Your pet has just died.
+
+01:27:56.840 --> 01:27:59.150
+Why not cut him up and eat him?
+
+01:27:59.150 --> 01:28:02.900
+And in all these cases, what you
+have is exactly the responses
+
+01:28:02.900 --> 01:28:04.260
+all of you just had in there.
+
+01:28:04.260 --> 01:28:06.350
+And these insular,
+cortical neurons
+
+01:28:06.350 --> 01:28:08.910
+are popping out of people's
+ears all over this room.
+
+01:28:08.910 --> 01:28:13.420
+And then what he does is say,
+well, what's wrong with that?
+
+01:28:13.420 --> 01:28:16.020
+And people really
+have a hard time
+
+01:28:16.020 --> 01:28:19.770
+giving a rational explanation,
+this whole framework
+
+01:28:19.770 --> 01:28:22.670
+that he has developed, which
+most of the imaging research
+
+01:28:22.670 --> 01:28:26.320
+agrees with, that people make
+their affective decisions long
+
+01:28:26.320 --> 01:28:28.190
+before their more
+cognitive ones.
+
+01:28:28.190 --> 01:28:31.480
+The cognitive ones are catching
+up afterward trying to figure
+
+01:28:31.480 --> 01:28:35.400
+out, well, why is it so
+important that you cannot step
+
+01:28:35.400 --> 01:28:38.090
+on some cloth that has
+this pattern on it?
+
+01:28:38.090 --> 01:28:40.760
+But it's OK to step on
+the cloth with-- why
+
+01:28:40.760 --> 01:28:43.900
+is that something worth
+putting people in jail for?
+
+01:28:43.900 --> 01:28:46.070
+It just doesn't feel right.
+
+01:28:46.070 --> 01:28:47.570
+And I think what
+that has much to do
+
+01:28:47.570 --> 01:28:51.460
+with is how much of the
+coding of the abstract stuff
+
+01:28:51.460 --> 01:28:54.910
+has to be stuffed into ancient
+brain pathways that's telling
+
+01:28:54.910 --> 01:28:57.670
+you about very cold
+things, instead
+
+01:28:57.670 --> 01:29:00.750
+of cold personalities,
+very disgusting foods
+
+01:29:00.750 --> 01:29:02.760
+rather than
+disgusting moral acts.
+
+01:29:02.760 --> 01:29:05.880
+We are dealing with a very
+ancient brain, and one that's
+
+01:29:05.880 --> 01:29:09.460
+not very good yet at
+separating the limbic world
+
+01:29:09.460 --> 01:29:11.760
+from a more cortical one.
+
+01:29:11.760 --> 01:29:14.980
+OK, couple more pieces
+of this-- final piece
+
+01:29:14.980 --> 01:29:18.840
+in terms of making sense of the
+neurobiology, which is now you
+
+01:29:18.840 --> 01:29:21.500
+look at parts of the
+brain when somebody is
+
+01:29:21.500 --> 01:29:22.980
+committing an aggressive act.
+
+01:29:22.980 --> 01:29:26.840
+And you show neurons
+get activated there.
+
+01:29:26.840 --> 01:29:28.230
+Well, that's kind
+of interesting,
+
+01:29:28.230 --> 01:29:32.740
+all sorts of hypothalamus
+nuclei, mid-brain, brain stem,
+
+01:29:32.740 --> 01:29:35.910
+those reptilian parts of the
+brain from the other day.
+
+01:29:35.910 --> 01:29:36.900
+You see that happening.
+
+01:29:36.900 --> 01:29:38.941
+You say, well, someone
+does something aggressive.
+
+01:29:38.941 --> 01:29:40.190
+And they activate.
+
+01:29:40.190 --> 01:29:41.580
+That seems to be interesting.
+
+01:29:41.580 --> 01:29:42.920
+That seems to be pertinent.
+
+01:29:42.920 --> 01:29:45.960
+And it winds up being not
+pertinent in the slightest,
+
+01:29:45.960 --> 01:29:49.580
+because what you see is those
+are the same neurons that
+
+01:29:49.580 --> 01:29:52.039
+would activate if you are
+running for your life.
+
+01:29:52.039 --> 01:29:53.580
+Those are the same
+neurons that would
+
+01:29:53.580 --> 01:29:56.750
+activate if you were running
+joyfully to meet someone.
+
+01:29:56.750 --> 01:29:58.330
+Those are neurons
+that are just doing
+
+01:29:58.330 --> 01:30:01.750
+the nuts and bolts sympathetic
+nervous system stuff.
+
+01:30:01.750 --> 01:30:03.350
+If you were running
+for your life,
+
+01:30:03.350 --> 01:30:05.350
+or if you were running
+towards someone
+
+01:30:05.350 --> 01:30:08.510
+you love, and those are totally
+different emotional states,
+
+01:30:08.510 --> 01:30:11.070
+nonetheless your heart
+has to be beating faster.
+
+01:30:11.070 --> 01:30:13.640
+And your diaphragm has to be
+doing something different.
+
+01:30:13.640 --> 01:30:17.510
+These are nonspecific
+pathways of activation
+
+01:30:17.510 --> 01:30:19.170
+in the sympathetic
+nervous system.
+
+01:30:19.170 --> 01:30:22.060
+As has been stated, if you are
+recording from some of these
+
+01:30:22.060 --> 01:30:24.850
+sympathetic nuclei
+in the mid-brain,
+
+01:30:24.850 --> 01:30:27.930
+if you were recording from them,
+you cannot tell the difference
+
+01:30:27.930 --> 01:30:31.320
+whether a person has just
+murdered someone or just had
+
+01:30:31.320 --> 01:30:32.520
+an orgasm.
+
+01:30:32.520 --> 01:30:34.410
+In both of those
+cases, neurons have
+
+01:30:34.410 --> 01:30:36.420
+to be doing very similar things.
+
+01:30:36.420 --> 01:30:40.720
+There's a whole realm of
+non-specificity to arousal.
+
+01:30:40.720 --> 01:30:43.330
+And this brings up a
+really important quote,
+
+01:30:43.330 --> 01:30:46.290
+and one that I think will run
+through all of these aggression
+
+01:30:46.290 --> 01:30:50.470
+sections here, a quote
+from Elie Wiesel,
+
+01:30:50.470 --> 01:30:53.580
+concentration camp survivor,
+Nobel Laureate for his writing,
+
+01:30:53.580 --> 01:30:55.930
+Elie Wiesel,
+extraordinary man, who
+
+01:30:55.930 --> 01:30:59.150
+has this famous quote,
+which goes as follows.
+
+01:30:59.150 --> 01:31:02.440
+The opposite of
+love is not hate.
+
+01:31:02.440 --> 01:31:05.950
+The opposite of love
+is indifference.
+
+01:31:05.950 --> 01:31:07.820
+And the way that he
+uses it is in sort
+
+01:31:07.820 --> 01:31:09.426
+of a historical framework.
+
+01:31:09.426 --> 01:31:10.800
+The opposite of
+love is not hate.
+
+01:31:10.800 --> 01:31:12.830
+The greatest harm
+you can do to someone
+
+01:31:12.830 --> 01:31:14.450
+who has been a
+victim of something
+
+01:31:14.450 --> 01:31:17.230
+is to be indifferent
+to their history,
+
+01:31:17.230 --> 01:31:20.596
+to deny that it has happened,
+to see it not be an imperative
+
+01:31:20.596 --> 01:31:22.720
+to make sure it never
+happens to anyone else again,
+
+01:31:22.720 --> 01:31:23.880
+et cetera, et cetera.
+
+01:31:23.880 --> 01:31:26.470
+The opposite of hate
+is indifference.
+
+01:31:26.470 --> 01:31:29.770
+Applied to physiology here,
+it is absolutely the case.
+
+01:31:29.770 --> 01:31:32.240
+When you look at what the
+sympathetic nervous system is
+
+01:31:32.240 --> 01:31:35.290
+doing, when you look at
+some of the stress hormones,
+
+01:31:35.290 --> 01:31:37.750
+love and hate are not
+opposites in the slightest.
+
+01:31:37.750 --> 01:31:40.330
+They are physiologically
+very, very similar.
+
+01:31:40.330 --> 01:31:42.390
+What I think that
+also tells you is
+
+01:31:42.390 --> 01:31:45.580
+how readily some humans
+psychopathologically
+
+01:31:45.580 --> 01:31:47.380
+can confuse the two states.
+
+01:31:47.380 --> 01:31:48.960
+When you look at
+some of these brain
+
+01:31:48.960 --> 01:31:52.160
+stem hindbrain spinal
+areas during these acts,
+
+01:31:52.160 --> 01:31:53.820
+love and hate are not opposites.
+
+01:31:53.820 --> 01:31:56.270
+They are very related
+to each other.
+
+01:31:56.270 --> 01:32:00.270
+OK, jumping forward in the last
+couple of minutes, what we now
+
+01:32:00.270 --> 01:32:03.040
+have is looking at
+what hormones are doing
+
+01:32:03.040 --> 01:32:05.830
+to this-- hormones in terms
+of the short-term hormonal
+
+01:32:05.830 --> 01:32:09.000
+environment, not early in
+life, the short-term hormonal
+
+01:32:09.000 --> 01:32:09.700
+environment.
+
+01:32:09.700 --> 01:32:12.130
+And what we have to deal
+with, of course, instantly
+
+01:32:12.130 --> 01:32:13.930
+if we're going to
+bring up hormones is,
+
+01:32:13.930 --> 01:32:16.370
+so what's the deal
+with testosterone?
+
+01:32:16.370 --> 01:32:19.340
+What does testosterone
+have to do with aggression?
+
+01:32:19.340 --> 01:32:22.480
+Why is it that in virtually
+every species out there,
+
+01:32:22.480 --> 01:32:25.490
+males are more aggressive
+than females, males have more
+
+01:32:25.490 --> 01:32:27.140
+testosterone than females do?
+
+01:32:27.140 --> 01:32:29.720
+All you need to do to make
+sense of this whole section
+
+01:32:29.720 --> 01:32:32.410
+here is take everything
+from last week concerning
+
+01:32:32.410 --> 01:32:34.890
+testosterone and sexual
+behavior and just
+
+01:32:34.890 --> 01:32:38.150
+substitute aggressive
+behavior for sexual behavior.
+
+01:32:38.150 --> 01:32:39.980
+It's the same exact rules.
+
+01:32:39.980 --> 01:32:43.560
+Yes, testosterone is required
+for the full expression
+
+01:32:43.560 --> 01:32:46.430
+of aggressive behavior
+in males of most species.
+
+01:32:46.430 --> 01:32:47.470
+How do you tell?
+
+01:32:47.470 --> 01:32:50.160
+Subtract it out, the
+castration stuff.
+
+01:32:50.160 --> 01:32:53.690
+After castration, do levels
+of aggression go down to zero?
+
+01:32:53.690 --> 01:32:57.620
+No, same thing as last
+week, the more prior
+
+01:32:57.620 --> 01:33:00.520
+experience one has
+being aggressive,
+
+01:33:00.520 --> 01:33:02.260
+the less of a drop
+in aggression there
+
+01:33:02.260 --> 01:33:05.290
+is after testosterone
+levels are removed.
+
+01:33:05.290 --> 01:33:09.600
+Put back 100% the normal levels,
+aggression is reinstated.
+
+01:33:09.600 --> 01:33:13.710
+Put back 10% the normal levels,
+reinstated to the same extent,
+
+01:33:13.710 --> 01:33:18.070
+200%, same extent, same
+exact rule-- testosterone
+
+01:33:18.070 --> 01:33:21.140
+is needed for the normal
+expression of behavior.
+
+01:33:21.140 --> 01:33:24.490
+But it is not necessary
+or sufficient.
+
+01:33:24.490 --> 01:33:26.600
+And your brain,
+your limbic system,
+
+01:33:26.600 --> 01:33:28.730
+can't tell the
+difference between
+
+01:33:28.730 --> 01:33:32.290
+moderate, medium, and very
+high levels of testosterone.
+
+01:33:32.290 --> 01:33:34.840
+There is no way you could
+look at an individual's
+
+01:33:34.840 --> 01:33:36.820
+testosterone levels,
+and because it's
+
+01:33:36.820 --> 01:33:39.220
+two units higher than
+it was last week,
+
+01:33:39.220 --> 01:33:41.640
+or higher than the person
+sitting next to them, to make
+
+01:33:41.640 --> 01:33:45.260
+any sort of prediction about who
+is going to be more aggressive.
+
+01:33:45.260 --> 01:33:47.990
+When you see a correlation
+between the levels
+
+01:33:47.990 --> 01:33:50.660
+of aggression and
+levels of testosterone,
+
+01:33:50.660 --> 01:33:54.400
+it's the behavior driving the
+testosterone, not the other way
+
+01:33:54.400 --> 01:33:55.680
+around.
+
+01:33:55.680 --> 01:33:57.870
+How does this translate
+into physiology?
+
+01:33:57.870 --> 01:34:01.190
+Here's one example of
+this in terms of studies.
+
+01:34:01.190 --> 01:34:03.520
+Take five rhesus monkey
+males-- and this was
+
+01:34:03.520 --> 01:34:05.120
+a classic study that was done.
+
+01:34:05.120 --> 01:34:07.780
+Put them together, and they
+form a dominance hierarchy.
+
+01:34:07.780 --> 01:34:09.630
+Number run beats
+two through five,
+
+01:34:09.630 --> 01:34:11.800
+number two beats three
+through five, so on.
+
+01:34:11.800 --> 01:34:15.220
+Take number three and pump
+him up with testosterone.
+
+01:34:15.220 --> 01:34:18.240
+Pump him up with insane
+amounts of testosterone.
+
+01:34:18.240 --> 01:34:22.800
+And what you will see is he will
+now be involved in more fights.
+
+01:34:22.800 --> 01:34:25.600
+Does that mean that number
+three is now threatening
+
+01:34:25.600 --> 01:34:27.420
+number two and number one?
+
+01:34:27.420 --> 01:34:30.570
+Absolutely not, what's
+going on, number three
+
+01:34:30.570 --> 01:34:34.280
+is being a nightmare to
+numbers four and five.
+
+01:34:34.280 --> 01:34:37.270
+Is testosterone
+changing the structure
+
+01:34:37.270 --> 01:34:38.780
+of aggression in this group?
+
+01:34:38.780 --> 01:34:43.670
+No, it's exaggerating the
+pre-existing social structure.
+
+01:34:43.670 --> 01:34:46.360
+What testosterone
+does is modulate.
+
+01:34:46.360 --> 01:34:47.660
+It amplifies.
+
+01:34:47.660 --> 01:34:51.510
+It does not turn on a
+radio of aggressive music.
+
+01:34:51.510 --> 01:34:53.860
+It increases the
+volume if and only
+
+01:34:53.860 --> 01:34:56.020
+if it is already turned on.
+
+01:34:56.020 --> 01:34:59.510
+What does this look like
+in terms of the biology,
+
+01:34:59.510 --> 01:35:01.510
+getting down to the
+neurobiology level?
+
+01:35:01.510 --> 01:35:04.620
+That whole business,
+raise testosterone levels,
+
+01:35:04.620 --> 01:35:07.330
+and the amygdala gets
+a lower threshold
+
+01:35:07.330 --> 01:35:09.840
+for deciding that a
+face looks threatening.
+
+01:35:09.840 --> 01:35:12.520
+Put somebody in a brain
+scanner, and flashing up
+
+01:35:12.520 --> 01:35:16.580
+subliminal faces, and it takes
+less of a scary face, one that
+
+01:35:16.580 --> 01:35:19.790
+would be border line higher
+testosterone levels in someone,
+
+01:35:19.790 --> 01:35:22.760
+amygdala activates more.
+
+01:35:22.760 --> 01:35:25.190
+How would this look like
+on a cellular level?
+
+01:35:25.190 --> 01:35:26.720
+Back, remember,
+with that business
+
+01:35:26.720 --> 01:35:29.880
+about action potentials, the
+neuron has an action potential.
+
+01:35:29.880 --> 01:35:34.810
+And then for a while afterward,
+it enters a refractory period.
+
+01:35:34.810 --> 01:35:37.170
+It is silent for
+a while afterward.
+
+01:35:37.170 --> 01:35:40.450
+What does testosterone do on
+the level of single neurons
+
+01:35:40.450 --> 01:35:41.610
+in the amygdala?
+
+01:35:41.610 --> 01:35:44.850
+It shortens the
+refractory period.
+
+01:35:44.850 --> 01:35:46.840
+It makes it possible
+for the neurons
+
+01:35:46.840 --> 01:35:50.000
+to fire more times
+per unit time,
+
+01:35:50.000 --> 01:35:51.840
+thus asking the
+question, what does
+
+01:35:51.840 --> 01:35:55.170
+testosterone do to
+electrical activity
+
+01:35:55.170 --> 01:35:56.710
+in neurons and the amygdala?
+
+01:35:56.710 --> 01:35:58.340
+It does nothing.
+
+01:35:58.340 --> 01:36:02.600
+If and only if the neurons
+are already excited,
+
+01:36:02.600 --> 01:36:05.240
+testosterone will increase
+the numbers of them.
+
+01:36:05.240 --> 01:36:07.370
+Testosterone does not cause.
+
+01:36:07.370 --> 01:36:08.600
+It amplifies.
+
+01:36:08.600 --> 01:36:13.880
+And what it mostly amplifies is
+preexisting social structures.
+
+01:36:13.880 --> 01:36:16.000
+OK, you noticed
+there that I was also
+
+01:36:16.000 --> 01:36:18.617
+being very careful in
+saying on the average,
+
+01:36:18.617 --> 01:36:21.200
+males are more aggressive than
+females in all sorts of species
+
+01:36:21.200 --> 01:36:21.700
+out there.
+
+01:36:21.700 --> 01:36:24.480
+On the average, males have
+higher testosterone levels
+
+01:36:24.480 --> 01:36:25.420
+than females do.
+
+01:36:25.420 --> 01:36:28.170
+The one great exception
+to this, which is briefly
+
+01:36:28.170 --> 01:36:29.780
+touched on in the
+zebra book, which
+
+01:36:29.780 --> 01:36:33.050
+is one of the great topics
+in all of endocrinology
+
+01:36:33.050 --> 01:36:36.030
+these days, is spotted hyenas.
+
+01:36:36.030 --> 01:36:38.460
+Hyenas are weird animals.
+
+01:36:38.460 --> 01:36:42.000
+Hyenas have a totally
+different worldview thanks
+
+01:36:42.000 --> 01:36:44.020
+to a bizarre neurobiology.
+
+01:36:44.020 --> 01:36:48.670
+Among spotted hyenas, females
+are dominant to males.
+
+01:36:48.670 --> 01:36:50.970
+Females are bigger than males.
+
+01:36:50.970 --> 01:36:53.590
+Females are more
+muscular than males.
+
+01:36:53.590 --> 01:36:56.070
+Females are more
+aggressive than males.
+
+01:36:56.070 --> 01:36:59.580
+Females have higher testosterone
+levels than males do.
+
+01:36:59.580 --> 01:37:02.020
+And you look at the
+private parts of a hyena,
+
+01:37:02.020 --> 01:37:04.490
+and you cannot tell
+who is which sex.
+
+01:37:04.490 --> 01:37:08.050
+Female hyenas have
+androgenization.
+
+01:37:08.050 --> 01:37:11.890
+They have enlarged clitoris's
+the size of penises in males.
+
+01:37:11.890 --> 01:37:14.760
+They have something that looks
+like a scrotum, which turns out
+
+01:37:14.760 --> 01:37:18.980
+to be compacted fat cells that
+form these scrotum-like things.
+
+01:37:18.980 --> 01:37:21.310
+And they look just
+like the males.
+
+01:37:21.310 --> 01:37:23.180
+And over the years as
+part of my field work,
+
+01:37:23.180 --> 01:37:26.090
+I spent some years sharing
+camp with a guy who is without
+
+01:37:26.090 --> 01:37:29.350
+question the world's expert
+on, like, hyena clitoris's.
+
+01:37:29.350 --> 01:37:32.390
+And this guy would bring
+in some anesthetized hyena.
+
+01:37:32.390 --> 01:37:34.780
+And he would have to
+look at this thing for 15
+
+01:37:34.780 --> 01:37:37.785
+minutes with like
+calipers, and like night
+
+01:37:37.785 --> 01:37:40.860
+viewing goggles and stuff to
+finally decide its gender.
+
+01:37:40.860 --> 01:37:45.240
+Hyenas are this very interesting
+case of a sex reversal
+
+01:37:45.240 --> 01:37:46.810
+androgenization.
+
+01:37:46.810 --> 01:37:48.880
+Females producing
+very high levels
+
+01:37:48.880 --> 01:37:50.810
+of androgens in their ovaries.
+
+01:37:50.810 --> 01:37:53.070
+And you've got this
+sex reversal system
+
+01:37:53.070 --> 01:37:57.040
+with the following thing, unlike
+in most species of carnivores.
+
+01:37:57.040 --> 01:37:59.370
+What happens in the
+lions, for example,
+
+01:37:59.370 --> 01:38:03.570
+males eat first, followed by
+females, followed by cubs.
+
+01:38:03.570 --> 01:38:07.080
+Most lion cubs starve to death
+in the first year of life.
+
+01:38:07.080 --> 01:38:10.610
+Among hyenas because of
+the sex reversal system,
+
+01:38:10.610 --> 01:38:14.470
+cubs eat first, followed by
+females, followed by males.
+
+01:38:14.470 --> 01:38:18.890
+The kids survive that
+way, a wonderful mutation
+
+01:38:18.890 --> 01:38:20.040
+in terms of doing that.
+
+01:38:20.040 --> 01:38:22.910
+And what you get as a
+result is, unavoidably, you
+
+01:38:22.910 --> 01:38:26.840
+get a masculinization of the
+genitalia in the females.
+
+01:38:26.840 --> 01:38:29.840
+And what you wind up doing
+is it winds up having
+
+01:38:29.840 --> 01:38:32.410
+a different signaling purpose.
+
+01:38:32.410 --> 01:38:35.260
+In most species, what
+happens among male primates,
+
+01:38:35.260 --> 01:38:37.820
+for example when
+males are trying
+
+01:38:37.820 --> 01:38:40.660
+to display their dominance,
+they get an erection
+
+01:38:40.660 --> 01:38:44.090
+and wave their penis, and
+look how tough and scary I am.
+
+01:38:44.090 --> 01:38:46.290
+And that's due to
+a certain wiring
+
+01:38:46.290 --> 01:38:48.020
+of the autonomic nervous system.
+
+01:38:48.020 --> 01:38:51.380
+In hyenas, it works
+just the opposite.
+
+01:38:51.380 --> 01:38:54.476
+Males get erections
+when they're terrified,
+
+01:38:54.476 --> 01:38:55.600
+because you think about it.
+
+01:38:55.600 --> 01:38:57.150
+Males are lower
+ranking than females.
+
+01:38:57.150 --> 01:38:59.530
+Females spend all their
+time ripping off the males
+
+01:38:59.530 --> 01:39:00.890
+who have just hunted something.
+
+01:39:00.890 --> 01:39:02.650
+Females terrorize the males.
+
+01:39:02.650 --> 01:39:04.160
+So you're some
+male sitting there.
+
+01:39:04.160 --> 01:39:06.320
+And here comes this
+terrifying female.
+
+01:39:06.320 --> 01:39:06.990
+What do you do?
+
+01:39:06.990 --> 01:39:08.470
+You say, don't hurt me.
+
+01:39:08.470 --> 01:39:09.540
+I'm one of these males.
+
+01:39:09.540 --> 01:39:11.110
+I'm not threatening,
+or whatever.
+
+01:39:11.110 --> 01:39:14.260
+In males, what you get
+is you get erections
+
+01:39:14.260 --> 01:39:17.330
+when you are under stress
+as a subordination gesture.
+
+01:39:17.330 --> 01:39:18.870
+What do females do?
+
+01:39:18.870 --> 01:39:22.010
+Low ranking females
+get clitoral erections
+
+01:39:22.010 --> 01:39:24.520
+when they are being threatened
+by high ranking females,
+
+01:39:24.520 --> 01:39:26.890
+a total sex reversal system.
+
+01:39:26.890 --> 01:39:29.920
+So hyenas can either
+wind up telling you,
+
+01:39:29.920 --> 01:39:33.530
+we are breaking out of
+these stereotypical role
+
+01:39:33.530 --> 01:39:35.980
+gender expectations, in that
+you can have a species where
+
+01:39:35.980 --> 01:39:38.995
+females are dominant, and more
+muscular, and more aggressive.
+
+01:39:38.995 --> 01:39:40.870
+But at the end of the
+day, they are like that
+
+01:39:40.870 --> 01:39:43.440
+because they are even
+more hormonally like males
+
+01:39:43.440 --> 01:39:45.270
+than males are.
+
+01:39:45.270 --> 01:39:47.580
+Final amazing thing
+about them-- and this
+
+01:39:47.580 --> 01:39:49.600
+is a story of this
+friend of mine,
+
+01:39:49.600 --> 01:39:52.366
+this guy who's been studying
+hyenas for 30 years.
+
+01:39:52.366 --> 01:39:55.780
+And he's incredibly
+knowledgeable about hyenas.
+
+01:39:55.780 --> 01:39:57.560
+And this was
+something that really
+
+01:39:57.560 --> 01:39:59.960
+makes you stunned at
+what sort of people
+
+01:39:59.960 --> 01:40:02.490
+there are in the government
+thinking about things here.
+
+01:40:02.490 --> 01:40:04.110
+So one day-- he's from Berkeley.
+
+01:40:04.110 --> 01:40:05.750
+One day, he's in
+his office there.
+
+01:40:05.750 --> 01:40:06.920
+And he gets a call.
+
+01:40:06.920 --> 01:40:09.650
+And it's from some army colonel.
+
+01:40:09.650 --> 01:40:12.869
+And the army colonel says,
+oh, we're having a conference.
+
+01:40:12.869 --> 01:40:15.410
+And we're having a whole bunch
+of carnivore biologists coming
+
+01:40:15.410 --> 01:40:15.576
+to it.
+
+01:40:15.576 --> 01:40:16.690
+We're going to
+have a great time.
+
+01:40:16.690 --> 01:40:18.990
+We're having this conference
+of carnivore biologists.
+
+01:40:18.990 --> 01:40:20.240
+And we want you to come to it.
+
+01:40:20.240 --> 01:40:23.155
+My friend says, um,
+you're from the army?
+
+01:40:23.155 --> 01:40:24.280
+What are you talking about?
+
+01:40:24.280 --> 01:40:25.380
+Do you know what I study?
+
+01:40:25.380 --> 01:40:27.963
+And the guy proceeds to show him
+that he knows exactly what he
+
+01:40:27.963 --> 01:40:30.140
+studies, and what his
+social security number is,
+
+01:40:30.140 --> 01:40:33.390
+and how many, like, cavities he
+has, and how much unpaid taxes.
+
+01:40:33.390 --> 01:40:35.906
+And he says, so all of
+America's carnivore biologists
+
+01:40:35.906 --> 01:40:37.030
+are coming to this meeting.
+
+01:40:37.030 --> 01:40:37.890
+So come to this meeting.
+
+01:40:37.890 --> 01:40:39.070
+We're going to
+have a great time.
+
+01:40:39.070 --> 01:40:40.850
+It's going to be at
+this hotel in Arizona.
+
+01:40:40.850 --> 01:40:42.620
+Come, you're going to
+have a terrific guy.
+
+01:40:42.620 --> 01:40:44.180
+So my friend decides, why not?
+
+01:40:44.180 --> 01:40:46.370
+And goes to this, and
+winds up in this place.
+
+01:40:46.370 --> 01:40:48.010
+And here's this
+conference with all
+
+01:40:48.010 --> 01:40:49.910
+of America's
+carnivore biologists,
+
+01:40:49.910 --> 01:40:51.740
+and these three army
+colonels sitting
+
+01:40:51.740 --> 01:40:53.850
+in the back with
+these sunglasses on.
+
+01:40:53.850 --> 01:40:56.720
+So all the carnivore biologists
+are fairly confused about
+
+01:40:56.720 --> 01:40:57.959
+what's up here.
+
+01:40:57.959 --> 01:40:59.750
+But, nonetheless, they
+sort of settle down.
+
+01:40:59.750 --> 01:41:01.541
+And they start doing
+their scientist thing,
+
+01:41:01.541 --> 01:41:03.240
+giving talks to each other.
+
+01:41:03.240 --> 01:41:06.400
+And the Army guys are
+sitting in the back there.
+
+01:41:06.400 --> 01:41:08.590
+And there's two days
+worth of them just sitting
+
+01:41:08.590 --> 01:41:09.730
+in the back saying nothing.
+
+01:41:09.730 --> 01:41:11.710
+And, finally, all the
+carnival biologists
+
+01:41:11.710 --> 01:41:14.416
+get all upset, and say, what
+are you guys doing here?
+
+01:41:14.416 --> 01:41:15.790
+What are we doing
+at a conference
+
+01:41:15.790 --> 01:41:17.690
+paid for by the US Military?
+
+01:41:17.690 --> 01:41:19.987
+And they finally say, OK,
+OK, you're such great guys.
+
+01:41:19.987 --> 01:41:22.570
+We're going to tell you actually
+what we're really up to here.
+
+01:41:22.570 --> 01:41:23.986
+You know, we're
+from the military.
+
+01:41:23.986 --> 01:41:25.850
+We're actually from
+the tank corps.
+
+01:41:25.850 --> 01:41:30.130
+And what we have is we're
+designing these new walker
+
+01:41:30.130 --> 01:41:30.630
+things.
+
+01:41:30.630 --> 01:41:33.252
+Do you remember in the Star
+Wars movie, in the second one,
+
+01:41:33.252 --> 01:41:35.710
+they had those machines that
+looked like the elephants that
+
+01:41:35.710 --> 01:41:36.834
+could walk and all of that?
+
+01:41:36.834 --> 01:41:38.400
+Well, we want to build them.
+
+01:41:38.400 --> 01:41:40.180
+In order to build
+them, we have to know
+
+01:41:40.180 --> 01:41:44.020
+how animals locomote, locomate,
+how they move, how they walk.
+
+01:41:44.020 --> 01:41:45.560
+And you guys study carnivores.
+
+01:41:45.560 --> 01:41:46.960
+And carnivores run around a lot.
+
+01:41:46.960 --> 01:41:48.460
+So we want to hear you guys.
+
+01:41:48.460 --> 01:41:50.430
+Tell us how your animals
+move when they're
+
+01:41:50.430 --> 01:41:52.400
+doing things like hunting.
+
+01:41:52.400 --> 01:41:55.160
+And America's carnivore
+biologists listen to this,
+
+01:41:55.160 --> 01:41:57.100
+and say, this makes
+no sense at all.
+
+01:41:57.100 --> 01:41:59.030
+You want to learn about
+locomotion in animals.
+
+01:41:59.030 --> 01:42:01.690
+You get bioengineering people.
+
+01:42:01.690 --> 01:42:03.370
+You don't get zoologists.
+
+01:42:03.370 --> 01:42:04.400
+What's going on here?
+
+01:42:04.400 --> 01:42:06.430
+So all of America's
+carnivore biologists
+
+01:42:06.430 --> 01:42:09.250
+proceed to go and sort of
+huddle there, and decide
+
+01:42:09.250 --> 01:42:10.250
+they're going on strike.
+
+01:42:10.250 --> 01:42:11.958
+They are not going to
+give any more talks
+
+01:42:11.958 --> 01:42:13.660
+until people explain what's up.
+
+01:42:13.660 --> 01:42:16.380
+They eat all the donuts that
+are left, go to the bar,
+
+01:42:16.380 --> 01:42:17.005
+start drinking.
+
+01:42:17.005 --> 01:42:18.838
+And they're going to
+refuse to have anything
+
+01:42:18.838 --> 01:42:20.360
+to do until these
+colonels explain
+
+01:42:20.360 --> 01:42:21.850
+what's actually going on.
+
+01:42:21.850 --> 01:42:24.430
+So the colonels, obviously,
+need to get on the phone
+
+01:42:24.430 --> 01:42:27.030
+to Washington, and call
+up, and get permission.
+
+01:42:27.030 --> 01:42:29.887
+They come back and say, OK,
+OK, because you guys are all
+
+01:42:29.887 --> 01:42:32.470
+our best friends, we're going
+to tell you what's really going.
+
+01:42:32.470 --> 01:42:34.589
+We're really not making
+Star Wars walkers.
+
+01:42:34.589 --> 01:42:35.880
+Here's what we're really doing.
+
+01:42:35.880 --> 01:42:38.140
+We're from the tank corps.
+
+01:42:38.140 --> 01:42:40.310
+And we've built this
+new tank recently
+
+01:42:40.310 --> 01:42:42.280
+and it was what was
+called the Sherman tank.
+
+01:42:42.280 --> 01:42:43.789
+And apparently for
+all of history,
+
+01:42:43.789 --> 01:42:46.080
+what you do if you're in the
+tank corps, is what you do
+
+01:42:46.080 --> 01:42:48.300
+is you just bash the
+hell out of everything,
+
+01:42:48.300 --> 01:42:50.210
+and drive your tank
+to the highest spot
+
+01:42:50.210 --> 01:42:52.350
+around, and just shoot
+anything that moves.
+
+01:42:52.350 --> 01:42:55.529
+But the Sherman tank apparently
+was like the greatest tank
+
+01:42:55.529 --> 01:42:56.570
+that had ever been built.
+
+01:42:56.570 --> 01:42:59.150
+It could drive like
+60 miles an hour.
+
+01:42:59.150 --> 01:43:02.540
+And it could fire missiles when
+it was bouncing upside down
+
+01:43:02.540 --> 01:43:05.770
+out of ditches, and
+gyroscopic this and that.
+
+01:43:05.770 --> 01:43:07.910
+And it was the greatest,
+most mobile tank.
+
+01:43:07.910 --> 01:43:09.570
+And they were having
+a problem, which
+
+01:43:09.570 --> 01:43:11.680
+was they would put in
+their tank corps in there.
+
+01:43:11.680 --> 01:43:13.720
+And what they would do was bash
+the hell out of everything,
+
+01:43:13.720 --> 01:43:15.886
+and drive to the highest
+spot around, and just shoot
+
+01:43:15.886 --> 01:43:16.850
+anything that moved.
+
+01:43:16.850 --> 01:43:19.960
+So the US Army Corps
+decided that they
+
+01:43:19.960 --> 01:43:23.300
+needed to teach their troops,
+their army, their tank corps,
+
+01:43:23.300 --> 01:43:25.670
+how to hunt like carnivores.
+
+01:43:25.670 --> 01:43:28.500
+And, thus, here they
+invited all of America's
+
+01:43:28.500 --> 01:43:31.590
+carnivore biologists
+to come in and teach us
+
+01:43:31.590 --> 01:43:35.040
+how to teach our tank crews
+how to hunt like carnivores.
+
+01:43:35.040 --> 01:43:36.520
+How do you figure
+out who's going
+
+01:43:36.520 --> 01:43:38.317
+to cut corners on the prey?
+
+01:43:38.317 --> 01:43:40.900
+How do you communicate if you're
+out of sight with each other?
+
+01:43:40.900 --> 01:43:42.350
+What do your hyenas do?
+
+01:43:42.350 --> 01:43:43.680
+What do your wolves do?
+
+01:43:43.680 --> 01:43:45.180
+What do your coyotes do?
+
+01:43:45.180 --> 01:43:48.280
+So at that point, like, all of
+America's carnivore biologists
+
+01:43:48.280 --> 01:43:52.140
+say, whoa, we are way
+in over our heads here.
+
+01:43:52.140 --> 01:43:55.570
+So a third of them
+instantly march out
+
+01:43:55.570 --> 01:43:58.320
+shouting about Ho Chi
+Minh or whatever, given
+
+01:43:58.320 --> 01:44:00.924
+the age group of most of
+America's carnivore biologists.
+
+01:44:00.924 --> 01:44:02.340
+And the rest of
+them huddle there.
+
+01:44:02.340 --> 01:44:03.050
+And they come back.
+
+01:44:03.050 --> 01:44:04.510
+And they say, well,
+these are very
+
+01:44:04.510 --> 01:44:06.384
+difficult questions to answer.
+
+01:44:06.384 --> 01:44:08.550
+So the military guys say,
+well, yes we will give you
+
+01:44:08.550 --> 01:44:09.880
+money for your research.
+
+01:44:09.880 --> 01:44:12.420
+So at that point, all of
+America's carnivore biologists
+
+01:44:12.420 --> 01:44:15.000
+decide they're now best friends
+with these Army Corps guys.
+
+01:44:15.000 --> 01:44:16.760
+They go through the rest of
+the conference telling them
+
+01:44:16.760 --> 01:44:18.880
+all about the hunting
+techniques of their animals,
+
+01:44:18.880 --> 01:44:21.540
+and with careful instructions
+as to who to submit grants to.
+
+01:44:21.540 --> 01:44:24.540
+They all immediately go back to
+the universities, write grants.
+
+01:44:24.540 --> 01:44:28.320
+My friend writes this grant
+for like four Sherman tanks,
+
+01:44:28.320 --> 01:44:31.860
+and night viewing goggles
+for like a Death Star
+
+01:44:31.860 --> 01:44:34.480
+and flamethrowers for his
+hyenas, and all of that.
+
+01:44:34.480 --> 01:44:36.600
+All of America's
+carnivore biologists
+
+01:44:36.600 --> 01:44:39.830
+send in their grant proposals
+to this PO Box at the Pentagon.
+
+01:44:39.830 --> 01:44:43.760
+And nobody has ever heard from
+any of these Army guys again.
+
+01:44:43.760 --> 01:44:45.560
+And this was about 15 years ago.
+
+01:44:45.560 --> 01:44:47.750
+And to this day,
+none of them know
+
+01:44:47.750 --> 01:44:50.210
+what were these people
+really trying to find out
+
+01:44:50.210 --> 01:44:51.510
+from us at this meeting?
+
+01:44:51.510 --> 01:44:53.900
+This was this totally
+bizarre incident
+
+01:44:53.900 --> 01:44:55.945
+showing that somebody or
+other in the tank corps
+
+01:44:55.945 --> 01:44:57.580
+is sitting around
+trying to figure out
+
+01:44:57.580 --> 01:45:02.084
+what it is that the coyotes,
+and marmots, and hyenas do.
+
+01:45:02.084 --> 01:45:05.750
+For more, please visit
+us at Stanford.edu.
+

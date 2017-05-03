@@ -1,0 +1,5150 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.500 --> 00:00:04.930
+[MUSIC PLAYING]
+
+00:00:04.930 --> 00:00:08.200
+Stanford University.
+
+00:00:08.200 --> 00:00:10.370
+--out by now, I am
+not Dr. Sapolsky.
+
+00:00:10.370 --> 00:00:14.280
+You probably got some cues from
+the beard and other things.
+
+00:00:14.280 --> 00:00:15.220
+My name is Nathan.
+
+00:00:15.220 --> 00:00:16.520
+I'm a graduate student.
+
+00:00:16.520 --> 00:00:19.720
+I'm a fourth year PhD student
+in the neuroscience program.
+
+00:00:19.720 --> 00:00:23.610
+And I'm going to be giving you
+the introductory lecture today
+
+00:00:23.610 --> 00:00:27.010
+on, basically how
+the brain works.
+
+00:00:27.010 --> 00:00:29.370
+And just to get a sense of
+who is here before I get
+
+00:00:29.370 --> 00:00:32.000
+started, how many
+of you are either
+
+00:00:32.000 --> 00:00:35.940
+a biology major or HumBio majors
+and decided to come today?
+
+00:00:35.940 --> 00:00:37.040
+That's a lot of people.
+
+00:00:37.040 --> 00:00:37.700
+OK.
+
+00:00:37.700 --> 00:00:41.910
+How many in other hard
+sciences or engineering?
+
+00:00:41.910 --> 00:00:42.730
+A few.
+
+00:00:42.730 --> 00:00:43.570
+OK.
+
+00:00:43.570 --> 00:00:47.440
+How many in the social sciences?
+
+00:00:47.440 --> 00:00:47.940
+A few.
+
+00:00:47.940 --> 00:00:50.290
+And humanities?
+
+00:00:50.290 --> 00:00:51.330
+All right, humanities.
+
+00:00:51.330 --> 00:00:54.230
+Anybody else in anything other?
+
+00:00:54.230 --> 00:00:54.730
+OK.
+
+00:00:54.730 --> 00:00:56.830
+We've got a few others as well.
+
+00:00:56.830 --> 00:00:57.810
+OK, great.
+
+00:00:57.810 --> 00:01:00.660
+So for some of you, this
+is going to be a review.
+
+00:01:00.660 --> 00:01:02.845
+And hopefully, you'll
+still learn something new.
+
+00:01:02.845 --> 00:01:04.970
+For some of you, this is
+going to be the first time
+
+00:01:04.970 --> 00:01:06.550
+that you're hearing these terms.
+
+00:01:06.550 --> 00:01:08.740
+And hopefully,
+this will give you
+
+00:01:08.740 --> 00:01:11.250
+just a very general
+background so
+
+00:01:11.250 --> 00:01:14.350
+that when you hear Dr.
+Sapolsky give lectures
+
+00:01:14.350 --> 00:01:17.490
+on neuroscience later, you have
+a better understanding of what
+
+00:01:17.490 --> 00:01:19.420
+he's talking about.
+
+00:01:19.420 --> 00:01:23.590
+So we started out this
+whole course talking
+
+00:01:23.590 --> 00:01:27.780
+about the everlasting
+question of,
+
+00:01:27.780 --> 00:01:30.390
+why did the chicken
+cross the road?
+
+00:01:30.390 --> 00:01:32.130
+Yes, that's supposed
+to be a chicken.
+
+00:01:32.130 --> 00:01:33.890
+My major is not art.
+
+00:01:33.890 --> 00:01:35.540
+But the chicken is
+crossing the road.
+
+00:01:35.540 --> 00:01:38.120
+And we started the
+course basically
+
+00:01:38.120 --> 00:01:41.380
+saying that this whole course
+is going to teach us why
+
+00:01:41.380 --> 00:01:42.890
+the chicken crossed the road.
+
+00:01:42.890 --> 00:01:45.370
+And specifically, the
+first half of this course
+
+00:01:45.370 --> 00:01:48.630
+is talking about the ways
+that different sciences
+
+00:01:48.630 --> 00:01:50.470
+have approached this question.
+
+00:01:50.470 --> 00:01:52.890
+So we started out
+with evolution,
+
+00:01:52.890 --> 00:01:56.640
+which would ask, how did this
+behavior of crossing the road
+
+00:01:56.640 --> 00:01:59.680
+evolve over many, many,
+many millions of years?
+
+00:01:59.680 --> 00:02:00.860
+Why was it adaptive?
+
+00:02:00.860 --> 00:02:03.770
+Why did chickens who crossed
+the road produce more offspring?
+
+00:02:03.770 --> 00:02:04.370
+All of that.
+
+00:02:04.370 --> 00:02:07.010
+It was studied by
+old men going around
+
+00:02:07.010 --> 00:02:09.039
+in boats to the
+Galapagos to see how
+
+00:02:09.039 --> 00:02:11.490
+chickens on different
+islands crossed the road
+
+00:02:11.490 --> 00:02:13.150
+and then figured out
+how that happened
+
+00:02:13.150 --> 00:02:15.130
+over millions of years.
+
+00:02:15.130 --> 00:02:17.990
+The next week, we went
+into molecular genetics.
+
+00:02:17.990 --> 00:02:20.830
+And there we talked
+about the actual genes
+
+00:02:20.830 --> 00:02:24.100
+that control this evolution
+and how it happened.
+
+00:02:24.100 --> 00:02:26.900
+And there we were talking
+about people thinking
+
+00:02:26.900 --> 00:02:30.190
+about how genes change
+in the genome over time,
+
+00:02:30.190 --> 00:02:33.230
+how they hop around, if we're
+thinking about women in corn
+
+00:02:33.230 --> 00:02:36.440
+fields looking at this, and
+how those individual genes led
+
+00:02:36.440 --> 00:02:38.240
+to evolution.
+
+00:02:38.240 --> 00:02:41.350
+Then the next week, we went
+into behavior genetics.
+
+00:02:41.350 --> 00:02:43.070
+And this, specifically
+was asking
+
+00:02:43.070 --> 00:02:47.100
+about what individual
+genes are accounting
+
+00:02:47.100 --> 00:02:51.270
+for the variation in the ways
+the chicken crossed the road.
+
+00:02:51.270 --> 00:02:54.180
+So some chickens cross
+the road really fast.
+
+00:02:54.180 --> 00:02:55.930
+Some of them do it slowly.
+
+00:02:55.930 --> 00:02:57.630
+Some of them don't do it at all.
+
+00:02:57.630 --> 00:02:59.670
+How does the
+variation in the way
+
+00:02:59.670 --> 00:03:02.980
+that the genomes are structured
+for these different chickens
+
+00:03:02.980 --> 00:03:04.210
+account for that?
+
+00:03:04.210 --> 00:03:06.260
+So that was behavior genetics.
+
+00:03:06.260 --> 00:03:08.940
+And then on Monday, you
+heard about ethology,
+
+00:03:08.940 --> 00:03:10.710
+which really talked
+about studying
+
+00:03:10.710 --> 00:03:13.170
+this behavior in nature.
+
+00:03:13.170 --> 00:03:15.680
+And we talked about the
+fixed action pattern.
+
+00:03:15.680 --> 00:03:17.370
+And we talked about
+all the old man
+
+00:03:17.370 --> 00:03:20.280
+in field booths going out into
+nature to observe that fixed
+
+00:03:20.280 --> 00:03:23.920
+action pattern and talked about
+the stimulus the chicken would
+
+00:03:23.920 --> 00:03:27.230
+receive, why it would
+cross the road after that,
+
+00:03:27.230 --> 00:03:30.540
+how it does it, again,
+looking at that out in nature.
+
+00:03:30.540 --> 00:03:32.830
+And that was ethology.
+
+00:03:32.830 --> 00:03:36.360
+So today, we're going to talk
+about yet another bucket, yet
+
+00:03:36.360 --> 00:03:39.820
+another way to think about
+this, which is neuroscience.
+
+00:03:39.820 --> 00:03:43.110
+And neuroscience is going
+to focus, specifically
+
+00:03:43.110 --> 00:03:48.080
+on this black box that
+we talked about on Monday
+
+00:03:48.080 --> 00:03:52.080
+where you get the input coming
+in of some stimulus that makes
+
+00:03:52.080 --> 00:03:54.440
+the chicken cross the road.
+
+00:03:54.440 --> 00:03:57.680
+And neuroscience is about
+that black box in the middle
+
+00:03:57.680 --> 00:03:59.704
+and why it is that the
+chicken is doing this.
+
+00:03:59.704 --> 00:04:01.370
+What was going on in
+the chicken's brain
+
+00:04:01.370 --> 00:04:03.860
+a few milliseconds before
+it crossed the road?
+
+00:04:03.860 --> 00:04:07.400
+Why is it that the
+specific cells in the brain
+
+00:04:07.400 --> 00:04:08.420
+are doing this?
+
+00:04:08.420 --> 00:04:10.020
+And how are they doing it?
+
+00:04:10.020 --> 00:04:12.730
+So that's the overall
+background of why we're
+
+00:04:12.730 --> 00:04:14.550
+thinking about neuroscience.
+
+00:04:14.550 --> 00:04:17.750
+And the goal for today
+is really to give you
+
+00:04:17.750 --> 00:04:21.540
+an overview of the brain
+and the nervous system,
+
+00:04:21.540 --> 00:04:23.210
+get to know some
+different parts of it
+
+00:04:23.210 --> 00:04:26.520
+not so that you memorize a list
+of different parts of the brain
+
+00:04:26.520 --> 00:04:28.305
+but so that you get
+a general overview
+
+00:04:28.305 --> 00:04:29.680
+that different
+parts of the brain
+
+00:04:29.680 --> 00:04:32.430
+are specialized for
+different behaviors.
+
+00:04:32.430 --> 00:04:34.700
+And also, we're going
+to zoom in a little bit
+
+00:04:34.700 --> 00:04:38.290
+on the actual cells in the
+brain, how they communicate.
+
+00:04:38.290 --> 00:04:41.080
+Again, not so that you can
+sit there memorizing lists
+
+00:04:41.080 --> 00:04:42.910
+of different things
+but that so when
+
+00:04:42.910 --> 00:04:44.520
+it comes up in
+future lectures, you
+
+00:04:44.520 --> 00:04:48.370
+will have a better understanding
+of what we're talking about.
+
+00:04:48.370 --> 00:04:53.291
+And just as a caveat before we
+start, I, as a neuroscientist,
+
+00:04:53.291 --> 00:04:55.540
+think this is the coolest
+discipline out there, better
+
+00:04:55.540 --> 00:04:56.760
+than all the others.
+
+00:04:56.760 --> 00:04:59.930
+And you'll see I put in a
+quote from Thomas Edison that
+
+00:04:59.930 --> 00:05:01.490
+says, "The chief
+function of the body
+
+00:05:01.490 --> 00:05:03.220
+is to carry the
+brain around," which
+
+00:05:03.220 --> 00:05:06.900
+is a very brain-centric way
+of thinking about the world.
+
+00:05:06.900 --> 00:05:09.650
+And there are a lot of people
+who look at neuroscience
+
+00:05:09.650 --> 00:05:11.300
+and think of it that way.
+
+00:05:11.300 --> 00:05:13.770
+Yes, neuroscience
+has its limitations.
+
+00:05:13.770 --> 00:05:15.730
+Want to put that out
+there from the beginning.
+
+00:05:15.730 --> 00:05:16.940
+It can be very brain-centric.
+
+00:05:16.940 --> 00:05:19.370
+It can be thinking about how
+different parts of the brain
+
+00:05:19.370 --> 00:05:23.000
+control different behaviors
+without considering the bigger
+
+00:05:23.000 --> 00:05:25.980
+evolutionary aspects or
+any of the other aspects.
+
+00:05:25.980 --> 00:05:27.992
+So it does have its limitations.
+
+00:05:27.992 --> 00:05:29.200
+But I think it's really cool.
+
+00:05:29.200 --> 00:05:31.860
+So that's why I'm going to
+tell you about it today.
+
+00:05:31.860 --> 00:05:35.550
+So let's start out.
+
+00:05:35.550 --> 00:05:36.930
+You have a brain.
+
+00:05:36.930 --> 00:05:38.750
+Actually, this is my brain.
+
+00:05:38.750 --> 00:05:41.700
+I volunteered for a psych
+study back in college
+
+00:05:41.700 --> 00:05:44.380
+and got to look at some
+pictures in a scanner.
+
+00:05:44.380 --> 00:05:47.410
+And they gave me this printout
+of my brain afterwards.
+
+00:05:47.410 --> 00:05:50.750
+And the brain, I think,
+is an absolutely amazing,
+
+00:05:50.750 --> 00:05:51.990
+amazing thing.
+
+00:05:51.990 --> 00:05:55.880
+And one thing that people
+love about the brain
+
+00:05:55.880 --> 00:05:58.550
+is that it starts working
+and keeps working.
+
+00:05:58.550 --> 00:06:00.689
+But just as a reminder
+from this quote,
+
+00:06:00.689 --> 00:06:03.230
+"It never stops working until
+you stand up in front of public
+
+00:06:03.230 --> 00:06:04.220
+to speak."
+
+00:06:04.220 --> 00:06:06.410
+So during this
+lecture, there may
+
+00:06:06.410 --> 00:06:07.731
+be things that are confusing.
+
+00:06:07.731 --> 00:06:10.230
+If you don't understand them
+because I'm not explaining them
+
+00:06:10.230 --> 00:06:12.660
+in a way that makes them
+understandable to you,
+
+00:06:12.660 --> 00:06:14.640
+I've put my email
+address up there.
+
+00:06:14.640 --> 00:06:16.160
+It's also in the handout.
+
+00:06:16.160 --> 00:06:18.220
+And it was at the beginning
+of the presentation.
+
+00:06:18.220 --> 00:06:20.370
+So definitely email me if
+you have any questions.
+
+00:06:20.370 --> 00:06:22.760
+Or come to see me after class.
+
+00:06:22.760 --> 00:06:26.840
+And I'll be giving this
+first 45 minutes or so
+
+00:06:26.840 --> 00:06:29.810
+introduction to the brain
+and the nervous system.
+
+00:06:29.810 --> 00:06:32.340
+Then, Anthony's going to come
+up afterwards and tell you
+
+00:06:32.340 --> 00:06:33.900
+a little bit more
+about how neurons
+
+00:06:33.900 --> 00:06:36.320
+communicate with each other.
+
+00:06:36.320 --> 00:06:40.290
+So let's think about the
+brain and the nervous system.
+
+00:06:40.290 --> 00:06:42.980
+And to give you a
+really broad overview,
+
+00:06:42.980 --> 00:06:47.310
+the nervous system is divided
+into two really broad classes,
+
+00:06:47.310 --> 00:06:51.320
+the central nervous system and
+the peripheral nervous system.
+
+00:06:51.320 --> 00:06:53.570
+And we'll start with the
+central nervous system, which
+
+00:06:53.570 --> 00:06:55.069
+is what most people
+think about when
+
+00:06:55.069 --> 00:06:56.760
+they think about
+neuroscience, which
+
+00:06:56.760 --> 00:06:58.622
+is the brain and spinal cord.
+
+00:06:58.622 --> 00:07:00.830
+So you have this brain
+sitting up there in your head.
+
+00:07:00.830 --> 00:07:02.288
+You have the spinal
+cord going down
+
+00:07:02.288 --> 00:07:04.620
+communicating to
+and from the brain.
+
+00:07:04.620 --> 00:07:07.660
+And this is the
+central nervous system.
+
+00:07:07.660 --> 00:07:09.740
+And I'm going to go through
+some different parts
+
+00:07:09.740 --> 00:07:11.557
+of the central
+nervous system just
+
+00:07:11.557 --> 00:07:13.640
+to give you an idea that
+there are different parts
+
+00:07:13.640 --> 00:07:15.480
+and that they do
+different things.
+
+00:07:15.480 --> 00:07:18.620
+Again, don't worry
+about memorizing them.
+
+00:07:18.620 --> 00:07:20.830
+This is really just to get
+you familiar with what's
+
+00:07:20.830 --> 00:07:23.340
+going on up there.
+
+00:07:23.340 --> 00:07:25.970
+So if we look at the
+brain more carefully
+
+00:07:25.970 --> 00:07:27.800
+and look at different
+parts of the brain,
+
+00:07:27.800 --> 00:07:30.840
+we've got these different parts
+that people-- neuroscientists
+
+00:07:30.840 --> 00:07:33.790
+specifically-- have
+divided up for us.
+
+00:07:33.790 --> 00:07:36.810
+And if we start at the bottom
+down there with the brain stem,
+
+00:07:36.810 --> 00:07:38.830
+the brain stem sits at
+the bottom of the brain
+
+00:07:38.830 --> 00:07:41.030
+at the top of the spinal cord.
+
+00:07:41.030 --> 00:07:43.500
+And it's what ends up
+relaying the information
+
+00:07:43.500 --> 00:07:46.630
+to and from the spinal cord
+and to and from the brain.
+
+00:07:46.630 --> 00:07:48.130
+So you have your
+brain up here doing
+
+00:07:48.130 --> 00:07:51.130
+all the processing, spinal
+cord down there sending out
+
+00:07:51.130 --> 00:07:53.730
+all the signals to make
+you move or to send up
+
+00:07:53.730 --> 00:07:55.290
+sensory information.
+
+00:07:55.290 --> 00:07:56.690
+The brain stem
+sits in the middle
+
+00:07:56.690 --> 00:07:59.950
+and helps regulate
+what goes through.
+
+00:07:59.950 --> 00:08:02.870
+Then, you have the cerebellum
+sitting at the very back
+
+00:08:02.870 --> 00:08:04.461
+of the brain up there.
+
+00:08:04.461 --> 00:08:06.710
+And the cerebellum is a
+really cool part of the brain.
+
+00:08:06.710 --> 00:08:08.060
+It's really, really wrinkled.
+
+00:08:08.060 --> 00:08:10.690
+It has lots of different
+cells packed into it.
+
+00:08:10.690 --> 00:08:13.960
+And what it does is it helps
+control your motor movement
+
+00:08:13.960 --> 00:08:17.160
+and specifically helps when you
+have to learn something new.
+
+00:08:17.160 --> 00:08:20.840
+So when you have to learn how
+to play piano for the first time
+
+00:08:20.840 --> 00:08:24.010
+or when you have to play
+basketball for the first time,
+
+00:08:24.010 --> 00:08:25.650
+you're going to make mistakes.
+
+00:08:25.650 --> 00:08:27.900
+And what the cerebellum
+does is it helps
+
+00:08:27.900 --> 00:08:29.540
+correct for those mistakes.
+
+00:08:29.540 --> 00:08:32.770
+So when you are shooting
+a hoop for the first time
+
+00:08:32.770 --> 00:08:34.937
+and it goes off to the left,
+then you have to learn,
+
+00:08:34.937 --> 00:08:37.103
+OK, I need to move it over
+to the right a little bit
+
+00:08:37.103 --> 00:08:37.720
+next time.
+
+00:08:37.720 --> 00:08:40.000
+The cerebellum is
+what does that.
+
+00:08:40.000 --> 00:08:42.929
+And when I teach this to middle
+schoolers or high schoolers,
+
+00:08:42.929 --> 00:08:44.750
+one fun thing I
+do with them is I
+
+00:08:44.750 --> 00:08:47.220
+bring along these
+specialized classes,
+
+00:08:47.220 --> 00:08:49.120
+which have prisms on them.
+
+00:08:49.120 --> 00:08:50.950
+So when you wear them,
+it skews your view
+
+00:08:50.950 --> 00:08:53.810
+of the world a few
+degrees to one side.
+
+00:08:53.810 --> 00:08:56.480
+So if I'm looking,
+say, at this marker
+
+00:08:56.480 --> 00:08:59.020
+here, when I put on
+the prisms, it's going
+
+00:08:59.020 --> 00:09:01.170
+to look like it's over here.
+
+00:09:01.170 --> 00:09:02.230
+So I do this to the kids.
+
+00:09:02.230 --> 00:09:03.730
+And the kids look
+out at the marker,
+
+00:09:03.730 --> 00:09:05.660
+and I tell them to
+quickly reach for it.
+
+00:09:05.660 --> 00:09:07.140
+They see it over here.
+
+00:09:07.140 --> 00:09:09.090
+So they start out
+reaching this way thinking
+
+00:09:09.090 --> 00:09:10.720
+that the marker is over there.
+
+00:09:10.720 --> 00:09:12.970
+But what happens over
+time is that they
+
+00:09:12.970 --> 00:09:16.790
+do this over a few minutes, and
+eventually they correct for it.
+
+00:09:16.790 --> 00:09:19.160
+So even though their
+vision is out here,
+
+00:09:19.160 --> 00:09:22.630
+they've corrected for it by
+moving their arm over here
+
+00:09:22.630 --> 00:09:23.960
+to where the marker is.
+
+00:09:23.960 --> 00:09:27.130
+And that's learning that
+happens in the cerebellum.
+
+00:09:27.130 --> 00:09:30.130
+Then, the really cool thing
+is they take off the glasses.
+
+00:09:30.130 --> 00:09:32.040
+And because the
+cerebellum has taught them
+
+00:09:32.040 --> 00:09:33.873
+that they need to reach
+to the left of where
+
+00:09:33.873 --> 00:09:36.910
+the visual field is, they
+look out at this marker.
+
+00:09:36.910 --> 00:09:39.060
+They start reaching over
+here to try to get it.
+
+00:09:39.060 --> 00:09:41.800
+So the cerebellum
+corrects for that.
+
+00:09:41.800 --> 00:09:44.220
+And again, after a
+few minutes, they
+
+00:09:44.220 --> 00:09:45.550
+do that a little bit longer.
+
+00:09:45.550 --> 00:09:47.340
+And they eventually
+reach for the marker.
+
+00:09:47.340 --> 00:09:48.798
+So that's learning
+that's happening
+
+00:09:48.798 --> 00:09:52.460
+in the cerebellum, really
+cool part of the brain.
+
+00:09:52.460 --> 00:09:54.710
+Then above the brain
+stem and the cerebellum,
+
+00:09:54.710 --> 00:09:56.860
+you have this
+wrinkled outer layer
+
+00:09:56.860 --> 00:09:59.020
+of the brain called the cortex.
+
+00:09:59.020 --> 00:10:00.850
+And the cortex we
+can broadly think
+
+00:10:00.850 --> 00:10:03.120
+of in four different lobes.
+
+00:10:03.120 --> 00:10:07.007
+And again, broad theme for
+this lecture, different lobes,
+
+00:10:07.007 --> 00:10:08.840
+different parts of the
+brain are specialized
+
+00:10:08.840 --> 00:10:10.590
+for different functions.
+
+00:10:10.590 --> 00:10:13.070
+So you have the frontal lobe
+up, as you would expect,
+
+00:10:13.070 --> 00:10:14.840
+at the front of the brain.
+
+00:10:14.840 --> 00:10:17.590
+And the frontal lobe,
+among many other things,
+
+00:10:17.590 --> 00:10:21.030
+plans your actions and
+controls your movement.
+
+00:10:21.030 --> 00:10:22.440
+So this is the
+part of your brain
+
+00:10:22.440 --> 00:10:24.570
+that's going to be sending
+a lot of connections
+
+00:10:24.570 --> 00:10:27.870
+down through the spinal cord
+to make you move your arms,
+
+00:10:27.870 --> 00:10:30.700
+move your legs, move the
+other parts of your body.
+
+00:10:30.700 --> 00:10:34.260
+And that's all happening
+because of the neurons
+
+00:10:34.260 --> 00:10:37.940
+that are up there in the spinal
+cord-- in the frontal lobe.
+
+00:10:37.940 --> 00:10:40.850
+And again, broad theme,
+different parts of the brain
+
+00:10:40.850 --> 00:10:43.000
+are specialized for
+different functions.
+
+00:10:43.000 --> 00:10:45.520
+Different parts of the
+frontal lobe, different parts
+
+00:10:45.520 --> 00:10:48.100
+of that part of the cortex
+that control movement
+
+00:10:48.100 --> 00:10:50.210
+control different
+parts of your body.
+
+00:10:50.210 --> 00:10:52.460
+So you've got a part of
+that frontal cortex that
+
+00:10:52.460 --> 00:10:54.620
+controls your foot
+and your left foot
+
+00:10:54.620 --> 00:10:57.290
+and your right foot and your
+left hand and your right hand.
+
+00:10:57.290 --> 00:11:01.099
+And they're all in specific
+places in the cortex.
+
+00:11:01.099 --> 00:11:03.140
+And they line up the way
+you would expect them to
+
+00:11:03.140 --> 00:11:04.100
+in the body.
+
+00:11:04.100 --> 00:11:07.169
+So if your foot
+cortex is down here,
+
+00:11:07.169 --> 00:11:08.710
+then your leg and
+your knee are going
+
+00:11:08.710 --> 00:11:10.990
+to be up here and then
+your trunk and then
+
+00:11:10.990 --> 00:11:14.430
+your arms and then the parts
+of the cortex that control
+
+00:11:14.430 --> 00:11:16.160
+facial movements up at the top.
+
+00:11:16.160 --> 00:11:19.450
+So it's organized
+according to function.
+
+00:11:19.450 --> 00:11:22.880
+So that's one thing that
+happens in the frontal lobe.
+
+00:11:22.880 --> 00:11:25.390
+Then, you have behind
+it the parietal lobe.
+
+00:11:25.390 --> 00:11:28.250
+And right next to the part
+that controls your movement
+
+00:11:28.250 --> 00:11:31.510
+in the frontal lobe is the
+part of the parietal lobe
+
+00:11:31.510 --> 00:11:34.400
+that senses the sensory
+touch information
+
+00:11:34.400 --> 00:11:36.250
+from the outside world.
+
+00:11:36.250 --> 00:11:38.560
+And again, form
+follows function.
+
+00:11:38.560 --> 00:11:40.462
+So different parts
+of the parietal lobe
+
+00:11:40.462 --> 00:11:41.920
+are specialized
+for different parts
+
+00:11:41.920 --> 00:11:44.840
+of the body, different parts
+of your touch information.
+
+00:11:44.840 --> 00:11:47.180
+And not only are there
+different parts of it
+
+00:11:47.180 --> 00:11:51.300
+but the sizes of the cortex
+that receive that information
+
+00:11:51.300 --> 00:11:53.110
+are also different sizes.
+
+00:11:53.110 --> 00:11:55.600
+So you've got your finger tips
+that are really sensitive,
+
+00:11:55.600 --> 00:11:59.200
+have lots of nerve endings,
+have lots of sensory information
+
+00:11:59.200 --> 00:12:00.390
+coming from them.
+
+00:12:00.390 --> 00:12:03.360
+Your fingertips have a big
+part of cortex represented
+
+00:12:03.360 --> 00:12:04.820
+in the parietal lobe.
+
+00:12:04.820 --> 00:12:07.010
+So again, different parts,
+different functions,
+
+00:12:07.010 --> 00:12:09.180
+different sizes.
+
+00:12:09.180 --> 00:12:12.480
+Below the parietal lobe,
+you have the temporal lobe,
+
+00:12:12.480 --> 00:12:14.480
+which is sitting here
+next to your temples
+
+00:12:14.480 --> 00:12:15.960
+as you might expect.
+
+00:12:15.960 --> 00:12:18.400
+And the temporal lobe,
+among other things,
+
+00:12:18.400 --> 00:12:20.930
+receives the
+auditory information.
+
+00:12:20.930 --> 00:12:24.400
+Your hearing information comes
+into that part of the cortex.
+
+00:12:24.400 --> 00:12:27.910
+And also, as you'll hear
+later, deep inside that lobe
+
+00:12:27.910 --> 00:12:31.390
+are the parts of the brain
+that help for memory formation.
+
+00:12:31.390 --> 00:12:34.590
+So the temporal lobe
+receives auditory information
+
+00:12:34.590 --> 00:12:39.065
+and also has a really important
+part for memory formation.
+
+00:12:39.065 --> 00:12:40.690
+Then finally, at the
+back of the brain,
+
+00:12:40.690 --> 00:12:42.624
+you have the occipital lobe.
+
+00:12:42.624 --> 00:12:44.290
+And all the way at
+the back of the brain
+
+00:12:44.290 --> 00:12:46.460
+here, this occipital
+lobe is where you're
+
+00:12:46.460 --> 00:12:48.700
+receiving visual information.
+
+00:12:48.700 --> 00:12:51.210
+So visual information
+comes into your eyes,
+
+00:12:51.210 --> 00:12:53.050
+travels all the way to
+the back of the brain
+
+00:12:53.050 --> 00:12:54.550
+to the occipital lobe.
+
+00:12:54.550 --> 00:12:56.470
+And that's where
+it gets processed.
+
+00:12:56.470 --> 00:12:59.330
+So different parts of the brain
+are doing different things.
+
+00:12:59.330 --> 00:13:03.080
+And this is just a really broad
+way of thinking about that.
+
+00:13:03.080 --> 00:13:05.227
+So I'm next going to go
+over some specific parts
+
+00:13:05.227 --> 00:13:07.060
+of the brain that you're
+going to hear a lot
+
+00:13:07.060 --> 00:13:09.250
+about in the coming lectures.
+
+00:13:09.250 --> 00:13:11.160
+For now, it's just
+an introduction.
+
+00:13:11.160 --> 00:13:13.280
+But hopefully, when you
+hear them again later,
+
+00:13:13.280 --> 00:13:16.510
+you'll be able to say,
+ah, I remember that.
+
+00:13:16.510 --> 00:13:18.140
+So the limbic
+system, you're going
+
+00:13:18.140 --> 00:13:20.640
+to hear about again
+and again and again.
+
+00:13:20.640 --> 00:13:24.090
+It's this series of structures
+that are underneath the cortex
+
+00:13:24.090 --> 00:13:26.420
+but sort of above
+the brain stem.
+
+00:13:26.420 --> 00:13:29.600
+And in general, the limbic
+system controls a lot of things
+
+00:13:29.600 --> 00:13:32.810
+that we associate with
+emotion, with learning,
+
+00:13:32.810 --> 00:13:35.380
+memory, really important
+things that an animal has
+
+00:13:35.380 --> 00:13:36.777
+to do to behave.
+
+00:13:36.777 --> 00:13:38.360
+And two structures
+we're going to hear
+
+00:13:38.360 --> 00:13:41.810
+a lot about time and time
+again are the hippocampus
+
+00:13:41.810 --> 00:13:43.520
+and the amygdala.
+
+00:13:43.520 --> 00:13:46.390
+So the hippocampus
+up there in blue
+
+00:13:46.390 --> 00:13:50.860
+is-- well, the hippocampus
+word itself means seahorse.
+
+00:13:50.860 --> 00:13:52.614
+And supposedly,
+when neuroanatomists
+
+00:13:52.614 --> 00:13:54.030
+were looking at
+this, they thought
+
+00:13:54.030 --> 00:13:55.790
+it looked like a seahorse.
+
+00:13:55.790 --> 00:13:58.090
+I don't see it, but
+let me know if you do.
+
+00:13:58.090 --> 00:14:01.720
+And this part of the brain is
+really important for memory
+
+00:14:01.720 --> 00:14:03.770
+and forming new memories.
+
+00:14:03.770 --> 00:14:07.060
+And the way that scientists
+first found this out in humans
+
+00:14:07.060 --> 00:14:10.260
+anyway was by a
+bit of an accident.
+
+00:14:10.260 --> 00:14:13.800
+The hippocampus, they
+found out, is this place
+
+00:14:13.800 --> 00:14:15.300
+where new memories are made.
+
+00:14:15.300 --> 00:14:17.790
+But they didn't do it by any
+sort of experimental approach
+
+00:14:17.790 --> 00:14:20.410
+that you would suspect them to.
+
+00:14:20.410 --> 00:14:22.850
+What happened is there
+was this patient,
+
+00:14:22.850 --> 00:14:26.230
+one of the most famous patients
+in all of neuroscience,
+
+00:14:26.230 --> 00:14:27.835
+named HM.
+
+00:14:27.835 --> 00:14:30.760
+For privacy reasons, his
+name up until he died
+
+00:14:30.760 --> 00:14:32.133
+was known just as HM.
+
+00:14:32.133 --> 00:14:36.340
+And this patient had really
+terrible seizures, really bad
+
+00:14:36.340 --> 00:14:38.510
+epilepsy that could
+not be controlled
+
+00:14:38.510 --> 00:14:40.910
+and was debilitated
+by these seizures.
+
+00:14:40.910 --> 00:14:43.190
+So when he was a
+young man, they tried
+
+00:14:43.190 --> 00:14:44.920
+all sorts of
+different techniques
+
+00:14:44.920 --> 00:14:46.672
+to try to control
+these seizures.
+
+00:14:46.672 --> 00:14:48.130
+And in the end,
+what they had to do
+
+00:14:48.130 --> 00:14:50.296
+was actually figure out
+where these seizures started
+
+00:14:50.296 --> 00:14:54.030
+in the brain and surgically
+remove that part.
+
+00:14:54.030 --> 00:14:57.240
+And it turned out that
+part in this patient
+
+00:14:57.240 --> 00:14:59.070
+included the hippocampus.
+
+00:14:59.070 --> 00:15:02.260
+So they took out the hippocampus
+on both sides of the brain.
+
+00:15:02.260 --> 00:15:05.060
+And after the
+surgery, Patient HM
+
+00:15:05.060 --> 00:15:06.581
+didn't have seizures anymore.
+
+00:15:06.581 --> 00:15:07.080
+Great.
+
+00:15:07.080 --> 00:15:08.390
+Wonderful.
+
+00:15:08.390 --> 00:15:11.810
+But what they found out is
+that this patient afterwards
+
+00:15:11.810 --> 00:15:14.080
+couldn't form any new memories.
+
+00:15:14.080 --> 00:15:16.360
+When he had nurses
+come in to visit him
+
+00:15:16.360 --> 00:15:20.030
+who visited him every
+day after the surgery,
+
+00:15:20.030 --> 00:15:22.320
+every time he met them it
+was like he was meeting them
+
+00:15:22.320 --> 00:15:23.600
+for the first time.
+
+00:15:23.600 --> 00:15:25.760
+He couldn't store that memory.
+
+00:15:25.760 --> 00:15:27.870
+But the really
+interesting thing was
+
+00:15:27.870 --> 00:15:30.340
+when they asked him about
+events from his childhood,
+
+00:15:30.340 --> 00:15:31.880
+he could still remember those.
+
+00:15:31.880 --> 00:15:34.270
+He could remember who the
+president of the United States
+
+00:15:34.270 --> 00:15:35.700
+was in his childhood.
+
+00:15:35.700 --> 00:15:38.700
+So the memories were stored
+somewhere else in the brain.
+
+00:15:38.700 --> 00:15:41.020
+But the ability to
+make the new memories
+
+00:15:41.020 --> 00:15:43.290
+was dependent on
+the hippocampus.
+
+00:15:43.290 --> 00:15:45.602
+So that's how they
+discovered by accident
+
+00:15:45.602 --> 00:15:47.810
+that the hippocampus is the
+part of the brain forming
+
+00:15:47.810 --> 00:15:49.447
+new memories.
+
+00:15:49.447 --> 00:15:51.030
+Another part of the
+brain you're going
+
+00:15:51.030 --> 00:15:54.890
+to hear about a lot, a lot,
+a lot is make the amygdala.
+
+00:15:54.890 --> 00:15:59.150
+And the amygdala are those two
+yellow almond-shaped things
+
+00:15:59.150 --> 00:16:02.094
+sitting up in the front
+of the hippocampus.
+
+00:16:02.094 --> 00:16:03.510
+And as you've
+already heard, these
+
+00:16:03.510 --> 00:16:05.093
+are parts of the
+brain that are really
+
+00:16:05.093 --> 00:16:07.250
+involved in fear and anxiety.
+
+00:16:07.250 --> 00:16:09.920
+So if you remember the
+example that Dr. Sapolsky gave
+
+00:16:09.920 --> 00:16:12.830
+on Monday when he was
+talking about scared
+
+00:16:12.830 --> 00:16:16.200
+sweat versus exercise sweat
+and how we can actually
+
+00:16:16.200 --> 00:16:21.160
+tell whether we're smelling
+scared sweat or exercise sweat,
+
+00:16:21.160 --> 00:16:23.020
+one way that they
+see that difference
+
+00:16:23.020 --> 00:16:25.910
+is when they look at the brains
+of people who are smelling
+
+00:16:25.910 --> 00:16:29.630
+sweat from a scared person,
+the amygdala lights up.
+
+00:16:29.630 --> 00:16:31.340
+But when you're
+smelling sweat that
+
+00:16:31.340 --> 00:16:33.670
+was given off by somebody
+who was exercising,
+
+00:16:33.670 --> 00:16:35.520
+it doesn't light up as much.
+
+00:16:35.520 --> 00:16:38.500
+So the amygdala's really
+important for sensing fear.
+
+00:16:38.500 --> 00:16:42.790
+And it's important for
+forming anxiety as well.
+
+00:16:42.790 --> 00:16:45.320
+So when you look at an angry
+face or a fearful face,
+
+00:16:45.320 --> 00:16:46.670
+the amygdala will light up.
+
+00:16:46.670 --> 00:16:49.850
+But when you look at a
+happy face, it won't.
+
+00:16:49.850 --> 00:16:50.880
+So that's the amygdala.
+
+00:16:50.880 --> 00:16:53.150
+You'll hear a lot
+more about it later,
+
+00:16:53.150 --> 00:16:58.050
+really important part of the
+brain for fear and anxiety.
+
+00:16:58.050 --> 00:17:00.560
+Other parts of the brain you're
+sure to hear tons and tons
+
+00:17:00.560 --> 00:17:04.030
+and tons about later on are
+the hypothalamus and pituitary
+
+00:17:04.030 --> 00:17:05.349
+gland.
+
+00:17:05.349 --> 00:17:09.109
+And these are-- you can think
+of them as hormone central.
+
+00:17:09.109 --> 00:17:11.040
+These are the parts
+of the brain that
+
+00:17:11.040 --> 00:17:12.440
+control how hormones
+are released
+
+00:17:12.440 --> 00:17:15.714
+to the rest of the body, control
+a lot of different behaviors.
+
+00:17:15.714 --> 00:17:18.089
+So the hypothalamus sits in
+the center of the brain right
+
+00:17:18.089 --> 00:17:19.480
+at the very bottom.
+
+00:17:19.480 --> 00:17:21.470
+And the pituitary
+is underneath it
+
+00:17:21.470 --> 00:17:23.060
+and secretes a lot
+of those hormones
+
+00:17:23.060 --> 00:17:24.970
+out into the bloodstream.
+
+00:17:24.970 --> 00:17:28.400
+And it's an old joke
+but one that gets
+
+00:17:28.400 --> 00:17:30.139
+repeated over and over again.
+
+00:17:30.139 --> 00:17:32.180
+You can think of the
+different types of behaviors
+
+00:17:32.180 --> 00:17:35.180
+that the hypothalamus
+controls as four Fs.
+
+00:17:35.180 --> 00:17:36.650
+You've got fight.
+
+00:17:36.650 --> 00:17:38.250
+You've got flight.
+
+00:17:38.250 --> 00:17:41.860
+You've got feeding behavior
+and reproductive behavior.
+
+00:17:41.860 --> 00:17:45.220
+So you've got those four Fs of
+what the hypothalamus controls.
+
+00:17:45.220 --> 00:17:45.720
+[LAUGHTER]
+
+00:17:45.720 --> 00:17:46.220
+Yes.
+
+00:17:46.220 --> 00:17:46.940
+Now, you get it.
+
+00:17:46.940 --> 00:17:48.380
+Yes.
+
+00:17:48.380 --> 00:17:51.612
+So you're going to hear tons
+and tons more about this.
+
+00:17:51.612 --> 00:17:54.070
+For now, just know that they
+sit at the bottom of the brain
+
+00:17:54.070 --> 00:17:57.254
+and help control a lot
+of these behaviors.
+
+00:17:57.254 --> 00:17:59.170
+So what else do we have
+in the nervous system?
+
+00:17:59.170 --> 00:18:01.410
+We've got all these
+different parts of the brain.
+
+00:18:01.410 --> 00:18:03.540
+But we've also got
+the spinal cord
+
+00:18:03.540 --> 00:18:05.360
+coming down from the brain.
+
+00:18:05.360 --> 00:18:06.930
+And just like in
+the brain itself,
+
+00:18:06.930 --> 00:18:08.810
+the spinal cord is specialized.
+
+00:18:08.810 --> 00:18:12.810
+You have parts of the spinal
+cord that send out information.
+
+00:18:12.810 --> 00:18:14.660
+And you've got parts
+of the spinal cord that
+
+00:18:14.660 --> 00:18:16.130
+receive the information.
+
+00:18:16.130 --> 00:18:17.290
+So you've got motor nerves.
+
+00:18:17.290 --> 00:18:19.610
+And you've got sensory
+nerves in different parts
+
+00:18:19.610 --> 00:18:20.606
+of the spinal cord.
+
+00:18:20.606 --> 00:18:22.980
+You've got different parts of
+the spinal cord, of course,
+
+00:18:22.980 --> 00:18:25.870
+for your arms and your
+legs, basically what
+
+00:18:25.870 --> 00:18:28.270
+you need to know for now
+about the spinal cord.
+
+00:18:28.270 --> 00:18:30.920
+You're also going to be hearing
+a lot more in future lectures
+
+00:18:30.920 --> 00:18:33.190
+about the peripheral
+nervous system.
+
+00:18:33.190 --> 00:18:34.780
+And the peripheral
+nervous system
+
+00:18:34.780 --> 00:18:38.300
+has all of the motor nerves
+and sensory nerves that
+
+00:18:38.300 --> 00:18:40.200
+are outside of the spinal cord.
+
+00:18:40.200 --> 00:18:43.750
+So a lot of the things that
+sense touch information or heat
+
+00:18:43.750 --> 00:18:45.650
+or anything else
+out in the periphery
+
+00:18:45.650 --> 00:18:47.970
+are part of the
+peripheral nervous system.
+
+00:18:47.970 --> 00:18:50.500
+And then, you've
+also got a whole part
+
+00:18:50.500 --> 00:18:52.940
+of the peripheral nervous
+system that happens
+
+00:18:52.940 --> 00:18:54.380
+pretty much automatically.
+
+00:18:54.380 --> 00:18:55.940
+You don't have to
+think about it.
+
+00:18:55.940 --> 00:18:58.900
+So you've got nerves that are
+controlling your heartbeat,
+
+00:18:58.900 --> 00:19:01.419
+your digestion, your breathing.
+
+00:19:01.419 --> 00:19:02.960
+And normally, you
+don't have to think
+
+00:19:02.960 --> 00:19:04.231
+about keeping those going.
+
+00:19:04.231 --> 00:19:05.980
+So those are another
+part that you'll hear
+
+00:19:05.980 --> 00:19:09.280
+a lot more from Dana later on.
+
+00:19:09.280 --> 00:19:11.790
+So that's really
+a broad overview
+
+00:19:11.790 --> 00:19:14.170
+of the different parts
+of the nervous system
+
+00:19:14.170 --> 00:19:15.960
+and what they do.
+
+00:19:15.960 --> 00:19:18.510
+So now, we're going to think
+a little bit more closely
+
+00:19:18.510 --> 00:19:21.730
+about what's actually
+inside a brain, what
+
+00:19:21.730 --> 00:19:24.240
+the individual cells
+are, what they're doing,
+
+00:19:24.240 --> 00:19:27.060
+how they make you behave.
+
+00:19:27.060 --> 00:19:29.327
+And again, this is not a
+list for you to remember.
+
+00:19:29.327 --> 00:19:31.910
+It's just to let you know that
+there are different cell types,
+
+00:19:31.910 --> 00:19:34.260
+and they have
+different functions.
+
+00:19:34.260 --> 00:19:38.950
+And I'm going to tell you first
+about something that came up
+
+00:19:38.950 --> 00:19:41.110
+while I was looking online
+and trying to figure out
+
+00:19:41.110 --> 00:19:43.050
+what to say for this lecture.
+
+00:19:43.050 --> 00:19:46.340
+And I realize that it's
+illegal in seven states
+
+00:19:46.340 --> 00:19:48.920
+to give an introductory
+neuroscience lecture
+
+00:19:48.920 --> 00:19:51.880
+and not mention the name
+Santiago Ramon y Cajal.
+
+00:19:51.880 --> 00:19:56.650
+So Santiago Ramon y Cajal,
+why is he this god figure
+
+00:19:56.650 --> 00:19:57.880
+in neuroscience?
+
+00:19:57.880 --> 00:19:59.600
+What did he do?
+
+00:19:59.600 --> 00:20:01.780
+So when Santiago
+Roman y Cajal was
+
+00:20:01.780 --> 00:20:05.680
+doing most of his scientific
+work at the end of the 1800s,
+
+00:20:05.680 --> 00:20:09.890
+mostly in the 1890s,
+the general theory
+
+00:20:09.890 --> 00:20:11.990
+about the way the
+brain worked was
+
+00:20:11.990 --> 00:20:14.850
+that it wasn't individual
+cells that were
+
+00:20:14.850 --> 00:20:15.990
+performing their functions.
+
+00:20:15.990 --> 00:20:18.540
+Instead, the brain was
+thought of as this web,
+
+00:20:18.540 --> 00:20:22.280
+this interconnected
+web of mush, basically,
+
+00:20:22.280 --> 00:20:24.890
+that did all of its
+computational work
+
+00:20:24.890 --> 00:20:26.130
+to make you behave.
+
+00:20:26.130 --> 00:20:29.210
+People knew that the brain
+was where behavior started
+
+00:20:29.210 --> 00:20:30.950
+and where it was controlled.
+
+00:20:30.950 --> 00:20:33.060
+But they didn't really
+know what it was
+
+00:20:33.060 --> 00:20:34.710
+inside the brain that did that.
+
+00:20:34.710 --> 00:20:38.700
+So the prevailing theory
+was that you had this web.
+
+00:20:38.700 --> 00:20:40.800
+And rather than just
+take that at face value,
+
+00:20:40.800 --> 00:20:44.000
+Ramon y Cajal decided to
+experimentally figure out
+
+00:20:44.000 --> 00:20:45.410
+if that was the case.
+
+00:20:45.410 --> 00:20:47.800
+So he found this really
+cool technique invented
+
+00:20:47.800 --> 00:20:49.770
+by a different guy named Golgi.
+
+00:20:49.770 --> 00:20:51.970
+And this technique
+allowed him to take
+
+00:20:51.970 --> 00:20:55.470
+small slices of the
+brain and turn about 1%
+
+00:20:55.470 --> 00:20:57.700
+of the cells in
+that slice black.
+
+00:20:57.700 --> 00:20:59.090
+We still don't
+know how it works.
+
+00:20:59.090 --> 00:21:00.880
+But he was able to do it.
+
+00:21:00.880 --> 00:21:04.230
+And then, he drew these really,
+really detailed pictures
+
+00:21:04.230 --> 00:21:06.330
+of what that looked
+like in the microscope.
+
+00:21:06.330 --> 00:21:09.552
+And these images are
+just absolutely gorgeous.
+
+00:21:09.552 --> 00:21:11.260
+There's a whole class
+of people that when
+
+00:21:11.260 --> 00:21:14.730
+they see these images, tears
+of joy stream down their face.
+
+00:21:14.730 --> 00:21:17.210
+They fall to their
+knees weeping, praising
+
+00:21:17.210 --> 00:21:18.950
+the gods of neuroscience.
+
+00:21:18.950 --> 00:21:22.110
+These are the people who become
+neuroscience graduate students.
+
+00:21:22.110 --> 00:21:25.620
+So these cells and these
+pictures that he drew
+
+00:21:25.620 --> 00:21:27.220
+showed us that
+there actually are
+
+00:21:27.220 --> 00:21:30.810
+individual cells in the brain
+that are doing this work.
+
+00:21:30.810 --> 00:21:33.440
+It's not a complete mess.
+
+00:21:33.440 --> 00:21:35.240
+It's not a complete web.
+
+00:21:35.240 --> 00:21:37.730
+It's actually individual cells.
+
+00:21:37.730 --> 00:21:41.500
+And so he drew out these
+beautiful pictures of neurons
+
+00:21:41.500 --> 00:21:44.610
+and also all of the other
+cells that are in the brain.
+
+00:21:44.610 --> 00:21:46.360
+And I have a good
+friend who studies
+
+00:21:46.360 --> 00:21:49.450
+all of these other cells in the
+brain that are not the neurons,
+
+00:21:49.450 --> 00:21:52.796
+not the ones that are actually
+doing the computational work.
+
+00:21:52.796 --> 00:21:55.170
+And I promised her I'd never
+give an introductory lecture
+
+00:21:55.170 --> 00:21:56.710
+without mentioning these.
+
+00:21:56.710 --> 00:21:59.420
+So first, I'll start
+out with those cells.
+
+00:21:59.420 --> 00:22:03.330
+So 90% of the cells in
+your brain and spinal cord
+
+00:22:03.330 --> 00:22:05.160
+are not actually neurons.
+
+00:22:05.160 --> 00:22:07.100
+They're called glia.
+
+00:22:07.100 --> 00:22:08.976
+And glia basically,
+by definition
+
+00:22:08.976 --> 00:22:10.600
+is anything in the
+brain or spinal cord
+
+00:22:10.600 --> 00:22:12.230
+that is not a neuron.
+
+00:22:12.230 --> 00:22:15.960
+And glia, the word,
+means glue because people
+
+00:22:15.960 --> 00:22:18.510
+saw these cells in there and
+thought they were just glue
+
+00:22:18.510 --> 00:22:20.540
+sticking the neurons together.
+
+00:22:20.540 --> 00:22:23.510
+But it turns out they actually
+do a lot more than that.
+
+00:22:23.510 --> 00:22:26.340
+You've got cells called
+astrocytes, which
+
+00:22:26.340 --> 00:22:28.580
+are these star-shaped cells.
+
+00:22:28.580 --> 00:22:30.650
+And they, in a
+very general sense,
+
+00:22:30.650 --> 00:22:33.100
+supply nutrients to
+the neurons and help
+
+00:22:33.100 --> 00:22:35.330
+regulate how they fire.
+
+00:22:35.330 --> 00:22:38.650
+Then, you've also got these
+cells called oligodendrocytes,
+
+00:22:38.650 --> 00:22:40.080
+or Schwann cells.
+
+00:22:40.080 --> 00:22:42.530
+Again, long names you
+don't need to memorize.
+
+00:22:42.530 --> 00:22:45.330
+But they wrap around
+the wires of neurons
+
+00:22:45.330 --> 00:22:48.010
+and make their firing go faster.
+
+00:22:48.010 --> 00:22:49.750
+Then, you've got
+microglia, which
+
+00:22:49.750 --> 00:22:52.190
+are yet another glial cell
+that are in the brain.
+
+00:22:52.190 --> 00:22:54.660
+And they're basically the
+brain's immune system.
+
+00:22:54.660 --> 00:22:55.950
+They move around the brain.
+
+00:22:55.950 --> 00:22:58.880
+They send out little processes
+out into parts of the brain
+
+00:22:58.880 --> 00:23:01.360
+to figure out if the brain is
+getting infected by viruses
+
+00:23:01.360 --> 00:23:03.770
+or bacteria or if there
+are any dead cells that
+
+00:23:03.770 --> 00:23:05.050
+need to be cleared up.
+
+00:23:05.050 --> 00:23:07.080
+And they do all of that work.
+
+00:23:07.080 --> 00:23:10.890
+So 90% of your brain is actually
+all of these other cells doing
+
+00:23:10.890 --> 00:23:12.140
+this work.
+
+00:23:12.140 --> 00:23:14.130
+But what they're
+doing this work for
+
+00:23:14.130 --> 00:23:16.760
+is so that you can have
+your neurons working.
+
+00:23:16.760 --> 00:23:18.580
+And the neurons are
+what we're going
+
+00:23:18.580 --> 00:23:21.890
+to focus on for the next
+10, 15 minutes or so.
+
+00:23:21.890 --> 00:23:25.210
+And these are the
+complicated but wonderful
+
+00:23:25.210 --> 00:23:28.130
+computational
+units of the brain.
+
+00:23:28.130 --> 00:23:30.550
+And in an average
+human brain, you've
+
+00:23:30.550 --> 00:23:33.720
+got about 100 billion neurons.
+
+00:23:33.720 --> 00:23:36.970
+And each of those has
+about 10,000 connections
+
+00:23:36.970 --> 00:23:38.120
+to other neurons.
+
+00:23:38.120 --> 00:23:40.144
+And those connections
+are called synapses.
+
+00:23:40.144 --> 00:23:41.560
+So if you think
+about that, you've
+
+00:23:41.560 --> 00:23:44.950
+got roughly a
+quadrillion synapses
+
+00:23:44.950 --> 00:23:49.390
+in your brain, a quadrillion
+connections between neurons.
+
+00:23:49.390 --> 00:23:51.870
+And just to give you some
+perspective, the number
+
+00:23:51.870 --> 00:23:53.760
+of stars in the
+Milky Way, the number
+
+00:23:53.760 --> 00:23:57.000
+of stars that you can see
+out there in our own galaxy
+
+00:23:57.000 --> 00:23:58.810
+is about 300 billion.
+
+00:23:58.810 --> 00:24:00.730
+So you've got a
+quadrillion synapses
+
+00:24:00.730 --> 00:24:03.750
+just sitting there in your
+brain, which is already
+
+00:24:03.750 --> 00:24:06.510
+more than 1,000 times more
+than the number of stars
+
+00:24:06.510 --> 00:24:08.370
+that are out there in
+the Milky Way galaxy.
+
+00:24:08.370 --> 00:24:10.280
+So you've got all of
+these connections packed
+
+00:24:10.280 --> 00:24:13.960
+in there in their brain doing
+all of this computational work.
+
+00:24:13.960 --> 00:24:17.200
+So how does it actually work?
+
+00:24:17.200 --> 00:24:24.651
+So here I'm actually going
+to switch over if I can.
+
+00:24:24.651 --> 00:24:25.151
+Great.
+
+00:24:28.910 --> 00:24:31.620
+So here we're going to talk
+about the neuron itself
+
+00:24:31.620 --> 00:24:33.440
+and what the different
+parts of it are,
+
+00:24:33.440 --> 00:24:34.860
+what the different
+parts of it do,
+
+00:24:34.860 --> 00:24:37.540
+and how it works,
+how it communicates.
+
+00:24:37.540 --> 00:24:41.080
+So this is a very badly
+drawn picture of a neuron.
+
+00:24:41.080 --> 00:24:43.370
+But it will give you an
+idea of what a neuron is
+
+00:24:43.370 --> 00:24:45.030
+and how it functions.
+
+00:24:45.030 --> 00:24:46.530
+So you've got
+different parts of it.
+
+00:24:46.530 --> 00:24:51.630
+You've got out here, dendrites.
+
+00:24:51.630 --> 00:24:55.180
+And these are what receive
+the information on a neuron.
+
+00:24:55.180 --> 00:24:57.820
+They get the information
+from the cell before it
+
+00:24:57.820 --> 00:25:01.260
+and pass it on
+down into the cell.
+
+00:25:01.260 --> 00:25:06.460
+Down here you've got the soma
+or the cell body of the neuron.
+
+00:25:06.460 --> 00:25:09.145
+And importantly, you
+have the nucleus,
+
+00:25:09.145 --> 00:25:10.770
+just like you do in
+any other cell that
+
+00:25:10.770 --> 00:25:13.040
+has all the DNA in it.
+
+00:25:13.040 --> 00:25:16.050
+And then, there's an
+important part down here.
+
+00:25:16.050 --> 00:25:18.510
+So you're getting all of
+this input from the dendrites
+
+00:25:18.510 --> 00:25:22.950
+from the cells before giving
+you information at the dendrites
+
+00:25:22.950 --> 00:25:24.720
+that goes into the cell.
+
+00:25:24.720 --> 00:25:26.470
+And somehow the
+cell has to decide
+
+00:25:26.470 --> 00:25:31.020
+whether to pass that information
+on to the next cell or not.
+
+00:25:31.020 --> 00:25:34.680
+And that happens at this
+specialized part of the cell
+
+00:25:34.680 --> 00:25:40.650
+called the axon hillock.
+
+00:25:40.650 --> 00:25:42.740
+I guess it's like a hill
+but not quite as big.
+
+00:25:42.740 --> 00:25:45.050
+So you have the
+axon hillock there.
+
+00:25:45.050 --> 00:25:47.572
+And then down here,
+you have the axon,
+
+00:25:47.572 --> 00:25:49.280
+which you can think
+of as the wire that's
+
+00:25:49.280 --> 00:25:52.600
+sending the information
+on to the next cell.
+
+00:25:52.600 --> 00:25:57.270
+And then down here,
+you have the terminal.
+
+00:25:57.270 --> 00:25:59.610
+And this is where the cell
+will send on information
+
+00:25:59.610 --> 00:26:02.260
+on to the next neuron.
+
+00:26:02.260 --> 00:26:04.234
+So these are the general
+parts of a neuron
+
+00:26:04.234 --> 00:26:05.900
+that you'll need to
+think about in terms
+
+00:26:05.900 --> 00:26:07.680
+of how neurons communicate.
+
+00:26:07.680 --> 00:26:09.130
+And information
+is generally going
+
+00:26:09.130 --> 00:26:12.640
+to flow from dendrites
+down to the cell body,
+
+00:26:12.640 --> 00:26:14.910
+get summed up at
+the axon hillock.
+
+00:26:14.910 --> 00:26:17.540
+The cell will decide
+whether to fire or not
+
+00:26:17.540 --> 00:26:20.460
+and send that on
+down to the terminal.
+
+00:26:20.460 --> 00:26:23.000
+So that's a basic
+overview of a neuron
+
+00:26:23.000 --> 00:26:25.310
+and how those
+different parts work.
+
+00:26:25.310 --> 00:26:27.140
+So how does it actually work?
+
+00:26:27.140 --> 00:26:29.500
+How does it actually
+send that signal?
+
+00:26:29.500 --> 00:26:32.600
+And this is just going to give
+you a really broad overview
+
+00:26:32.600 --> 00:26:34.507
+of how a neuron does this.
+
+00:26:34.507 --> 00:26:36.340
+So if you think about
+a neuron sitting there
+
+00:26:36.340 --> 00:26:37.970
+in the middle of
+the brain, there's
+
+00:26:37.970 --> 00:26:40.970
+lots of electrical activity,
+lots of things going on.
+
+00:26:40.970 --> 00:26:43.300
+Somehow a neuron if
+it sends a signal
+
+00:26:43.300 --> 00:26:46.340
+has to get heard
+above all that noise.
+
+00:26:46.340 --> 00:26:50.590
+So the way a neuron
+solves this problem is it
+
+00:26:50.590 --> 00:26:57.430
+is either on or completely
+off, completely quiet.
+
+00:27:00.080 --> 00:27:04.590
+It's not a system where
+you have a continuum,
+
+00:27:04.590 --> 00:27:09.140
+where you have-- where
+the cell is kind of on,
+
+00:27:09.140 --> 00:27:11.080
+a little bit more
+on, a little bit more
+
+00:27:11.080 --> 00:27:12.950
+on, and then totally on.
+
+00:27:12.950 --> 00:27:15.560
+It's not that way.
+
+00:27:15.560 --> 00:27:18.920
+Because that wouldn't really get
+heard above all of the noise.
+
+00:27:18.920 --> 00:27:23.027
+So what you have is a cell
+that's either on or off.
+
+00:27:23.027 --> 00:27:24.610
+And a neuron really
+wants to make sure
+
+00:27:24.610 --> 00:27:28.500
+that it stays off until
+it's ready to send a signal.
+
+00:27:28.500 --> 00:27:30.960
+So that's how the
+neuron stays quiet.
+
+00:27:30.960 --> 00:27:32.740
+And when we talk
+about that in biology,
+
+00:27:32.740 --> 00:27:36.120
+we talk about the neuron
+keeping a resting potential,
+
+00:27:36.120 --> 00:27:39.870
+a resting quiet
+level of activity.
+
+00:27:39.870 --> 00:27:42.810
+So how does a neuron do that?
+
+00:27:42.810 --> 00:27:44.620
+So the way that
+neurons communicate
+
+00:27:44.620 --> 00:27:48.080
+and the way that they
+send on electrical signals
+
+00:27:48.080 --> 00:27:51.170
+is going to be
+through the movement
+
+00:27:51.170 --> 00:27:53.540
+of these chemicals called ions.
+
+00:27:53.540 --> 00:27:55.830
+For those of you who
+are not science people,
+
+00:27:55.830 --> 00:27:57.990
+just think of them
+as charged chemicals.
+
+00:27:57.990 --> 00:28:00.260
+We're just going to
+talk about general ions
+
+00:28:00.260 --> 00:28:02.520
+for today, which
+are charged atoms.
+
+00:28:02.520 --> 00:28:05.260
+So they can have a positive
+charge or a negative charge.
+
+00:28:05.260 --> 00:28:08.590
+And we're going to talk about
+mostly positive charges today.
+
+00:28:08.590 --> 00:28:12.180
+So the neuron has to keep quiet.
+
+00:28:12.180 --> 00:28:15.030
+And the way it does
+that is by keeping
+
+00:28:15.030 --> 00:28:21.710
+positive charges, positive
+ions outside of the neurons.
+
+00:28:21.710 --> 00:28:25.420
+So you have all of these
+positive ions sitting
+
+00:28:25.420 --> 00:28:27.850
+there outside of the neuron.
+
+00:28:27.850 --> 00:28:29.710
+And this is how it stays quiet.
+
+00:28:29.710 --> 00:28:31.930
+Because the flow of these
+ions is going to be what
+
+00:28:31.930 --> 00:28:34.160
+communicates the signal.
+
+00:28:34.160 --> 00:28:36.070
+So how does it do that?
+
+00:28:36.070 --> 00:28:41.330
+It keeps these ions out of
+the cell by using these pumps.
+
+00:28:41.330 --> 00:28:44.550
+So it has pumps
+that will pump out
+
+00:28:44.550 --> 00:28:46.520
+positive charges from
+the inside of the cell
+
+00:28:46.520 --> 00:28:48.370
+to the outside of the cell.
+
+00:28:48.370 --> 00:28:50.770
+So by using those
+pumps, the neuron
+
+00:28:50.770 --> 00:28:52.850
+is keeping all of the
+positive charges, all
+
+00:28:52.850 --> 00:28:56.050
+of the positive ions mostly
+on the outside of the cell,
+
+00:28:56.050 --> 00:28:57.900
+rather than on the inside.
+
+00:28:57.900 --> 00:29:00.470
+So that means that
+the net charge
+
+00:29:00.470 --> 00:29:03.320
+on the inside of the cell
+is going to be negative.
+
+00:29:03.320 --> 00:29:05.260
+So you've got this imbalance.
+
+00:29:05.260 --> 00:29:07.540
+And this is how the
+neuron stays quiet,
+
+00:29:07.540 --> 00:29:11.080
+how it make sure that
+it is not firing.
+
+00:29:11.080 --> 00:29:14.412
+So you've got this cell sitting
+there trying to figure out
+
+00:29:14.412 --> 00:29:15.620
+if it's going to fire or not.
+
+00:29:15.620 --> 00:29:17.080
+Right now it's quiet.
+
+00:29:17.080 --> 00:29:20.590
+How does the whole process
+get started to make it fire?
+
+00:29:20.590 --> 00:29:24.140
+So if you have another
+neuron up here--
+
+00:29:24.140 --> 00:29:27.210
+and you'll hear a lot more
+about this from Anthony--
+
+00:29:27.210 --> 00:29:31.770
+sending out a chemical
+signal, that chemical signal
+
+00:29:31.770 --> 00:29:35.780
+is going to get received
+at the dendrites.
+
+00:29:35.780 --> 00:29:40.700
+And when that chemical-- called
+a neurotransmitter-- hits
+
+00:29:40.700 --> 00:29:44.720
+a particular receptor
+out on the dendrite,
+
+00:29:44.720 --> 00:29:47.580
+that receptor is going
+to open up a channel.
+
+00:29:47.580 --> 00:29:53.950
+And that channel is going to
+let some of these positive ions
+
+00:29:53.950 --> 00:29:55.410
+in, just like receiving email.
+
+00:29:55.410 --> 00:29:57.280
+It's receiving a signal.
+
+00:29:57.280 --> 00:30:01.470
+So you get these positive
+ions going into the dendrite.
+
+00:30:01.470 --> 00:30:03.680
+And you get a change in charge.
+
+00:30:03.680 --> 00:30:06.610
+The neuron is now getting
+more positive on the inside.
+
+00:30:06.610 --> 00:30:08.510
+Before it was really negative.
+
+00:30:08.510 --> 00:30:11.340
+Now, it's getting a
+little less negative.
+
+00:30:11.340 --> 00:30:17.490
+Another way to say that is it
+was really polarized before.
+
+00:30:17.490 --> 00:30:19.960
+It had a big negative
+charge on the inside.
+
+00:30:19.960 --> 00:30:22.670
+And now, it's getting a
+little bit depolarized.
+
+00:30:22.670 --> 00:30:25.361
+It's getting some positive
+charge going into it.
+
+00:30:25.361 --> 00:30:25.860
+Great.
+
+00:30:25.860 --> 00:30:27.818
+So you've got a little
+bit of charge coming in.
+
+00:30:27.818 --> 00:30:29.370
+You've got a little
+bit of signal.
+
+00:30:29.370 --> 00:30:33.170
+But somehow the neuron has to
+decide, am I going to fire?
+
+00:30:33.170 --> 00:30:34.370
+Or am I not?
+
+00:30:34.370 --> 00:30:36.860
+It's all or nothing,
+one or the other.
+
+00:30:36.860 --> 00:30:39.980
+So you get the signal coming
+in from this dendrite.
+
+00:30:39.980 --> 00:30:42.860
+And you're going to get some
+positive charge going in,
+
+00:30:42.860 --> 00:30:45.160
+flowing into the neuron.
+
+00:30:45.160 --> 00:30:47.510
+And you'll get a little
+bit out in the cell body.
+
+00:30:47.510 --> 00:30:51.710
+But from one signal sent,
+you might not get a lot.
+
+00:30:51.710 --> 00:30:53.990
+Well, let's say you're
+getting really, really
+
+00:30:53.990 --> 00:30:56.690
+frequent chemical
+messages from here,
+
+00:30:56.690 --> 00:30:59.710
+getting lots of positive
+charge into the cell.
+
+00:30:59.710 --> 00:31:02.200
+Or you're getting several
+different messages
+
+00:31:02.200 --> 00:31:04.510
+at the same time, getting
+lots of positive charge
+
+00:31:04.510 --> 00:31:06.040
+into the cell.
+
+00:31:06.040 --> 00:31:10.540
+Then, you can end up with
+enough positive charge down here
+
+00:31:10.540 --> 00:31:15.730
+at the axon hillock to make
+the neuron decide to fire.
+
+00:31:15.730 --> 00:31:18.340
+So what is it that
+makes it decide?
+
+00:31:18.340 --> 00:31:21.180
+There are more
+channels down here
+
+00:31:21.180 --> 00:31:24.590
+that can open up to let
+more positive ions in.
+
+00:31:24.590 --> 00:31:27.270
+And the way they make that
+decision is whether there's
+
+00:31:27.270 --> 00:31:28.970
+enough positive charge.
+
+00:31:28.970 --> 00:31:31.560
+If there's enough positive
+charge, they open up.
+
+00:31:31.560 --> 00:31:36.290
+And they allow lots more of
+this positive ion to go in.
+
+00:31:36.290 --> 00:31:39.110
+And once that happens,
+it's going to feed forward.
+
+00:31:39.110 --> 00:31:39.680
+Right?
+
+00:31:39.680 --> 00:31:42.187
+You're going to get more
+positive ion going in.
+
+00:31:42.187 --> 00:31:44.270
+You're going to get more
+of these channels opening
+
+00:31:44.270 --> 00:31:46.450
+because the positive
+ions are going in.
+
+00:31:46.450 --> 00:31:48.750
+And it's going to keep
+going and feed forward.
+
+00:31:48.750 --> 00:31:51.580
+And you're going to get the
+neuron sending a signal.
+
+00:31:51.580 --> 00:31:53.500
+And the way it does
+that is it keeps
+
+00:31:53.500 --> 00:31:57.270
+having positive ions go in
+all the way down the axon,
+
+00:31:57.270 --> 00:31:59.540
+all the way down
+to the terminal.
+
+00:31:59.540 --> 00:32:04.440
+And then, when you get positive
+ions going into the terminal,
+
+00:32:04.440 --> 00:32:08.740
+it's going to tell that
+to go ahead and send
+
+00:32:08.740 --> 00:32:10.790
+a chemical message
+on to the next cell
+
+00:32:10.790 --> 00:32:13.770
+and start the whole
+process over again.
+
+00:32:13.770 --> 00:32:16.260
+But the big message
+from all of this
+
+00:32:16.260 --> 00:32:20.890
+is that this decision that's
+made here is all or nothing.
+
+00:32:20.890 --> 00:32:23.750
+You've got positive ions
+that are traveling in.
+
+00:32:23.750 --> 00:32:26.099
+If they don't get to
+the threshold here,
+
+00:32:26.099 --> 00:32:27.640
+if they don't get
+enough of them here
+
+00:32:27.640 --> 00:32:30.770
+to make the axon hillock
+decide to let more of them in,
+
+00:32:30.770 --> 00:32:32.770
+the cell's going to stay quiet.
+
+00:32:32.770 --> 00:32:35.660
+If they do get enough
+in to reach threshold,
+
+00:32:35.660 --> 00:32:38.252
+then you're going to get
+lots more pouring in.
+
+00:32:38.252 --> 00:32:39.460
+And the cell's going to fire.
+
+00:32:39.460 --> 00:32:40.700
+There's no turning back.
+
+00:32:40.700 --> 00:32:43.870
+It's going to send the signal
+down its axon to the terminal.
+
+00:32:43.870 --> 00:32:46.150
+And you're going to get
+the message sent on.
+
+00:32:46.150 --> 00:32:48.710
+And that's called
+an action potential.
+
+00:32:48.710 --> 00:32:51.980
+And what happens here is you get
+all this positive charge going
+
+00:32:51.980 --> 00:32:52.820
+in.
+
+00:32:52.820 --> 00:32:56.090
+You get the cell getting
+to a really positive level
+
+00:32:56.090 --> 00:32:57.590
+of charge.
+
+00:32:57.590 --> 00:32:59.550
+And then, somehow
+it has to stop.
+
+00:32:59.550 --> 00:33:01.420
+So how does it stop?
+
+00:33:01.420 --> 00:33:05.430
+You have a number of other
+positive ions on the inside.
+
+00:33:05.430 --> 00:33:06.970
+And right after
+this opens and you
+
+00:33:06.970 --> 00:33:08.980
+get all of these
+ones pouring in,
+
+00:33:08.980 --> 00:33:11.740
+you can get the cell opening
+up these other channels
+
+00:33:11.740 --> 00:33:14.870
+to let the positive ions,
+a different kind of them,
+
+00:33:14.870 --> 00:33:15.910
+flow out.
+
+00:33:15.910 --> 00:33:19.400
+And then, you get restoration
+of the balance and charge.
+
+00:33:19.400 --> 00:33:21.580
+And remember, you
+have these pumps
+
+00:33:21.580 --> 00:33:25.940
+that continue to send the
+positive ions out of the cell.
+
+00:33:25.940 --> 00:33:28.510
+So you get the cell being
+restored to the quiet state
+
+00:33:28.510 --> 00:33:31.520
+afterwards where it's negative
+on the inside compared
+
+00:33:31.520 --> 00:33:33.426
+to the outside.
+
+00:33:33.426 --> 00:33:34.300
+So there you have it.
+
+00:33:34.300 --> 00:33:37.030
+You have an all-or-nothing
+action potential.
+
+00:33:37.030 --> 00:33:40.050
+You have the cell deciding
+at the axon hillock
+
+00:33:40.050 --> 00:33:41.900
+whether it's going
+to fire it or not
+
+00:33:41.900 --> 00:33:45.300
+and then sending the
+message on to the next cell.
+
+00:33:45.300 --> 00:33:48.910
+So that's a really
+basic understanding
+
+00:33:48.910 --> 00:33:50.970
+of how a neuron fires.
+
+00:33:50.970 --> 00:33:53.410
+Hopefully, that was basic
+enough that everybody
+
+00:33:53.410 --> 00:33:54.680
+could understand it.
+
+00:33:54.680 --> 00:33:57.440
+You're going to hear more about
+it later in other lectures.
+
+00:33:57.440 --> 00:34:01.530
+But for now, that should give
+you a really basic overview
+
+00:34:01.530 --> 00:34:03.360
+of what's going on.
+
+00:34:03.360 --> 00:34:05.950
+So take-home messages
+from this first part
+
+00:34:05.950 --> 00:34:08.530
+of the lecture, different
+parts of the brain
+
+00:34:08.530 --> 00:34:09.416
+do different things.
+
+00:34:09.416 --> 00:34:11.040
+As we talked about
+when we were looking
+
+00:34:11.040 --> 00:34:12.779
+at the brain and
+spinal cord, you've
+
+00:34:12.779 --> 00:34:14.320
+got the different
+parts that function
+
+00:34:14.320 --> 00:34:15.690
+for different behaviors.
+
+00:34:15.690 --> 00:34:17.699
+You'll hear a lot more
+about that in the future
+
+00:34:17.699 --> 00:34:20.060
+as we talk about
+specific behaviors
+
+00:34:20.060 --> 00:34:22.860
+and what parts of the
+brain have to do with them.
+
+00:34:22.860 --> 00:34:24.760
+You've also got
+different cells that
+
+00:34:24.760 --> 00:34:26.868
+are doing different
+functions within the brain.
+
+00:34:26.868 --> 00:34:27.659
+You've got neurons.
+
+00:34:27.659 --> 00:34:28.325
+You've got glia.
+
+00:34:28.325 --> 00:34:30.820
+You've got different
+types of neurons as well.
+
+00:34:30.820 --> 00:34:33.080
+You'll hear a lot more
+about how some neurons send
+
+00:34:33.080 --> 00:34:35.784
+one type of chemical
+signal, some send another,
+
+00:34:35.784 --> 00:34:37.159
+and how that's
+going to be really
+
+00:34:37.159 --> 00:34:40.550
+important to different
+behaviors later on.
+
+00:34:40.550 --> 00:34:43.810
+You also learned that neurons
+are individual cells making
+
+00:34:43.810 --> 00:34:44.409
+this decision.
+
+00:34:44.409 --> 00:34:46.850
+They're the functional
+unit of the nervous system,
+
+00:34:46.850 --> 00:34:49.300
+as we learned from
+Ramon y Cajal.
+
+00:34:49.300 --> 00:34:51.920
+And finally, when they do
+decide to send that signal,
+
+00:34:51.920 --> 00:34:53.900
+it's an all-or-nothing process.
+
+00:34:53.900 --> 00:34:56.360
+It's an all-or-nothing
+action potential
+
+00:34:56.360 --> 00:35:00.547
+that makes the sell send on
+the message to the next one.
+
+00:35:00.547 --> 00:35:02.380
+So hopefully, if you
+understood all of that,
+
+00:35:02.380 --> 00:35:04.854
+you have a really basic
+understanding of neuroscience.
+
+00:35:04.854 --> 00:35:06.520
+We're going to take
+a five minute break.
+
+00:35:06.520 --> 00:35:08.644
+And then, we'll move on to
+Anthony's lecture, which
+
+00:35:08.644 --> 00:35:11.290
+will talk more about what
+actually happens at the synapse
+
+00:35:11.290 --> 00:35:14.440
+as we think about
+applying this to behavior.
+
+00:35:14.440 --> 00:35:15.390
+Thanks.
+
+00:35:15.390 --> 00:35:21.102
+[SIDE CONVERSATION]
+
+00:35:21.102 --> 00:35:23.020
+All right.
+
+00:35:23.020 --> 00:35:24.440
+My name is Anthony.
+
+00:35:24.440 --> 00:35:28.860
+I am a first year biology
+student, a graduate student
+
+00:35:28.860 --> 00:35:31.100
+in the PhD program.
+
+00:35:31.100 --> 00:35:32.780
+Right now, I'm just
+wandering from lab
+
+00:35:32.780 --> 00:35:36.360
+to lab trying to figure out
+what I want to do research in.
+
+00:35:40.290 --> 00:35:41.830
+Again, like Nathan,
+there's going
+
+00:35:41.830 --> 00:35:46.150
+to be some topics in here
+that might confuse you.
+
+00:35:46.150 --> 00:35:48.110
+And if it is
+confusing, let me know.
+
+00:35:48.110 --> 00:35:49.300
+Stop me.
+
+00:35:49.300 --> 00:35:50.101
+Ask questions.
+
+00:35:54.380 --> 00:35:56.450
+My email is on the
+handout that you
+
+00:35:56.450 --> 00:35:57.760
+can download from CourseWorks.
+
+00:35:57.760 --> 00:35:59.260
+And after the
+lecture, I'll actually
+
+00:35:59.260 --> 00:36:01.330
+write it down on the
+bulletin board right there.
+
+00:36:01.330 --> 00:36:06.460
+But feel free to send me
+or Nathan an email anytime
+
+00:36:06.460 --> 00:36:08.630
+if you have any questions
+over the lectures today.
+
+00:36:11.230 --> 00:36:13.950
+I'm going to start by recapping
+a little bit about what
+
+00:36:13.950 --> 00:36:17.480
+Nathan talked about,
+the neuron doctrine.
+
+00:36:17.480 --> 00:36:19.840
+So up until the
+late 1800s, neurons
+
+00:36:19.840 --> 00:36:23.460
+were all thought to be
+connected by cytoplasm.
+
+00:36:23.460 --> 00:36:26.090
+And really the
+concept of a neuron
+
+00:36:26.090 --> 00:36:31.274
+as an individual cell, it was
+difficult to conceptualize.
+
+00:36:31.274 --> 00:36:33.190
+Because all people were
+really able to observe
+
+00:36:33.190 --> 00:36:35.990
+was this mesh-like
+network of interconnecting
+
+00:36:35.990 --> 00:36:38.220
+fibers and processes.
+
+00:36:38.220 --> 00:36:42.070
+And it wasn't until the
+advance of microscopy
+
+00:36:42.070 --> 00:36:45.930
+and staining that people were
+able to suspect that something
+
+00:36:45.930 --> 00:36:48.020
+else was going on here,
+that maybe this story
+
+00:36:48.020 --> 00:36:49.730
+was a little bit different.
+
+00:36:49.730 --> 00:36:55.140
+In 1891, a German anatomist
+named Heinrich Wihelm Gottfried
+
+00:36:55.140 --> 00:36:56.420
+von Waldeyer-Hartz--
+
+00:36:56.420 --> 00:36:58.830
+[LAUGHTER]
+
+00:36:58.830 --> 00:37:04.441
+I practiced that--
+proposed what is now
+
+00:37:04.441 --> 00:37:06.690
+referred to as the neuron
+doctrine, which is basically
+
+00:37:06.690 --> 00:37:11.870
+that this network was made
+up of individual cells.
+
+00:37:11.870 --> 00:37:14.460
+He wasn't unable to
+propose this without work
+
+00:37:14.460 --> 00:37:18.430
+done by many others,
+including Santiago Ramon y
+
+00:37:18.430 --> 00:37:20.262
+Cajal, god of neuroscience.
+
+00:37:24.670 --> 00:37:27.980
+So if you have these separate
+neurons that are separate
+
+00:37:27.980 --> 00:37:30.120
+cells, if one is to
+communicate to another,
+
+00:37:30.120 --> 00:37:34.670
+it cannot happen by
+electrical means only.
+
+00:37:34.670 --> 00:37:37.260
+If you think about it, if this
+communication is to happen,
+
+00:37:37.260 --> 00:37:40.500
+it must happen by
+chemical means.
+
+00:37:40.500 --> 00:37:45.640
+And so before the events at the
+synapse can really take place,
+
+00:37:45.640 --> 00:37:49.960
+I have to introduce
+you-- sort of back up
+
+00:37:49.960 --> 00:37:52.580
+and go back to the
+action potential, which
+
+00:37:52.580 --> 00:37:56.510
+if you remember, starts
+here at the axon hillock.
+
+00:37:56.510 --> 00:38:00.010
+So this is where the decision
+to fire or not fire an action
+
+00:38:00.010 --> 00:38:01.580
+potential will be made.
+
+00:38:01.580 --> 00:38:03.430
+And once the action
+potential is fired,
+
+00:38:03.430 --> 00:38:06.510
+it will travel along
+the length of the axon
+
+00:38:06.510 --> 00:38:08.520
+and reach a dead end
+that is conveniently
+
+00:38:08.520 --> 00:38:11.290
+called the axon terminal.
+
+00:38:11.290 --> 00:38:15.890
+Now, the axon terminal
+is a structure
+
+00:38:15.890 --> 00:38:20.980
+at the end of the axon
+that stores large amounts
+
+00:38:20.980 --> 00:38:22.760
+of neurotransmitters.
+
+00:38:22.760 --> 00:38:24.450
+And these neurotransmitters
+aren't just
+
+00:38:24.450 --> 00:38:29.790
+freely floating or diffusing
+around inside the cell.
+
+00:38:29.790 --> 00:38:33.250
+They're actually packaged
+in these discrete quantities
+
+00:38:33.250 --> 00:38:37.550
+in these membranous spherical
+structures called vesicles.
+
+00:38:37.550 --> 00:38:43.140
+And so you'll see those balls
+housing these black dots.
+
+00:38:43.140 --> 00:38:44.760
+The balls are the vesicles.
+
+00:38:44.760 --> 00:38:46.750
+And the black dots are
+the neurotransmitters.
+
+00:38:49.040 --> 00:38:49.540
+OK.
+
+00:38:49.540 --> 00:38:54.930
+So when the axon potential
+reaches this axon terminal,
+
+00:38:54.930 --> 00:39:00.010
+it will trigger an influx
+of positive charge, which
+
+00:39:00.010 --> 00:39:03.562
+will then trigger the
+release of neurotransmitter
+
+00:39:03.562 --> 00:39:04.395
+from these vesicles.
+
+00:39:04.395 --> 00:39:08.460
+So the vesicles will move to
+the edge of the axon terminal.
+
+00:39:08.460 --> 00:39:12.530
+And they'll dump their
+neurotransmitter out.
+
+00:39:12.530 --> 00:39:16.180
+So I have to sort of dive into a
+little bit of terminology here.
+
+00:39:16.180 --> 00:39:18.140
+We try to avoid that
+with this class.
+
+00:39:18.140 --> 00:39:24.070
+But the signaling neuron is
+called the presynaptic neuron.
+
+00:39:24.070 --> 00:39:25.730
+The neuron that
+receives the signal
+
+00:39:25.730 --> 00:39:28.010
+is called the
+postsynaptic neuron.
+
+00:39:28.010 --> 00:39:30.110
+And the junction at
+which these two neurons
+
+00:39:30.110 --> 00:39:32.641
+connect and communicate
+is called the synapse.
+
+00:39:35.290 --> 00:39:38.640
+So once this neuron is
+bound to the receptor,
+
+00:39:38.640 --> 00:39:43.860
+it can trigger one of
+two temporal effects.
+
+00:39:43.860 --> 00:39:45.910
+One can be an
+immediate effect, which
+
+00:39:45.910 --> 00:39:48.280
+is the opening of
+a channel, which
+
+00:39:48.280 --> 00:39:53.470
+will allow ions to jump in,
+which Nathan illustrated
+
+00:39:53.470 --> 00:39:55.530
+earlier right here.
+
+00:39:55.530 --> 00:39:59.060
+These ions could either
+be positively charged
+
+00:39:59.060 --> 00:40:01.250
+or negatively charged.
+
+00:40:01.250 --> 00:40:02.920
+If they're positively
+charged, they
+
+00:40:02.920 --> 00:40:05.230
+will persuade an
+action potential
+
+00:40:05.230 --> 00:40:09.480
+to happen if there are
+enough of these charges.
+
+00:40:09.480 --> 00:40:11.220
+If it's a negative
+charge, it might
+
+00:40:11.220 --> 00:40:13.560
+act to dissuade an
+action potential to be
+
+00:40:13.560 --> 00:40:15.250
+initiated at the axon hillock.
+
+00:40:17.780 --> 00:40:20.280
+So that's the immediate effect.
+
+00:40:20.280 --> 00:40:26.410
+But an effect that might
+last a little bit longer
+
+00:40:26.410 --> 00:40:30.090
+is when a genomic
+effect is induced.
+
+00:40:30.090 --> 00:40:32.560
+So a neurotransmitter
+might be released.
+
+00:40:32.560 --> 00:40:34.890
+And it might bind to a receptor.
+
+00:40:34.890 --> 00:40:38.360
+And this event might
+influence the activation
+
+00:40:38.360 --> 00:40:40.510
+of a transcription factor.
+
+00:40:40.510 --> 00:40:43.850
+And this transcription factor
+might induce the production
+
+00:40:43.850 --> 00:40:48.220
+of more receptor
+channels that might find
+
+00:40:48.220 --> 00:40:52.220
+its way onto the dendrite here.
+
+00:40:52.220 --> 00:40:55.790
+So if you think about it, if you
+produce more channels or more
+
+00:40:55.790 --> 00:40:58.670
+receptors, you can
+make this synapse
+
+00:40:58.670 --> 00:41:02.800
+more responsive to the same
+amount of neurotransmitter.
+
+00:41:02.800 --> 00:41:06.040
+So that's strengthening
+the synapse.
+
+00:41:06.040 --> 00:41:08.130
+And you'll hear,
+definitely, more about that
+
+00:41:08.130 --> 00:41:12.235
+later in future lectures.
+
+00:41:15.710 --> 00:41:19.370
+So not only can a single neuron
+respond to many different types
+
+00:41:19.370 --> 00:41:21.940
+of neurotransmitters,
+could be inhibitory,
+
+00:41:21.940 --> 00:41:26.040
+could be excitatory,
+it is also possible
+
+00:41:26.040 --> 00:41:29.040
+for a single
+neurotransmitter to have
+
+00:41:29.040 --> 00:41:32.460
+an effect on multiple
+neuron types located
+
+00:41:32.460 --> 00:41:37.430
+in different areas of the
+brain with different functions.
+
+00:41:37.430 --> 00:41:41.020
+And so you might ask yourself,
+how is this possible?
+
+00:41:41.020 --> 00:41:44.720
+So we have like 100 billion
+neurons in our brain.
+
+00:41:44.720 --> 00:41:47.270
+Why is it that we
+don't have 100 billion
+
+00:41:47.270 --> 00:41:51.820
+unique neurotransmitters
+for each brain-- or sorry,
+
+00:41:51.820 --> 00:41:54.540
+for each neuron?
+
+00:41:54.540 --> 00:41:59.480
+And the concept can
+be sort of related
+
+00:41:59.480 --> 00:42:02.080
+to the concept of the alphabet.
+
+00:42:02.080 --> 00:42:04.760
+So we only have 26
+letters in our alphabet.
+
+00:42:04.760 --> 00:42:06.925
+Yet, we can create an
+infinite number of messages.
+
+00:42:10.780 --> 00:42:17.280
+The idea of the brain
+having different functions
+
+00:42:17.280 --> 00:42:21.790
+in different areas,
+each of these functions
+
+00:42:21.790 --> 00:42:28.570
+are going to be-- they're going
+to have different functions
+
+00:42:28.570 --> 00:42:31.040
+because different neural
+networks, different networks
+
+00:42:31.040 --> 00:42:32.837
+of neurons are going
+to be responsible
+
+00:42:32.837 --> 00:42:33.670
+for these functions.
+
+00:42:33.670 --> 00:42:36.290
+And they are actually going
+to, for the most part, have
+
+00:42:36.290 --> 00:42:40.950
+a physical separation
+between different areas,
+
+00:42:40.950 --> 00:42:44.090
+different neural networks of the
+brain with different functions.
+
+00:42:44.090 --> 00:42:48.460
+And so it is possible to use a
+single type of neurotransmitter
+
+00:42:48.460 --> 00:42:51.690
+in many areas of the brain with
+different functions because
+
+00:42:51.690 --> 00:42:53.590
+of this physical separation.
+
+00:42:53.590 --> 00:42:54.090
+Sorry.
+
+00:42:54.090 --> 00:42:57.250
+I was opposed to
+put this slide up.
+
+00:42:57.250 --> 00:42:59.990
+So we call this
+compartmentalization
+
+00:42:59.990 --> 00:43:02.550
+of the brain, many
+different functions
+
+00:43:02.550 --> 00:43:06.460
+in many different
+physical areas.
+
+00:43:06.460 --> 00:43:10.540
+And so because of this redundant
+use of neurotransmitter,
+
+00:43:10.540 --> 00:43:13.160
+you really don't need
+more than a few hundred.
+
+00:43:13.160 --> 00:43:14.940
+That's where the
+current estimate lies.
+
+00:43:17.579 --> 00:43:19.120
+Not all of them have
+been discovered.
+
+00:43:19.120 --> 00:43:21.100
+Quite a few have been.
+
+00:43:21.100 --> 00:43:23.730
+But there are still
+a lot out there
+
+00:43:23.730 --> 00:43:26.200
+that have yet to be discovered.
+
+00:43:26.200 --> 00:43:31.100
+And so this brings me
+to sort of a exercise
+
+00:43:31.100 --> 00:43:35.010
+that we could do to help hammer
+in certain-- these properties
+
+00:43:35.010 --> 00:43:36.790
+of a neurotransmitter.
+
+00:43:36.790 --> 00:43:38.940
+Say you are a scientist.
+
+00:43:38.940 --> 00:43:41.560
+And say you are in the
+business of identifying
+
+00:43:41.560 --> 00:43:44.030
+novel neurotransmitters.
+
+00:43:44.030 --> 00:43:46.830
+And you have this
+putative molecule.
+
+00:43:46.830 --> 00:43:49.400
+And you want to prove to
+the scientific community
+
+00:43:49.400 --> 00:43:51.850
+that this molecule is
+a neurotransmitter.
+
+00:43:51.850 --> 00:43:54.190
+What pieces of
+evidence might you
+
+00:43:54.190 --> 00:43:57.880
+need to provide to prove
+that your molecule's
+
+00:43:57.880 --> 00:43:59.776
+a neurotransmitter?
+
+00:43:59.776 --> 00:44:01.150
+First thing that
+you sort of have
+
+00:44:01.150 --> 00:44:04.585
+to do is you have to sort
+of ask yourself, well,
+
+00:44:04.585 --> 00:44:07.990
+where are
+neurotransmitters located?
+
+00:44:07.990 --> 00:44:10.400
+They are just located
+anywhere in the brain.
+
+00:44:10.400 --> 00:44:11.980
+They're located
+in specific areas.
+
+00:44:11.980 --> 00:44:15.360
+They're located in
+the axon terminal.
+
+00:44:15.360 --> 00:44:18.930
+So you have to prove that it
+localizes in the axon terminal.
+
+00:44:18.930 --> 00:44:20.940
+Another thing that
+you might want to ask
+
+00:44:20.940 --> 00:44:25.550
+is, what triggers the action
+of a neurotransmitter?
+
+00:44:25.550 --> 00:44:28.320
+So you're going to also have
+to demonstrate its release
+
+00:44:28.320 --> 00:44:29.810
+following an action potential.
+
+00:44:29.810 --> 00:44:31.434
+So if you remember,
+an action potential
+
+00:44:31.434 --> 00:44:36.900
+will hit the axon terminal
+and through a series of events
+
+00:44:36.900 --> 00:44:40.052
+trigger the release
+of neurotransmitter.
+
+00:44:40.052 --> 00:44:41.760
+And lastly-- but this
+is not good enough.
+
+00:44:41.760 --> 00:44:43.820
+So you have two pieces
+of evidence so far.
+
+00:44:43.820 --> 00:44:46.750
+But you need one more to make
+a pretty strong case for why
+
+00:44:46.750 --> 00:44:48.370
+you have a neurotransmitter.
+
+00:44:48.370 --> 00:44:50.720
+And this is you have to
+ask the question, what
+
+00:44:50.720 --> 00:44:53.550
+is the effect of a
+neurotransmitter?
+
+00:44:53.550 --> 00:44:56.200
+And so you also have to prove
+that after a neurotransmitter
+
+00:44:56.200 --> 00:44:58.600
+is released and it
+binds to the receptor
+
+00:44:58.600 --> 00:45:03.080
+that it induces some
+sort of influx of charge
+
+00:45:03.080 --> 00:45:07.200
+in the postsynaptic dendrite.
+
+00:45:07.200 --> 00:45:08.690
+And I just missed another slide.
+
+00:45:08.690 --> 00:45:11.050
+No I didn't.
+
+00:45:11.050 --> 00:45:13.400
+So fortunately for
+us, a lot of this work
+
+00:45:13.400 --> 00:45:16.090
+identifying neurotransmitters
+has already been done.
+
+00:45:16.090 --> 00:45:20.025
+And there are a few
+notable transmitters,
+
+00:45:20.025 --> 00:45:22.020
+neurotransmitters that
+I kind of want to get
+
+00:45:22.020 --> 00:45:23.435
+you guys familiarized with.
+
+00:45:23.435 --> 00:45:26.097
+And so right now, you
+don't have to memorize
+
+00:45:26.097 --> 00:45:28.180
+any of the functions that
+I'm going to talk about.
+
+00:45:28.180 --> 00:45:29.670
+So the whole purpose
+is to sort of
+
+00:45:29.670 --> 00:45:34.630
+to introduce you to
+some neurotransmitters
+
+00:45:34.630 --> 00:45:36.920
+so if you hear about
+them in later lectures,
+
+00:45:36.920 --> 00:45:40.960
+it won't be the first
+time you hear about them.
+
+00:45:40.960 --> 00:45:44.400
+So one type of neurotransmitter
+is called dopamine.
+
+00:45:44.400 --> 00:45:46.610
+And it's most commonly
+associated with the reward
+
+00:45:46.610 --> 00:45:48.860
+system, with pleasure.
+
+00:45:48.860 --> 00:45:51.390
+But dopamine, like many
+other neurotransmitters,
+
+00:45:51.390 --> 00:45:54.510
+has a very diverse
+array of functions.
+
+00:45:54.510 --> 00:45:58.140
+It's not just involved
+in reward or pleasure.
+
+00:45:58.140 --> 00:46:00.210
+And so just a quick recap.
+
+00:46:00.210 --> 00:46:03.220
+How could it have many
+different functions?
+
+00:46:03.220 --> 00:46:06.160
+Well, if the brain
+is compartmentalized,
+
+00:46:06.160 --> 00:46:08.860
+if these networks are
+physically-- for the most
+
+00:46:08.860 --> 00:46:10.560
+part physically
+separated, you can
+
+00:46:10.560 --> 00:46:13.370
+have one type of
+neurotransmitter
+
+00:46:13.370 --> 00:46:16.860
+with an effect in these
+different areas of the brain.
+
+00:46:16.860 --> 00:46:19.520
+Therefore, one type of
+neurotransmitter in an organism
+
+00:46:19.520 --> 00:46:21.090
+may have many
+different functions.
+
+00:46:21.090 --> 00:46:24.952
+And dopamine is no
+exception to that.
+
+00:46:24.952 --> 00:46:26.660
+You have another type
+of neurotransmitter
+
+00:46:26.660 --> 00:46:27.550
+called epinephrine.
+
+00:46:27.550 --> 00:46:30.210
+And I know everyone in this
+room has heard about it
+
+00:46:30.210 --> 00:46:33.450
+in one form or another.
+
+00:46:33.450 --> 00:46:37.980
+Another way to-- another word
+for epinephrine is adrenaline.
+
+00:46:37.980 --> 00:46:42.550
+And so adrenaline is involved
+in the fight or flight response.
+
+00:46:42.550 --> 00:46:45.630
+So if you're-- Nathan also
+talked about this earlier--
+
+00:46:45.630 --> 00:46:48.970
+if you come across a risky
+situation or you're feeling
+
+00:46:48.970 --> 00:46:53.170
+threatened you can either fight
+off and vanquish your foe.
+
+00:46:53.170 --> 00:46:56.962
+Or you can flee, neither
+of which are bad ideas.
+
+00:47:00.235 --> 00:47:02.860
+And norepinephrine, which
+you may hear about later
+
+00:47:02.860 --> 00:47:04.860
+on in the course, is
+pretty much interchangeable
+
+00:47:04.860 --> 00:47:06.140
+with epinephrine.
+
+00:47:06.140 --> 00:47:08.050
+They share a very
+similar structure.
+
+00:47:08.050 --> 00:47:11.100
+And you don't really
+need to do much to change
+
+00:47:11.100 --> 00:47:15.340
+epinephrine to norepinephrine
+and vice versa.
+
+00:47:15.340 --> 00:47:18.200
+So another neurotransmitter that
+you might hear about later on
+
+00:47:18.200 --> 00:47:19.820
+is serotonin.
+
+00:47:19.820 --> 00:47:22.190
+And serotonin again, is one
+of those neurotransmitters
+
+00:47:22.190 --> 00:47:24.770
+that has a lot of functions.
+
+00:47:24.770 --> 00:47:28.180
+And few of them are
+involved in the regulation
+
+00:47:28.180 --> 00:47:31.530
+of sleep, appetite, and mood.
+
+00:47:31.530 --> 00:47:34.470
+But certainly it's
+not limited to those.
+
+00:47:34.470 --> 00:47:38.150
+Acetylcholine, I know you'll
+hear about it on Friday.
+
+00:47:38.150 --> 00:47:47.770
+And so I'll leave that for
+Friday for you to discover.
+
+00:47:47.770 --> 00:47:50.960
+GABA is-- and you really can't
+talk about neurotransmitters
+
+00:47:50.960 --> 00:47:53.600
+without talking about
+GABA and glutamate.
+
+00:47:53.600 --> 00:47:57.340
+So these are the two most common
+neurotransmitters in the brain.
+
+00:47:57.340 --> 00:48:01.140
+GABA is the most common
+inhibitory neurotransmitter.
+
+00:48:01.140 --> 00:48:04.640
+And glutamate is the most common
+excitatory neurotransmitter.
+
+00:48:04.640 --> 00:48:08.080
+And again, these two have
+very diverse functions
+
+00:48:08.080 --> 00:48:10.710
+and are involved in
+many different areas.
+
+00:48:13.790 --> 00:48:17.850
+So I'm going to, for a brief
+moment, dive into a tangent
+
+00:48:17.850 --> 00:48:21.430
+and tell you about the
+neuromuscular junction.
+
+00:48:21.430 --> 00:48:24.210
+You cannot have animal
+behavior-- in fact,
+
+00:48:24.210 --> 00:48:27.590
+you can't even behave
+unless you are able to move.
+
+00:48:27.590 --> 00:48:31.220
+And the basis behind
+movement lies in the muscle,
+
+00:48:31.220 --> 00:48:33.780
+in the contraction of muscles.
+
+00:48:33.780 --> 00:48:36.820
+So what you're going to see
+here is a similar motif.
+
+00:48:36.820 --> 00:48:38.210
+You're going to see a synapse.
+
+00:48:38.210 --> 00:48:40.435
+You're going to see
+a neurotransmitter.
+
+00:48:40.435 --> 00:48:42.980
+The synapse is going to
+occur on the nerve that
+
+00:48:42.980 --> 00:48:44.929
+signals to the muscle.
+
+00:48:44.929 --> 00:48:46.970
+It's going to release the
+neurotransmitter, which
+
+00:48:46.970 --> 00:48:50.990
+is actually going to be
+oftentimes acetylcholine.
+
+00:48:50.990 --> 00:48:53.020
+And it's going to
+bind to receptors
+
+00:48:53.020 --> 00:48:56.900
+in the muscle, which is going
+to trigger a contraction.
+
+00:48:56.900 --> 00:48:59.570
+And so unlike many neurons
+in the brain, which
+
+00:48:59.570 --> 00:49:03.750
+respond to multiple different
+neurotransmitters in general,
+
+00:49:03.750 --> 00:49:08.009
+neuromuscular junctions
+only use one type.
+
+00:49:08.009 --> 00:49:09.550
+So with that out of
+the way, I'm sort
+
+00:49:09.550 --> 00:49:13.350
+of going to dive into
+neuropharmacology.
+
+00:49:13.350 --> 00:49:15.660
+So what is neuropharmacology?
+
+00:49:15.660 --> 00:49:20.080
+It is the external manipulation
+of synaptic events.
+
+00:49:20.080 --> 00:49:23.460
+Why would people want to
+manipulate a synaptic event?
+
+00:49:23.460 --> 00:49:27.338
+Well, you can do it
+for research purposes.
+
+00:49:27.338 --> 00:49:30.500
+You could manipulate
+the neurotransmitter
+
+00:49:30.500 --> 00:49:32.430
+or the receptor
+to figure out more
+
+00:49:32.430 --> 00:49:34.680
+about what their functions are.
+
+00:49:34.680 --> 00:49:38.110
+Or you could do it to
+correct for disease states.
+
+00:49:38.110 --> 00:49:41.890
+We as humans are very interested
+in trying to help people
+
+00:49:41.890 --> 00:49:45.430
+who have certain illnesses.
+
+00:49:45.430 --> 00:49:50.300
+So the general purpose is
+to increase or decrease
+
+00:49:50.300 --> 00:49:53.441
+the strength of communication
+across a synapse.
+
+00:49:53.441 --> 00:49:56.210
+So sometimes you can
+do this by faking out
+
+00:49:56.210 --> 00:49:58.160
+the postsynaptic neuron.
+
+00:49:58.160 --> 00:50:01.080
+You can give it a compound,
+an artificial compound that's
+
+00:50:01.080 --> 00:50:04.446
+not seen naturally
+in the body that
+
+00:50:04.446 --> 00:50:07.070
+closely resembles something that
+is seen naturally in the body.
+
+00:50:07.070 --> 00:50:09.410
+And you'll see a lot
+of hallucinogenics
+
+00:50:09.410 --> 00:50:11.520
+that utilize this principle.
+
+00:50:11.520 --> 00:50:16.910
+So hallucinogenics, such as
+mescaline, LSD, and psilocybin,
+
+00:50:16.910 --> 00:50:18.340
+these interact
+with the serotonin
+
+00:50:18.340 --> 00:50:21.850
+receptors because they have very
+similar structure to serotonin.
+
+00:50:24.580 --> 00:50:27.390
+And so there are a variety of
+ways that you can strengthen
+
+00:50:27.390 --> 00:50:30.720
+the synaptic response.
+
+00:50:30.720 --> 00:50:34.340
+One of which is to increase
+the release of neurotransmitter
+
+00:50:34.340 --> 00:50:37.510
+from the presynaptic neuron.
+
+00:50:37.510 --> 00:50:39.090
+How might you go
+about doing this?
+
+00:50:39.090 --> 00:50:42.800
+You could increase the
+synthesis of neurotransmitter.
+
+00:50:42.800 --> 00:50:45.070
+You could force
+the release-- you
+
+00:50:45.070 --> 00:50:47.180
+could force the released
+neurotransmitter
+
+00:50:47.180 --> 00:50:49.110
+to linger in the synapse.
+
+00:50:49.110 --> 00:50:51.090
+And there are a variety
+of ways to do this.
+
+00:50:51.090 --> 00:50:57.568
+You could block-- wow, I
+just skipped something.
+
+00:50:57.568 --> 00:50:58.675
+Oh, don't worry about it.
+
+00:50:58.675 --> 00:50:59.175
+OK.
+
+00:50:59.175 --> 00:51:01.340
+So you can block
+reuptake or degradation.
+
+00:51:01.340 --> 00:51:02.570
+I can talk about it now.
+
+00:51:02.570 --> 00:51:06.190
+So when a neurotransmitter
+has done its job,
+
+00:51:06.190 --> 00:51:09.580
+has bound to the
+receptor, is used up,
+
+00:51:09.580 --> 00:51:11.250
+you can't just leave
+it in the synapse.
+
+00:51:11.250 --> 00:51:12.820
+You've got to get
+rid of it somehow.
+
+00:51:12.820 --> 00:51:16.500
+Otherwise, it's going to keep
+signaling to the receptors.
+
+00:51:16.500 --> 00:51:19.510
+One way to do this is a
+process called reuptake.
+
+00:51:19.510 --> 00:51:21.240
+This is essentially,
+the reinsertion
+
+00:51:21.240 --> 00:51:23.360
+of a used up
+neurotransmitter back
+
+00:51:23.360 --> 00:51:26.600
+into the presynaptic neuron.
+
+00:51:26.600 --> 00:51:28.037
+OK.
+
+00:51:28.037 --> 00:51:29.620
+And so there are a
+variety of proteins
+
+00:51:29.620 --> 00:51:30.880
+that mediate this process.
+
+00:51:30.880 --> 00:51:34.180
+You can have protein pumps that
+pump the neurotransmitter back
+
+00:51:34.180 --> 00:51:35.240
+into the presynapse.
+
+00:51:35.240 --> 00:51:37.290
+You can have-- you're
+going to have proteins
+
+00:51:37.290 --> 00:51:40.140
+that are required to repackage
+the neurotransmitters
+
+00:51:40.140 --> 00:51:41.165
+in the vesicles.
+
+00:51:41.165 --> 00:51:42.790
+And you're going to
+be able to-- you're
+
+00:51:42.790 --> 00:51:47.550
+going to have to
+reform these vesicles.
+
+00:51:47.550 --> 00:51:49.640
+And so this is called reuptake.
+
+00:51:49.640 --> 00:51:53.650
+You can also degrade used
+up neurotransmitters.
+
+00:51:53.650 --> 00:51:56.600
+And when you do so, these
+degradation products
+
+00:51:56.600 --> 00:52:00.060
+can be detected in certain
+fluids in your body,
+
+00:52:00.060 --> 00:52:04.220
+such as cerebral spinal
+fluid or blood or urine.
+
+00:52:04.220 --> 00:52:05.600
+And so this is
+important for when
+
+00:52:05.600 --> 00:52:08.740
+you want to detect levels
+of neurotransmitter
+
+00:52:08.740 --> 00:52:12.740
+when you're trying
+to diagnose diseases.
+
+00:52:12.740 --> 00:52:15.510
+So right, so you can force
+the released neurotransmitter
+
+00:52:15.510 --> 00:52:17.970
+to linger in the synapse
+by blocking either reuptake
+
+00:52:17.970 --> 00:52:20.300
+or degradation.
+
+00:52:20.300 --> 00:52:22.520
+You can increase
+neurotransmitter receptor
+
+00:52:22.520 --> 00:52:24.190
+activity.
+
+00:52:24.190 --> 00:52:27.590
+So if the receptor
+on the postsynapse
+
+00:52:27.590 --> 00:52:30.420
+has a certain amount of affinity
+to the neurotransmitter, if you
+
+00:52:30.420 --> 00:52:32.490
+are able to find some
+way to make it bind
+
+00:52:32.490 --> 00:52:34.600
+more efficiently to
+the neurotransmitter,
+
+00:52:34.600 --> 00:52:37.640
+you're able to amplify the
+neurotransmitter signal
+
+00:52:37.640 --> 00:52:41.710
+and essentially, strengthen
+that synaptic response.
+
+00:52:41.710 --> 00:52:44.710
+So conversely, if you would like
+to weaken synaptic response,
+
+00:52:44.710 --> 00:52:47.110
+you could just block any
+of the processes that
+
+00:52:47.110 --> 00:52:49.494
+are required to release
+neurotransmitter, that
+
+00:52:49.494 --> 00:52:51.035
+are required for
+the neurotransmitter
+
+00:52:51.035 --> 00:52:55.095
+to bind to the receptor and
+trigger this influx of charge
+
+00:52:55.095 --> 00:52:57.480
+in the dendrite.
+
+00:52:57.480 --> 00:53:01.040
+So you can do that by blocking
+neurotransmitter receptors,
+
+00:53:01.040 --> 00:53:05.230
+blocking
+neurotransmitter release.
+
+00:53:05.230 --> 00:53:10.730
+You can block, or you can
+decrease the receptor affinity.
+
+00:53:10.730 --> 00:53:12.820
+So again, we don't
+really want you
+
+00:53:12.820 --> 00:53:17.240
+to focus on memorizing really
+the many mechanisms of doing
+
+00:53:17.240 --> 00:53:17.740
+this.
+
+00:53:17.740 --> 00:53:19.950
+If you do need to know
+it, it will come up later
+
+00:53:19.950 --> 00:53:21.159
+on in the course.
+
+00:53:21.159 --> 00:53:23.200
+But what this really is--
+the whole point of this
+
+00:53:23.200 --> 00:53:25.491
+is to get you thinking about
+the many ways in which you
+
+00:53:25.491 --> 00:53:29.240
+can manipulate events that
+take place at the synapse.
+
+00:53:29.240 --> 00:53:29.740
+OK.
+
+00:53:29.740 --> 00:53:34.590
+So there are a lot of ways
+people can manipulate it.
+
+00:53:34.590 --> 00:53:43.200
+So how would you find out more
+about some neuropathology?
+
+00:53:43.200 --> 00:53:45.460
+If somebody has
+something wrong with them
+
+00:53:45.460 --> 00:53:47.430
+and it's going on
+in their brain,
+
+00:53:47.430 --> 00:53:49.550
+it's really difficult to
+make direct measurements
+
+00:53:49.550 --> 00:53:51.880
+of neurotransmitters,
+or neurotransmitter
+
+00:53:51.880 --> 00:53:55.880
+levels in their brain,
+especially in a live patient.
+
+00:53:55.880 --> 00:54:00.010
+These measurements are often
+done in breakdown products,
+
+00:54:00.010 --> 00:54:02.480
+breakdown products of
+neurotransmitters in the urine,
+
+00:54:02.480 --> 00:54:04.740
+in the blood, or
+cerebral spinal fluid.
+
+00:54:04.740 --> 00:54:08.390
+And these are often
+serving as clues.
+
+00:54:08.390 --> 00:54:11.830
+These can often serve as clues.
+
+00:54:11.830 --> 00:54:17.030
+So if you had a patient with
+Parkinson's and you would like
+
+00:54:17.030 --> 00:54:19.540
+to treat that patient
+and alleviate that
+
+00:54:19.540 --> 00:54:25.190
+person's symptoms, you might
+find it pretty difficult.
+
+00:54:25.190 --> 00:54:27.810
+So Parkinson's- people
+with Parkinson's have
+
+00:54:27.810 --> 00:54:31.080
+an insufficient or decreased
+level of dopamine in a certain
+
+00:54:31.080 --> 00:54:34.090
+area of their brain that
+controls motor movement.
+
+00:54:34.090 --> 00:54:39.150
+And if you were to
+increase, globally increase,
+
+00:54:39.150 --> 00:54:42.420
+dopamine levels in the
+brain, you might fix,
+
+00:54:42.420 --> 00:54:45.502
+you might alleviate the
+symptoms of Parkinson's.
+
+00:54:45.502 --> 00:54:47.460
+But you're going to be
+increasing it everywhere
+
+00:54:47.460 --> 00:54:52.720
+else that dopamine has an
+action in, has a function in.
+
+00:54:52.720 --> 00:54:59.750
+And so you might change levels
+in the mesolimbic pathway
+
+00:54:59.750 --> 00:55:04.910
+from normal to too high
+and induce symptoms
+
+00:55:04.910 --> 00:55:07.520
+that resemble schizophrenia.
+
+00:55:07.520 --> 00:55:09.644
+And so this really
+harks back on the theme
+
+00:55:09.644 --> 00:55:11.810
+that we've been trying to
+tell you that the brain is
+
+00:55:11.810 --> 00:55:13.880
+compartmentalized.
+
+00:55:13.880 --> 00:55:16.920
+It's got different functions
+in different areas.
+
+00:55:16.920 --> 00:55:19.170
+It can have the same
+neurotransmitter
+
+00:55:19.170 --> 00:55:21.790
+in these different
+areas functioning.
+
+00:55:21.790 --> 00:55:27.550
+And if you were to treat
+some sort of effect
+
+00:55:27.550 --> 00:55:34.890
+that you want to fix, you might
+see adverse or deleterious side
+
+00:55:34.890 --> 00:55:36.365
+effects in other areas.
+
+00:55:41.330 --> 00:55:46.432
+Yeah, so that's pretty
+much all I have.
+
+00:55:46.432 --> 00:55:48.890
+So there are a few take home
+messages and important points.
+
+00:55:48.890 --> 00:55:53.380
+You have to know that
+this process of axon--
+
+00:55:53.380 --> 00:55:56.310
+the process of action
+potential moving along the axon
+
+00:55:56.310 --> 00:56:01.060
+and how it influences the
+influx of positive ions
+
+00:56:01.060 --> 00:56:04.620
+at the axon terminal, which
+will release neurotransmitter.
+
+00:56:04.620 --> 00:56:07.410
+So you have to be familiar
+with that concept.
+
+00:56:07.410 --> 00:56:09.870
+You have to understand that
+neurotransmitters after they're
+
+00:56:09.870 --> 00:56:12.290
+used up can be
+degraded or recycled
+
+00:56:12.290 --> 00:56:16.480
+in a process called reuptake
+and that degraded products can
+
+00:56:16.480 --> 00:56:20.030
+be detected in blood, urine,
+and cerebral spinal fluid.
+
+00:56:20.030 --> 00:56:22.720
+You also have to understand
+this idea, again,
+
+00:56:22.720 --> 00:56:24.300
+of compartmentalization.
+
+00:56:24.300 --> 00:56:26.020
+It's very important.
+
+00:56:26.020 --> 00:56:29.950
+And that pharmacological
+manipulations,
+
+00:56:29.950 --> 00:56:32.700
+you have to be
+careful because things
+
+00:56:32.700 --> 00:56:36.610
+could happen that you
+are not expecting,
+
+00:56:36.610 --> 00:56:39.040
+especially when something
+is wrong in only one
+
+00:56:39.040 --> 00:56:41.830
+area of the brain.
+
+00:56:41.830 --> 00:56:48.150
+And with that, you guys are free
+to leave and/or ask questions.
+
+00:56:48.150 --> 00:56:50.740
+We do have one more
+thing we wanted to show.
+
+00:56:50.740 --> 00:56:51.340
+Oh yes.
+
+00:56:53.990 --> 00:56:56.600
+One of the other
+TAs in our class
+
+00:56:56.600 --> 00:57:01.040
+last year made an
+absolutely wonderful video
+
+00:57:01.040 --> 00:57:05.950
+about the synapse and about the
+synaptic cleft, in particular.
+
+00:57:05.950 --> 00:57:07.666
+And we wanted to
+share this with you.
+
+00:57:07.666 --> 00:57:08.332
+[VIDEO PLAYBACK]
+
+00:57:08.332 --> 00:57:08.957
+[MUSIC PLAYING]
+
+00:57:08.957 --> 00:57:12.140
+--[SINGING] HumBio kids,
+put your books down.
+
+00:57:12.140 --> 00:57:13.640
+Put your books down.
+
+00:57:13.640 --> 00:57:17.365
+And report to the cleft,
+the synaptic cleft.
+
+00:57:17.365 --> 00:57:21.740
+I'm B Bobby Voltage
+introducing the Glut-tang Clan.
+
+00:57:21.740 --> 00:57:25.170
+-Check out the synaptic cleft.
+
+00:57:25.170 --> 00:57:30.820
+Thanks to vesicular trafficking,
+interneuronal signal
+
+00:57:30.820 --> 00:57:35.300
+can be transmitted from
+electrical to chemical
+
+00:57:35.300 --> 00:57:37.540
+and back again.
+
+00:57:37.540 --> 00:57:39.630
+-Hot and turns to
+the land of the nerve
+
+00:57:39.630 --> 00:57:42.266
+where firing and wiring
+will occur and will occur.
+
+00:57:42.266 --> 00:57:42.765
+will occur.
+
+00:57:42.765 --> 00:57:43.310
+Follow me.
+
+00:57:43.310 --> 00:57:46.420
+Neurons gotta be ready to
+fire at any opportunity.
+
+00:57:46.420 --> 00:57:48.160
+Dendritic input make it hot.
+
+00:57:48.160 --> 00:57:48.660
+Make it hot.
+
+00:57:48.660 --> 00:57:50.049
+Sum it up in the axon hillock.
+
+00:57:50.049 --> 00:57:51.840
+The potential will rise
+to a constant size.
+
+00:57:51.840 --> 00:57:54.195
+Shape of action potentials
+ain't no surprise.
+
+00:57:54.195 --> 00:57:57.320
+Snap back to the focus of the
+rap, tiny little space aka
+
+00:57:57.320 --> 00:57:57.820
+synapse.
+
+00:57:57.820 --> 00:57:58.319
+-Boom.
+
+00:57:58.319 --> 00:58:00.210
+-Voltage sweeps through
+the end like a broom.
+
+00:58:00.210 --> 00:58:01.100
+Calcium rushes in.
+
+00:58:01.100 --> 00:58:01.850
+Vesicles go boom.
+
+00:58:01.850 --> 00:58:02.380
+-Boom.
+
+00:58:02.380 --> 00:58:04.000
+-Exocytosis so exciting.
+
+00:58:04.000 --> 00:58:05.960
+ACH bonds light it
+up like lightning.
+
+00:58:05.960 --> 00:58:08.022
+Synapse fanatics gather around.
+
+00:58:08.022 --> 00:58:09.105
+Questions about the story?
+
+00:58:09.105 --> 00:58:09.380
+What?
+
+00:58:09.380 --> 00:58:09.706
+-3, 2.
+
+00:58:09.706 --> 00:58:10.360
+Hmm.
+
+00:58:10.360 --> 00:58:12.030
+Do the transmitters
+always excite?
+
+00:58:12.030 --> 00:58:12.530
+-No.
+
+00:58:12.530 --> 00:58:14.230
+They can be
+inhibitory, depending
+
+00:58:14.230 --> 00:58:17.800
+on whether they're the ions
+of [INAUDIBLE] positive charge
+
+00:58:17.800 --> 00:58:18.300
+gone.
+
+00:58:18.300 --> 00:58:19.175
+-Only one synapse?
+
+00:58:19.175 --> 00:58:20.050
+What if there's more?
+
+00:58:20.050 --> 00:58:22.480
+-The hillock will sum it
+up, like I said before.
+
+00:58:22.480 --> 00:58:26.200
+The synapse is the location for
+neuron to neuron communication.
+
+00:58:26.200 --> 00:58:28.100
+Remember what Russ Fernald said.
+
+00:58:28.100 --> 00:58:29.704
+-The mind arises from the brain.
+
+00:58:29.704 --> 00:58:30.203
+-Now listen.
+
+00:58:30.203 --> 00:58:30.434
+-Open.
+
+00:58:30.434 --> 00:58:30.666
+Open.
+
+00:58:30.666 --> 00:58:31.130
+Close.
+
+00:58:31.130 --> 00:58:31.629
+Close.
+
+00:58:31.629 --> 00:58:34.040
+-Check out the synaptic cleft.
+
+00:58:34.040 --> 00:58:36.700
+But thanks to
+vesicular trafficking--
+
+00:58:36.700 --> 00:58:37.760
+-Ion channels.
+
+00:58:37.760 --> 00:58:42.454
+- --interneuronal signals can
+be transmitted from electrical
+
+00:58:42.454 --> 00:58:44.716
+to chemical and back again.
+
+00:58:44.716 --> 00:58:45.940
+-Ion channels.
+
+00:58:45.940 --> 00:58:47.410
+-S to the "ynapse"
+is where things
+
+00:58:47.410 --> 00:58:49.120
+act like [INAUDIBLE]
+to chemicals that
+
+00:58:49.120 --> 00:58:50.710
+make you relax or collapse.
+
+00:58:50.710 --> 00:58:53.745
+The synapse cleft has receptors
+that rock to the sympathetic.
+
+00:58:53.745 --> 00:58:56.158
+Ligands [INAUDIBLE]
+by clinics that
+
+00:58:56.158 --> 00:58:57.790
+mimic your chemical condition.
+
+00:58:57.790 --> 00:58:59.504
+That's a small
+problem for medicine,
+
+00:58:59.504 --> 00:59:00.670
+a hundred trillion synapses.
+
+00:59:00.670 --> 00:59:01.391
+Drugs screaming--
+
+00:59:01.391 --> 00:59:01.890
+-Let us in!
+
+00:59:01.890 --> 00:59:04.200
+-The disease is only
+one part of the brain.
+
+00:59:04.200 --> 00:59:05.290
+A pill's not a sniper.
+
+00:59:05.290 --> 00:59:06.260
+It's a hand grenade.
+
+00:59:06.260 --> 00:59:08.580
+It'll act wherever there
+reside effects plus everywhere
+
+00:59:08.580 --> 00:59:10.295
+else come side effects.
+
+00:59:10.295 --> 00:59:11.670
+Don't want to
+sound like a cynic.
+
+00:59:11.670 --> 00:59:13.920
+We've all got a protein
+they call nicotinic.
+
+00:59:13.920 --> 00:59:16.170
+It's a receptor that can't
+tell the diff between ACH
+
+00:59:16.170 --> 00:59:17.110
+and nicotine.
+
+00:59:17.110 --> 00:59:17.640
+-Get a grip.
+
+00:59:17.640 --> 00:59:19.790
+-But nicotine leads
+to too much binding.
+
+00:59:19.790 --> 00:59:22.026
+ACH receptors get to hiding.
+
+00:59:22.026 --> 00:59:23.770
+Neuromuscular junction,
+it can't quite
+
+00:59:23.770 --> 00:59:26.090
+function because your
+receptors went out to lunch.
+
+00:59:26.090 --> 00:59:28.060
+Now, dopamine's on for
+a [? war ?] prediction.
+
+00:59:28.060 --> 00:59:30.050
+But it's down-regulating,
+then you're getting addicted.
+
+00:59:30.050 --> 00:59:31.210
+Fixing to kick the habit.
+
+00:59:31.210 --> 00:59:32.880
+We're busting synapses.
+
+00:59:32.880 --> 00:59:33.572
+How tragic.
+
+00:59:33.572 --> 00:59:35.113
+-Synaptic receptors
+getting abducted.
+
+00:59:35.113 --> 00:59:37.662
+-A healthy synapse ain't
+nothing to mug with.
+
+00:59:37.662 --> 00:59:39.245
+-I hope this rap has
+been instructive.
+
+00:59:39.245 --> 00:59:41.520
+-Because a healthy synapse
+ain't nothing to mug with.
+
+00:59:41.520 --> 00:59:42.020
+-Open.
+
+00:59:42.020 --> 00:59:42.520
+Open.
+
+00:59:42.520 --> 00:59:43.020
+Close.
+
+00:59:43.020 --> 00:59:43.520
+Close.
+
+00:59:43.520 --> 00:59:44.520
+-You don't have to
+leave your [INAUDIBLE].
+
+00:59:44.520 --> 00:59:45.015
+[INTERPOSING VOICES]
+
+00:59:45.015 --> 00:59:45.262
+-Close.
+
+00:59:45.262 --> 00:59:45.510
+Close.
+
+00:59:45.510 --> 00:59:46.005
+Open.
+
+00:59:46.005 --> 00:59:46.500
+Open.
+
+00:59:46.500 --> 00:59:47.000
+Close.
+
+00:59:47.000 --> 00:59:47.985
+Close.
+
+00:59:47.985 --> 00:59:48.975
+-Ion channels.
+
+00:59:48.975 --> 00:59:53.430
+-Cajal, give me some
+more neurons to study.
+
+00:59:53.430 --> 00:59:55.905
+Those don't ensure our find.
+
+00:59:55.905 --> 00:59:57.385
+-Ion channels.
+
+00:59:57.385 --> 00:59:57.885
+-Open.
+
+00:59:57.885 --> 00:59:58.390
+Open.
+
+00:59:58.390 --> 00:59:58.560
+Close.
+
+00:59:58.560 --> 00:59:59.090
+Close.
+
+00:59:59.090 --> 00:59:59.590
+Open.
+
+00:59:59.590 --> 01:00:00.090
+Open.
+
+01:00:00.090 --> 01:00:00.590
+Open.
+
+01:00:00.590 --> 01:00:01.090
+Close.
+
+01:00:01.090 --> 01:00:01.590
+Close.
+
+01:00:01.590 --> 01:00:02.090
+Open.
+
+01:00:02.090 --> 01:00:02.590
+Open.
+
+01:00:02.590 --> 01:00:03.090
+Close.
+
+01:00:03.090 --> 01:00:03.590
+Close.
+
+01:00:03.590 --> 01:00:06.512
+-A game of chess is
+like a sword fight.
+
+01:00:06.512 --> 01:00:09.350
+[DRAWING A SWORD]
+
+01:00:09.350 --> 01:00:12.410
+You must think first
+before you move.
+
+01:00:12.410 --> 01:00:16.410
+[MUSIC PLAYING]
+
+01:00:29.260 --> 01:00:30.742
+[END PLAYBACK]
+
+01:00:30.742 --> 01:00:34.300
+For more, please visit
+us at stanford.edu.
+

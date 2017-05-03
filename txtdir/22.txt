@@ -1,0 +1,8556 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.940 --> 00:00:05.830
+Stanford University.
+
+00:00:12.597 --> 00:00:15.940
+OK, so we will pick up on
+the one topic that was not
+
+00:00:15.940 --> 00:00:19.120
+covered from two days ago
+because you guys needed
+
+00:00:19.120 --> 00:00:22.520
+to go play around with these
+cellular automata first.
+
+00:00:22.520 --> 00:00:24.120
+So I will work
+with the assumption
+
+00:00:24.120 --> 00:00:25.740
+that everybody
+here has now spent
+
+00:00:25.740 --> 00:00:28.380
+48 hours playing with those.
+
+00:00:28.380 --> 00:00:31.352
+But presumably because
+of the sleep deprivation,
+
+00:00:31.352 --> 00:00:32.810
+you've forgotten
+much of it by now.
+
+00:00:32.810 --> 00:00:34.910
+So we will cover some of it.
+
+00:00:34.910 --> 00:00:40.800
+OK, back to that issue
+of fractals and butterfly
+
+00:00:40.800 --> 00:00:43.210
+effects and that whole
+business that, by the time
+
+00:00:43.210 --> 00:00:45.340
+you look at chaotic
+systems that are
+
+00:00:45.340 --> 00:00:48.460
+determinist but
+aperiodical, that, when
+
+00:00:48.460 --> 00:00:51.030
+they seem to be lines
+crossing, getting back
+
+00:00:51.030 --> 00:00:53.660
+into the same spot,
+look closely enough
+
+00:00:53.660 --> 00:00:56.624
+and they're not going
+to actually be touching.
+
+00:00:56.624 --> 00:00:59.200
+And the centerpiece
+of why that matters
+
+00:00:59.200 --> 00:01:01.920
+was that whole
+business of, these
+
+00:01:01.920 --> 00:01:03.190
+both appear to be the same.
+
+00:01:03.190 --> 00:01:04.610
+And take them out
+a decimal place
+
+00:01:04.610 --> 00:01:05.901
+and they're actually different.
+
+00:01:05.901 --> 00:01:08.030
+And a gazillion
+decimal places out.
+
+00:01:08.030 --> 00:01:11.840
+And the entire sort of rationale
+for thinking in that way
+
+00:01:11.840 --> 00:01:15.960
+is the notion that a very
+small difference here
+
+00:01:15.960 --> 00:01:19.560
+can make a difference
+one step to the left.
+
+00:01:19.560 --> 00:01:25.380
+And a million decimal places
+out there, a small difference,
+
+00:01:25.380 --> 00:01:28.560
+will make a difference
+one before that.
+
+00:01:28.560 --> 00:01:33.040
+In a scale-free way, a fractal,
+this here, a difference here,
+
+00:01:33.040 --> 00:01:35.950
+a million decimal places
+out is just as likely
+
+00:01:35.950 --> 00:01:39.710
+to have consequences for
+one over as this one for one
+
+00:01:39.710 --> 00:01:42.310
+over fractal, scale
+free, all of that.
+
+00:01:42.310 --> 00:01:45.150
+But the critical thing
+that is encompassed in this
+
+00:01:45.150 --> 00:01:48.400
+is the notion that
+tiny little differences
+
+00:01:48.400 --> 00:01:52.010
+can have consequences
+that magnify and magnify
+
+00:01:52.010 --> 00:01:56.080
+and amplify into a
+butterfly effect.
+
+00:01:56.080 --> 00:01:59.020
+So cellular automata
+are a great way
+
+00:01:59.020 --> 00:02:01.870
+of seeing this principle along
+with a number of others that
+
+00:02:01.870 --> 00:02:03.330
+are relevant to all of this.
+
+00:02:03.330 --> 00:02:06.430
+OK, so we start off
+with the very first one.
+
+00:02:06.430 --> 00:02:09.410
+And this is the one
+that you no doubt first
+
+00:02:09.410 --> 00:02:12.530
+discovered is a pattern,
+which made you deeply happy.
+
+00:02:12.530 --> 00:02:14.490
+And if you follow
+the rules, it was
+
+00:02:14.490 --> 00:02:17.650
+starting there-- was this--
+which way is this facing,
+
+00:02:17.650 --> 00:02:18.610
+starting at the bottom.
+
+00:02:24.090 --> 00:02:26.570
+OK, this is starting
+at the bottom.
+
+00:02:26.570 --> 00:02:30.540
+And what you see is
+these very simple rules.
+
+00:02:30.540 --> 00:02:34.290
+And out of it emerges a
+whole complex pattern.
+
+00:02:34.290 --> 00:02:36.600
+And we'll be seeing
+shortly the features
+
+00:02:36.600 --> 00:02:39.470
+of this that perfectly match
+what the requirements are
+
+00:02:39.470 --> 00:02:41.540
+for emergent complexity.
+
+00:02:41.540 --> 00:02:46.230
+But we'll see as the elements
+are lots of constituents,
+
+00:02:46.230 --> 00:02:47.850
+lots of building blocks.
+
+00:02:47.850 --> 00:02:50.370
+The building blocks
+being very simple.
+
+00:02:50.370 --> 00:02:51.230
+They're binary.
+
+00:02:51.230 --> 00:02:54.330
+Either they are
+filled or not filled.
+
+00:02:54.330 --> 00:02:59.420
+Extremely simple rules as to
+how the next generation gets
+
+00:02:59.420 --> 00:03:01.250
+formed.
+
+00:03:01.250 --> 00:03:05.680
+And in terms of the extremely
+simple rules, none of the rules
+
+00:03:05.680 --> 00:03:08.980
+have anything to do with other
+than the next generation.
+
+00:03:08.980 --> 00:03:13.370
+It is all local rules built
+around what the neighborhood is
+
+00:03:13.370 --> 00:03:14.810
+like for each one of these.
+
+00:03:14.810 --> 00:03:16.530
+So you put it
+together, and out come
+
+00:03:16.530 --> 00:03:18.960
+these very structured
+patterns like these.
+
+00:03:18.960 --> 00:03:20.470
+And this is great.
+
+00:03:20.470 --> 00:03:22.070
+This is very exciting.
+
+00:03:22.070 --> 00:03:25.350
+Except this isn't
+what you usually get.
+
+00:03:25.350 --> 00:03:28.180
+In most of these cellular
+automata systems, where
+
+00:03:28.180 --> 00:03:32.160
+you start off with an initial
+condition and a simple set
+
+00:03:32.160 --> 00:03:35.470
+of local neighbor rules for
+how you get reproduction
+
+00:03:35.470 --> 00:03:38.500
+into the next
+generations, in most cases
+
+00:03:38.500 --> 00:03:41.190
+the patterns stop after a while.
+
+00:03:41.190 --> 00:03:43.420
+In the vast majority,
+they stop, they
+
+00:03:43.420 --> 00:03:45.868
+hit a wall, they go extinct.
+
+00:03:45.868 --> 00:03:47.540
+Aha.
+
+00:03:47.540 --> 00:03:48.980
+Two terms that
+I've already stuck
+
+00:03:48.980 --> 00:03:51.510
+in here that are
+biological metaphors
+
+00:03:51.510 --> 00:03:54.420
+start to seem less
+metaphorical after a while.
+
+00:03:54.420 --> 00:03:57.250
+First off, the notion that
+going from here to here to here
+
+00:03:57.250 --> 00:04:01.880
+to here represents
+each next generation.
+
+00:04:01.880 --> 00:04:03.900
+And the notion that,
+as we were just now,
+
+00:04:03.900 --> 00:04:07.990
+that the vast majority of
+these cellular automata systems
+
+00:04:07.990 --> 00:04:09.150
+go extinct.
+
+00:04:09.150 --> 00:04:11.150
+They fail after a while.
+
+00:04:11.150 --> 00:04:13.210
+So it's a very small subset.
+
+00:04:13.210 --> 00:04:16.220
+What you then also
+see is-- in some ways
+
+00:04:16.220 --> 00:04:18.300
+the critical point in
+this whole business--
+
+00:04:18.300 --> 00:04:22.680
+is the relatively small
+number of starting states
+
+00:04:22.680 --> 00:04:27.410
+that succeed produce a
+remarkably small number
+
+00:04:27.410 --> 00:04:32.940
+of mature states that all look
+very similar to each other.
+
+00:04:32.940 --> 00:04:36.390
+In other words, you can
+start with a whole bunch
+
+00:04:36.390 --> 00:04:40.010
+of different conditions,
+and you will wind up
+
+00:04:40.010 --> 00:04:44.040
+with a bunch of smaller number
+of stereotypical patterns.
+
+00:04:44.040 --> 00:04:46.150
+Half of the cellular
+automata that
+
+00:04:46.150 --> 00:04:48.100
+wind up taking
+off look something
+
+00:04:48.100 --> 00:04:49.810
+like this with this pattern.
+
+00:04:49.810 --> 00:04:51.120
+What are we seeing?
+
+00:04:51.120 --> 00:04:52.670
+Convergence.
+
+00:04:52.670 --> 00:04:53.770
+Convergence.
+
+00:04:53.770 --> 00:04:58.190
+The notion that you can start
+with different forms and they
+
+00:04:58.190 --> 00:05:00.040
+will converge over time.
+
+00:05:00.040 --> 00:05:00.710
+What's this?
+
+00:05:00.710 --> 00:05:03.080
+Well, you just proved you
+look at the mature form
+
+00:05:03.080 --> 00:05:06.330
+and you can't know
+the starting state.
+
+00:05:06.330 --> 00:05:10.110
+The other thing is, starting
+at the beginning just looking
+
+00:05:10.110 --> 00:05:12.520
+at this line,
+there is no way you
+
+00:05:12.520 --> 00:05:16.260
+can tell what it's going to look
+like 20 generations from now.
+
+00:05:16.260 --> 00:05:18.310
+You've got to march through it.
+
+00:05:18.310 --> 00:05:20.840
+In other words,
+the starting state
+
+00:05:20.840 --> 00:05:24.070
+gives you no predictive
+power about the mature state.
+
+00:05:24.070 --> 00:05:26.490
+This is a nonlinear system.
+
+00:05:26.490 --> 00:05:29.090
+The cellular
+automata encapsulates
+
+00:05:29.090 --> 00:05:33.000
+this, this business that
+most of these go extinct.
+
+00:05:33.000 --> 00:05:36.610
+Only a relatively few number
+of mature forms exist.
+
+00:05:36.610 --> 00:05:38.420
+It shows convergence.
+
+00:05:38.420 --> 00:05:40.660
+Very different starting
+states can converge
+
+00:05:40.660 --> 00:05:42.340
+into the same sort of patterns.
+
+00:05:42.340 --> 00:05:46.060
+And minor differences
+in the starting state
+
+00:05:46.060 --> 00:05:50.530
+can extend into very
+different consequences.
+
+00:05:50.530 --> 00:05:53.400
+It shows, in other
+words, butterfly effects.
+
+00:05:53.400 --> 00:05:56.570
+OK, so appreciating this a bit.
+
+00:05:56.570 --> 00:05:58.650
+So what we did was then
+go to example number
+
+00:05:58.650 --> 00:06:01.010
+two, where we changed
+the starting state
+
+00:06:01.010 --> 00:06:02.030
+just a little bit here.
+
+00:06:02.030 --> 00:06:03.790
+We shifted around
+some of the boxes.
+
+00:06:03.790 --> 00:06:06.570
+And what you see is something
+that looks roughly the same,
+
+00:06:06.570 --> 00:06:07.980
+but it's not exactly the same.
+
+00:06:07.980 --> 00:06:10.310
+But it's the same
+general feel to it.
+
+00:06:10.310 --> 00:06:11.910
+So that's great.
+
+00:06:11.910 --> 00:06:15.430
+But then we started an
+exercise of starting off
+
+00:06:15.430 --> 00:06:18.870
+with the initial boxes.
+
+00:06:18.870 --> 00:06:19.880
+This goes that way.
+
+00:06:19.880 --> 00:06:24.210
+The initial boxes evenly spaced
+with one space between them
+
+00:06:24.210 --> 00:06:26.120
+and applied the
+rules from there.
+
+00:06:26.120 --> 00:06:27.540
+And this is what you get.
+
+00:06:27.540 --> 00:06:32.100
+Totally boring, static,
+inorganic, inanimate.
+
+00:06:32.100 --> 00:06:34.290
+This is what it does
+for the rest of time.
+
+00:06:34.290 --> 00:06:37.110
+What this exercise then
+did, going to number four,
+
+00:06:37.110 --> 00:06:40.170
+is what if we now
+spaced two boxes
+
+00:06:40.170 --> 00:06:41.810
+between each one of these?
+
+00:06:41.810 --> 00:06:44.970
+And here we have an extinction.
+
+00:06:44.970 --> 00:06:46.970
+This is one of those
+where it hits a wall,
+
+00:06:46.970 --> 00:06:49.980
+and all the next
+lines are empty.
+
+00:06:49.980 --> 00:06:53.730
+OK, how about three boxes in
+between the starting states?
+
+00:06:53.730 --> 00:06:56.530
+OK, another form of extinction.
+
+00:06:56.530 --> 00:06:59.990
+OK, how about four boxes
+between the starting states?
+
+00:06:59.990 --> 00:07:03.810
+And suddenly, something
+very dynamic takes off.
+
+00:07:03.810 --> 00:07:06.540
+Applying the same rules,
+and all you've done
+
+00:07:06.540 --> 00:07:09.420
+is change the spacing
+between the starting states.
+
+00:07:09.420 --> 00:07:13.830
+And look at, for one thing, how
+close this was to going extinct
+
+00:07:13.830 --> 00:07:17.140
+up there on top, how
+asymmetrical the pattern is
+
+00:07:17.140 --> 00:07:18.100
+that comes out.
+
+00:07:18.100 --> 00:07:21.792
+And this particular one will
+stay asymmetrical forever.
+
+00:07:21.792 --> 00:07:24.140
+And the ways in
+which that generated
+
+00:07:24.140 --> 00:07:26.070
+something very unexpected.
+
+00:07:26.070 --> 00:07:29.040
+There is no way you
+could sit there a priori
+
+00:07:29.040 --> 00:07:33.400
+and say, hm, one box in between
+generates something that
+
+00:07:33.400 --> 00:07:34.350
+looks inanimate.
+
+00:07:34.350 --> 00:07:35.910
+Two boxes, not going to work.
+
+00:07:35.910 --> 00:07:36.790
+Three boxes, yeah.
+
+00:07:36.790 --> 00:07:38.960
+Somewhere around four
+boxes in between.
+
+00:07:38.960 --> 00:07:41.900
+That's when dynamic
+systems suddenly take off.
+
+00:07:41.900 --> 00:07:44.180
+There is no way
+to have known that
+
+00:07:44.180 --> 00:07:47.600
+before without marching through
+this and actually seeing.
+
+00:07:47.600 --> 00:07:51.920
+Starting state tells you
+nothing about the mature state.
+
+00:07:51.920 --> 00:07:54.610
+Then we space it even further.
+
+00:07:54.610 --> 00:07:58.080
+And what we get is
+something similar again.
+
+00:07:58.080 --> 00:07:59.270
+This one is symmetrical.
+
+00:07:59.270 --> 00:08:01.340
+It is somewhat different
+from the previous one,
+
+00:08:01.340 --> 00:08:03.430
+but it's the same
+sorts of patterns
+
+00:08:03.430 --> 00:08:05.390
+that come up over and over.
+
+00:08:05.390 --> 00:08:08.400
+So what we've seen here
+is, by starting state,
+
+00:08:08.400 --> 00:08:11.310
+minor differences,
+big divergence
+
+00:08:11.310 --> 00:08:15.600
+between going extinct versus
+being a viable pattern.
+
+00:08:15.600 --> 00:08:18.390
+Minor differences in starting
+state, big divergence
+
+00:08:18.390 --> 00:08:21.110
+between symmetrical and
+asymmetrical patterns.
+
+00:08:21.110 --> 00:08:24.800
+Tiny differences,
+butterfly effects.
+
+00:08:24.800 --> 00:08:26.680
+OK, next.
+
+00:08:26.680 --> 00:08:35.539
+Looking at the consequences here
+of introducing some asymmetry
+
+00:08:35.539 --> 00:08:36.539
+from the very beginning.
+
+00:08:36.539 --> 00:08:42.020
+The one on the left up on top
+has four boxes and four boxes.
+
+00:08:42.020 --> 00:08:43.289
+It has eight boxes.
+
+00:08:43.289 --> 00:08:46.620
+The one on top has eight boxes
+on the left, and the one on top
+
+00:08:46.620 --> 00:08:49.660
+on the right, just adding in
+one extra box on the side,
+
+00:08:49.660 --> 00:08:50.910
+so it's four and five.
+
+00:08:50.910 --> 00:08:53.690
+Adding a little asymmetry,
+and what you see
+
+00:08:53.690 --> 00:08:55.950
+is a very different pattern.
+
+00:08:55.950 --> 00:08:57.690
+And one of the things
+you tend to see
+
+00:08:57.690 --> 00:09:03.020
+in these pseudo-animate living
+pattern systems is starting
+
+00:09:03.020 --> 00:09:06.850
+states of asymmetry produce
+more dynamic systems,
+
+00:09:06.850 --> 00:09:10.930
+more dynamic patterns than
+even symmetrical ones.
+
+00:09:10.930 --> 00:09:14.320
+That's one of the only rules
+that comes out of there.
+
+00:09:14.320 --> 00:09:17.940
+So we're seeing now minor
+little differences producing
+
+00:09:17.940 --> 00:09:20.400
+major different consequences.
+
+00:09:20.400 --> 00:09:23.780
+Divergencies, butterfly effects.
+
+00:09:23.780 --> 00:09:27.945
+Now showing this
+in a different way.
+
+00:09:27.945 --> 00:09:34.520
+And what we've got here are
+four different starting state
+
+00:09:34.520 --> 00:09:35.720
+conditions.
+
+00:09:35.720 --> 00:09:37.220
+The one on the far
+left is, in fact,
+
+00:09:37.220 --> 00:09:39.380
+the one from the previous
+one, the four and four.
+
+00:09:39.380 --> 00:09:41.430
+Four different starting
+state conditions
+
+00:09:41.430 --> 00:09:44.504
+where they're not enormously
+related to each other.
+
+00:09:44.504 --> 00:09:46.920
+The first one against the other
+three, but the other three
+
+00:09:46.920 --> 00:09:48.230
+have minor differences.
+
+00:09:48.230 --> 00:09:50.210
+And the whole thing
+is, two of these
+
+00:09:50.210 --> 00:09:54.040
+are identical after the
+first 20 generations or so.
+
+00:09:54.040 --> 00:09:57.170
+This one and this one.
+
+00:09:57.170 --> 00:09:59.830
+The two of them are
+identical, and for the rest
+
+00:09:59.830 --> 00:10:01.880
+of the universe
+they will produce
+
+00:10:01.880 --> 00:10:03.600
+the same identical pattern.
+
+00:10:03.600 --> 00:10:07.780
+And looking at the mature
+state, you show up on the scene
+
+00:10:07.780 --> 00:10:11.570
+somewhere halfway down, and
+you could never ever know
+
+00:10:11.570 --> 00:10:13.210
+what the starting state was.
+
+00:10:13.210 --> 00:10:16.550
+Did it start like this or
+did it start like this?
+
+00:10:16.550 --> 00:10:18.680
+A convergency here.
+
+00:10:18.680 --> 00:10:21.044
+And in this case, it's
+another one of those rules.
+
+00:10:21.044 --> 00:10:22.710
+Knowing the starting
+state doesn't allow
+
+00:10:22.710 --> 00:10:24.230
+you to predict the mature form.
+
+00:10:24.230 --> 00:10:27.090
+Knowing the mature
+form, you don't
+
+00:10:27.090 --> 00:10:30.080
+know which particular starting
+state brought it about.
+
+00:10:30.080 --> 00:10:31.790
+And the only way
+to figure it out
+
+00:10:31.790 --> 00:10:35.030
+is to stepwise go
+through the whole process
+
+00:10:35.030 --> 00:10:39.040
+because you can't just
+iterate by a blueprint.
+
+00:10:39.040 --> 00:10:39.960
+There is no blueprint.
+
+00:10:39.960 --> 00:10:44.250
+Finally, the last
+one was giving you,
+
+00:10:44.250 --> 00:10:46.330
+instead of different
+starting boxes
+
+00:10:46.330 --> 00:10:49.420
+in each case with the
+same reproduction rule,
+
+00:10:49.420 --> 00:10:51.610
+the last one was the
+same starting pattern
+
+00:10:51.610 --> 00:10:54.340
+of boxes with
+different, slightly
+
+00:10:54.340 --> 00:10:56.160
+different, reproductive rules.
+
+00:10:56.160 --> 00:10:59.950
+And what you see here are
+totally different outcomes,
+
+00:10:59.950 --> 00:11:01.430
+depending on which variant.
+
+00:11:01.430 --> 00:11:04.000
+We have the beloved
+one on the top left.
+
+00:11:04.000 --> 00:11:08.000
+And you see here, by slightly
+changing the nearest neighbor
+
+00:11:08.000 --> 00:11:10.560
+rules, if and only
+if there is one
+
+00:11:10.560 --> 00:11:12.390
+neighbor with this
+property, if and only
+
+00:11:12.390 --> 00:11:13.980
+if there's two neighbors.
+
+00:11:13.980 --> 00:11:15.600
+And working through
+that way, and you
+
+00:11:15.600 --> 00:11:20.350
+see remarkably divergent
+outcomes for one thing.
+
+00:11:20.350 --> 00:11:22.060
+You see that the
+majority of them
+
+00:11:22.060 --> 00:11:25.770
+produce something very
+boring, either boring extinct
+
+00:11:25.770 --> 00:11:29.750
+or boring repetitive in
+a very undynamic way.
+
+00:11:29.750 --> 00:11:35.150
+Only a small subset
+produce lively, animated,
+
+00:11:35.150 --> 00:11:36.652
+living systems.
+
+00:11:36.652 --> 00:11:38.860
+So we're seeing a whole
+bunch of biological metaphors
+
+00:11:38.860 --> 00:11:41.857
+here over and over and over,
+which is the starting states.
+
+00:11:41.857 --> 00:11:43.440
+You don't know the
+mature, the mature,
+
+00:11:43.440 --> 00:11:44.856
+you don't know the
+starting state.
+
+00:11:44.856 --> 00:11:48.630
+The generations, very simple
+rules for generations,
+
+00:11:48.630 --> 00:11:50.240
+going one to the next.
+
+00:11:50.240 --> 00:11:52.610
+What we see also is
+the vast majority
+
+00:11:52.610 --> 00:11:56.540
+go extinct and produce,
+either go extinct
+
+00:11:56.540 --> 00:12:00.950
+or some repetitive, very boring,
+crystallized type structure.
+
+00:12:00.950 --> 00:12:03.580
+A small subset, a
+tiny subset, produce,
+
+00:12:03.580 --> 00:12:05.460
+instead, dynamic patterns.
+
+00:12:05.460 --> 00:12:09.000
+And knowing what the
+starting state is is not
+
+00:12:09.000 --> 00:12:12.140
+going to give you any
+predictability whatsoever of,
+
+00:12:12.140 --> 00:12:14.740
+is this going to produce
+a dynamic pattern or not?
+
+00:12:14.740 --> 00:12:17.620
+Nor does it allow you to look at
+a bunch of the starting states
+
+00:12:17.620 --> 00:12:20.420
+and say, those two
+are going to produce
+
+00:12:20.420 --> 00:12:22.680
+the same mature pattern.
+
+00:12:22.680 --> 00:12:25.820
+And these are all
+properties of the evolution
+
+00:12:25.820 --> 00:12:28.000
+of different living systems.
+
+00:12:28.000 --> 00:12:31.110
+So you begin to see,
+OK, cellular automata.
+
+00:12:31.110 --> 00:12:32.620
+Do you see some of
+these principles?
+
+00:12:32.620 --> 00:12:36.470
+The simplest level out
+there in the natural world
+
+00:12:36.470 --> 00:12:41.481
+is looking at all sorts of
+shells, seashells and tortoise
+
+00:12:41.481 --> 00:12:43.870
+shells by the seashore
+and whatevers.
+
+00:12:43.870 --> 00:12:47.980
+And they all have
+patterning on them
+
+00:12:47.980 --> 00:12:53.410
+that is derived from that
+first cellular automata
+
+00:12:53.410 --> 00:12:57.610
+rule, producing patterns that
+look a whole lot like these.
+
+00:12:57.610 --> 00:13:01.750
+And go online and look for them
+because I didn't get around
+
+00:13:01.750 --> 00:13:05.400
+to it in time, but producing
+all sorts of patterns in nature.
+
+00:13:05.400 --> 00:13:07.070
+Very common ones.
+
+00:13:07.070 --> 00:13:08.420
+What does that tell you?
+
+00:13:08.420 --> 00:13:13.420
+Very simple rules for generating
+the same complex patterns
+
+00:13:13.420 --> 00:13:16.560
+and different starting
+states, cellular automata
+
+00:13:16.560 --> 00:13:19.110
+and properties here.
+
+00:13:19.110 --> 00:13:21.850
+Another thing in a
+living biological system
+
+00:13:21.850 --> 00:13:23.910
+that begins to suggest this.
+
+00:13:23.910 --> 00:13:28.859
+OK, so I do this
+research in East Africa.
+
+00:13:28.859 --> 00:13:30.400
+And every now and
+then over the years
+
+00:13:30.400 --> 00:13:32.860
+I've gone to this mountain
+called Mount Kenya, which
+
+00:13:32.860 --> 00:13:34.250
+is on the equator.
+
+00:13:34.250 --> 00:13:36.140
+It's about 17,000 feet.
+
+00:13:36.140 --> 00:13:37.770
+It's got glaciers up on top.
+
+00:13:37.770 --> 00:13:40.530
+So this is an equatorial
+glacial mountain.
+
+00:13:40.530 --> 00:13:43.570
+And you go up to about
+the 15,000-foot zone,
+
+00:13:43.570 --> 00:13:46.910
+and there's like--
+it's more land.
+
+00:13:46.910 --> 00:13:49.030
+Almost everything is dead
+up there from the cold.
+
+00:13:49.030 --> 00:13:50.500
+And there's
+basically only, like,
+
+00:13:50.500 --> 00:13:53.580
+four or five different
+types of plants up there.
+
+00:13:53.580 --> 00:13:57.610
+Oh, already a very small
+number that survive
+
+00:13:57.610 --> 00:13:58.780
+in that environment.
+
+00:13:58.780 --> 00:14:01.820
+And each one of them is
+very bizarre and distinctive
+
+00:14:01.820 --> 00:14:02.400
+looking.
+
+00:14:02.400 --> 00:14:03.858
+There's one of them
+that looks like
+
+00:14:03.858 --> 00:14:06.680
+a little, like, rosebud
+thing, except it's
+
+00:14:06.680 --> 00:14:08.580
+about 5 feet across.
+
+00:14:08.580 --> 00:14:10.220
+And then there's
+another one that
+
+00:14:10.220 --> 00:14:12.350
+has sort of a sprouty
+thing like this and then
+
+00:14:12.350 --> 00:14:15.670
+a big central cactus-looking
+thing that isn't really cactus.
+
+00:14:15.670 --> 00:14:18.240
+So there's a few of
+these really distinctive,
+
+00:14:18.240 --> 00:14:20.060
+bizarre-looking plants.
+
+00:14:20.060 --> 00:14:22.350
+And in some way or
+other, that's what
+
+00:14:22.350 --> 00:14:24.650
+it takes to survive up there.
+
+00:14:24.650 --> 00:14:28.640
+So I have this friend who
+does research up in the Andes.
+
+00:14:28.640 --> 00:14:30.540
+And he does botany
+stuff up there.
+
+00:14:30.540 --> 00:14:35.100
+And he goes into this one range
+there that is on the equator
+
+00:14:35.100 --> 00:14:37.410
+and high enough that
+there's glaciers up there.
+
+00:14:37.410 --> 00:14:40.600
+Ah, a glacial equatorial
+mountain on the other side
+
+00:14:40.600 --> 00:14:41.370
+of the globe.
+
+00:14:41.370 --> 00:14:43.110
+So one day I'm sitting
+around and looking
+
+00:14:43.110 --> 00:14:44.650
+at some of his pictures there.
+
+00:14:44.650 --> 00:14:48.900
+And suddenly I look and say,
+that's the exact same plant.
+
+00:14:48.900 --> 00:14:52.310
+That's the big rosebud plant
+that is in Mount Kenya.
+
+00:14:52.310 --> 00:14:54.990
+And oh, my god, that's
+the tall sprouty one.
+
+00:14:54.990 --> 00:14:56.770
+And say, it's the
+exact same plant.
+
+00:14:56.770 --> 00:14:58.650
+How can that plant
+be over there?
+
+00:14:58.650 --> 00:15:02.720
+And we go rummage around in
+his botany taxonomy stuff,
+
+00:15:02.720 --> 00:15:06.090
+and they are completely
+unrelated plants.
+
+00:15:06.090 --> 00:15:10.120
+They are taxonomically of
+no connection whatsoever.
+
+00:15:10.120 --> 00:15:15.380
+But what they've done is
+converged onto the same shape.
+
+00:15:15.380 --> 00:15:18.030
+And in some mysterious
+way, if you're
+
+00:15:18.030 --> 00:15:21.600
+going to be a plant growing
+on the equator at about
+
+00:15:21.600 --> 00:15:25.330
+15,000 feet, there's only about
+four or five different ways
+
+00:15:25.330 --> 00:15:26.460
+of appearing.
+
+00:15:26.460 --> 00:15:28.650
+There is massive convergence.
+
+00:15:28.650 --> 00:15:30.690
+And there's only
+four or five ways
+
+00:15:30.690 --> 00:15:33.580
+that you can survive an
+environment like that.
+
+00:15:33.580 --> 00:15:37.600
+You get organisms in
+very dry environments,
+
+00:15:37.600 --> 00:15:40.570
+and there's, like,
+only four or five ways
+
+00:15:40.570 --> 00:15:43.080
+that you can go about being
+an organism that's super
+
+00:15:43.080 --> 00:15:45.070
+efficient at retaining water.
+
+00:15:45.070 --> 00:15:48.770
+And those are the only
+ones you see amongst them.
+
+00:15:48.770 --> 00:15:51.970
+Desert animals, and
+completely unrelated ones,
+
+00:15:51.970 --> 00:15:54.770
+have converged onto some
+of the same solutions.
+
+00:15:54.770 --> 00:15:56.800
+There's only a
+very finite number
+
+00:15:56.800 --> 00:16:00.010
+of ways to do legs
+and locomotion.
+
+00:16:00.010 --> 00:16:04.140
+Two is good, four, weirdo
+things that fly of six,
+
+00:16:04.140 --> 00:16:05.270
+creepy things have eight.
+
+00:16:05.270 --> 00:16:06.860
+You don't find seven.
+
+00:16:06.860 --> 00:16:08.200
+You don't find three.
+
+00:16:08.200 --> 00:16:11.530
+You find some of the solutions
+here are immensely different
+
+00:16:11.530 --> 00:16:13.690
+starting states
+and have converged.
+
+00:16:13.690 --> 00:16:17.400
+What we see is in these living
+systems over and over stuff
+
+00:16:17.400 --> 00:16:19.740
+that look like
+cellular automata,
+
+00:16:19.740 --> 00:16:25.240
+where slight differences magnify
+enormously butterfly effects,
+
+00:16:25.240 --> 00:16:28.930
+where you are modeling living
+systems in a very real way.
+
+00:16:28.930 --> 00:16:30.540
+Most of them go extinct.
+
+00:16:30.540 --> 00:16:32.130
+Divergence, convergence.
+
+00:16:32.130 --> 00:16:35.460
+And where each one of these
+you get the smaller number,
+
+00:16:35.460 --> 00:16:38.890
+reflecting the fact that there's
+only a limited number of ways
+
+00:16:38.890 --> 00:16:42.850
+of doing rain forest,
+temperate zone rain forest
+
+00:16:42.850 --> 00:16:44.240
+in the Pacific Northwest.
+
+00:16:44.240 --> 00:16:46.290
+There's only a
+limited number of ways
+
+00:16:46.290 --> 00:16:48.920
+of doing tundra in Miami Beach.
+
+00:16:48.920 --> 00:16:50.660
+There's only a limited
+number of ways.
+
+00:16:50.660 --> 00:16:53.080
+In all of these,
+this convergence,
+
+00:16:53.080 --> 00:16:56.800
+and always reflecting that
+these are cellular automata.
+
+00:16:56.800 --> 00:16:57.440
+OK.
+
+00:16:57.440 --> 00:17:02.970
+So hopefully you are now
+feeling desperately regretful
+
+00:17:02.970 --> 00:17:05.480
+that you didn't spend the
+last few days doing this
+
+00:17:05.480 --> 00:17:07.890
+because these are
+so heartwarming.
+
+00:17:07.890 --> 00:17:10.650
+If you want to read a book
+that nobody in their right mind
+
+00:17:10.650 --> 00:17:14.550
+should read, it's a book by this
+guy named Steve Wolfram, who's
+
+00:17:14.550 --> 00:17:19.200
+one of the gods of
+computers and math
+
+00:17:19.200 --> 00:17:21.750
+and was one of the sort of
+people who first developed
+
+00:17:21.750 --> 00:17:23.829
+cellular automata.
+
+00:17:23.829 --> 00:17:26.800
+And by all reports
+probably one of the largest
+
+00:17:26.800 --> 00:17:28.550
+egos on the planet.
+
+00:17:28.550 --> 00:17:30.730
+And he published a
+book, self-published it,
+
+00:17:30.730 --> 00:17:32.580
+a few years ago, which
+he can because he
+
+00:17:32.580 --> 00:17:36.030
+is grotesquely wealthy, from
+some of his computer programs.
+
+00:17:36.030 --> 00:17:39.500
+And just showing what a
+low-key sort of humble guy
+
+00:17:39.500 --> 00:17:43.110
+he is, he called the book
+A New Kind of Science,
+
+00:17:43.110 --> 00:17:46.040
+just showing that
+he wasn't just going
+
+00:17:46.040 --> 00:17:48.830
+from some little piddly new
+way of viewing the world,
+
+00:17:48.830 --> 00:17:51.580
+but here was his
+new type of science.
+
+00:17:51.580 --> 00:17:53.990
+And the book is
+about 1,200 pages.
+
+00:17:53.990 --> 00:17:55.750
+And I suspect not
+even his mother
+
+00:17:55.750 --> 00:17:58.580
+has read the thing it
+is so impenetrable.
+
+00:17:58.580 --> 00:18:00.790
+And it sold a gazillion copies.
+
+00:18:00.790 --> 00:18:03.450
+And almost all of them are
+sitting in people's garages
+
+00:18:03.450 --> 00:18:06.500
+now, weighting down drain pipes
+because no one can actually
+
+00:18:06.500 --> 00:18:07.390
+read this thing.
+
+00:18:07.390 --> 00:18:09.830
+But an awful lot of
+what the book is about
+
+00:18:09.830 --> 00:18:15.710
+are patterns in nature coded
+for by very simple local rules.
+
+00:18:15.710 --> 00:18:17.560
+And the simple fact
+of that, you've
+
+00:18:17.560 --> 00:18:21.480
+got a lot of very smart people
+doing this cellular automata
+
+00:18:21.480 --> 00:18:22.360
+stuff.
+
+00:18:22.360 --> 00:18:24.880
+And they can't
+come up with rules
+
+00:18:24.880 --> 00:18:28.570
+where you could look at
+something beforehand a priori
+
+00:18:28.570 --> 00:18:31.150
+and know this one
+is going to survive,
+
+00:18:31.150 --> 00:18:33.390
+this one is going to
+go extinct, those two
+
+00:18:33.390 --> 00:18:35.270
+are going to turn
+the same, these two
+
+00:18:35.270 --> 00:18:37.360
+that differ by a
+slight smidgen are
+
+00:18:37.360 --> 00:18:39.360
+going to turn out to be
+enormously different.
+
+00:18:39.360 --> 00:18:41.170
+There's no rules for it.
+
+00:18:41.170 --> 00:18:43.250
+And the book has all
+sorts of cool pictures
+
+00:18:43.250 --> 00:18:45.885
+of a cellular automata
+looking things out in nature.
+
+00:18:45.885 --> 00:18:50.386
+And go buy it for
+somebody's birthday
+
+00:18:50.386 --> 00:18:52.885
+and see if they're not grateful
+for the rest of their lives.
+
+00:18:52.885 --> 00:18:55.580
+But his whole argument
+there is, these
+
+00:18:55.580 --> 00:19:00.080
+show ways in which you can code
+for a lot of the complexity
+
+00:19:00.080 --> 00:19:05.050
+in the natural world with
+small numbers of simple rules.
+
+00:19:05.050 --> 00:19:08.020
+This whole business
+of emergence.
+
+00:19:08.020 --> 00:19:09.920
+This sets us up
+now for beginning
+
+00:19:09.920 --> 00:19:11.720
+to look at some of
+the ways in which we
+
+00:19:11.720 --> 00:19:15.180
+hit a wall the other day, ways
+in which the reductive model
+
+00:19:15.180 --> 00:19:18.190
+of understanding the universe
+stops working after a while.
+
+00:19:18.190 --> 00:19:20.700
+One version being the
+problem of not having
+
+00:19:20.700 --> 00:19:22.660
+enough numbers of things.
+
+00:19:22.660 --> 00:19:25.450
+Not having enough
+neurons to do grandmother
+
+00:19:25.450 --> 00:19:28.460
+neurons beyond Jennifer
+Aniston, that whole business
+
+00:19:28.460 --> 00:19:30.260
+that you simply
+don't have enough
+
+00:19:30.260 --> 00:19:33.660
+neurons to do that beyond just
+the rare ones now and then.
+
+00:19:33.660 --> 00:19:35.280
+And what do you get instead?
+
+00:19:35.280 --> 00:19:37.580
+What has the solution
+turned out to be?
+
+00:19:37.580 --> 00:19:40.905
+This field that people focus
+on now called neural networks.
+
+00:19:43.565 --> 00:19:48.400
+And the point of neural networks
+is that information, again,
+
+00:19:48.400 --> 00:19:51.460
+is not coded in a single
+molecule, single synapse,
+
+00:19:51.460 --> 00:19:53.272
+single neuron, one neuron.
+
+00:19:53.272 --> 00:19:55.230
+This neuron knows one
+thing and one thing only,
+
+00:19:55.230 --> 00:19:57.480
+which is when there's
+a dot there, instead,
+
+00:19:57.480 --> 00:20:00.150
+information is
+coded in networks,
+
+00:20:00.150 --> 00:20:03.520
+in patterns of
+neural activation.
+
+00:20:03.520 --> 00:20:05.730
+And just to give you
+an example, and this is
+
+00:20:05.730 --> 00:20:06.980
+one that's in the Zebra book.
+
+00:20:06.980 --> 00:20:09.130
+And anyone who is in
+Biocore I do this one,
+
+00:20:09.130 --> 00:20:11.710
+and I do it because
+I at one point
+
+00:20:11.710 --> 00:20:13.960
+learned the name of three
+impressionist painters,
+
+00:20:13.960 --> 00:20:15.240
+except they're not
+coming to mind right now.
+
+00:20:15.240 --> 00:20:16.760
+OK, so you've got two layers.
+
+00:20:16.760 --> 00:20:18.800
+Here's what a neural
+network would look like.
+
+00:20:18.800 --> 00:20:20.410
+A two-layer one.
+
+00:20:20.410 --> 00:20:25.000
+These neurons on the bottom
+are boring, simple, Hubel and
+
+00:20:25.000 --> 00:20:27.260
+Wiesel-type neurons
+from the other day,
+
+00:20:27.260 --> 00:20:30.540
+where each neuron knows one
+thing and one thing only.
+
+00:20:30.540 --> 00:20:34.660
+This one knows how to
+recognize Gauguin paintings,
+
+00:20:34.660 --> 00:20:38.797
+this one recognizes Van
+Gogh, and this one Monet.
+
+00:20:38.797 --> 00:20:40.050
+OK.
+
+00:20:40.050 --> 00:20:43.090
+Each one of them is-- obviously
+there is no Hubel and Wiesel
+
+00:20:43.090 --> 00:20:44.870
+neuron on Earth
+that's like that.
+
+00:20:44.870 --> 00:20:46.410
+But just for our purposes.
+
+00:20:46.410 --> 00:20:48.390
+They now project up
+to this next layer.
+
+00:20:48.390 --> 00:20:52.520
+Note this neuron projects
+to one, two, and three.
+
+00:20:52.520 --> 00:20:54.660
+This to two, three, and four.
+
+00:20:54.660 --> 00:20:56.180
+This to three, four, and five.
+
+00:20:56.180 --> 00:20:58.800
+So what does this
+neuron know about?
+
+00:20:58.800 --> 00:21:01.160
+This one knows how
+to recognize Gauguin.
+
+00:21:01.160 --> 00:21:04.200
+It's only getting
+information from this neuron.
+
+00:21:04.200 --> 00:21:06.780
+It's another one of those
+Hubel and Wiesel type,
+
+00:21:06.780 --> 00:21:08.910
+I know one fact
+and one fact only.
+
+00:21:08.910 --> 00:21:11.840
+This one here is
+another one of those.
+
+00:21:11.840 --> 00:21:14.830
+What does this neuron
+know about in the middle?
+
+00:21:14.830 --> 00:21:17.400
+That's the neuron that
+knows how to recognize
+
+00:21:17.400 --> 00:21:19.220
+Impressionist paintings.
+
+00:21:19.220 --> 00:21:21.780
+That's the one that
+says, I can't tell you
+
+00:21:21.780 --> 00:21:25.150
+who the artist is, but it's
+one of those Impressionists.
+
+00:21:25.150 --> 00:21:27.230
+It's not one of
+those Dutch masters.
+
+00:21:27.230 --> 00:21:29.490
+It's an Impressionist painting.
+
+00:21:29.490 --> 00:21:33.460
+And this one does it because
+it is getting information that
+
+00:21:33.460 --> 00:21:35.780
+is not available to these guys.
+
+00:21:35.780 --> 00:21:39.270
+It is getting information
+at the intersection
+
+00:21:39.270 --> 00:21:42.100
+of all these specific examples.
+
+00:21:42.100 --> 00:21:45.150
+These ones, number
+two and four, those
+
+00:21:45.150 --> 00:21:47.920
+are ones that recognize
+Impressionist paintings also,
+
+00:21:47.920 --> 00:21:50.800
+but they're not as accurate
+at it as number three
+
+00:21:50.800 --> 00:21:53.960
+because they've got less
+examples to work off of.
+
+00:21:53.960 --> 00:21:56.040
+This is how a
+network would work.
+
+00:21:56.040 --> 00:21:58.890
+And what that suddenly
+begins to explain
+
+00:21:58.890 --> 00:22:02.800
+is something about the human
+brain versus a computer.
+
+00:22:02.800 --> 00:22:06.840
+Computers are amazing at doing
+sequential analytical stuff.
+
+00:22:06.840 --> 00:22:10.730
+Like, you get calculator
+things inside Cheerio boxes
+
+00:22:10.730 --> 00:22:12.860
+that can do more things
+than the human brain can
+
+00:22:12.860 --> 00:22:14.600
+do computationally.
+
+00:22:14.600 --> 00:22:17.890
+But what we can do is
+parallel processing.
+
+00:22:17.890 --> 00:22:22.940
+What we can do is patterns,
+resemblances, similarities,
+
+00:22:22.940 --> 00:22:26.300
+metaphorical similarities,
+physical similarities.
+
+00:22:26.300 --> 00:22:29.450
+And that's why you need
+networks like these.
+
+00:22:29.450 --> 00:22:33.130
+You don't need neurons that
+know one fact and one fact only.
+
+00:22:33.130 --> 00:22:35.570
+You need neurons
+where each one of them
+
+00:22:35.570 --> 00:22:38.760
+is at the intersection of a
+whole bunch of other inputs.
+
+00:22:38.760 --> 00:22:40.270
+OK, example.
+
+00:22:40.270 --> 00:22:42.260
+So now suppose
+you've got a network.
+
+00:22:42.260 --> 00:22:44.590
+There's one neuron
+which fires, and there's
+
+00:22:44.590 --> 00:22:47.960
+a whole bunch of neurons sort
+of sending projections into it.
+
+00:22:47.960 --> 00:22:51.090
+And this is a neuron
+for remembering
+
+00:22:51.090 --> 00:22:52.680
+the name of that guy.
+
+00:22:52.680 --> 00:22:54.020
+What was the name of that guy?
+
+00:22:54.020 --> 00:22:56.350
+That guy, he was that
+Impressionist painter.
+
+00:22:56.350 --> 00:22:58.630
+So suddenly your
+Impressionist painter network
+
+00:22:58.630 --> 00:23:01.110
+is activating and
+firing at this neuron.
+
+00:23:01.110 --> 00:23:04.120
+So it's sitting there.
+
+00:23:04.120 --> 00:23:08.060
+So this is-- now you've got
+your whole Impressionist network
+
+00:23:08.060 --> 00:23:08.820
+that's activated.
+
+00:23:08.820 --> 00:23:10.700
+What was the name of that guy?
+
+00:23:10.700 --> 00:23:12.850
+He was an Impressionist painter.
+
+00:23:12.850 --> 00:23:16.770
+He painted women dancers
+a lot of the time.
+
+00:23:16.770 --> 00:23:19.260
+So people who painted dancers.
+
+00:23:19.260 --> 00:23:20.640
+But it wasn't Degas.
+
+00:23:20.640 --> 00:23:23.870
+OK, so your "it's not Degas"
+circuit going in there.
+
+00:23:23.870 --> 00:23:25.110
+And what was that guy's name?
+
+00:23:25.110 --> 00:23:27.240
+God, I had that seventh
+grade art teacher
+
+00:23:27.240 --> 00:23:28.440
+who loved this guy's work.
+
+00:23:28.440 --> 00:23:31.090
+If I could remember her name,
+I would remember his name.
+
+00:23:31.090 --> 00:23:33.502
+Oh, remember the time
+I was at the museum
+
+00:23:33.502 --> 00:23:35.960
+and there was that really cute
+person who seemed to like it
+
+00:23:35.960 --> 00:23:37.942
+and I had to pretend
+I liked this guy also
+
+00:23:37.942 --> 00:23:39.400
+and it didn't work
+out nonetheless?
+
+00:23:39.400 --> 00:23:40.160
+And going through.
+
+00:23:40.160 --> 00:23:41.470
+And oh, what's the name?
+
+00:23:41.470 --> 00:23:44.440
+There's that stupid pun about
+the guy, he's really short.
+
+00:23:44.440 --> 00:23:46.980
+And something about the
+tracks being too loose.
+
+00:23:46.980 --> 00:23:48.590
+Ah, Toulous-Lautrec.
+
+00:23:48.590 --> 00:23:51.520
+And suddenly it pops
+out there, and you've
+
+00:23:51.520 --> 00:23:54.120
+got enough of these
+inputs coming in there.
+
+00:23:54.120 --> 00:23:57.360
+And this is tip of
+the tongue wiring.
+
+00:23:57.360 --> 00:24:00.450
+This is how you may not
+be able to just remember
+
+00:24:00.450 --> 00:24:01.750
+the guy's name.
+
+00:24:01.750 --> 00:24:04.500
+Wait, he was the short guy
+with a beard who hung out
+
+00:24:04.500 --> 00:24:06.730
+in bars and Parisian bars.
+
+00:24:06.730 --> 00:24:09.590
+And here was that
+time in seventh grade.
+
+00:24:09.590 --> 00:24:12.640
+And enough of these inputs,
+and suddenly out pops
+
+00:24:12.640 --> 00:24:14.040
+the information.
+
+00:24:14.040 --> 00:24:16.170
+And what this begins
+to tell you is,
+
+00:24:16.170 --> 00:24:19.150
+this is ways of
+getting similarities.
+
+00:24:19.150 --> 00:24:22.370
+These are ways of getting
+things that vaguely remind you.
+
+00:24:22.370 --> 00:24:25.440
+This is a world where
+humans can now do stuff
+
+00:24:25.440 --> 00:24:27.920
+like have a piece of
+music that reminds
+
+00:24:27.920 --> 00:24:30.280
+them of a certain
+artist because they
+
+00:24:30.280 --> 00:24:32.810
+both have similar coloration.
+
+00:24:32.810 --> 00:24:35.430
+And that's something
+that makes sense to us.
+
+00:24:35.430 --> 00:24:37.640
+That's something that can
+work because, what you then
+
+00:24:37.640 --> 00:24:41.370
+begin to see is, every one
+of these neurons, this one,
+
+00:24:41.370 --> 00:24:43.900
+for example,
+Impressionist neurons.
+
+00:24:43.900 --> 00:24:47.690
+This one may also be at the
+intersection of another network
+
+00:24:47.690 --> 00:24:51.980
+that's going this way,
+a network of French guys
+
+00:24:51.980 --> 00:24:53.460
+from the last century.
+
+00:24:53.460 --> 00:24:57.260
+And it may be part of
+another network of people
+
+00:24:57.260 --> 00:24:58.909
+whose names are
+hard to pronounce
+
+00:24:58.909 --> 00:25:00.950
+so you're anxious about
+saying them in a lecture.
+
+00:25:00.950 --> 00:25:03.221
+Or the intersection--
+and each one of these
+
+00:25:03.221 --> 00:25:05.596
+is going to be an intersection
+of a whole bunch of these.
+
+00:25:05.596 --> 00:25:08.310
+All of these networks,
+what does that do?
+
+00:25:08.310 --> 00:25:11.020
+That's what you can do
+that a computer can't.
+
+00:25:11.020 --> 00:25:14.900
+You see similarities,
+similes, metaphors.
+
+00:25:14.900 --> 00:25:17.950
+And somewhere in there you get
+something really important,
+
+00:25:17.950 --> 00:25:23.790
+which is the ones, the networks,
+that have wider expanses that
+
+00:25:23.790 --> 00:25:26.300
+connect to a broader
+number of neurons
+
+00:25:26.300 --> 00:25:30.570
+in a very simple,
+artificial, idiotic way.
+
+00:25:30.570 --> 00:25:33.710
+That's kind of what
+creativity would have to be,
+
+00:25:33.710 --> 00:25:36.790
+networks that are
+spreading far wider
+
+00:25:36.790 --> 00:25:39.530
+than in some other individual.
+
+00:25:39.530 --> 00:25:42.410
+It is literally
+making connections
+
+00:25:42.410 --> 00:25:44.950
+that neurons in another
+individual does not.
+
+00:25:44.950 --> 00:25:48.810
+And suddenly you have
+a world where everyone
+
+00:25:48.810 --> 00:25:51.220
+knows this one is a face.
+
+00:25:51.220 --> 00:25:54.930
+And it was only a limited
+number of people who ever
+
+00:25:54.930 --> 00:25:56.820
+decided that this one's a face.
+
+00:25:56.820 --> 00:26:00.910
+And in some level Picasso had
+a different network, a broader
+
+00:26:00.910 --> 00:26:04.240
+one, as to what could
+constitute a face.
+
+00:26:04.240 --> 00:26:07.030
+A broader network
+in some way is going
+
+00:26:07.030 --> 00:26:11.030
+to have to be wiring
+that is more divergent.
+
+00:26:11.030 --> 00:26:14.260
+And at the intersection
+of a bunch of networks
+
+00:26:14.260 --> 00:26:16.412
+that are acting in
+a convergent way.
+
+00:26:16.412 --> 00:26:18.370
+So what's some of the
+evidence that it actually
+
+00:26:18.370 --> 00:26:19.850
+does work this way?
+
+00:26:19.850 --> 00:26:25.240
+You go and you stick electrodes
+into neurons in the cortex,
+
+00:26:25.240 --> 00:26:28.960
+and what you see, if the
+world was entirely made up of,
+
+00:26:28.960 --> 00:26:32.650
+like Hubel and Wiesel, one
+piece of knowledge only, what
+
+00:26:32.650 --> 00:26:35.700
+you would see is you would find
+neurons that each one responds
+
+00:26:35.700 --> 00:26:37.400
+to one single thing.
+
+00:26:37.400 --> 00:26:38.900
+All these grandmother neurons.
+
+00:26:38.900 --> 00:26:40.830
+And instead, what
+you see by the time
+
+00:26:40.830 --> 00:26:44.080
+you get to the interesting
+part of the cortex
+
+00:26:44.080 --> 00:26:47.339
+past the first three
+layers of the visual cortex
+
+00:26:47.339 --> 00:26:49.130
+and the first three
+layers of the auditory.
+
+00:26:49.130 --> 00:26:52.180
+Once you get into
+the 90% that's called
+
+00:26:52.180 --> 00:26:53.895
+the associational
+cortex-- and it's
+
+00:26:53.895 --> 00:26:55.270
+called that because
+nobody really
+
+00:26:55.270 --> 00:26:57.910
+knows what it does--
+then what you see
+
+00:26:57.910 --> 00:27:01.590
+are neurons that are
+multimodal in their responses.
+
+00:27:01.590 --> 00:27:04.480
+All sorts of things
+stimulate them.
+
+00:27:04.480 --> 00:27:06.720
+And here we have a neuron
+that's being stimulated
+
+00:27:06.720 --> 00:27:10.470
+by a type of painting, by
+the knowledge of French guys,
+
+00:27:10.470 --> 00:27:13.160
+by something phonetic,
+by all sorts--
+
+00:27:13.160 --> 00:27:15.330
+and they're multiresponsive.
+
+00:27:15.330 --> 00:27:17.350
+So that's what you
+wind up seeing.
+
+00:27:17.350 --> 00:27:19.530
+The majority of
+cortical neurons,
+
+00:27:19.530 --> 00:27:21.530
+when you record from
+them with an electrode,
+
+00:27:21.530 --> 00:27:23.020
+they're not grandmother neurons.
+
+00:27:23.020 --> 00:27:25.490
+They're at the intersection
+of a bunch of nets.
+
+00:27:25.490 --> 00:27:27.140
+More evidence for this.
+
+00:27:27.140 --> 00:27:30.390
+This was-- one of the grand
+poobahs of neuroscience
+
+00:27:30.390 --> 00:27:33.320
+around the 1940s or so,
+a guy named Karl Lashley.
+
+00:27:33.320 --> 00:27:35.810
+And obviously a
+very different time
+
+00:27:35.810 --> 00:27:37.900
+in terms of thinking about
+specification of brain
+
+00:27:37.900 --> 00:27:38.670
+function.
+
+00:27:38.670 --> 00:27:42.470
+And what he did was a
+very systematic attempt
+
+00:27:42.470 --> 00:27:44.930
+to be able to show
+where in the brain
+
+00:27:44.930 --> 00:27:47.110
+individual facts were stored.
+
+00:27:47.110 --> 00:27:50.570
+And the term for it at the time,
+this jargony term, was engrams.
+
+00:27:50.570 --> 00:27:54.390
+He was searching for the
+engram for different facts.
+
+00:27:54.390 --> 00:27:56.180
+And what he would
+show was, he would
+
+00:27:56.180 --> 00:27:59.930
+destroy parts of the cortex
+in an experimental animal.
+
+00:27:59.930 --> 00:28:02.980
+And he couldn't make the
+information disappear.
+
+00:28:02.980 --> 00:28:05.220
+He would have to
+destroy broader areas.
+
+00:28:05.220 --> 00:28:07.150
+And some of the knowledge,
+some of the memory
+
+00:28:07.150 --> 00:28:08.410
+was still in there.
+
+00:28:08.410 --> 00:28:10.630
+And he concluded in
+this famous paper
+
+00:28:10.630 --> 00:28:12.736
+in the search for the
+engram that, according
+
+00:28:12.736 --> 00:28:14.110
+to all the science
+he knew, there
+
+00:28:14.110 --> 00:28:16.370
+could be no such
+thing as memory.
+
+00:28:16.370 --> 00:28:18.760
+And the reason why
+was he was working
+
+00:28:18.760 --> 00:28:21.220
+with a model of being
+able to-- there's
+
+00:28:21.220 --> 00:28:23.860
+a single neuron where,
+if I could ablate it,
+
+00:28:23.860 --> 00:28:26.200
+I should be able to
+now show in that rat
+
+00:28:26.200 --> 00:28:29.540
+that it's just lost the name
+of its kindergarten teacher.
+
+00:28:29.540 --> 00:28:33.190
+And instead, you see
+networks going on.
+
+00:28:33.190 --> 00:28:35.630
+You see the same thing
+clinically in something
+
+00:28:35.630 --> 00:28:38.190
+like people with
+Alzheimer's disease.
+
+00:28:38.190 --> 00:28:43.450
+Early on in Alzheimer's, you
+will lose, in these networks,
+
+00:28:43.450 --> 00:28:46.750
+you'll lose a neuron here or
+you'll lose a neuron there
+
+00:28:46.750 --> 00:28:48.650
+when you're just
+beginning to lose neurons.
+
+00:28:48.650 --> 00:28:50.500
+And what you see is,
+clinically, in people
+
+00:28:50.500 --> 00:28:55.130
+with Alzheimer's, early on, it's
+not that they forget things.
+
+00:28:55.130 --> 00:28:57.410
+It's not that memory is gone.
+
+00:28:57.410 --> 00:28:59.540
+It's just harder to get to.
+
+00:28:59.540 --> 00:29:01.820
+And you do this with
+all sorts of testing,
+
+00:29:01.820 --> 00:29:03.610
+neuropsychological
+testing, where
+
+00:29:03.610 --> 00:29:07.690
+you try to give the person
+cues to pull it out.
+
+00:29:07.690 --> 00:29:08.352
+Example.
+
+00:29:08.352 --> 00:29:10.560
+You're giving somebody,
+potentially with Alzheimer's,
+
+00:29:10.560 --> 00:29:12.810
+a classic orientation test.
+
+00:29:12.810 --> 00:29:17.320
+You ask them, OK, do you know
+the name of the president?
+
+00:29:17.320 --> 00:29:18.750
+OK, they manage to get that.
+
+00:29:18.750 --> 00:29:20.770
+Do you know the name
+of the last president?
+
+00:29:20.770 --> 00:29:22.019
+No idea.
+
+00:29:22.019 --> 00:29:23.810
+So now you give them
+a little bit of cuing.
+
+00:29:23.810 --> 00:29:25.184
+OK, let me help
+you a little bit.
+
+00:29:25.184 --> 00:29:27.320
+It's a one-syllable word.
+
+00:29:27.320 --> 00:29:29.150
+Still not there, even
+though you've now
+
+00:29:29.150 --> 00:29:33.260
+activated the one-syllable word
+network, obviously artificial.
+
+00:29:33.260 --> 00:29:33.960
+Still can't say.
+
+00:29:33.960 --> 00:29:35.790
+OK, let's make it a
+little bit easier.
+
+00:29:35.790 --> 00:29:39.970
+It's things you could find
+in a park, in a city park.
+
+00:29:39.970 --> 00:29:41.240
+So you're activating that.
+
+00:29:41.240 --> 00:29:42.890
+No, still not coming out.
+
+00:29:42.890 --> 00:29:45.750
+And then you give even more
+explicit priming there.
+
+00:29:45.750 --> 00:29:48.450
+You give them a forced choice
+paradigm, is what it's called.
+
+00:29:48.450 --> 00:29:51.750
+OK, so is it President Tree or
+President Shrub or President
+
+00:29:51.750 --> 00:29:53.260
+Bench or President Bush?
+
+00:29:53.260 --> 00:29:56.000
+Bush, Bush, the kid
+with the father also.
+
+00:29:56.000 --> 00:29:57.600
+It's still in there.
+
+00:29:57.600 --> 00:29:58.960
+It was still in there.
+
+00:29:58.960 --> 00:30:01.800
+It just takes more
+work to pull it out.
+
+00:30:01.800 --> 00:30:04.630
+What you're seeing
+there is not the death
+
+00:30:04.630 --> 00:30:06.780
+of individual memories.
+
+00:30:06.780 --> 00:30:10.920
+You're seeing a weakening
+of a network, a network that
+
+00:30:10.920 --> 00:30:15.280
+is now taking stronger priming
+to pull it out of there.
+
+00:30:15.280 --> 00:30:18.940
+And just to show how subtle
+network stuff can be,
+
+00:30:18.940 --> 00:30:21.680
+here's something that would
+work with a lot of individuals
+
+00:30:21.680 --> 00:30:23.290
+with early stage dementias.
+
+00:30:23.290 --> 00:30:25.890
+What you do is another
+type of priming.
+
+00:30:25.890 --> 00:30:27.484
+So you're eventually
+going to ask
+
+00:30:27.484 --> 00:30:29.150
+them the name of the
+previous president.
+
+00:30:29.150 --> 00:30:32.300
+And they first come in and
+you say, oh, great to see you.
+
+00:30:32.300 --> 00:30:32.816
+Come on in.
+
+00:30:32.816 --> 00:30:33.690
+What a beautiful day.
+
+00:30:33.690 --> 00:30:35.190
+I walked here by
+way of the park.
+
+00:30:35.190 --> 00:30:37.694
+The bushes were so beautiful
+this morning in the park.
+
+00:30:37.694 --> 00:30:39.610
+Some of them had flowers,
+some of them didn't.
+
+00:30:39.610 --> 00:30:41.480
+But bushes are so nice
+to look at when you're
+
+00:30:41.480 --> 00:30:42.860
+walking through a
+park because bushes
+
+00:30:42.860 --> 00:30:44.693
+are one of my favorite
+forms of [INAUDIBLE].
+
+00:30:44.693 --> 00:30:46.500
+And then five
+minutes later, they
+
+00:30:46.500 --> 00:30:49.880
+are more likely to
+remember the name Bush
+
+00:30:49.880 --> 00:30:53.290
+out of a whole different realm
+of more subtle networks you're
+
+00:30:53.290 --> 00:30:54.590
+tapping into.
+
+00:30:54.590 --> 00:30:56.920
+So all of this is the
+beginning of a way
+
+00:30:56.920 --> 00:30:59.960
+of solving the problem we
+had the other day of not
+
+00:30:59.960 --> 00:31:03.740
+enough neurons for them
+to be grandmother neurons.
+
+00:31:03.740 --> 00:31:05.160
+More solutions.
+
+00:31:05.160 --> 00:31:07.190
+We then went to our
+next realm of trouble,
+
+00:31:07.190 --> 00:31:10.310
+which was the problem of,
+there's not enough genes.
+
+00:31:10.310 --> 00:31:12.940
+There's not enough genes
+in that specific realm
+
+00:31:12.940 --> 00:31:15.730
+of explaining bifurcations.
+
+00:31:15.730 --> 00:31:20.150
+And there can't be a gene
+that specifies, OK, this
+
+00:31:20.150 --> 00:31:22.780
+is where you bifurcate if you
+were this particular blood
+
+00:31:22.780 --> 00:31:25.730
+vessel and a different gene
+for this particular bronchial
+
+00:31:25.730 --> 00:31:27.530
+and a different
+gene for this branch
+
+00:31:27.530 --> 00:31:30.320
+of a dendrite and a single--
+it can't work that way.
+
+00:31:30.320 --> 00:31:31.920
+There are not enough genes.
+
+00:31:31.920 --> 00:31:34.650
+What this introduces
+is the idea of there
+
+00:31:34.650 --> 00:31:40.450
+being fractal genes,
+genes whose instructions
+
+00:31:40.450 --> 00:31:44.000
+are ones that are scale free.
+
+00:31:44.000 --> 00:31:45.660
+What do I mean by this?
+
+00:31:45.660 --> 00:31:47.970
+OK, here's what a
+fractal gene might do.
+
+00:31:47.970 --> 00:31:49.430
+So we've got a tube.
+
+00:31:49.430 --> 00:31:52.440
+And this is a tube that's going
+to be part of a blood vessel
+
+00:31:52.440 --> 00:31:55.470
+or a dendrite or a
+lung or whatever.
+
+00:31:55.470 --> 00:31:56.670
+We've got a tube.
+
+00:31:56.670 --> 00:32:02.660
+And the fractal rule here is,
+grow this tube in distance,
+
+00:32:02.660 --> 00:32:07.465
+grow it until it is five
+times longer than it is wide.
+
+00:32:07.465 --> 00:32:10.710
+The width, the opening,
+and that's the simple rule.
+
+00:32:10.710 --> 00:32:16.075
+And the rule is, when it's grown
+five times longer, bifurcate.
+
+00:32:16.075 --> 00:32:17.700
+So what's going to
+happen at that point
+
+00:32:17.700 --> 00:32:19.380
+is just gone five times longer.
+
+00:32:19.380 --> 00:32:21.890
+And it bifurcates at that point.
+
+00:32:21.890 --> 00:32:25.270
+And what you've got is now,
+because this is split in two,
+
+00:32:25.270 --> 00:32:27.660
+the cross-section is
+going to be shorter.
+
+00:32:27.660 --> 00:32:29.560
+But you apply the same rule.
+
+00:32:29.560 --> 00:32:31.960
+Now with the shorter
+cross-section,
+
+00:32:31.960 --> 00:32:32.940
+you have the same rule.
+
+00:32:32.940 --> 00:32:35.840
+Grow five times the length
+of that cross-section
+
+00:32:35.840 --> 00:32:37.200
+until you split.
+
+00:32:37.200 --> 00:32:39.510
+And what you wind
+up getting is, this
+
+00:32:39.510 --> 00:32:43.430
+is one simple fractal rule
+that will generate the tree
+
+00:32:43.430 --> 00:32:44.250
+patterns.
+
+00:32:44.250 --> 00:32:46.790
+That the branchings get
+shorter and shorter,
+
+00:32:46.790 --> 00:32:48.610
+the distances between
+the branch points
+
+00:32:48.610 --> 00:32:51.070
+get shorter and shorter
+because the cross-sections are
+
+00:32:51.070 --> 00:32:54.300
+getting-- one simple rule
+and you could generate
+
+00:32:54.300 --> 00:32:56.860
+a circulatory system,
+a pulmonary system,
+
+00:32:56.860 --> 00:33:01.090
+and a dendritic tree by
+giving a fractal instruction,
+
+00:33:01.090 --> 00:33:04.110
+in this case, one
+that is scale free.
+
+00:33:04.110 --> 00:33:06.980
+That is, independent of
+what the unit is here.
+
+00:33:06.980 --> 00:33:09.080
+And this could work
+within the single neuron
+
+00:33:09.080 --> 00:33:12.710
+or within an entire
+circulatory system.
+
+00:33:12.710 --> 00:33:13.810
+So all of that's great.
+
+00:33:13.810 --> 00:33:15.670
+That's totally hypothetical.
+
+00:33:15.670 --> 00:33:17.375
+Ooh, fractal genes.
+
+00:33:17.375 --> 00:33:19.250
+Well, you know by now
+that's got to translate
+
+00:33:19.250 --> 00:33:21.440
+into a protein in
+some way or other.
+
+00:33:21.440 --> 00:33:26.370
+How might this actually
+look in a real system?
+
+00:33:26.370 --> 00:33:35.350
+So suppose-- OK, so a
+gene coding for a protein.
+
+00:33:35.350 --> 00:33:37.674
+This is one copy of the
+protein, this is another,
+
+00:33:37.674 --> 00:33:38.340
+this is another.
+
+00:33:38.340 --> 00:33:41.930
+They bind to each other in a
+way so that they form a tube.
+
+00:33:41.930 --> 00:33:43.870
+And they bind to
+each other in a way
+
+00:33:43.870 --> 00:33:47.570
+that's just pure mechanical
+reality of, these are not
+
+00:33:47.570 --> 00:33:50.470
+bits of information,
+these are actual proteins.
+
+00:33:50.470 --> 00:33:52.090
+So it's going up
+in the tube there.
+
+00:33:52.090 --> 00:33:55.450
+And suppose that the forces
+are, as the tube goes up
+
+00:33:55.450 --> 00:33:57.220
+it gets more and more unstable.
+
+00:33:57.220 --> 00:33:59.180
+And when the tube
+is high enough,
+
+00:33:59.180 --> 00:34:02.610
+it gets unstable
+enough that these bonds
+
+00:34:02.610 --> 00:34:06.980
+between the proteins begin to
+weaken, and it begins to split.
+
+00:34:06.980 --> 00:34:09.010
+The splitting
+there is a function
+
+00:34:09.010 --> 00:34:10.480
+of the length of these.
+
+00:34:10.480 --> 00:34:11.429
+So it's split.
+
+00:34:11.429 --> 00:34:13.830
+And now the next one
+has half the number
+
+00:34:13.830 --> 00:34:17.679
+of proteins in this one, and
+thus it's that much weaker.
+
+00:34:17.679 --> 00:34:20.360
+So you only have to go
+a shorter distance now
+
+00:34:20.360 --> 00:34:22.234
+before it begins to split.
+
+00:34:22.234 --> 00:34:23.425
+This doesn't exist.
+
+00:34:23.425 --> 00:34:25.090
+It is no way it's like this.
+
+00:34:25.090 --> 00:34:27.110
+But what you could
+begin to see is,
+
+00:34:27.110 --> 00:34:31.150
+here's how you could turn a
+scale-free set of instructions
+
+00:34:31.150 --> 00:34:33.010
+potentially into what
+it would actually
+
+00:34:33.010 --> 00:34:36.590
+look like with mortar and
+bricks in terms of proteins.
+
+00:34:36.590 --> 00:34:38.402
+How it might actually work.
+
+00:34:38.402 --> 00:34:42.860
+Now the notion of fractal
+genetics, of fractal genes,
+
+00:34:42.860 --> 00:34:46.620
+and fractal instructions begins
+to solve another problem,
+
+00:34:46.620 --> 00:34:50.170
+and this is that space problem
+of how much stuff can you
+
+00:34:50.170 --> 00:34:52.260
+jam into a space.
+
+00:34:52.260 --> 00:34:57.290
+Here's the challenge here in
+terms of how dense things are.
+
+00:34:57.290 --> 00:35:00.970
+In the body-- amazing factoid--
+there is no cell in your body
+
+00:35:00.970 --> 00:35:05.520
+that is more than five cells
+away from a blood vessel.
+
+00:35:05.520 --> 00:35:07.910
+OK, you could see why you
+would want to do that.
+
+00:35:07.910 --> 00:35:10.602
+But that is not an
+easy thing to pull off.
+
+00:35:10.602 --> 00:35:12.560
+How do you do that with
+the circulatory system?
+
+00:35:12.560 --> 00:35:14.870
+And amazing other
+factoid to factor in
+
+00:35:14.870 --> 00:35:20.610
+with that is, the circulatory
+system comprises less than 5%
+
+00:35:20.610 --> 00:35:22.580
+of your body mass.
+
+00:35:22.580 --> 00:35:24.250
+How can this be?
+
+00:35:24.250 --> 00:35:29.030
+You've got this system
+that's everywhere.
+
+00:35:29.030 --> 00:35:31.370
+But it's taking up
+almost no space.
+
+00:35:31.370 --> 00:35:34.450
+It's within five cells
+of every cell out there,
+
+00:35:34.450 --> 00:35:36.770
+yet it's less than
+5% of the body.
+
+00:35:36.770 --> 00:35:38.242
+And, OK, forget it.
+
+00:35:38.242 --> 00:35:39.450
+I'm not going to put that up.
+
+00:35:39.450 --> 00:35:44.260
+But what this begins to--
+OK, you convinced me.
+
+00:35:44.260 --> 00:35:45.080
+So let's do this.
+
+00:35:49.280 --> 00:35:52.030
+So what you begin
+to do is transition
+
+00:35:52.030 --> 00:35:56.000
+to a world of fractal geometry.
+
+00:35:56.000 --> 00:36:01.820
+You've got all your Euclidean
+world of nice, smiley, strange
+
+00:36:01.820 --> 00:36:02.640
+things there.
+
+00:36:02.640 --> 00:36:07.110
+You've got this
+whole world of shapes
+
+00:36:07.110 --> 00:36:11.020
+that are constrained by classic
+Cartesian geometry and all
+
+00:36:11.020 --> 00:36:11.540
+of that.
+
+00:36:11.540 --> 00:36:15.230
+And what fractal geometry
+generates are objects that
+
+00:36:15.230 --> 00:36:17.400
+simply cannot exist.
+
+00:36:17.400 --> 00:36:19.500
+Here up on top,
+eventually, you will
+
+00:36:19.500 --> 00:36:21.100
+see the first example of this.
+
+00:36:21.100 --> 00:36:22.760
+And this is out
+of the Chaos book.
+
+00:36:22.760 --> 00:36:25.280
+And this is this cantor set.
+
+00:36:25.280 --> 00:36:28.060
+What you do is you
+start with a line.
+
+00:36:28.060 --> 00:36:31.470
+Start with a line, and you
+cut out the middle third.
+
+00:36:31.470 --> 00:36:33.330
+Now for those
+remaining two ones,
+
+00:36:33.330 --> 00:36:34.810
+you cut out the middle third.
+
+00:36:34.810 --> 00:36:37.614
+For those remaining four,
+you cut out the middle third.
+
+00:36:37.614 --> 00:36:39.020
+And there it is.
+
+00:36:39.020 --> 00:36:41.790
+And you just keep doing this
+over and over and over again.
+
+00:36:41.790 --> 00:36:44.940
+And what do you do when you
+take it out to infinity?
+
+00:36:44.940 --> 00:36:46.660
+What have you generated?
+
+00:36:46.660 --> 00:36:51.460
+A set of an infinitely
+large number of objects,
+
+00:36:51.460 --> 00:36:54.520
+lines, that take up an
+infinitely small amount
+
+00:36:54.520 --> 00:36:55.560
+of space.
+
+00:36:55.560 --> 00:36:58.370
+It's not possible for
+that to work, yet,
+
+00:36:58.370 --> 00:37:00.140
+as you go more and
+more in that direction,
+
+00:37:00.140 --> 00:37:03.060
+you get this
+impossible phenomenon
+
+00:37:03.060 --> 00:37:06.560
+of something approaching having
+an infinite number of places
+
+00:37:06.560 --> 00:37:09.970
+that something appears while
+taking up almost an infinitely
+
+00:37:09.970 --> 00:37:11.870
+small amount of space.
+
+00:37:11.870 --> 00:37:16.640
+And what this winds up being is,
+it's not quite a line anymore
+
+00:37:16.640 --> 00:37:19.430
+at the bottom, but it's
+kind of more than a dot.
+
+00:37:19.430 --> 00:37:22.640
+It's somewhere between
+one and two dimensions.
+
+00:37:22.640 --> 00:37:24.160
+It's a fractal.
+
+00:37:24.160 --> 00:37:26.700
+Its dimensional
+state is somewhere
+
+00:37:26.700 --> 00:37:28.570
+one point something or other.
+
+00:37:28.570 --> 00:37:31.440
+It is somewhere between
+dots and a line,
+
+00:37:31.440 --> 00:37:33.620
+and it does this
+impossible thing,
+
+00:37:33.620 --> 00:37:38.135
+which is it's everywhere
+without taking up any space.
+
+00:37:38.135 --> 00:37:41.080
+Or you could then push
+it to the same thing
+
+00:37:41.080 --> 00:37:42.430
+in the next dimension.
+
+00:37:42.430 --> 00:37:44.460
+And this is this Koch snowflake.
+
+00:37:44.460 --> 00:37:46.060
+And it's the same sort of rule.
+
+00:37:46.060 --> 00:37:48.830
+You start with the
+triangle there.
+
+00:37:48.830 --> 00:37:52.010
+And the rule is, you
+take the middle third
+
+00:37:52.010 --> 00:37:54.490
+and you put a little
+triangle out of it.
+
+00:37:54.490 --> 00:37:56.150
+And then take the
+middle third of that
+
+00:37:56.150 --> 00:37:57.589
+and put a little triangle out.
+
+00:37:57.589 --> 00:37:58.380
+And a middle third.
+
+00:37:58.380 --> 00:38:00.588
+And you just keep doing it
+forever and ever and ever.
+
+00:38:00.588 --> 00:38:03.640
+And you wind up with
+something that is impossible,
+
+00:38:03.640 --> 00:38:08.970
+which is an object that has an
+infinite amount of perimeter,
+
+00:38:08.970 --> 00:38:13.670
+an infinite amount of surface
+area, within a finite space.
+
+00:38:13.670 --> 00:38:15.070
+That's impossible.
+
+00:38:15.070 --> 00:38:17.240
+But it begins to approach this.
+
+00:38:17.240 --> 00:38:19.080
+And what you see
+here, this is a way
+
+00:38:19.080 --> 00:38:21.600
+of just iterating over
+and over and over to jam
+
+00:38:21.600 --> 00:38:25.860
+a huge amount of surface
+area into a tiny space.
+
+00:38:25.860 --> 00:38:30.290
+And thus it's somewhere but
+different, sort of like a line,
+
+00:38:30.290 --> 00:38:32.580
+but it's sort of
+like a plane by then.
+
+00:38:32.580 --> 00:38:34.960
+And it's got a
+fractal form somewhere
+
+00:38:34.960 --> 00:38:36.730
+between two and three.
+
+00:38:36.730 --> 00:38:40.240
+It's got a fractal quality of
+two point something or other.
+
+00:38:40.240 --> 00:38:43.320
+It's an impossible
+object that is solving
+
+00:38:43.320 --> 00:38:46.110
+this problem of being--
+in another version,
+
+00:38:46.110 --> 00:38:50.910
+having surface area everywhere
+without taking up any space
+
+00:38:50.910 --> 00:38:53.060
+and being within a finite area.
+
+00:38:53.060 --> 00:38:55.210
+Next, finally,
+this Menger sponge,
+
+00:38:55.210 --> 00:38:56.990
+which is the same exact concept.
+
+00:38:56.990 --> 00:39:00.620
+Again, you start with the
+box up there, or the ring,
+
+00:39:00.620 --> 00:39:03.100
+and you take out
+the middle third
+
+00:39:03.100 --> 00:39:04.357
+of each of those segments.
+
+00:39:04.357 --> 00:39:05.940
+And then you take
+out the middle third
+
+00:39:05.940 --> 00:39:07.130
+of each of those segments.
+
+00:39:07.130 --> 00:39:09.150
+And if you are doing
+this with what starts off
+
+00:39:09.150 --> 00:39:12.160
+as a three-dimensional cube,
+eventually you get something
+
+00:39:12.160 --> 00:39:17.690
+that cannot exist, which is an
+object that has an infinitely
+
+00:39:17.690 --> 00:39:22.260
+large amount of surface
+area while having no volume.
+
+00:39:22.260 --> 00:39:24.870
+That's what it produces
+at the extreme.
+
+00:39:24.870 --> 00:39:27.980
+And we got something here
+that's somewhere between two
+
+00:39:27.980 --> 00:39:30.480
+different dimensions,
+a fractal again.
+
+00:39:30.480 --> 00:39:34.490
+And what you see is, this is
+how the body solves the packing
+
+00:39:34.490 --> 00:39:35.310
+problem.
+
+00:39:35.310 --> 00:39:41.960
+Because all you need to do is
+make the circulatory system,
+
+00:39:41.960 --> 00:39:44.530
+the circulatory system
+some version of this,
+
+00:39:44.530 --> 00:39:47.120
+some version of splitting
+the ends of the capillaries
+
+00:39:47.120 --> 00:39:50.740
+over and over and over or making
+the lungs, with their surface
+
+00:39:50.740 --> 00:39:54.820
+area for exchanging oxygen,
+looking something like this.
+
+00:39:54.820 --> 00:39:57.200
+And this is how you
+generate a system that
+
+00:39:57.200 --> 00:40:00.490
+is everywhere and taking
+up virtually no space.
+
+00:40:00.490 --> 00:40:02.640
+Obviously, it's not
+taken out to infinity.
+
+00:40:02.640 --> 00:40:05.340
+But this is how you can have
+a circulatory system that's
+
+00:40:05.340 --> 00:40:07.580
+five cells away from
+every cell in the body,
+
+00:40:07.580 --> 00:40:11.000
+yet takes up less
+than 5% of the body.
+
+00:40:11.000 --> 00:40:13.570
+This is a fractal solution.
+
+00:40:13.570 --> 00:40:15.970
+All you do here
+to generate these
+
+00:40:15.970 --> 00:40:17.620
+is taking some of
+these qualities
+
+00:40:17.620 --> 00:40:19.350
+over and over and
+over and over, and you
+
+00:40:19.350 --> 00:40:23.840
+can begin to produce absolutely
+bizarre, impossible things
+
+00:40:23.840 --> 00:40:27.530
+in terms of surface area
+and perimeter and volume
+
+00:40:27.530 --> 00:40:28.540
+and all of that.
+
+00:40:28.540 --> 00:40:31.060
+This is how you can
+use a fractal system
+
+00:40:31.060 --> 00:40:33.362
+to solve the packing problem.
+
+00:40:33.362 --> 00:40:35.390
+Now of course, as soon
+as you're coming up
+
+00:40:35.390 --> 00:40:38.370
+with the notion of something
+like fractal genes,
+
+00:40:38.370 --> 00:40:42.730
+you, of course, have to consider
+the possibility of there
+
+00:40:42.730 --> 00:40:44.830
+being fractal mutations.
+
+00:40:44.830 --> 00:40:47.580
+What would a fractal
+mutation look like?
+
+00:40:47.580 --> 00:40:50.040
+And again, most people,
+most geneticists
+
+00:40:50.040 --> 00:40:51.670
+and molecular
+people, do not think
+
+00:40:51.670 --> 00:40:53.040
+about this in these terms.
+
+00:40:53.040 --> 00:40:56.050
+But there are people who do
+who actually talk about things
+
+00:40:56.050 --> 00:40:57.950
+like fractal gene mutations.
+
+00:40:57.950 --> 00:40:59.320
+What would it look like?
+
+00:40:59.320 --> 00:41:03.840
+Suppose you've got a mutation,
+and it produces a protein
+
+00:41:03.840 --> 00:41:05.870
+that's slightly different.
+
+00:41:05.870 --> 00:41:08.900
+And as a result,
+its got bonds here
+
+00:41:08.900 --> 00:41:13.000
+that are slightly weaker
+between different proteins.
+
+00:41:13.000 --> 00:41:15.540
+So on a mechanical level,
+what have we just defined?
+
+00:41:15.540 --> 00:41:18.970
+This is a tube that's going
+to grow these proteins where
+
+00:41:18.970 --> 00:41:22.220
+it's a shorter distance
+before it begins to split.
+
+00:41:22.220 --> 00:41:25.010
+Because these bonds between
+them are not as strong.
+
+00:41:25.010 --> 00:41:27.170
+There is a mutation
+now where, instead
+
+00:41:27.170 --> 00:41:30.590
+of growing five times
+the cross-section, maybe
+
+00:41:30.590 --> 00:41:34.010
+you're growing 4.9
+times the cross-section.
+
+00:41:34.010 --> 00:41:37.660
+And thanks to that mutation,
+the entire branching system
+
+00:41:37.660 --> 00:41:39.590
+is going to be compacted a bit.
+
+00:41:39.590 --> 00:41:42.570
+It's not going to
+reach the target cells.
+
+00:41:42.570 --> 00:41:46.140
+And these would be
+catastrophic mutations where
+
+00:41:46.140 --> 00:41:47.830
+the pulmonary system
+doesn't develop,
+
+00:41:47.830 --> 00:41:50.040
+the circulatory system
+doesn't develop.
+
+00:41:50.040 --> 00:41:52.620
+And what you would
+see in those cases is,
+
+00:41:52.620 --> 00:41:55.260
+the mutation is something
+that has consequences
+
+00:41:55.260 --> 00:41:57.000
+that are scale free.
+
+00:41:57.000 --> 00:42:00.650
+Another hint when you see some
+fractal gene mutations are
+
+00:42:00.650 --> 00:42:03.350
+a small number of
+diseases that they're
+
+00:42:03.350 --> 00:42:06.950
+about spatial
+relationships in the body.
+
+00:42:06.950 --> 00:42:10.090
+For example, there's a disease
+called Kallmann syndrome, where
+
+00:42:10.090 --> 00:42:14.990
+you get stuff that's wrong with
+midline structures in the body.
+
+00:42:14.990 --> 00:42:16.730
+Something is wrong
+with the septum
+
+00:42:16.730 --> 00:42:19.650
+between the nose, the nostrils.
+
+00:42:19.650 --> 00:42:21.810
+Something is wrong
+in the hypothalamus.
+
+00:42:21.810 --> 00:42:24.780
+Something is wrong in
+the septum of the heart.
+
+00:42:24.780 --> 00:42:26.760
+This is not three
+different mutations.
+
+00:42:26.760 --> 00:42:29.910
+This is some sort of
+fractal mutation messing up
+
+00:42:29.910 --> 00:42:33.840
+how that embryo did
+symmetry, how the embryo does
+
+00:42:33.840 --> 00:42:35.380
+midline structures.
+
+00:42:35.380 --> 00:42:37.290
+So you begin to see
+ways here in which
+
+00:42:37.290 --> 00:42:40.930
+you can solve this and, within
+the biological metaphor,
+
+00:42:40.930 --> 00:42:44.580
+where you could begin to get
+solutions for these problems
+
+00:42:44.580 --> 00:42:47.300
+and also mutations that
+can put you up the creek.
+
+00:42:47.300 --> 00:42:48.070
+OK.
+
+00:42:48.070 --> 00:42:51.010
+So that is another realm
+for beginning to solve this.
+
+00:42:51.010 --> 00:42:52.400
+Another domain.
+
+00:42:52.400 --> 00:42:55.850
+And here we begin to move
+into the realm of emergence,
+
+00:42:55.850 --> 00:42:57.640
+emergent complexity.
+
+00:42:57.640 --> 00:43:01.390
+Which we will first look at a
+couple of crude passes at it.
+
+00:43:01.390 --> 00:43:05.390
+First, emergence driven
+by biophysical properties.
+
+00:43:05.390 --> 00:43:07.190
+And do not freak
+out if you don't
+
+00:43:07.190 --> 00:43:09.860
+know what I mean because I have
+no idea what I mean by that.
+
+00:43:09.860 --> 00:43:12.420
+So I will explain in
+a more accessible way.
+
+00:43:12.420 --> 00:43:15.720
+And this was something that
+was explained endlessly
+
+00:43:15.720 --> 00:43:17.330
+by a guy who used
+to be in the bio
+
+00:43:17.330 --> 00:43:21.010
+department, a developmental
+botanist named Paul Green, who
+
+00:43:21.010 --> 00:43:23.890
+died about 10 years ago
+way too young from cancer.
+
+00:43:23.890 --> 00:43:25.570
+He was a really good guy.
+
+00:43:25.570 --> 00:43:28.290
+He would give this
+famous lecture
+
+00:43:28.290 --> 00:43:30.830
+where he would start
+off and he would
+
+00:43:30.830 --> 00:43:33.170
+describe some sort of disk.
+
+00:43:33.170 --> 00:43:36.830
+And the point is that the
+disk, the material inside
+
+00:43:36.830 --> 00:43:41.610
+was of a softer material than
+the material on the perimeter.
+
+00:43:41.610 --> 00:43:43.440
+And he'd be putting
+up math at this point
+
+00:43:43.440 --> 00:43:44.720
+that I didn't understand.
+
+00:43:44.720 --> 00:43:46.450
+But it was sort of
+a disk like that.
+
+00:43:46.450 --> 00:43:51.740
+And then he would show that what
+happens if you heat the system.
+
+00:43:51.740 --> 00:43:54.274
+What happens if you put
+heat on a disk like this?
+
+00:43:54.274 --> 00:43:55.690
+And what he would
+wind up showing,
+
+00:43:55.690 --> 00:43:58.570
+going through agonizing
+amounts of math,
+
+00:43:58.570 --> 00:44:01.990
+is that, when you heat a
+system, the only solution
+
+00:44:01.990 --> 00:44:04.450
+for this system that's
+trying to respond to the heat
+
+00:44:04.450 --> 00:44:07.450
+but in different ways on the
+perimeter versus the inside
+
+00:44:07.450 --> 00:44:11.910
+is to come up with a double
+saddle, a double saddle shape.
+
+00:44:11.910 --> 00:44:13.181
+And the math proved this.
+
+00:44:13.181 --> 00:44:15.680
+And I had no idea what he was
+talking about when you come up
+
+00:44:15.680 --> 00:44:18.050
+with a double saddle shape.
+
+00:44:18.050 --> 00:44:20.550
+And then what he says
+is, so that's how
+
+00:44:20.550 --> 00:44:23.410
+you get a potato chip.
+
+00:44:23.410 --> 00:44:25.410
+You take a slice
+of potato, where
+
+00:44:25.410 --> 00:44:27.520
+there is more resistance
+on the perimeter
+
+00:44:27.520 --> 00:44:29.640
+and less on the inside,
+and you heat it.
+
+00:44:29.640 --> 00:44:31.770
+And the only solution
+to the problem
+
+00:44:31.770 --> 00:44:35.510
+is to come up with a double
+saddle potato chip shape.
+
+00:44:35.510 --> 00:44:38.350
+And if you change the
+outside, the force of it,
+
+00:44:38.350 --> 00:44:40.530
+if you take one of
+those great organic,
+
+00:44:40.530 --> 00:44:42.550
+"give you the runs"
+type potato chips,
+
+00:44:42.550 --> 00:44:45.540
+where it's going to have the
+skin left on the outside,
+
+00:44:45.540 --> 00:44:48.520
+it's going to be a somewhat
+different-shaped double saddle.
+
+00:44:48.520 --> 00:44:51.130
+Because there's
+only one solution
+
+00:44:51.130 --> 00:44:52.920
+mathematically to that.
+
+00:44:52.920 --> 00:44:54.580
+And then you sit
+there, and you deal
+
+00:44:54.580 --> 00:44:56.080
+with a very simple,
+important fact,
+
+00:44:56.080 --> 00:45:00.460
+which is, that slice of
+potato knows no biophysics.
+
+00:45:00.460 --> 00:45:02.010
+That slice of potato didn't fit.
+
+00:45:02.010 --> 00:45:05.200
+There's no gene that
+instructs potatoes
+
+00:45:05.200 --> 00:45:07.040
+to respond to heat in this way.
+
+00:45:07.040 --> 00:45:11.100
+This was the inevitable outcome
+of the biophysical properties
+
+00:45:11.100 --> 00:45:12.930
+of a slice of potato.
+
+00:45:12.930 --> 00:45:15.810
+And what he then shows
+is, in plant systems
+
+00:45:15.810 --> 00:45:17.860
+after plant systems,
+they develop
+
+00:45:17.860 --> 00:45:20.000
+where two shoots
+come out this way
+
+00:45:20.000 --> 00:45:21.470
+and a little higher
+up two shoots
+
+00:45:21.470 --> 00:45:23.540
+this way and two this
+way and two this way.
+
+00:45:23.540 --> 00:45:25.360
+They're all double saddles.
+
+00:45:25.360 --> 00:45:28.300
+And this winds up being
+a mathematical solution
+
+00:45:28.300 --> 00:45:29.980
+to a packing problem there.
+
+00:45:29.980 --> 00:45:32.230
+When plants are
+growing their stems,
+
+00:45:32.230 --> 00:45:35.000
+there is no gene specifying it.
+
+00:45:35.000 --> 00:45:37.140
+You don't need
+genetic instructions.
+
+00:45:37.140 --> 00:45:41.060
+It is an emergent property
+of the physical constraints
+
+00:45:41.060 --> 00:45:43.160
+of the system.
+
+00:45:43.160 --> 00:45:47.600
+Another example here that's
+sort of proto-emergent, somewhat
+
+00:45:47.600 --> 00:45:49.620
+simpler versions,
+this phenomenon
+
+00:45:49.620 --> 00:45:51.280
+of wisdom of the crowd.
+
+00:45:51.280 --> 00:45:53.070
+And this is one that
+was first identified
+
+00:45:53.070 --> 00:45:56.700
+by Francis Galton, who was
+some relative of Darwin
+
+00:45:56.700 --> 00:46:00.000
+and started eugenics and
+was bad news in that regard
+
+00:46:00.000 --> 00:46:01.570
+but famous statistician.
+
+00:46:01.570 --> 00:46:04.580
+And being an Englishman
+somewhere in the 19th century,
+
+00:46:04.580 --> 00:46:08.310
+he spent huge amounts of time
+going to state fairs and county
+
+00:46:08.310 --> 00:46:09.210
+fairs or whatever.
+
+00:46:09.210 --> 00:46:11.130
+And he was at this
+fair one day where
+
+00:46:11.130 --> 00:46:14.120
+they had some oxen up there.
+
+00:46:14.120 --> 00:46:16.890
+And they were having a contest
+that, if you could guess
+
+00:46:16.890 --> 00:46:19.480
+the exact weight of
+the oxen, you would
+
+00:46:19.480 --> 00:46:21.289
+get to milk it or something.
+
+00:46:21.289 --> 00:46:22.830
+I don't know what
+the prize would be.
+
+00:46:22.830 --> 00:46:24.550
+And there were
+hundreds of farmers
+
+00:46:24.550 --> 00:46:26.409
+around filling out
+little pieces of paper
+
+00:46:26.409 --> 00:46:27.450
+where they were guessing.
+
+00:46:27.450 --> 00:46:28.970
+And what he
+discovered at the end
+
+00:46:28.970 --> 00:46:31.670
+was that nobody got
+the answer right.
+
+00:46:31.670 --> 00:46:32.180
+Good.
+
+00:46:32.180 --> 00:46:34.260
+So the owners of
+this get off easy
+
+00:46:34.260 --> 00:46:36.360
+without having to give up
+any of their oxen milk.
+
+00:46:36.360 --> 00:46:38.900
+But he then did
+something interesting.
+
+00:46:38.900 --> 00:46:41.980
+He collected all the
+little slips of paper,
+
+00:46:41.980 --> 00:46:43.990
+and he averaged all of them.
+
+00:46:43.990 --> 00:46:47.780
+And it came out to the correct
+weight within an ounce.
+
+00:46:47.780 --> 00:46:51.210
+In other words, no
+individual in that group
+
+00:46:51.210 --> 00:46:54.640
+had enough knowledge to be
+able to truly accurately tell
+
+00:46:54.640 --> 00:46:55.790
+what this thing was.
+
+00:46:55.790 --> 00:46:57.980
+But put them
+together in a crowd,
+
+00:46:57.980 --> 00:47:00.970
+and out comes the right answer.
+
+00:47:00.970 --> 00:47:02.350
+Another version of this.
+
+00:47:02.350 --> 00:47:05.250
+And this one is deeply
+important in terms
+
+00:47:05.250 --> 00:47:07.230
+of Western
+intellectual tradition.
+
+00:47:07.230 --> 00:47:10.120
+Back to-- is that program Who
+Wants to Marry a Millionaire?,
+
+00:47:10.120 --> 00:47:11.701
+does that still exist?
+
+00:47:11.701 --> 00:47:12.200
+[INAUDIBLE]
+
+00:47:13.090 --> 00:47:14.425
+In reruns?
+
+00:47:14.425 --> 00:47:18.780
+In-- OK, so it was this one.
+
+00:47:18.780 --> 00:47:21.110
+They give you questions,
+and if you answer them
+
+00:47:21.110 --> 00:47:22.964
+they give you money
+and it's great.
+
+00:47:22.964 --> 00:47:25.630
+And at various points, if you're
+stumped you've got three things
+
+00:47:25.630 --> 00:47:26.171
+you could do.
+
+00:47:26.171 --> 00:47:29.047
+One is, they could eliminate--
+you've got four choices.
+
+00:47:29.047 --> 00:47:30.630
+They can eliminate
+two of them to make
+
+00:47:30.630 --> 00:47:32.200
+it a little bit easier for you.
+
+00:47:32.200 --> 00:47:35.490
+Another is, you have this
+expert who you can call up.
+
+00:47:35.490 --> 00:47:38.760
+And the third option is
+to ask the audience what
+
+00:47:38.760 --> 00:47:40.144
+they think is the right answer.
+
+00:47:40.144 --> 00:47:42.310
+And all the audience there
+has these little buttons,
+
+00:47:42.310 --> 00:47:45.880
+so they can choose A, B, C, or
+D of the multiple choice there.
+
+00:47:45.880 --> 00:47:49.870
+And what the logic is supposed
+to be is, cut it down to two.
+
+00:47:49.870 --> 00:47:51.880
+Your chances are better
+if you have to guess.
+
+00:47:51.880 --> 00:47:55.061
+Talk to your wise expert, who's
+sitting by on the phone there.
+
+00:47:55.061 --> 00:47:57.560
+And they're going to be wise
+and be able to hopefully answer
+
+00:47:57.560 --> 00:47:58.160
+this question.
+
+00:47:58.160 --> 00:48:00.840
+Or ask a whole bunch of people.
+
+00:48:00.840 --> 00:48:02.150
+And they would all vote.
+
+00:48:02.150 --> 00:48:04.900
+And any smart
+contestant would choose
+
+00:48:04.900 --> 00:48:06.770
+whatever the audience chose.
+
+00:48:06.770 --> 00:48:11.840
+Because, when the audience
+was asked, 91% of the time
+
+00:48:11.840 --> 00:48:13.740
+they got the right answer.
+
+00:48:13.740 --> 00:48:17.190
+They got the majority of people
+voting for the right answer.
+
+00:48:17.190 --> 00:48:20.030
+And this is more
+wisdom of the crowd.
+
+00:48:20.030 --> 00:48:22.430
+And this was a much
+better hit rate
+
+00:48:22.430 --> 00:48:25.420
+than whoever the expert was on
+the other side of the phone.
+
+00:48:25.420 --> 00:48:28.250
+One person could be
+extremely expert,
+
+00:48:28.250 --> 00:48:30.200
+but they're not
+going to be as expert
+
+00:48:30.200 --> 00:48:35.250
+as a whole bunch of somewhat
+decent experts thrown together.
+
+00:48:35.250 --> 00:48:38.610
+This is the notion behind a
+field called prediction markets
+
+00:48:38.610 --> 00:48:43.340
+where what you do is you are
+trying to predict some event.
+
+00:48:43.340 --> 00:48:45.220
+For example, the
+Pentagon is very
+
+00:48:45.220 --> 00:48:47.250
+interested in using
+prediction markets
+
+00:48:47.250 --> 00:48:51.440
+to try to predict where the
+next terrorist attack might be.
+
+00:48:51.440 --> 00:48:54.130
+And what you do is you get
+a whole bunch of experts,
+
+00:48:54.130 --> 00:48:56.130
+and you ask each of them
+to think about whatever
+
+00:48:56.130 --> 00:49:00.260
+the parameters are and take a
+guess as to how long it will
+
+00:49:00.260 --> 00:49:02.290
+be before the next one occurs.
+
+00:49:02.290 --> 00:49:04.320
+And what you do is,
+you average them up
+
+00:49:04.320 --> 00:49:06.930
+and assume there is a wisdom
+of the crowd thing going on.
+
+00:49:06.930 --> 00:49:09.660
+And that will give you
+lots of information.
+
+00:49:09.660 --> 00:49:11.720
+Great case of this
+a few years ago.
+
+00:49:11.720 --> 00:49:14.920
+There was some
+submarine or something
+
+00:49:14.920 --> 00:49:17.850
+that sunk somewhere out in
+the Pacific, in the ocean.
+
+00:49:17.850 --> 00:49:20.210
+And nobody knew where
+it was, but they kind of
+
+00:49:20.210 --> 00:49:22.280
+knew where the last
+sighting, the last recording,
+
+00:49:22.280 --> 00:49:23.160
+was from it.
+
+00:49:23.160 --> 00:49:25.840
+But they had a whole
+bunch of naval experts.
+
+00:49:25.840 --> 00:49:28.330
+And they had all of
+them sort of bone
+
+00:49:28.330 --> 00:49:33.010
+up on the knowledge of what was
+the water temperature and wind
+
+00:49:33.010 --> 00:49:35.650
+speeds and where they
+were on the last sighting
+
+00:49:35.650 --> 00:49:37.690
+and what was on TV
+that day or whatever.
+
+00:49:37.690 --> 00:49:39.660
+They got all the
+information, and each one
+
+00:49:39.660 --> 00:49:42.880
+made a guess as to where
+it would be on the map.
+
+00:49:42.880 --> 00:49:44.560
+And you put them all together.
+
+00:49:44.560 --> 00:49:46.620
+And they had guesses
+covering hundreds
+
+00:49:46.620 --> 00:49:48.530
+of square miles of ocean floor.
+
+00:49:48.530 --> 00:49:50.680
+And they put it all
+together, and they came up
+
+00:49:50.680 --> 00:49:53.850
+within 300 yards of
+the right location.
+
+00:49:53.850 --> 00:49:57.990
+So what we have over and over
+here is this business of,
+
+00:49:57.990 --> 00:50:02.420
+put a lot of somewhat decent
+experts together on a problem,
+
+00:50:02.420 --> 00:50:05.790
+and they will be more accurate
+than almost any one single
+
+00:50:05.790 --> 00:50:07.880
+amazing expert at it.
+
+00:50:07.880 --> 00:50:09.670
+Under a few conditions.
+
+00:50:09.670 --> 00:50:13.500
+The collection of these partial
+experts can't be biased.
+
+00:50:13.500 --> 00:50:15.270
+Or if they are,
+they all have to be
+
+00:50:15.270 --> 00:50:18.610
+biased in a random
+scattering of directions.
+
+00:50:18.610 --> 00:50:20.724
+And they need to really
+do be somewhat expert.
+
+00:50:20.724 --> 00:50:22.140
+If you get a whole
+bunch of people
+
+00:50:22.140 --> 00:50:24.320
+off the subway in
+New York and ask
+
+00:50:24.320 --> 00:50:26.416
+them to guess the
+weight of the oxen,
+
+00:50:26.416 --> 00:50:28.540
+they are not going to wisdom
+of the crowd their way
+
+00:50:28.540 --> 00:50:30.740
+into being able to milk
+the thing afterwards.
+
+00:50:30.740 --> 00:50:34.340
+You've got to have people who
+have some experience with it.
+
+00:50:34.340 --> 00:50:36.200
+And you wind up seeing
+wisdom of the crowd
+
+00:50:36.200 --> 00:50:38.850
+stuff going on in all
+sorts of living systems.
+
+00:50:38.850 --> 00:50:42.690
+For example, here
+is an ant colony.
+
+00:50:42.690 --> 00:50:44.650
+And here's a dead ant.
+
+00:50:44.650 --> 00:50:46.560
+And they're trying to
+get the dead ant back
+
+00:50:46.560 --> 00:50:47.364
+to the ant colony.
+
+00:50:47.364 --> 00:50:48.780
+And when you look
+at these things,
+
+00:50:48.780 --> 00:50:51.740
+they know how to get it, or
+they get some dead beetle
+
+00:50:51.740 --> 00:50:54.240
+or something to eat, and
+a whole bunch of ants
+
+00:50:54.240 --> 00:50:56.350
+push it over back
+to their colony.
+
+00:50:56.350 --> 00:50:56.850
+Oh.
+
+00:50:56.850 --> 00:51:00.000
+Does each one of them
+know exactly where
+
+00:51:00.000 --> 00:51:01.460
+they should be pushing?
+
+00:51:01.460 --> 00:51:01.990
+No.
+
+00:51:01.990 --> 00:51:04.190
+What you have
+instead is, each ant
+
+00:51:04.190 --> 00:51:07.250
+has somewhat of the
+right idea as to where
+
+00:51:07.250 --> 00:51:08.330
+they should be going.
+
+00:51:08.330 --> 00:51:11.660
+And there are more ants that
+have a reasonably accurate
+
+00:51:11.660 --> 00:51:14.100
+notion, a smaller number
+that are somewhat off,
+
+00:51:14.100 --> 00:51:16.990
+and a really small number
+that are way out of whack
+
+00:51:16.990 --> 00:51:19.390
+because in general ants
+are kind of experts
+
+00:51:19.390 --> 00:51:20.640
+at finding ant colonies.
+
+00:51:20.640 --> 00:51:21.847
+They're pretty informed.
+
+00:51:21.847 --> 00:51:23.680
+And what you do is you
+put them all together
+
+00:51:23.680 --> 00:51:26.270
+and you do this
+vector geometry stuff.
+
+00:51:26.270 --> 00:51:29.420
+And it moves perfectly
+in that direction.
+
+00:51:29.420 --> 00:51:33.290
+And no single ant knows
+exactly where the colony is.
+
+00:51:33.290 --> 00:51:36.870
+You've got a wisdom of the
+crowd thing here going on.
+
+00:51:36.870 --> 00:51:38.562
+OK.
+
+00:51:38.562 --> 00:51:40.370
+Where are we?
+
+00:51:40.370 --> 00:51:41.120
+Five-minute break.
+
+00:51:44.352 --> 00:51:46.560
+If you have a chance, could
+you email me that website
+
+00:51:46.560 --> 00:51:48.570
+so we could post it
+in the CourseWorks?
+
+00:51:48.570 --> 00:51:49.650
+That's great.
+
+00:51:49.650 --> 00:51:52.000
+OK, picking up.
+
+00:51:52.000 --> 00:51:54.810
+So now we are ready to
+take some of those building
+
+00:51:54.810 --> 00:51:59.180
+blocks, wisdom of the crowd
+stuff, biophysical potato
+
+00:51:59.180 --> 00:52:01.720
+chips, and begin to
+see it more formally
+
+00:52:01.720 --> 00:52:04.480
+in this field of
+emergent complexity.
+
+00:52:04.480 --> 00:52:05.990
+What is that about?
+
+00:52:05.990 --> 00:52:07.620
+What we've already alluded to.
+
+00:52:07.620 --> 00:52:14.110
+It's systems where you have
+a very small number of rules
+
+00:52:14.110 --> 00:52:19.670
+for how very large numbers of
+simple participants interact.
+
+00:52:19.670 --> 00:52:20.850
+What's that about?
+
+00:52:20.850 --> 00:52:22.670
+Here's what emergence is about.
+
+00:52:22.670 --> 00:52:25.270
+You take an ant and you
+put it on a table top
+
+00:52:25.270 --> 00:52:26.770
+and you watch what
+it's doing and it
+
+00:52:26.770 --> 00:52:28.490
+makes no sense whatsoever.
+
+00:52:28.490 --> 00:52:31.700
+You take 10 ants and do it and
+none of them make any sense.
+
+00:52:31.700 --> 00:52:33.880
+You put 100 and they're
+all scattering around.
+
+00:52:33.880 --> 00:52:37.580
+And somewhere around, I don't
+know, 1,000 ants or so, they
+
+00:52:37.580 --> 00:52:39.900
+suddenly start making sense.
+
+00:52:39.900 --> 00:52:43.030
+And you put in 10,000 or
+100,000 or whatever it is,
+
+00:52:43.030 --> 00:52:46.210
+and suddenly, instead of some
+little thing wandering around
+
+00:52:46.210 --> 00:52:48.950
+aimlessly, you
+suddenly have a colony
+
+00:52:48.950 --> 00:52:55.370
+that can grow fungi and regulate
+the temperature of the colony
+
+00:52:55.370 --> 00:52:56.590
+and all these things.
+
+00:52:56.590 --> 00:53:00.220
+And suddenly, out of
+these ants emerges
+
+00:53:00.220 --> 00:53:04.920
+an incredibly complex, adapted
+system, an adaptive one.
+
+00:53:04.920 --> 00:53:08.110
+And the critical point
+there is, no single ant
+
+00:53:08.110 --> 00:53:10.770
+knows what the temperature
+should be in the colony.
+
+00:53:10.770 --> 00:53:12.800
+Or if this is time
+to go out foraging
+
+00:53:12.800 --> 00:53:14.970
+in this direction instead
+of that direction.
+
+00:53:14.970 --> 00:53:20.070
+It all emerges out of the
+nature of ant interactions.
+
+00:53:20.070 --> 00:53:24.210
+You've got very simple
+constituent parts.
+
+00:53:24.210 --> 00:53:27.090
+An ant, much like
+one box that's filled
+
+00:53:27.090 --> 00:53:29.370
+in the cellular automata.
+
+00:53:29.370 --> 00:53:32.490
+You've got very
+simple rules for how
+
+00:53:32.490 --> 00:53:34.110
+they interact with each other.
+
+00:53:34.110 --> 00:53:36.407
+Ants have, I don't know,
+maybe 3 and 1/2 rules.
+
+00:53:36.407 --> 00:53:38.490
+Don't tell Deborah Gordon
+in the department, who's
+
+00:53:38.490 --> 00:53:39.790
+an ant obsessive.
+
+00:53:39.790 --> 00:53:42.150
+But that I may be
+inadvertently dissing the ants.
+
+00:53:42.150 --> 00:53:45.740
+But they have a small number of
+rules as to how they interact.
+
+00:53:45.740 --> 00:53:48.241
+If you bump into an ant and you
+do this with the pheromones,
+
+00:53:48.241 --> 00:53:49.906
+you go this way, and
+if you go that way.
+
+00:53:49.906 --> 00:53:51.000
+And I'm just making it up.
+
+00:53:51.000 --> 00:53:52.550
+They have a small
+number of rules.
+
+00:53:52.550 --> 00:53:56.900
+And as long as you've got a lot
+of ants doing this, out of this
+
+00:53:56.900 --> 00:54:01.300
+can emerge hugely complex
+adaptive patterns.
+
+00:54:01.300 --> 00:54:04.730
+And this is what an
+emergent system is about.
+
+00:54:04.730 --> 00:54:07.020
+Simple players, huge
+numbers of them,
+
+00:54:07.020 --> 00:54:10.090
+simple nearest neighbor rules.
+
+00:54:10.090 --> 00:54:13.000
+And you throw them all together,
+and out comes patterning.
+
+00:54:13.000 --> 00:54:17.000
+And there is no single ant that
+knows what the blueprint is,
+
+00:54:17.000 --> 00:54:18.990
+and there's no blueprint.
+
+00:54:18.990 --> 00:54:21.610
+There is no plan
+anywhere that says
+
+00:54:21.610 --> 00:54:25.260
+what the mature form of the
+colony should look like.
+
+00:54:25.260 --> 00:54:27.260
+There are no instructions.
+
+00:54:27.260 --> 00:54:31.340
+It is bottom-up organization
+rather than top down.
+
+00:54:31.340 --> 00:54:34.170
+And you see all sorts
+of versions, then,
+
+00:54:34.170 --> 00:54:39.540
+of emergent complexity
+built around, again,
+
+00:54:39.540 --> 00:54:43.290
+lots of elements of things
+with a small number of very
+
+00:54:43.290 --> 00:54:48.520
+simple rules about how neighbors
+interact with each other.
+
+00:54:48.520 --> 00:54:49.680
+We need that board.
+
+00:54:49.680 --> 00:54:52.220
+OK.
+
+00:54:52.220 --> 00:54:56.050
+Here we have two, four,
+six, eight different cities
+
+00:54:56.050 --> 00:54:59.660
+or eight different
+places where ant
+
+00:54:59.660 --> 00:55:01.650
+can find good food or
+eight different something
+
+00:55:01.650 --> 00:55:03.810
+or others, eight
+different locales.
+
+00:55:03.810 --> 00:55:05.900
+And you were trying to
+do something efficient.
+
+00:55:05.900 --> 00:55:09.440
+You need to go to each one
+of them to sell your product
+
+00:55:09.440 --> 00:55:11.760
+or to see if there's
+good food there or not.
+
+00:55:11.760 --> 00:55:13.260
+You need to go to
+all eight of them,
+
+00:55:13.260 --> 00:55:16.140
+and you want to do it as
+efficiently as possible.
+
+00:55:16.140 --> 00:55:20.100
+You want to find the way to
+have the shortest possible path
+
+00:55:20.100 --> 00:55:21.750
+to go to all of these places.
+
+00:55:21.750 --> 00:55:26.260
+And this is the classic
+traveling salesman problem.
+
+00:55:26.260 --> 00:55:28.550
+And nobody at this
+point can solve it.
+
+00:55:28.550 --> 00:55:30.980
+There's no formal
+mathematical solution.
+
+00:55:30.980 --> 00:55:33.330
+And by the time you get
+to, like, eight locales,
+
+00:55:33.330 --> 00:55:36.180
+there's, like, hundreds of
+billions of different ways
+
+00:55:36.180 --> 00:55:37.300
+you can do it.
+
+00:55:37.300 --> 00:55:40.310
+So how can-- you can't come
+up with the perfect solution.
+
+00:55:40.310 --> 00:55:44.000
+But you could come up with maybe
+kind of a good, decent one.
+
+00:55:44.000 --> 00:55:45.560
+There's two ways
+you could do it.
+
+00:55:45.560 --> 00:55:49.840
+First is to have an unbelievably
+good computer that just,
+
+00:55:49.840 --> 00:55:54.640
+by sheer force, cranks out a
+bazillion different outcomes
+
+00:55:54.640 --> 00:55:57.700
+and in each case measures
+how much you're doing it.
+
+00:55:57.700 --> 00:56:01.230
+And you can get something
+close to an optimal answer.
+
+00:56:01.230 --> 00:56:04.200
+The other way of doing
+it is to have yourself
+
+00:56:04.200 --> 00:56:07.280
+some virtual ants in
+something that is now
+
+00:56:07.280 --> 00:56:09.810
+called swarm intelligence.
+
+00:56:09.810 --> 00:56:11.150
+Here's what you do.
+
+00:56:11.150 --> 00:56:14.100
+You need to have two
+generations of ants.
+
+00:56:14.100 --> 00:56:16.395
+The first generation,
+you stick them all down,
+
+00:56:16.395 --> 00:56:18.020
+different numbers of
+them, and they all
+
+00:56:18.020 --> 00:56:19.520
+start off in these
+different cities,
+
+00:56:19.520 --> 00:56:20.800
+these different locales.
+
+00:56:20.800 --> 00:56:25.810
+And their rule is, each one
+of them goes to another city.
+
+00:56:25.810 --> 00:56:28.630
+Each one of them goes
+to another destination.
+
+00:56:28.630 --> 00:56:30.670
+But here's the follow-me rule.
+
+00:56:30.670 --> 00:56:34.130
+The ants are leaving a pheromone
+trail, pheromone trail,
+
+00:56:34.130 --> 00:56:35.960
+and they stick
+their rear end down.
+
+00:56:35.960 --> 00:56:36.460
+What is it?
+
+00:56:36.460 --> 00:56:37.690
+Head, thorax, abdomen.
+
+00:56:37.690 --> 00:56:39.280
+And they stick
+their abdomen down.
+
+00:56:39.280 --> 00:56:41.130
+And they've got a
+gland at the bottom
+
+00:56:41.130 --> 00:56:43.300
+there, which
+releases a pheromone
+
+00:56:43.300 --> 00:56:46.710
+and makes a track, a scent
+track, of the pheromone there.
+
+00:56:46.710 --> 00:56:50.410
+And a very simple rule,
+they have a finite amount
+
+00:56:50.410 --> 00:56:55.290
+of pheromone in there to expend
+on the entire path they're
+
+00:56:55.290 --> 00:56:57.170
+making.
+
+00:56:57.170 --> 00:57:00.290
+In other words, the
+shorter the path,
+
+00:57:00.290 --> 00:57:03.040
+the thicker the pheromone
+trail is going to be.
+
+00:57:05.940 --> 00:57:08.570
+Now what you do is
+deal with the fact
+
+00:57:08.570 --> 00:57:11.850
+that the pheromones
+dissipate after a while.
+
+00:57:11.850 --> 00:57:13.410
+They evaporate.
+
+00:57:13.410 --> 00:57:16.690
+And thus, the thicker
+the path, the longer
+
+00:57:16.690 --> 00:57:19.480
+it's going to be there.
+
+00:57:19.480 --> 00:57:22.640
+You now take a second
+generation of virtual ants,
+
+00:57:22.640 --> 00:57:24.230
+and you throw them in there.
+
+00:57:24.230 --> 00:57:27.760
+And what their rule is,
+they wander around randomly.
+
+00:57:27.760 --> 00:57:30.690
+And any time they hit
+a pheromone trail,
+
+00:57:30.690 --> 00:57:33.850
+they join the trail
+one way or the other,
+
+00:57:33.850 --> 00:57:36.510
+and they lay down a
+pheromone trail of their own
+
+00:57:36.510 --> 00:57:37.350
+with their abdomen.
+
+00:57:37.350 --> 00:57:40.640
+They reinforce the
+markings on this trail.
+
+00:57:40.640 --> 00:57:43.770
+And let 10,000
+virtual ants do that
+
+00:57:43.770 --> 00:57:47.340
+for a couple of hundred
+thousand rounds of generations,
+
+00:57:47.340 --> 00:57:50.950
+and they solve the traveling
+salesman problem for you.
+
+00:57:50.950 --> 00:57:54.040
+Because it winds up
+being, the short paths,
+
+00:57:54.040 --> 00:57:57.850
+the more efficient ways
+of connecting locales,
+
+00:57:57.850 --> 00:58:00.870
+will leave larger,
+thicker trails,
+
+00:58:00.870 --> 00:58:04.110
+which are more likely to
+last longer and thus increase
+
+00:58:04.110 --> 00:58:07.060
+the odds that an ant
+wandering around randomly
+
+00:58:07.060 --> 00:58:09.680
+will bump into it
+and reinforce it.
+
+00:58:09.680 --> 00:58:12.040
+And what you see
+is, initially, there
+
+00:58:12.040 --> 00:58:13.980
+will be every possible path.
+
+00:58:13.980 --> 00:58:16.110
+And as you run
+this over and over,
+
+00:58:16.110 --> 00:58:18.480
+it will begin to fade
+out, and out will
+
+00:58:18.480 --> 00:58:20.670
+emerge the more efficient ones.
+
+00:58:20.670 --> 00:58:23.860
+You can optimize the
+outcome doing it this way,
+
+00:58:23.860 --> 00:58:26.810
+just asking virtual
+ants to do it for you.
+
+00:58:26.810 --> 00:58:30.100
+And this is exactly how ants
+do it out in the real world.
+
+00:58:30.100 --> 00:58:31.870
+When they're foraging
+in different places,
+
+00:58:31.870 --> 00:58:34.330
+there is a first wave
+of them that comes out,
+
+00:58:34.330 --> 00:58:37.690
+and they go to locales
+leaving scent trails.
+
+00:58:37.690 --> 00:58:39.840
+And then there are the
+wanderers that come in,
+
+00:58:39.840 --> 00:58:42.260
+and when they hit a
+trail they join it.
+
+00:58:42.260 --> 00:58:46.090
+There are now telecommunications
+companies that use swarm
+
+00:58:46.090 --> 00:58:49.270
+intelligence to figure out
+what's the shortest length
+
+00:58:49.270 --> 00:58:53.340
+of cable they need to use to
+connect up eight different
+
+00:58:53.340 --> 00:58:56.950
+states' worth of
+telecommunication towers,
+
+00:58:56.950 --> 00:58:58.150
+whatever they're called.
+
+00:58:58.150 --> 00:58:59.722
+And they can sit
+there and do math
+
+00:58:59.722 --> 00:59:01.180
+till the end of
+the universe trying
+
+00:59:01.180 --> 00:59:04.130
+to figure out the cheapest
+way to wire them up.
+
+00:59:04.130 --> 00:59:07.540
+Or they can use
+swarm intelligence.
+
+00:59:07.540 --> 00:59:09.990
+And that's what a lot of
+them do at this point.
+
+00:59:09.990 --> 00:59:11.550
+It works.
+
+00:59:11.550 --> 00:59:12.920
+What are the features of it?
+
+00:59:12.920 --> 00:59:15.080
+This is not wisdom of the crowd.
+
+00:59:15.080 --> 00:59:19.140
+This is not that every ant knows
+a solution to the traveling
+
+00:59:19.140 --> 00:59:22.040
+salesman problem, except none of
+them have the perfect solution.
+
+00:59:22.040 --> 00:59:23.665
+But put them all
+together, and they all
+
+00:59:23.665 --> 00:59:24.720
+get to vote on outcomes.
+
+00:59:24.720 --> 00:59:27.940
+The ant don't know from
+traveling salesman problems.
+
+00:59:27.940 --> 00:59:30.940
+The ant knows nothing about
+trying to optimize this.
+
+00:59:30.940 --> 00:59:34.170
+All the ant knows is one
+of two different rules.
+
+00:59:34.170 --> 00:59:36.570
+If I'm walking from one
+of these to one of these,
+
+00:59:36.570 --> 00:59:39.700
+the longer I walk, the
+thinner the pheromone trail.
+
+00:59:39.700 --> 00:59:43.680
+Or rule number two, if I
+stumble into one of these,
+
+00:59:43.680 --> 00:59:46.380
+I join it and put down
+my markings there.
+
+00:59:46.380 --> 00:59:50.400
+Two simple rules,
+one very simple type
+
+00:59:50.400 --> 00:59:54.320
+of sort of unit of
+information in there, an ant.
+
+00:59:54.320 --> 00:59:57.590
+And all you need to do is make
+sure there's enough of them,
+
+00:59:57.590 --> 01:00:00.680
+and they solve the
+problem for you.
+
+01:00:00.680 --> 01:00:02.960
+This winds up explaining
+another thing.
+
+01:00:02.960 --> 01:00:06.400
+How do bees pick a
+new nesting site?
+
+01:00:06.400 --> 01:00:10.117
+A bee's nest, a bee's--
+hornet's nest, a bee's nest.
+
+01:00:10.117 --> 01:00:12.200
+Every now and then the
+bees need to leave and pick
+
+01:00:12.200 --> 01:00:13.210
+a new place to live.
+
+01:00:13.210 --> 01:00:15.520
+And how do they figure
+out the good place?
+
+01:00:15.520 --> 01:00:18.420
+And there's all sorts of
+criteria of nutrients.
+
+01:00:18.420 --> 01:00:21.650
+And so all sorts of bees go
+out there, and what they do
+
+01:00:21.650 --> 01:00:23.490
+is they look for food sources.
+
+01:00:23.490 --> 01:00:25.940
+And they look for a place
+that will have a lot of food.
+
+01:00:25.940 --> 01:00:29.370
+Maybe that's a place to
+go and move the colony.
+
+01:00:29.370 --> 01:00:32.360
+So we know already, the bee will
+go out and find its food there,
+
+01:00:32.360 --> 01:00:33.240
+its food source.
+
+01:00:33.240 --> 01:00:34.450
+It will come back in.
+
+01:00:34.450 --> 01:00:37.200
+And here's the colony
+cut in cross-section.
+
+01:00:37.200 --> 01:00:40.250
+And what you wind up having
+is this ring of bees.
+
+01:00:40.250 --> 01:00:41.380
+Here is the entry.
+
+01:00:41.380 --> 01:00:43.509
+And you have the
+bee dancing going on
+
+01:00:43.509 --> 01:00:45.800
+that we've heard about in
+the middle of the dance floor
+
+01:00:45.800 --> 01:00:46.320
+there.
+
+01:00:46.320 --> 01:00:49.830
+And we've already heard it's
+this pattern of this figure
+
+01:00:49.830 --> 01:00:51.440
+eight while shaking
+the rear end.
+
+01:00:51.440 --> 01:00:53.365
+And we know what
+the information is,
+
+01:00:53.365 --> 01:00:59.300
+which is the angle tells the
+direction to go out there.
+
+01:00:59.300 --> 01:01:01.960
+And the extent to
+which it's wiggling
+
+01:01:01.960 --> 01:01:05.270
+its rear end is how long
+you're supposed to fly for.
+
+01:01:05.270 --> 01:01:09.230
+But the final variable is,
+the better the resource,
+
+01:01:09.230 --> 01:01:13.250
+the longer you do the dance.
+
+01:01:13.250 --> 01:01:15.820
+So you've got bees coming in
+from all over the place that
+
+01:01:15.820 --> 01:01:17.320
+have found good
+resources, that have
+
+01:01:17.320 --> 01:01:19.090
+found so-so ones, all of that.
+
+01:01:19.090 --> 01:01:21.820
+And so there's bees doing
+all this dancing stuff here
+
+01:01:21.820 --> 01:01:23.590
+of different durations.
+
+01:01:23.590 --> 01:01:26.920
+And the ones who have
+found the good solution
+
+01:01:26.920 --> 01:01:30.890
+to where do we want to
+live are dancing longer.
+
+01:01:30.890 --> 01:01:33.450
+The ones who have found
+the most efficient path
+
+01:01:33.450 --> 01:01:36.540
+are leaving a message longer.
+
+01:01:36.540 --> 01:01:39.080
+So now you bring in
+your second generation.
+
+01:01:39.080 --> 01:01:41.780
+And the rule is
+among bees, if they
+
+01:01:41.780 --> 01:01:45.160
+happen to bump into a bee
+that is doing a dance,
+
+01:01:45.160 --> 01:01:47.890
+the bee responds and goes
+where it tells you to go.
+
+01:01:47.890 --> 01:01:51.420
+So a bee may randomly sort of
+bump into one of these guys
+
+01:01:51.420 --> 01:01:52.540
+and then off it goes.
+
+01:01:52.540 --> 01:01:54.790
+Actually, I'm sure it's
+more complicated than this,
+
+01:01:54.790 --> 01:01:56.860
+but it's along the
+lines of there's now
+
+01:01:56.860 --> 01:01:59.010
+random interactions.
+
+01:01:59.010 --> 01:02:04.300
+If one of the peripheral
+bees encounters, bumps into,
+
+01:02:04.300 --> 01:02:06.370
+one of these bees
+that has information,
+
+01:02:06.370 --> 01:02:09.570
+it joins in in that bee's group.
+
+01:02:09.570 --> 01:02:12.220
+And it then goes and
+finds the food resource
+
+01:02:12.220 --> 01:02:14.210
+and comes back with
+the information.
+
+01:02:14.210 --> 01:02:19.560
+So thus, by definition, if you
+have found a great food source,
+
+01:02:19.560 --> 01:02:21.940
+you're going to
+be dancing longer,
+
+01:02:21.940 --> 01:02:25.280
+which increases the odds of
+other bees randomly bumping
+
+01:02:25.280 --> 01:02:29.090
+into you, which causes them to
+go and find the same great food
+
+01:02:29.090 --> 01:02:31.780
+source and come back
+and dance longer.
+
+01:02:31.780 --> 01:02:34.220
+And the ones with lousy ones
+are coming in and dancing
+
+01:02:34.220 --> 01:02:36.510
+very briefly, and thus
+there is hardly any odds
+
+01:02:36.510 --> 01:02:37.980
+of somebody bumping into them.
+
+01:02:37.980 --> 01:02:41.090
+And what you begin to
+do is, you suddenly
+
+01:02:41.090 --> 01:02:43.540
+optimize where the
+hive is supposed to go.
+
+01:02:43.540 --> 01:02:45.660
+Again, it's not
+wisdom of the crowd.
+
+01:02:45.660 --> 01:02:50.340
+It is an emergent feature of
+one generation with information
+
+01:02:50.340 --> 01:02:53.530
+based on some very simple
+rules, and one information
+
+01:02:53.530 --> 01:02:55.880
+that generates
+some random element
+
+01:02:55.880 --> 01:03:00.020
+and out comes an ideal solution.
+
+01:03:00.020 --> 01:03:01.900
+More versions of this.
+
+01:03:01.900 --> 01:03:05.410
+Another domain where some
+very simple rules out of it
+
+01:03:05.410 --> 01:03:08.400
+emerges something very
+complex and adaptive.
+
+01:03:08.400 --> 01:03:11.160
+OK, so the themes here
+are two generations,
+
+01:03:11.160 --> 01:03:13.781
+the more adaptive the
+signal, the stronger it is
+
+01:03:13.781 --> 01:03:14.780
+and the longer it lasts.
+
+01:03:14.780 --> 01:03:16.700
+And then the
+randomization element.
+
+01:03:16.700 --> 01:03:19.780
+Another theme that comes through
+in a lot of emergence, which
+
+01:03:19.780 --> 01:03:23.730
+is to have your elements
+in there, your ants,
+
+01:03:23.730 --> 01:03:25.610
+your bees, your
+traveling salesmen,
+
+01:03:25.610 --> 01:03:27.290
+whatever the constituents are.
+
+01:03:27.290 --> 01:03:30.470
+And now what the rules
+are are simple rules
+
+01:03:30.470 --> 01:03:33.650
+of attraction and repulsion.
+
+01:03:33.650 --> 01:03:36.120
+Which is to say,
+some of the elements
+
+01:03:36.120 --> 01:03:39.020
+are attracted to each other,
+and some of the elements
+
+01:03:39.020 --> 01:03:40.920
+are repulsed by each other.
+
+01:03:40.920 --> 01:03:43.460
+Some are pulled together,
+some are pushed apart
+
+01:03:43.460 --> 01:03:46.520
+like, for example, magnets.
+
+01:03:46.520 --> 01:03:49.080
+Magnets are polarized
+in the sense
+
+01:03:49.080 --> 01:03:51.840
+that magnets only have
+two ways of interacting
+
+01:03:51.840 --> 01:03:54.940
+with each other, simple
+nearest neighbor rules.
+
+01:03:54.940 --> 01:03:57.050
+They're either
+attracting or repelling,
+
+01:03:57.050 --> 01:03:59.480
+depending on the orientation.
+
+01:03:59.480 --> 01:04:01.130
+So here's what you do now.
+
+01:04:01.130 --> 01:04:03.910
+You take a system and
+something very simple.
+
+01:04:03.910 --> 01:04:08.470
+You've got some simulated
+SimCity sort of thing
+
+01:04:08.470 --> 01:04:12.240
+where you're letting the
+system run to design a city.
+
+01:04:12.240 --> 01:04:15.130
+You want to do your urban
+planning in your city
+
+01:04:15.130 --> 01:04:16.800
+that you're going
+to construct there.
+
+01:04:16.800 --> 01:04:19.080
+And what you do is,
+you can sit there
+
+01:04:19.080 --> 01:04:24.980
+and you can study millions of
+laws about zoning and economics
+
+01:04:24.980 --> 01:04:27.870
+and all of that to decide
+something very simple.
+
+01:04:27.870 --> 01:04:30.800
+Where are you going to put
+the commercial districts?
+
+01:04:30.800 --> 01:04:34.060
+And where are the residential
+districts going to be?
+
+01:04:34.060 --> 01:04:37.920
+Or you can have just a small
+number of simple rules.
+
+01:04:37.920 --> 01:04:41.230
+Which is, for example,
+if a market appears
+
+01:04:41.230 --> 01:04:46.200
+in some place, what it
+attracts is a Starbucks.
+
+01:04:46.200 --> 01:04:50.380
+And what it also attracts
+is a clothing store
+
+01:04:50.380 --> 01:04:51.520
+or some such thing.
+
+01:04:51.520 --> 01:04:52.890
+So a bunch of rules.
+
+01:04:52.890 --> 01:04:54.500
+But then you have
+repulsion rules,
+
+01:04:54.500 --> 01:04:56.770
+which is, if you
+have a Starbucks,
+
+01:04:56.770 --> 01:04:59.180
+it will repulse any
+other Starbucks.
+
+01:04:59.180 --> 01:05:02.030
+So the nearest other Starbucks
+can be this far away.
+
+01:05:02.030 --> 01:05:03.970
+If you have a
+competitor's market,
+
+01:05:03.970 --> 01:05:05.980
+it can't get any
+closer than this.
+
+01:05:05.980 --> 01:05:08.980
+That sort of thing, these simple
+attraction/repulsion rules.
+
+01:05:08.980 --> 01:05:10.750
+And what you wind
+up getting when
+
+01:05:10.750 --> 01:05:19.050
+you run these simulations are
+commercial districts in a city
+
+01:05:19.050 --> 01:05:24.000
+where you get clusters of
+commercial sort of places that
+
+01:05:24.000 --> 01:05:26.290
+are balanced by
+attraction and repulsion
+
+01:05:26.290 --> 01:05:29.310
+where you have thoroughfares
+connecting them.
+
+01:05:29.310 --> 01:05:33.320
+And the more elements there
+are in the two neighborhood
+
+01:05:33.320 --> 01:05:36.920
+commercial centers, the bigger
+the connection is going to be,
+
+01:05:36.920 --> 01:05:40.820
+the bigger the street is, the
+more lanes, the more powerful
+
+01:05:40.820 --> 01:05:42.470
+the signal coming through there.
+
+01:05:42.470 --> 01:05:43.640
+And you throw it in.
+
+01:05:43.640 --> 01:05:46.350
+And out pops an
+urban plan that looks
+
+01:05:46.350 --> 01:05:48.750
+exactly like the sort
+of ones that the best
+
+01:05:48.750 --> 01:05:50.510
+urban planners come up with.
+
+01:05:50.510 --> 01:05:53.800
+And all you need to do instead
+is run these simulations
+
+01:05:53.800 --> 01:05:57.490
+with some very simple
+attraction and repulsion rules.
+
+01:05:57.490 --> 01:06:00.100
+So you do that, and it winds
+up producing stuff that looks
+
+01:06:00.100 --> 01:06:01.520
+like cities.
+
+01:06:01.520 --> 01:06:04.360
+You do that with a
+bunch of neurons.
+
+01:06:04.360 --> 01:06:07.100
+You take a Petri dish, and
+you throw in a whole bunch
+
+01:06:07.100 --> 01:06:08.480
+of individual neurons.
+
+01:06:08.480 --> 01:06:10.890
+And they have very simple rules.
+
+01:06:10.890 --> 01:06:15.060
+They secrete factors which
+attract some types of neurons.
+
+01:06:15.060 --> 01:06:19.040
+And they secrete factors which
+repel other types of neurons.
+
+01:06:19.040 --> 01:06:22.230
+And all of them are having
+some very simple rules.
+
+01:06:22.230 --> 01:06:25.080
+When I encounter this,
+I grow projections
+
+01:06:25.080 --> 01:06:26.860
+towards where it's coming from.
+
+01:06:26.860 --> 01:06:29.450
+If I encounter that,
+I grow projections
+
+01:06:29.450 --> 01:06:30.640
+in the opposite direction.
+
+01:06:30.640 --> 01:06:32.950
+Simple attraction and repulsion.
+
+01:06:32.950 --> 01:06:35.280
+And what you do
+is, at this point,
+
+01:06:35.280 --> 01:06:38.200
+you throw in a whole bunch
+of neurons, each one where
+
+01:06:38.200 --> 01:06:39.630
+you throw into a Petri dish.
+
+01:06:39.630 --> 01:06:42.530
+And at the beginning they're
+all scattered evenly all
+
+01:06:42.530 --> 01:06:43.340
+over the place.
+
+01:06:43.340 --> 01:06:46.060
+And you come back, and you
+come back two days later,
+
+01:06:46.060 --> 01:06:49.220
+and it looks just like this.
+
+01:06:49.220 --> 01:06:52.580
+You have clusters of
+neurons sending projections,
+
+01:06:52.580 --> 01:06:55.380
+and you have all these empty
+residential areas in between.
+
+01:06:55.380 --> 01:06:58.620
+And if you just mark this
+in a schematic way, looking
+
+01:06:58.620 --> 01:07:00.850
+from above you're not
+going to be able to tell,
+
+01:07:00.850 --> 01:07:03.330
+is this the commercial
+districts in a big city?
+
+01:07:03.330 --> 01:07:05.990
+Or are these neurons
+growing in a dish?
+
+01:07:05.990 --> 01:07:10.210
+And you get areas of nuclei
+of cell bodies and areas
+
+01:07:10.210 --> 01:07:14.220
+of projections, and it winds
+up looking exactly like that.
+
+01:07:14.220 --> 01:07:18.950
+And amazingly, there was a paper
+in Science earlier this year.
+
+01:07:18.950 --> 01:07:21.170
+And it was looking at
+one of these versions,
+
+01:07:21.170 --> 01:07:23.550
+again, in this case
+attraction and repulsion
+
+01:07:23.550 --> 01:07:26.410
+rules with ants' colonies
+setting up foraging paths.
+
+01:07:26.410 --> 01:07:29.330
+And they explicitly
+compared one colony
+
+01:07:29.330 --> 01:07:32.340
+to the efficiency of the
+distribution of the train
+
+01:07:32.340 --> 01:07:35.040
+stations in the
+Tokyo subway system.
+
+01:07:35.040 --> 01:07:38.190
+And what they showed was
+very similar solutions,
+
+01:07:38.190 --> 01:07:40.920
+but the ants had gotten
+a more optimal one.
+
+01:07:40.920 --> 01:07:44.810
+And the subway system had
+people sitting there salaried
+
+01:07:44.810 --> 01:07:46.750
+to figure out the
+best way to do it.
+
+01:07:46.750 --> 01:07:49.355
+All the ants had were
+very simple rules
+
+01:07:49.355 --> 01:07:52.710
+of, if it's someone from the
+other colony I stay this way,
+
+01:07:52.710 --> 01:07:54.880
+if it's someone from
+mine, simple attraction
+
+01:07:54.880 --> 01:07:55.700
+and repulsion.
+
+01:07:55.700 --> 01:07:59.330
+And out comes something that
+looks like this as well.
+
+01:07:59.330 --> 01:08:03.390
+So here you see that happening
+with a remarkably small number
+
+01:08:03.390 --> 01:08:04.990
+of rules.
+
+01:08:04.990 --> 01:08:08.670
+Now you put it into a really
+interesting context, which
+
+01:08:08.670 --> 01:08:12.600
+is something we bumped into back
+when first introducing proteins
+
+01:08:12.600 --> 01:08:16.000
+and DNA sequence equals shape
+equals function, all of that.
+
+01:08:16.000 --> 01:08:18.086
+Molecules have charges on them.
+
+01:08:18.086 --> 01:08:20.169
+Some of them were positively
+charged, some of them
+
+01:08:20.169 --> 01:08:21.200
+were negatively.
+
+01:08:21.200 --> 01:08:22.140
+Whoa.
+
+01:08:22.140 --> 01:08:24.569
+Attraction and repulsion.
+
+01:08:24.569 --> 01:08:26.979
+Positively charged
+molecules are attracted
+
+01:08:26.979 --> 01:08:28.510
+to negatively charged ones.
+
+01:08:28.510 --> 01:08:30.250
+Same charged ones repulse.
+
+01:08:30.250 --> 01:08:34.100
+Here we have a system with very
+simple attraction and repulsion
+
+01:08:34.100 --> 01:08:35.550
+rules.
+
+01:08:35.550 --> 01:08:38.740
+And that's the logic behind,
+when one thinks about it,
+
+01:08:38.740 --> 01:08:42.069
+one of the all-time important
+experiments, something
+
+01:08:42.069 --> 01:08:45.510
+that was done in the 1950s by a
+pair of scientists, University
+
+01:08:45.510 --> 01:08:47.750
+of Chicago, Urey and Miller.
+
+01:08:47.750 --> 01:08:48.990
+Here's what they did.
+
+01:08:48.990 --> 01:08:52.750
+They took, like, big
+vats of organic soup
+
+01:08:52.750 --> 01:08:57.800
+stuff that just had all sorts
+of simple molecules in there.
+
+01:08:57.800 --> 01:09:00.939
+Little fragments of carbon,
+carbon, little fragments
+
+01:09:00.939 --> 01:09:04.370
+of-- all sorts of inorganic
+molecules in there,
+
+01:09:04.370 --> 01:09:08.550
+little ones in there, floating
+around in this organic soup.
+
+01:09:08.550 --> 01:09:12.149
+And what they did was they would
+pass electricity through it.
+
+01:09:12.149 --> 01:09:15.600
+And they did this
+vast numbers of times.
+
+01:09:15.600 --> 01:09:18.279
+And eventually
+what they saw was,
+
+01:09:18.279 --> 01:09:22.490
+they would come back and check,
+and these random distribution
+
+01:09:22.490 --> 01:09:25.420
+of these things, of
+these little fragments,
+
+01:09:25.420 --> 01:09:29.410
+had begun to form amino acids.
+
+01:09:29.410 --> 01:09:30.740
+Whoa.
+
+01:09:30.740 --> 01:09:32.149
+Metaphor.
+
+01:09:32.149 --> 01:09:36.410
+The organic soup, just the
+evenly distributed sort
+
+01:09:36.410 --> 01:09:40.370
+of world of potentially
+organic molecules
+
+01:09:40.370 --> 01:09:44.020
+in a world in which electricity
+passes through, lightning.
+
+01:09:44.020 --> 01:09:46.160
+What had these guys
+just come up with?
+
+01:09:46.160 --> 01:09:49.603
+Some in your, like,
+kitchen sink experiment
+
+01:09:49.603 --> 01:09:52.979
+of the origins of life.
+
+01:09:52.979 --> 01:09:55.560
+And what people have done
+subsequently is show,
+
+01:09:55.560 --> 01:09:57.320
+you don't need the catalyst.
+
+01:09:57.320 --> 01:09:59.640
+There's a whole
+world of researchers
+
+01:09:59.640 --> 01:10:01.040
+who study origin of life.
+
+01:10:01.040 --> 01:10:06.040
+And the basic notion is, you
+put in enough simple molecules
+
+01:10:06.040 --> 01:10:08.980
+in there that have attraction
+and repulsion rules,
+
+01:10:08.980 --> 01:10:11.870
+and you get perturbations
+and spatial distributions
+
+01:10:11.870 --> 01:10:14.300
+of certain ways,
+and they will begin
+
+01:10:14.300 --> 01:10:18.809
+to form rational
+structures after a while.
+
+01:10:18.809 --> 01:10:20.100
+Here's another version of this.
+
+01:10:20.100 --> 01:10:22.183
+And I used to do this in
+class, except I can never
+
+01:10:22.183 --> 01:10:26.030
+pull this one off, and
+it just became chaotic.
+
+01:10:26.030 --> 01:10:29.250
+Kid's toy, you've
+got these magnets.
+
+01:10:29.250 --> 01:10:32.440
+You either have-- you
+have magnets like that.
+
+01:10:32.440 --> 01:10:34.180
+And then you have
+little metal balls that
+
+01:10:34.180 --> 01:10:36.070
+can go onto the magnet here.
+
+01:10:36.070 --> 01:10:38.170
+And you've got vast
+numbers of them.
+
+01:10:38.170 --> 01:10:40.490
+And you can piece them together.
+
+01:10:40.490 --> 01:10:40.990
+Whoa.
+
+01:10:40.990 --> 01:10:43.350
+This is starting to look
+kind of familiar here.
+
+01:10:43.350 --> 01:10:46.720
+So we have these constituents
+with very simple rules, which
+
+01:10:46.720 --> 01:10:48.860
+is the magnets repel each other.
+
+01:10:48.860 --> 01:10:49.800
+They bind.
+
+01:10:49.800 --> 01:10:50.412
+These things.
+
+01:10:50.412 --> 01:10:51.620
+And here's what you would do.
+
+01:10:51.620 --> 01:10:52.760
+Here's what I would
+attempt to do.
+
+01:10:52.760 --> 01:10:54.610
+First off, I would get
+somebody to show me
+
+01:10:54.610 --> 01:10:57.600
+how to get the video thing
+on here to project it.
+
+01:10:57.600 --> 01:11:01.010
+But you would put up a whole
+bunch of these magnets in rows,
+
+01:11:01.010 --> 01:11:04.300
+not too close to each
+other, nice and symmetrical.
+
+01:11:04.300 --> 01:11:07.460
+And what you do then is you take
+a handful of the metal balls
+
+01:11:07.460 --> 01:11:09.150
+and fling them in there.
+
+01:11:09.150 --> 01:11:11.530
+And if you do that
+400 or 500 times,
+
+01:11:11.530 --> 01:11:13.620
+eventually they
+will bounce around.
+
+01:11:13.620 --> 01:11:15.960
+And amid all the
+pieces flying, you're
+
+01:11:15.960 --> 01:11:20.970
+going to get a pyramidal
+structure like this.
+
+01:11:20.970 --> 01:11:24.090
+One of those just like that,
+it's three dimensional,
+
+01:11:24.090 --> 01:11:24.920
+you know that.
+
+01:11:24.920 --> 01:11:27.880
+You are going to get one of
+those that will simply pop out
+
+01:11:27.880 --> 01:11:32.280
+of this because that's the
+nature of potato chips solving
+
+01:11:32.280 --> 01:11:34.510
+their math problem
+with double saddles.
+
+01:11:34.510 --> 01:11:37.610
+That's the nature of throwing
+a whole bunch of elements
+
+01:11:37.610 --> 01:11:40.060
+with simple attraction
+and repulsion rules.
+
+01:11:40.060 --> 01:11:43.980
+And given enough chances, throw
+in enough perturbations there,
+
+01:11:43.980 --> 01:11:47.010
+and structures will
+begin to emerge.
+
+01:11:47.010 --> 01:11:50.090
+And it's the same
+exact principle there,
+
+01:11:50.090 --> 01:11:52.560
+these same ones over and over.
+
+01:11:52.560 --> 01:11:54.530
+So we've got some very
+simple versions where
+
+01:11:54.530 --> 01:11:56.250
+you get emergent complexity.
+
+01:11:56.250 --> 01:11:59.120
+One is this version
+of a first generation
+
+01:11:59.120 --> 01:12:01.560
+has directed searches
+and the intensity
+
+01:12:01.560 --> 01:12:03.430
+of the signal that
+it leaves afterward
+
+01:12:03.430 --> 01:12:05.070
+is a function of
+how good of a search
+
+01:12:05.070 --> 01:12:06.990
+they've done, random wanderers.
+
+01:12:06.990 --> 01:12:09.650
+Then you have the
+attraction/repulsion world
+
+01:12:09.650 --> 01:12:11.940
+of putting these together,
+lots of elements.
+
+01:12:11.940 --> 01:12:14.890
+And you begin to get
+structures out of it.
+
+01:12:14.890 --> 01:12:17.180
+Next version of
+this, or next domain
+
+01:12:17.180 --> 01:12:21.130
+of where you begin to see
+the fact that these rules are
+
+01:12:21.130 --> 01:12:24.070
+underlying an awful
+lot of things.
+
+01:12:24.070 --> 01:12:27.820
+Suppose here you were
+studying earthquakes.
+
+01:12:27.820 --> 01:12:30.850
+And apparently there's just,
+like, little earthquakes going
+
+01:12:30.850 --> 01:12:34.870
+on 20 times an hour or so
+all down on the Richter
+
+01:12:34.870 --> 01:12:38.620
+scale of, you know, one
+quarter or who knows what.
+
+01:12:38.620 --> 01:12:41.720
+But you get enough of these,
+you get a huge database,
+
+01:12:41.720 --> 01:12:46.290
+and you can begin to graph
+the frequency of Richter 1.0
+
+01:12:46.290 --> 01:12:49.090
+earthquakes and how often do you
+get the Richter 2.0 and Richter
+
+01:12:49.090 --> 01:12:50.010
+3.0 and all of that.
+
+01:12:50.010 --> 01:12:52.200
+And you graph it.
+
+01:12:52.200 --> 01:12:57.500
+And it's going to look
+something like this,
+
+01:12:57.500 --> 01:13:00.520
+a distribution like
+that, which is obviously
+
+01:13:00.520 --> 01:13:03.240
+there's a huge number of
+number one categories.
+
+01:13:03.240 --> 01:13:06.660
+And it drops off until the
+extremely rare at this end.
+
+01:13:06.660 --> 01:13:09.670
+There's a distribution,
+which mathematically
+
+01:13:09.670 --> 01:13:12.150
+can be described, something
+called a power law
+
+01:13:12.150 --> 01:13:14.850
+distribution, with a
+certain angle to it.
+
+01:13:14.850 --> 01:13:18.070
+OK, so here's the
+relationship between how often
+
+01:13:18.070 --> 01:13:21.450
+do you get little teensy
+earthquakes and the big ones.
+
+01:13:21.450 --> 01:13:26.630
+Now instead, what you do
+is something much more
+
+01:13:26.630 --> 01:13:31.170
+different from that, which
+is, you look at 50,000 people,
+
+01:13:31.170 --> 01:13:32.940
+and you look at
+their phone calls
+
+01:13:32.940 --> 01:13:34.550
+over the course of the year.
+
+01:13:34.550 --> 01:13:37.390
+And you keep track
+of how far the phone
+
+01:13:37.390 --> 01:13:41.250
+call was, how distant the
+person is that they called.
+
+01:13:41.250 --> 01:13:44.490
+And now you map the distance,
+the very shortest calls,
+
+01:13:44.490 --> 01:13:46.150
+the very longest,
+and the frequency.
+
+01:13:46.150 --> 01:13:49.120
+And it's the exact same curve.
+
+01:13:49.120 --> 01:13:52.570
+It's the same power
+law distribution.
+
+01:13:52.570 --> 01:13:53.670
+Next version of it.
+
+01:13:53.670 --> 01:13:56.380
+This was a study that was
+done, which was-- I don't quite
+
+01:13:56.380 --> 01:13:57.580
+know how these guys did it.
+
+01:13:57.580 --> 01:13:59.920
+I always get lost in
+the math on these.
+
+01:13:59.920 --> 01:14:01.860
+But in this one,
+what they did was
+
+01:14:01.860 --> 01:14:04.920
+they took a whole bunch
+of marked dollar bills,
+
+01:14:04.920 --> 01:14:07.570
+and they started in the middle
+of-- I don't know where,
+
+01:14:07.570 --> 01:14:09.380
+I think it was at
+Columbia, something--
+
+01:14:09.380 --> 01:14:11.630
+and they were
+somehow able to keep
+
+01:14:11.630 --> 01:14:15.700
+track of how far the bills
+had traveled a week later.
+
+01:14:15.700 --> 01:14:18.140
+And asking, OK,
+how many bills had
+
+01:14:18.140 --> 01:14:20.120
+traveled no more than a mile?
+
+01:14:20.120 --> 01:14:21.890
+How many five miles?
+
+01:14:21.890 --> 01:14:24.330
+And it was the exact same curve.
+
+01:14:24.330 --> 01:14:27.010
+And people now have been
+showing this same power law
+
+01:14:27.010 --> 01:14:27.889
+distribution.
+
+01:14:27.889 --> 01:14:29.930
+Here are some of the things
+that have been shown.
+
+01:14:29.930 --> 01:14:32.620
+The number of
+links that websites
+
+01:14:32.620 --> 01:14:34.160
+have to other websites.
+
+01:14:34.160 --> 01:14:36.480
+The number that
+have only one link.
+
+01:14:36.480 --> 01:14:39.150
+Power law distribution.
+
+01:14:39.150 --> 01:14:40.230
+Proteins.
+
+01:14:40.230 --> 01:14:44.320
+The number of proteins showing
+certain degrees of complexity
+
+01:14:44.320 --> 01:14:47.750
+and the numbers dropping
+off with the same power law.
+
+01:14:47.750 --> 01:14:51.200
+Here's one which is the
+number of emails somebody
+
+01:14:51.200 --> 01:14:52.620
+sends over the
+course of the year.
+
+01:14:52.620 --> 01:14:54.369
+This is the one that
+was done at Columbia.
+
+01:14:54.369 --> 01:14:56.520
+They got access to
+everybody's email records.
+
+01:14:56.520 --> 01:14:58.590
+I don't understand how
+they could have done this.
+
+01:14:58.590 --> 01:15:01.920
+But it was a couple of million
+over the course of the year.
+
+01:15:01.920 --> 01:15:05.680
+And what they showed was the
+frequency, how many people
+
+01:15:05.680 --> 01:15:08.690
+were making this small of
+a number of emails over--
+
+01:15:08.690 --> 01:15:10.890
+and the same power law.
+
+01:15:10.890 --> 01:15:13.520
+Then there's this
+totally crazy one,
+
+01:15:13.520 --> 01:15:17.600
+which is, OK, do you guys know
+the Kevin Bacon, six degrees
+
+01:15:17.600 --> 01:15:20.000
+of separation thing there?
+
+01:15:20.000 --> 01:15:20.540
+OK.
+
+01:15:20.540 --> 01:15:22.920
+Someone went and did
+a study about this
+
+01:15:22.920 --> 01:15:25.340
+that they got, like,
+every actor that they
+
+01:15:25.340 --> 01:15:28.930
+could find who was in a
+film in the last two years.
+
+01:15:28.930 --> 01:15:31.480
+And they got all of
+their filmographies.
+
+01:15:31.480 --> 01:15:34.930
+And they generated their Kevin
+Bacon degrees of freedom,
+
+01:15:34.930 --> 01:15:37.854
+degrees of--
+
+01:15:37.854 --> 01:15:38.830
+Separation.
+
+01:15:38.830 --> 01:15:39.540
+Sing it out.
+
+01:15:39.540 --> 01:15:40.120
+OK.
+
+01:15:40.120 --> 01:15:42.860
+And they figured it out, the
+number for each individual.
+
+01:15:42.860 --> 01:15:44.470
+And then they graphed it.
+
+01:15:44.470 --> 01:15:47.770
+How many people were six
+degrees of separation away,
+
+01:15:47.770 --> 01:15:49.570
+how many were five, so on.
+
+01:15:49.570 --> 01:15:51.360
+And it's the same pattern.
+
+01:15:51.360 --> 01:15:55.150
+And this one keeps popping
+up, this power law business.
+
+01:15:55.150 --> 01:15:58.960
+And what you see intrinsic
+in that is, it's a fractal.
+
+01:15:58.960 --> 01:16:00.740
+Because some of the
+time you're talking
+
+01:16:00.740 --> 01:16:03.441
+about what's happening with
+the tectonic plates on Earth,
+
+01:16:03.441 --> 01:16:05.690
+and some of the time you're
+talking about phone calls,
+
+01:16:05.690 --> 01:16:07.981
+and some of the time you're
+talking about how molecules
+
+01:16:07.981 --> 01:16:09.420
+interact with each other.
+
+01:16:09.420 --> 01:16:11.680
+There's something
+emergent that goes
+
+01:16:11.680 --> 01:16:14.870
+on there, which is
+an outcome of some
+
+01:16:14.870 --> 01:16:18.200
+of these simple
+attraction/repulsion rules,
+
+01:16:18.200 --> 01:16:21.380
+an outcome of simple
+pioneer generation
+
+01:16:21.380 --> 01:16:23.030
+and then random movement ones.
+
+01:16:23.030 --> 01:16:26.386
+And out come
+structures like these.
+
+01:16:26.386 --> 01:16:30.230
+This winds up being applicable
+in a very interesting domain
+
+01:16:30.230 --> 01:16:33.010
+biologically.
+
+01:16:33.010 --> 01:16:36.280
+OK, so now we go back to the
+traveling salesman problem.
+
+01:16:36.280 --> 01:16:39.240
+And we're having now a
+cellular version of it
+
+01:16:39.240 --> 01:16:40.710
+in terms of networks.
+
+01:16:40.710 --> 01:16:44.960
+You've got a whole
+bunch of nodes here.
+
+01:16:44.960 --> 01:16:48.230
+And the choice that
+each node has to make,
+
+01:16:48.230 --> 01:16:50.970
+in effect, is how
+many connections it
+
+01:16:50.970 --> 01:16:54.640
+will make in the network
+to other nodes and how far
+
+01:16:54.640 --> 01:16:56.760
+should those connections be.
+
+01:16:56.760 --> 01:16:59.230
+Should it only connect
+with ones way out there?
+
+01:16:59.230 --> 01:17:00.520
+What does it want to do?
+
+01:17:00.520 --> 01:17:01.490
+That's nonsense.
+
+01:17:01.490 --> 01:17:04.610
+In terms of optimizing
+a system, what
+
+01:17:04.610 --> 01:17:08.170
+do you want your distribution
+of connections of nodes
+
+01:17:08.170 --> 01:17:09.220
+in a network to be?
+
+01:17:09.220 --> 01:17:10.940
+What is it you want to optimize?
+
+01:17:10.940 --> 01:17:12.690
+You want to get
+a system that has
+
+01:17:12.690 --> 01:17:17.360
+very stable, solid interactions
+amongst clusters of nodes
+
+01:17:17.360 --> 01:17:19.530
+but nevertheless
+occasionally has
+
+01:17:19.530 --> 01:17:22.820
+the capacity to make
+long-distance connections
+
+01:17:22.820 --> 01:17:23.710
+there.
+
+01:17:23.710 --> 01:17:26.910
+And what you wind up
+seeing is, if you generate
+
+01:17:26.910 --> 01:17:31.570
+a power law distribution
+in terms of, OK, all
+
+01:17:31.570 --> 01:17:34.446
+of my projections are going
+to be within this distance
+
+01:17:34.446 --> 01:17:37.980
+and within this same
+power law distribution
+
+01:17:37.980 --> 01:17:41.600
+so that the vast majority
+of the nodes in the network
+
+01:17:41.600 --> 01:17:43.590
+are having very
+local connections.
+
+01:17:43.590 --> 01:17:47.630
+But still there is a possibility
+now and then of very long ones.
+
+01:17:47.630 --> 01:17:51.350
+You get a system that is
+the most optimal for solving
+
+01:17:51.350 --> 01:17:55.640
+problems most cheaply, cheaply,
+and whatever the term is there.
+
+01:17:55.640 --> 01:17:58.510
+And this solves it for you.
+
+01:17:58.510 --> 01:18:00.810
+And then you look at
+brain development.
+
+01:18:00.810 --> 01:18:03.990
+So you've got neurons
+forming in the cortex,
+
+01:18:03.990 --> 01:18:07.570
+in the fetal cortex,
+and you've got neurons.
+
+01:18:07.570 --> 01:18:08.980
+You've got all these nodes.
+
+01:18:08.980 --> 01:18:12.610
+And they have to figure out
+how to wire up with each other
+
+01:18:12.610 --> 01:18:15.570
+and how to wire up in a
+way that is most efficient.
+
+01:18:15.570 --> 01:18:17.660
+What's most efficient
+in order to be
+
+01:18:17.660 --> 01:18:21.630
+able to do the sorts of things
+the cortex specializes in?
+
+01:18:21.630 --> 01:18:25.770
+And you now begin to look at
+the distribution of projections.
+
+01:18:25.770 --> 01:18:28.940
+And it's a power
+law relationship.
+
+01:18:28.940 --> 01:18:32.000
+Most neurons in the
+cortex are having
+
+01:18:32.000 --> 01:18:35.380
+the vast majority of their
+projections very local.
+
+01:18:35.380 --> 01:18:37.260
+But then you have
+ones now and then
+
+01:18:37.260 --> 01:18:39.360
+that have moderate ones,
+even rarer ones, that
+
+01:18:39.360 --> 01:18:41.150
+have extremely long ones.
+
+01:18:41.150 --> 01:18:45.220
+And you look, and this is
+how the cortex is wired up.
+
+01:18:45.220 --> 01:18:47.810
+It follows a power
+law distribution.
+
+01:18:47.810 --> 01:18:49.350
+And what this
+allows you to do is
+
+01:18:49.350 --> 01:18:53.140
+have clusters of stable,
+functional interactions.
+
+01:18:53.140 --> 01:18:56.370
+But every now and then, you
+can talk to somebody way
+
+01:18:56.370 --> 01:19:00.120
+over at the other end of the
+cortex to see what's happening.
+
+01:19:00.120 --> 01:19:01.460
+Interesting finding.
+
+01:19:01.460 --> 01:19:02.620
+Autism.
+
+01:19:02.620 --> 01:19:05.610
+Autism, people have been looking
+for what's up biologically.
+
+01:19:05.610 --> 01:19:06.990
+And the initial
+assumptions would
+
+01:19:06.990 --> 01:19:08.406
+be, there's not
+going to be enough
+
+01:19:08.406 --> 01:19:10.070
+neurons in some
+part of the brain
+
+01:19:10.070 --> 01:19:11.520
+or maybe too many in another.
+
+01:19:11.520 --> 01:19:13.290
+What appears to
+be the case so far
+
+01:19:13.290 --> 01:19:15.560
+is there's relatively
+normal number
+
+01:19:15.560 --> 01:19:17.530
+of neurons in the cortex.
+
+01:19:17.530 --> 01:19:21.210
+But then some people started
+studying the projection
+
+01:19:21.210 --> 01:19:25.200
+profiles of neurons in
+the cortex of individuals
+
+01:19:25.200 --> 01:19:26.630
+with autism post-mortem.
+
+01:19:26.630 --> 01:19:27.890
+Very rare to get these.
+
+01:19:27.890 --> 01:19:30.295
+And you see a power
+law distribution.
+
+01:19:30.295 --> 01:19:33.040
+But it's a different one.
+
+01:19:33.040 --> 01:19:35.100
+It's a steeper one.
+
+01:19:35.100 --> 01:19:36.480
+What does that mean?
+
+01:19:36.480 --> 01:19:39.030
+In the cortex of
+autistic individuals,
+
+01:19:39.030 --> 01:19:42.800
+way more of the connections
+are little local ones.
+
+01:19:42.800 --> 01:19:45.640
+There's far fewer of
+the long-distance ones.
+
+01:19:45.640 --> 01:19:47.150
+There are way more local ones.
+
+01:19:47.150 --> 01:19:48.770
+What does that produce?
+
+01:19:48.770 --> 01:19:52.260
+Little pockets, little
+modules of function
+
+01:19:52.260 --> 01:19:55.250
+that are isolated
+from other ones.
+
+01:19:55.250 --> 01:19:58.880
+And that in some ways is
+what's going on functionally
+
+01:19:58.880 --> 01:20:00.080
+in someone with autism.
+
+01:20:00.080 --> 01:20:02.820
+There is a lack of
+integration of a whole bunch
+
+01:20:02.820 --> 01:20:04.650
+of these different
+functions there.
+
+01:20:04.650 --> 01:20:08.880
+And that's what happens when you
+have maybe a mutation or maybe
+
+01:20:08.880 --> 01:20:11.660
+some epigenetic something
+or other prenatally that
+
+01:20:11.660 --> 01:20:15.610
+changes the shape of the
+power law distribution.
+
+01:20:15.610 --> 01:20:16.700
+Interesting.
+
+01:20:16.700 --> 01:20:19.980
+There's a gender difference
+in the power law distribution
+
+01:20:19.980 --> 01:20:22.140
+of wiring in the cortex.
+
+01:20:22.140 --> 01:20:24.540
+Which is, in the
+typical female brain,
+
+01:20:24.540 --> 01:20:26.940
+if this is the power
+law distribution.
+
+01:20:26.940 --> 01:20:31.260
+And in the male brain
+it's a little steeper.
+
+01:20:31.260 --> 01:20:34.770
+Male brains are more
+modular in their wiring.
+
+01:20:34.770 --> 01:20:37.480
+What's the biggest
+part of the brain?
+
+01:20:37.480 --> 01:20:39.243
+OK, we're running
+out of space here.
+
+01:20:44.990 --> 01:20:45.600
+There it is.
+
+01:20:45.600 --> 01:20:47.390
+There's the brain
+in cross-section.
+
+01:20:47.390 --> 01:20:50.260
+And you've got cortex
+here and cortex there.
+
+01:20:50.260 --> 01:20:52.670
+And famously, here's
+all the cell bodies.
+
+01:20:52.670 --> 01:20:55.840
+And when projections are
+going from one hemisphere
+
+01:20:55.840 --> 01:21:00.690
+to the other, it goes across
+this huge bundle of axons
+
+01:21:00.690 --> 01:21:03.180
+called the corpus callosum.
+
+01:21:03.180 --> 01:21:07.370
+The corpus callosum is
+thicker in women than in men,
+
+01:21:07.370 --> 01:21:08.200
+on the average.
+
+01:21:08.200 --> 01:21:11.310
+It is thicker in
+females than in males
+
+01:21:11.310 --> 01:21:13.970
+because the power
+law pattern is such
+
+01:21:13.970 --> 01:21:16.840
+that there are more
+long-distance connections
+
+01:21:16.840 --> 01:21:20.664
+in female networks, and thus
+it's a thicker corpus callosum.
+
+01:21:20.664 --> 01:21:22.580
+The same thing is playing
+out with connections
+
+01:21:22.580 --> 01:21:23.705
+like this, and connections.
+
+01:21:23.705 --> 01:21:25.690
+But this is the big honker one.
+
+01:21:25.690 --> 01:21:29.450
+You get a thinner
+corpus callosum in men.
+
+01:21:29.450 --> 01:21:34.890
+You get an even thinner corpus
+callosum in people with autism.
+
+01:21:34.890 --> 01:21:38.940
+Again, that hyper male notion
+there of Baron Cohen's.
+
+01:21:38.940 --> 01:21:41.850
+What you have here is a
+perfectly normal number
+
+01:21:41.850 --> 01:21:46.000
+of neurons, probably even
+perfectly normal number
+
+01:21:46.000 --> 01:21:48.030
+of connections
+between the neurons.
+
+01:21:48.030 --> 01:21:49.790
+But they're more
+local, they're more
+
+01:21:49.790 --> 01:21:53.110
+isolated in the autistic cortex.
+
+01:21:53.110 --> 01:21:55.310
+There's less
+integration of function.
+
+01:21:55.310 --> 01:21:59.250
+It's more isolated
+islands of function there.
+
+01:21:59.250 --> 01:21:59.960
+OK.
+
+01:21:59.960 --> 01:22:02.270
+More examples of
+where you can get
+
+01:22:02.270 --> 01:22:04.120
+sort of patterns coming out.
+
+01:22:04.120 --> 01:22:09.300
+Another version of it, which
+is bottom-up quality control.
+
+01:22:09.300 --> 01:22:12.950
+You start a website, you
+are selling some product,
+
+01:22:12.950 --> 01:22:14.930
+you are selling
+books or whatever,
+
+01:22:14.930 --> 01:22:17.730
+and you're asking people
+to rate the books.
+
+01:22:17.730 --> 01:22:21.240
+And you have a board of experts
+that read all your books,
+
+01:22:21.240 --> 01:22:24.030
+and they're editors and they're
+wise and they're learned.
+
+01:22:24.030 --> 01:22:26.820
+And they write your book
+reviews and recommend
+
+01:22:26.820 --> 01:22:28.890
+which ones should be
+bought and which ones not.
+
+01:22:28.890 --> 01:22:31.290
+And you get this very
+successful business
+
+01:22:31.290 --> 01:22:33.550
+going so that you're selling
+more and more different
+
+01:22:33.550 --> 01:22:34.350
+kinds of books.
+
+01:22:34.350 --> 01:22:36.630
+And as a result,
+you need to hire
+
+01:22:36.630 --> 01:22:38.650
+more and more of these
+experts to read the books
+
+01:22:38.650 --> 01:22:40.530
+and produce their ratings.
+
+01:22:40.530 --> 01:22:43.320
+And eventually that just
+becomes too top heavy.
+
+01:22:43.320 --> 01:22:44.490
+And what do you do?
+
+01:22:44.490 --> 01:22:46.700
+The whole world that
+we completely take for
+
+01:22:46.700 --> 01:22:51.250
+granted now, you have bottom-up,
+bottom-up evaluations.
+
+01:22:51.250 --> 01:22:53.160
+Everybody rates things.
+
+01:22:53.160 --> 01:22:57.660
+And that's the world where you
+punch in a book into Amazon
+
+01:22:57.660 --> 01:23:00.210
+or you look at something in
+Netflix and when you return it,
+
+01:23:00.210 --> 01:23:03.440
+it will give you, people
+who liked this movie tend
+
+01:23:03.440 --> 01:23:05.240
+to like these things as well.
+
+01:23:05.240 --> 01:23:07.560
+There are no critics,
+professional critics,
+
+01:23:07.560 --> 01:23:10.530
+sitting there doing
+top-down evaluations.
+
+01:23:10.530 --> 01:23:13.400
+This is another
+realm of expressing
+
+01:23:13.400 --> 01:23:15.660
+attraction and repulsion rules.
+
+01:23:15.660 --> 01:23:16.530
+I liked this.
+
+01:23:16.530 --> 01:23:17.880
+I didn't like this.
+
+01:23:17.880 --> 01:23:20.010
+And all you need to
+do, then, is throw
+
+01:23:20.010 --> 01:23:22.880
+in elements of
+randomization, and you've
+
+01:23:22.880 --> 01:23:25.650
+got bottom-up quality control.
+
+01:23:25.650 --> 01:23:28.040
+And that's a completely
+different way
+
+01:23:28.040 --> 01:23:29.010
+of doing these things.
+
+01:23:29.010 --> 01:23:33.020
+What's the greatest example
+out there of bottom-up systems
+
+01:23:33.020 --> 01:23:34.436
+with quality control?
+
+01:23:34.436 --> 01:23:36.160
+Wikipedia.
+
+01:23:36.160 --> 01:23:40.570
+Wikipedia does not have
+gray-bearded silverback elders
+
+01:23:40.570 --> 01:23:43.350
+there writing up the
+Wikipedia knowledge
+
+01:23:43.350 --> 01:23:45.580
+and sending it on
+down to everyone else.
+
+01:23:45.580 --> 01:23:48.680
+It is a bottom-up
+self-correcting system.
+
+01:23:48.680 --> 01:23:51.320
+It is very easy to make
+fun of some of the stuff
+
+01:23:51.320 --> 01:23:53.780
+that winds up in
+Wikipedia, which is, like,
+
+01:23:53.780 --> 01:23:55.460
+wildly, insanely wrong.
+
+01:23:55.460 --> 01:23:59.390
+But when you get into areas
+that are fairly hard nosed.
+
+01:23:59.390 --> 01:24:01.950
+Very interesting study
+about five years ago
+
+01:24:01.950 --> 01:24:05.260
+that Nature commissioned, which
+was getting a bunch of experts
+
+01:24:05.260 --> 01:24:09.340
+to look at Wikipedia and to look
+at the Encyclopedia Britannica
+
+01:24:09.340 --> 01:24:12.550
+and look at the
+hard-nosed facts in there
+
+01:24:12.550 --> 01:24:15.160
+about the physical
+sciences, the life sciences.
+
+01:24:15.160 --> 01:24:17.570
+And what you got
+was, Wikipedia was
+
+01:24:17.570 --> 01:24:21.120
+in hailing distance of the
+Encyclopedia Britannica's
+
+01:24:21.120 --> 01:24:22.730
+level of accuracy.
+
+01:24:22.730 --> 01:24:24.680
+And that was five years ago.
+
+01:24:24.680 --> 01:24:28.200
+And it has five years of
+self-organized correction
+
+01:24:28.200 --> 01:24:29.230
+since then.
+
+01:24:29.230 --> 01:24:30.560
+This is amazing.
+
+01:24:30.560 --> 01:24:33.790
+The Encyclopedia Britannica
+is like written-- there's,
+
+01:24:33.790 --> 01:24:38.730
+like, 30, like, elderly, stuffed
+British scholars that they,
+
+01:24:38.730 --> 01:24:41.240
+like, have locked
+in a room for years
+
+01:24:41.240 --> 01:24:42.980
+who produced the encyclopedia.
+
+01:24:42.980 --> 01:24:46.050
+And these are the law
+givers and the knowledge--
+
+01:24:46.050 --> 01:24:48.120
+And you just let a
+whole bunch of people
+
+01:24:48.120 --> 01:24:50.340
+loose with somewhat
+differing opinions
+
+01:24:50.340 --> 01:24:55.360
+about whether Madonna
+was born in 1994 or 1987
+
+01:24:55.360 --> 01:24:56.110
+or whatever it is.
+
+01:24:56.110 --> 01:24:58.110
+And you throw them
+all together and you
+
+01:24:58.110 --> 01:24:59.730
+do wisdom of the crowd stuff.
+
+01:24:59.730 --> 01:25:04.320
+And out comes a self-correcting,
+accurate, adaptive system
+
+01:25:04.320 --> 01:25:09.860
+with no blueprint, just with
+some very simple local rules.
+
+01:25:09.860 --> 01:25:14.470
+Very simple ones, which is
+looking for similar patterns
+
+01:25:14.470 --> 01:25:16.520
+shared between
+different individuals,
+
+01:25:16.520 --> 01:25:17.480
+and self-correcting.
+
+01:25:17.480 --> 01:25:19.680
+Where you get even
+more efficient versions
+
+01:25:19.680 --> 01:25:21.950
+of that is with a
+lot of websites,
+
+01:25:21.950 --> 01:25:25.810
+where not only does everybody
+get to put in their opinion,
+
+01:25:25.810 --> 01:25:28.300
+but people whose
+opinions are better
+
+01:25:28.300 --> 01:25:32.590
+rated have more of a voice
+in evaluating somebody else.
+
+01:25:32.590 --> 01:25:34.790
+You're putting in
+weighted wisdom
+
+01:25:34.790 --> 01:25:36.800
+of the crowd-type
+functions in there,
+
+01:25:36.800 --> 01:25:40.100
+and out comes
+incredible accuracy.
+
+01:25:40.100 --> 01:25:40.950
+These are great.
+
+01:25:40.950 --> 01:25:44.000
+There is one drawback with
+those systems, though, which
+
+01:25:44.000 --> 01:25:46.145
+is, with ones like
+Netflix, where it tells you
+
+01:25:46.145 --> 01:25:48.770
+you're going to like this if you
+like this, that sort of thing.
+
+01:25:48.770 --> 01:25:51.910
+It's a system that is very
+biased towards conformity.
+
+01:25:51.910 --> 01:25:56.060
+It's not good at spotting
+outliers and sort of taste
+
+01:25:56.060 --> 01:25:56.700
+and such.
+
+01:25:56.700 --> 01:25:59.460
+What you really want to
+do in those systems is,
+
+01:25:59.460 --> 01:26:03.200
+here are the movies-- of the
+movies that are out right now,
+
+01:26:03.200 --> 01:26:06.200
+here are the ones that have
+10% of the people think
+
+01:26:06.200 --> 01:26:08.080
+it's the greatest
+movie they've ever seen
+
+01:26:08.080 --> 01:26:10.430
+and 10% think it's
+the worst movie.
+
+01:26:10.430 --> 01:26:12.540
+That's an interesting
+movie to see.
+
+01:26:12.540 --> 01:26:14.630
+That's when you want
+to be able to get
+
+01:26:14.630 --> 01:26:18.830
+a way of bottom-up information
+about the extremes.
+
+01:26:18.830 --> 01:26:20.930
+Movies that generate
+controversy.
+
+01:26:20.930 --> 01:26:23.170
+Everybody's going to
+love whatever it is,
+
+01:26:23.170 --> 01:26:24.800
+and that doesn't
+take a whole lot.
+
+01:26:24.800 --> 01:26:27.480
+This is a way to break the
+potential for conformity
+
+01:26:27.480 --> 01:26:29.090
+in these bottom-up systems.
+
+01:26:29.090 --> 01:26:33.100
+Nonetheless, overall it
+winds up solving a problem
+
+01:26:33.100 --> 01:26:37.130
+without professional
+critics, without a blueprint,
+
+01:26:37.130 --> 01:26:40.130
+without top-down control.
+
+01:26:40.130 --> 01:26:42.330
+So how do you wire
+some of these up?
+
+01:26:42.330 --> 01:26:44.390
+Back to the cortex.
+
+01:26:44.390 --> 01:26:47.055
+And the adult cortex has
+these power law distributions,
+
+01:26:47.055 --> 01:26:49.500
+and they're great
+because they optimize.
+
+01:26:49.500 --> 01:26:51.850
+They've got lots of stable,
+local communication,
+
+01:26:51.850 --> 01:26:53.620
+but there's still
+the ability to do
+
+01:26:53.620 --> 01:26:55.940
+creative long-distance
+connections.
+
+01:26:55.940 --> 01:26:58.010
+So that's great.
+
+01:26:58.010 --> 01:26:59.110
+But how do you get that?
+
+01:26:59.110 --> 01:27:01.640
+How does the nervous
+system wire up this way?
+
+01:27:01.640 --> 01:27:04.180
+And it does swarm intelligence.
+
+01:27:04.180 --> 01:27:09.450
+The developing cortex does a
+swarm intelligence solution.
+
+01:27:09.450 --> 01:27:13.780
+When the cortex is
+first developing,
+
+01:27:13.780 --> 01:27:18.530
+what you will have is a
+first generation, a pioneer
+
+01:27:18.530 --> 01:27:22.550
+generation, a pioneer
+generation of cells.
+
+01:27:22.550 --> 01:27:27.440
+The cortex surface, all of
+that, that there is a pioneer
+
+01:27:27.440 --> 01:27:30.380
+generation of cells
+that basically grow
+
+01:27:30.380 --> 01:27:32.920
+processes up like these.
+
+01:27:32.920 --> 01:27:36.420
+And these are called
+radial glial cells.
+
+01:27:36.420 --> 01:27:39.740
+What they are, they're the
+ants with the first generation
+
+01:27:39.740 --> 01:27:41.710
+of setting down the trail here.
+
+01:27:41.710 --> 01:27:43.850
+They're the first
+bees coming in.
+
+01:27:43.850 --> 01:27:46.160
+And what you then
+have, the neurons
+
+01:27:46.160 --> 01:27:49.190
+are the second-generation
+random wanderers.
+
+01:27:49.190 --> 01:27:50.830
+And what they do
+is they come in.
+
+01:27:50.830 --> 01:27:52.540
+And as they begin
+to develop, they
+
+01:27:52.540 --> 01:27:55.380
+have rules that, when
+they hit a radial glia,
+
+01:27:55.380 --> 01:27:57.020
+they grow up along it.
+
+01:27:57.020 --> 01:27:59.510
+They migrate along it,
+they throw up connections.
+
+01:27:59.510 --> 01:28:01.870
+And you do that with
+enough of the cortex, which
+
+01:28:01.870 --> 01:28:05.600
+is hundreds of millions of
+billions of neurons in there,
+
+01:28:05.600 --> 01:28:09.620
+and you get optimal
+power law distributions.
+
+01:28:09.620 --> 01:28:13.230
+All you need are some
+very simple local rules.
+
+01:28:13.230 --> 01:28:17.440
+And out of that emerges
+an optimally wired cortex.
+
+01:28:17.440 --> 01:28:22.190
+And it's the same simple
+emergent stuff going on.
+
+01:28:22.190 --> 01:28:23.000
+OK.
+
+01:28:23.000 --> 01:28:26.420
+So how do we begin to really
+apply this stuff to humans?
+
+01:28:26.420 --> 01:28:29.090
+Because it winds up being
+very pertinent and making
+
+01:28:29.090 --> 01:28:31.690
+sense of some of the most
+interesting complex things
+
+01:28:31.690 --> 01:28:32.820
+about us.
+
+01:28:32.820 --> 01:28:37.300
+So what's the difference between
+humans and every other species?
+
+01:28:37.300 --> 01:28:39.200
+Nothing all that exciting.
+
+01:28:39.200 --> 01:28:41.490
+From a neurobiological
+standpoint,
+
+01:28:41.490 --> 01:28:45.240
+you've got this real challenge,
+which is, you look at a neuron
+
+01:28:45.240 --> 01:28:47.480
+from a fruit fly
+under a microscope
+
+01:28:47.480 --> 01:28:49.927
+and you look at one
+from us and it's
+
+01:28:49.927 --> 01:28:51.530
+going to look kind of the same.
+
+01:28:51.530 --> 01:28:53.410
+Looking at a single
+neuron, you can't tell
+
+01:28:53.410 --> 01:28:54.990
+which species it came from.
+
+01:28:54.990 --> 01:28:58.020
+We have the same kind
+of neurotransmitters
+
+01:28:58.020 --> 01:29:00.690
+that a worm uses in
+its nervous system.
+
+01:29:00.690 --> 01:29:03.300
+We've got the same
+kind of ion channels,
+
+01:29:03.300 --> 01:29:06.540
+the same sort of excitability,
+the same action potentials.
+
+01:29:06.540 --> 01:29:08.500
+You know, minor
+details are different.
+
+01:29:08.500 --> 01:29:11.350
+We have not become
+humans by inventing
+
+01:29:11.350 --> 01:29:15.340
+new types of brain cells and new
+types of chemical messengers.
+
+01:29:15.340 --> 01:29:18.490
+We have the same basic
+off-the-rack neuron
+
+01:29:18.490 --> 01:29:20.220
+that a fly does.
+
+01:29:20.220 --> 01:29:21.150
+Oh.
+
+01:29:21.150 --> 01:29:25.200
+We have very similar
+basic building blocks.
+
+01:29:25.200 --> 01:29:26.830
+What's the
+difference, of course,
+
+01:29:26.830 --> 01:29:30.540
+is we've got 100 million
+of them for every neuron
+
+01:29:30.540 --> 01:29:32.760
+that you find in a fly brain.
+
+01:29:32.760 --> 01:29:36.430
+And out of that comes
+emergent properties.
+
+01:29:36.430 --> 01:29:37.630
+Great story.
+
+01:29:37.630 --> 01:29:39.550
+Garry KAS-pah-rof,
+kas-PAH-rof, I never
+
+01:29:39.550 --> 01:29:42.290
+remember which
+syllable to emphasize.
+
+01:29:42.290 --> 01:29:45.980
+Grandmaster Russian, chess
+grandmaster in the '90s.
+
+01:29:45.980 --> 01:29:49.120
+And apparently he's rated as one
+of the strongest of all times.
+
+01:29:49.120 --> 01:29:52.350
+And he was the
+person who wound up
+
+01:29:52.350 --> 01:29:55.360
+participating in this
+really major event, which
+
+01:29:55.360 --> 01:29:58.710
+was this tournament with
+this chess-playing computer
+
+01:29:58.710 --> 01:30:04.209
+that IBM had built called Deep
+Blue or Big Blue or Old Yeller.
+
+01:30:04.209 --> 01:30:05.000
+What was it called?
+
+01:30:05.000 --> 01:30:07.620
+Deep Blue, Deep Blue, Deep Blue.
+
+01:30:07.620 --> 01:30:09.250
+And they played
+against each other.
+
+01:30:09.250 --> 01:30:13.470
+And apparently what happened
+was, in the first game,
+
+01:30:13.470 --> 01:30:15.780
+Kasparov won perhaps.
+
+01:30:15.780 --> 01:30:19.030
+And the computer was able
+to modify its strategy
+
+01:30:19.030 --> 01:30:21.630
+and then proceeded to
+mop the floor with him.
+
+01:30:21.630 --> 01:30:25.120
+And this was a landmark
+event in computer science.
+
+01:30:25.120 --> 01:30:27.700
+This was the first
+time that a computer
+
+01:30:27.700 --> 01:30:31.090
+had beaten a chess grandmaster.
+
+01:30:31.090 --> 01:30:33.000
+Amazing event.
+
+01:30:33.000 --> 01:30:34.790
+Not surprisingly,
+afterward Kasparov
+
+01:30:34.790 --> 01:30:36.590
+is all bummed out and depressed.
+
+01:30:36.590 --> 01:30:39.220
+And his friends were trying
+to make him feel better.
+
+01:30:39.220 --> 01:30:43.210
+And they go to him and they say,
+look, all you got done in by
+
+01:30:43.210 --> 01:30:44.520
+is quantity.
+
+01:30:44.520 --> 01:30:46.370
+All you got done
+in by is the fact
+
+01:30:46.370 --> 01:30:48.530
+that that computer could
+do a whole lot more
+
+01:30:48.530 --> 01:30:52.040
+computations than you could
+in a set amount of time.
+
+01:30:52.040 --> 01:30:54.720
+I'm told, apparently
+chess grandmaster types
+
+01:30:54.720 --> 01:30:57.024
+can see five, six moves ahead.
+
+01:30:57.024 --> 01:30:59.190
+And they can intuit where
+the interesting ones were.
+
+01:30:59.190 --> 01:31:03.840
+And Deep Blue could calculate
+every single possible outcome,
+
+01:31:03.840 --> 01:31:05.747
+like, seven, eight
+moves in advance.
+
+01:31:05.747 --> 01:31:07.580
+And every time, it would
+simply pick the one
+
+01:31:07.580 --> 01:31:08.850
+that was the best outcome.
+
+01:31:08.850 --> 01:31:12.160
+It was like generating solutions
+to the traveling salesman
+
+01:31:12.160 --> 01:31:12.920
+problem.
+
+01:31:12.920 --> 01:31:16.090
+Kasparov didn't have a
+chance because the computer
+
+01:31:16.090 --> 01:31:18.850
+could simply generate
+enough solutions
+
+01:31:18.850 --> 01:31:20.400
+to pick the right one.
+
+01:31:20.400 --> 01:31:21.950
+So all of them
+are saying to him,
+
+01:31:21.950 --> 01:31:24.850
+you should not be depressed
+because all that computer had
+
+01:31:24.850 --> 01:31:27.180
+going for it was quantity.
+
+01:31:27.180 --> 01:31:29.030
+And what he said
+in response was,
+
+01:31:29.030 --> 01:31:33.520
+yeah, but with enough
+quantity you invent quality.
+
+01:31:33.520 --> 01:31:35.890
+And that's the exact
+equivalent of one ant
+
+01:31:35.890 --> 01:31:38.570
+makes no sense and 10,000 do.
+
+01:31:38.570 --> 01:31:41.180
+That's the exact equivalent,
+with enough of these elements
+
+01:31:41.180 --> 01:31:42.510
+here, you optimize.
+
+01:31:42.510 --> 01:31:44.610
+We do not have
+fancy neurons that
+
+01:31:44.610 --> 01:31:46.690
+are different than
+in any other species.
+
+01:31:46.690 --> 01:31:48.500
+We've just got more of them.
+
+01:31:48.500 --> 01:31:52.800
+And simple nearest neighbor
+rules, and you throw a million
+
+01:31:52.800 --> 01:31:54.760
+of them together and
+you get a fruit fly.
+
+01:31:54.760 --> 01:31:56.640
+And you throw 100
+billion of them together
+
+01:31:56.640 --> 01:32:00.030
+and you get poetry and you get
+symphonies and you get theology
+
+01:32:00.030 --> 01:32:01.180
+and you get all of that.
+
+01:32:01.180 --> 01:32:03.520
+And it's the same
+building blocks.
+
+01:32:03.520 --> 01:32:07.070
+With enough quantity,
+you invent quality.
+
+01:32:07.070 --> 01:32:09.310
+And this is the punch
+line that came out
+
+01:32:09.310 --> 01:32:11.710
+of really important
+work a few years ago.
+
+01:32:11.710 --> 01:32:14.830
+OK, we're now, what, 10
+years, I think, into having
+
+01:32:14.830 --> 01:32:16.620
+the human genome sequenced.
+
+01:32:16.620 --> 01:32:20.850
+And about five years ago they
+sequenced the chimp genome.
+
+01:32:20.850 --> 01:32:21.660
+Soundbite.
+
+01:32:21.660 --> 01:32:23.280
+Everybody learned
+from whenever back
+
+01:32:23.280 --> 01:32:27.340
+when is that the human and
+chimp share 98% of its DNA.
+
+01:32:27.340 --> 01:32:32.030
+So finally you had these two
+gigantic rolls of print-out.
+
+01:32:32.030 --> 01:32:33.940
+And here is the
+entire human genome
+
+01:32:33.940 --> 01:32:35.530
+and here's the entire chimp one.
+
+01:32:35.530 --> 01:32:37.430
+And somebody could
+finally sit there
+
+01:32:37.430 --> 01:32:40.520
+and compare them and compare
+them and see, indeed,
+
+01:32:40.520 --> 01:32:42.260
+is it 98% shared?
+
+01:32:42.260 --> 01:32:43.730
+And that winds up
+being the answer,
+
+01:32:43.730 --> 01:32:46.620
+even though what that number
+actually means is debatable.
+
+01:32:46.620 --> 01:32:51.250
+But that brings up the question,
+of course, what's the 2%?
+
+01:32:51.250 --> 01:32:53.900
+What's the 2% that differs?
+
+01:32:53.900 --> 01:32:57.351
+And what has come out of that
+have been some very interesting
+
+01:32:57.351 --> 01:32:57.850
+findings.
+
+01:32:57.850 --> 01:32:59.980
+Some that were
+mentioned earlier on,
+
+01:32:59.980 --> 01:33:01.890
+which is, they are
+disproportionately
+
+01:33:01.890 --> 01:33:06.610
+coding for transcription
+factors and splicing enzymes
+
+01:33:06.610 --> 01:33:10.290
+and, OK, that amplification
+of network stuff.
+
+01:33:10.290 --> 01:33:15.980
+It is preferentially coding for
+non-coding regions, differing
+
+01:33:15.980 --> 01:33:18.130
+but non-- all the
+stuff from back,
+
+01:33:18.130 --> 01:33:21.160
+that lecture for getting
+macroevolutionary changes.
+
+01:33:21.160 --> 01:33:23.520
+That's how you get a
+different species coming out.
+
+01:33:23.520 --> 01:33:25.650
+But how about other
+types of genes?
+
+01:33:25.650 --> 01:33:27.580
+What were some of
+the key differences?
+
+01:33:27.580 --> 01:33:30.090
+Here was one big difference.
+
+01:33:30.090 --> 01:33:34.230
+We have about 1,000 fewer genes
+for our olfactory receptors
+
+01:33:34.230 --> 01:33:35.730
+than chimps do.
+
+01:33:35.730 --> 01:33:37.900
+They've been inactivated in us.
+
+01:33:37.900 --> 01:33:39.820
+They're called
+pseudogenes in us.
+
+01:33:39.820 --> 01:33:41.000
+They don't express.
+
+01:33:41.000 --> 01:33:44.250
+And that's about half of
+the difference in the genome
+
+01:33:44.250 --> 01:33:45.880
+between humans and chimps.
+
+01:33:45.880 --> 01:33:47.880
+If you want to turn
+a chimp into a human,
+
+01:33:47.880 --> 01:33:51.200
+you're halfway there if you just
+give it a lousy sense of smell.
+
+01:33:51.200 --> 01:33:53.720
+That's half the
+genetic differences?
+
+01:33:53.720 --> 01:33:55.270
+What other
+differences are there?
+
+01:33:55.270 --> 01:33:58.860
+There were ones having to
+do with morphology, bone
+
+01:33:58.860 --> 01:34:01.850
+development, probably
+bipedalism versus being
+
+01:34:01.850 --> 01:34:03.160
+a partial quadruped.
+
+01:34:03.160 --> 01:34:05.840
+There are ones having to do
+with hair development, which
+
+01:34:05.840 --> 01:34:08.380
+is why chimps have all the
+hair on them and only those,
+
+01:34:08.380 --> 01:34:11.260
+like, disturbing people with
+the hair on their shoulders
+
+01:34:11.260 --> 01:34:12.370
+have that much hair.
+
+01:34:12.370 --> 01:34:15.480
+So that's-- there's differences
+in some reproductive-related
+
+01:34:15.480 --> 01:34:16.014
+genes.
+
+01:34:16.014 --> 01:34:17.930
+You don't want to mate
+with them, all of that.
+
+01:34:17.930 --> 01:34:20.520
+And then you say,
+where's the genes
+
+01:34:20.520 --> 01:34:22.040
+having to do with the brain?
+
+01:34:22.040 --> 01:34:23.780
+Are there any differences there?
+
+01:34:23.780 --> 01:34:27.090
+And there turned out
+to be very, very few.
+
+01:34:27.090 --> 01:34:31.080
+And they turned out to
+be very, very logical.
+
+01:34:31.080 --> 01:34:34.270
+The handful that differ
+seem to have something
+
+01:34:34.270 --> 01:34:38.180
+to do with cell division.
+
+01:34:38.180 --> 01:34:42.840
+Have something to do with how
+many rounds of cell division
+
+01:34:42.840 --> 01:34:44.880
+these cells go through.
+
+01:34:44.880 --> 01:34:47.570
+And what you have is,
+the human versions
+
+01:34:47.570 --> 01:34:50.160
+go through more rounds.
+
+01:34:50.160 --> 01:34:52.240
+And calculations have
+been done looking
+
+01:34:52.240 --> 01:34:54.730
+at the average number of
+neurons that each progenitor
+
+01:34:54.730 --> 01:34:57.280
+cell generates, say, during
+cortical development.
+
+01:34:57.280 --> 01:34:59.230
+And if you start with
+the number of neurons
+
+01:34:59.230 --> 01:35:01.690
+that you find in a
+rhesus monkey brain
+
+01:35:01.690 --> 01:35:05.530
+and have it do three or four
+more rounds of cell division,
+
+01:35:05.530 --> 01:35:08.910
+you get a human brain
+in terms of the numbers.
+
+01:35:08.910 --> 01:35:12.800
+Qualitatively, it's
+the exact same neurons.
+
+01:35:12.800 --> 01:35:14.480
+All that differs is quantity.
+
+01:35:14.480 --> 01:35:16.390
+And you put enough
+of these together
+
+01:35:16.390 --> 01:35:18.410
+and you go from
+tools, which are meant
+
+01:35:18.410 --> 01:35:21.950
+to get little termites
+out, into human technology,
+
+01:35:21.950 --> 01:35:25.230
+the difference between us
+and them is one of quantity.
+
+01:35:25.230 --> 01:35:28.760
+Throw enough neurons in
+there, and out begins
+
+01:35:28.760 --> 01:35:32.930
+emerging all these
+distinctive human things.
+
+01:35:32.930 --> 01:35:35.070
+So what does that do?
+
+01:35:35.070 --> 01:35:37.010
+That begins to, for
+one thing, underline
+
+01:35:37.010 --> 01:35:39.490
+what the main genetics
+are about in terms
+
+01:35:39.490 --> 01:35:41.660
+of the genetic differences
+in the brain between us
+
+01:35:41.660 --> 01:35:44.500
+and, say, chimps are
+genes that free you
+
+01:35:44.500 --> 01:35:46.440
+from genetic influences.
+
+01:35:46.440 --> 01:35:50.537
+Because those are not
+specifying what sort of cells
+
+01:35:50.537 --> 01:35:52.370
+you generate in larger
+numbers in the brain.
+
+01:35:52.370 --> 01:35:54.290
+They're not specifying
+connections.
+
+01:35:54.290 --> 01:35:56.720
+They're just specifying
+larger quantity.
+
+01:35:56.720 --> 01:36:01.130
+And all this stuff goes to work
+and out comes a human brain
+
+01:36:01.130 --> 01:36:03.280
+instead of a chimp one.
+
+01:36:03.280 --> 01:36:05.230
+OK, so what does this
+whole subject get us?
+
+01:36:05.230 --> 01:36:08.620
+The chaos stuff, the
+complexity emergent stuff.
+
+01:36:08.620 --> 01:36:11.700
+What are some of the themes that
+come through with all of it?
+
+01:36:11.700 --> 01:36:15.080
+The first one is this
+emphasis on quantity.
+
+01:36:15.080 --> 01:36:17.760
+You want to get a very,
+very fancy system.
+
+01:36:17.760 --> 01:36:21.770
+You don't necessarily have
+to invent a new type of ant
+
+01:36:21.770 --> 01:36:25.230
+or a new type of 0 or
+1 in a binary system
+
+01:36:25.230 --> 01:36:27.250
+or a new type of neuron.
+
+01:36:27.250 --> 01:36:29.150
+You could do it with quantity.
+
+01:36:29.150 --> 01:36:32.700
+You get quality, you get
+excellence, you get complexity,
+
+01:36:32.700 --> 01:36:37.190
+you get adaptive optimization
+with huge numbers of elements
+
+01:36:37.190 --> 01:36:39.290
+with the very simple rules.
+
+01:36:39.290 --> 01:36:41.160
+What's the next theme
+that comes out of it?
+
+01:36:41.160 --> 01:36:43.990
+One that is totally
+counterintuitive.
+
+01:36:43.990 --> 01:36:45.760
+Once again, like
+this whole subject
+
+01:36:45.760 --> 01:36:48.140
+that shoots reductionism
+down the drain,
+
+01:36:48.140 --> 01:36:49.830
+totally counterintuitive.
+
+01:36:49.830 --> 01:36:55.120
+The simpler the constituent
+parts, the better.
+
+01:36:55.120 --> 01:36:58.450
+Fancy, complicated ants that
+are specialized and have
+
+01:36:58.450 --> 01:37:00.040
+all sorts of different rules.
+
+01:37:00.040 --> 01:37:02.810
+They are not going to
+generate swarm intelligence
+
+01:37:02.810 --> 01:37:07.340
+as effectively as do systems
+with the simpler elements.
+
+01:37:07.340 --> 01:37:10.780
+The more simple the building
+blocks are, the better.
+
+01:37:10.780 --> 01:37:12.940
+Something else that
+is intrinsic to all
+
+01:37:12.940 --> 01:37:14.880
+of this, which runs
+counter to all sorts
+
+01:37:14.880 --> 01:37:19.310
+of rational intuitions, which
+is more random interactions
+
+01:37:19.310 --> 01:37:21.680
+make for better, more
+adaptive networks.
+
+01:37:21.680 --> 01:37:24.710
+You want lots of
+random noise thrown
+
+01:37:24.710 --> 01:37:28.660
+in there because that's how you
+stumble onto optimal solutions.
+
+01:37:28.660 --> 01:37:31.130
+Randomness is a good thing.
+
+01:37:31.130 --> 01:37:34.560
+And remember, right at the time
+that we're making new neurons
+
+01:37:34.560 --> 01:37:38.350
+in the cortex, that's when you
+induce the transposable events
+
+01:37:38.350 --> 01:37:39.370
+in the genome.
+
+01:37:39.370 --> 01:37:43.900
+That's where you juggle the
+DNA producing randomness there.
+
+01:37:43.900 --> 01:37:45.790
+Randomness is a good thing.
+
+01:37:45.790 --> 01:37:49.520
+Randomness adds to the
+excellence of networks
+
+01:37:49.520 --> 01:37:50.490
+What else?
+
+01:37:50.490 --> 01:37:52.620
+Next thing as a theme
+that comes out of it
+
+01:37:52.620 --> 01:37:57.100
+is the power of
+gradients of information.
+
+01:37:57.100 --> 01:38:00.960
+Things that guide you,
+you a cell, you an ant,
+
+01:38:00.960 --> 01:38:03.510
+you a commercial district.
+
+01:38:03.510 --> 01:38:05.890
+Things that can guide
+you towards things,
+
+01:38:05.890 --> 01:38:08.530
+things that can
+repel you, gradients
+
+01:38:08.530 --> 01:38:10.932
+of attraction and repulsion.
+
+01:38:10.932 --> 01:38:12.390
+And that's exactly
+what's going on.
+
+01:38:12.390 --> 01:38:14.750
+There is a gradient
+in magnets when
+
+01:38:14.750 --> 01:38:18.060
+they're this close and the power
+that they have is dropping off.
+
+01:38:18.060 --> 01:38:20.670
+As they move,
+gradients provide a lot
+
+01:38:20.670 --> 01:38:23.530
+of the optimization
+in these systems.
+
+01:38:23.530 --> 01:38:28.030
+Very, very important as well is
+nearest neighbor interactions.
+
+01:38:28.030 --> 01:38:30.420
+These are not just a
+handful of simple rules
+
+01:38:30.420 --> 01:38:33.250
+about how you're interacting
+with somebody in Chicago.
+
+01:38:33.250 --> 01:38:36.610
+These are all how you
+interact with another ant,
+
+01:38:36.610 --> 01:38:40.400
+another bee when you bump
+into it, a glial cell.
+
+01:38:40.400 --> 01:38:43.830
+Local interactions
+with simple rules.
+
+01:38:43.830 --> 01:38:44.820
+Something else.
+
+01:38:44.820 --> 01:38:47.030
+Another one that
+runs totally counter
+
+01:38:47.030 --> 01:38:49.930
+to intuition, which
+is generalists
+
+01:38:49.930 --> 01:38:53.740
+work better in these
+systems than specialists do.
+
+01:38:53.740 --> 01:38:56.470
+Generalists are more
+likely to come up
+
+01:38:56.470 --> 01:38:59.380
+with these adaptive outcomes.
+
+01:38:59.380 --> 01:39:02.730
+OK, so what does all of
+this mean on a larger level?
+
+01:39:02.730 --> 01:39:06.350
+And what I think is
+that this is where
+
+01:39:06.350 --> 01:39:09.460
+the complexity of human brains
+and human behaviors come from,
+
+01:39:09.460 --> 01:39:11.340
+these emergent properties.
+
+01:39:11.340 --> 01:39:14.130
+And this is now a generation
+or two into people
+
+01:39:14.130 --> 01:39:15.750
+thinking about this stuff.
+
+01:39:15.750 --> 01:39:19.040
+And it is incredibly
+hard to think about.
+
+01:39:19.040 --> 01:39:21.700
+And most of the work
+I do and my peers do
+
+01:39:21.700 --> 01:39:24.170
+is reductive stuff
+that is very limited.
+
+01:39:24.170 --> 01:39:26.770
+And like, I don't
+understand how to think
+
+01:39:26.770 --> 01:39:28.040
+about it in this other way.
+
+01:39:28.040 --> 01:39:30.020
+And the odds are,
+you guys are not
+
+01:39:30.020 --> 01:39:31.990
+going to be good
+enough at it either.
+
+01:39:31.990 --> 01:39:35.610
+You're good enough that you were
+a first generation growing up
+
+01:39:35.610 --> 01:39:37.540
+that knows, if you
+want to find out
+
+01:39:37.540 --> 01:39:39.200
+if you're going to
+like a movie or not,
+
+01:39:39.200 --> 01:39:42.330
+you don't need to have
+somebody with expertise
+
+01:39:42.330 --> 01:39:45.720
+and a label on their forehead
+and a blueprint and top down.
+
+01:39:45.720 --> 01:39:47.330
+You don't need critics anymore.
+
+01:39:47.330 --> 01:39:49.170
+You have bottom-up systems.
+
+01:39:49.170 --> 01:39:51.620
+You guys who are first
+generation growing up
+
+01:39:51.620 --> 01:39:53.520
+thinking in that way.
+
+01:39:53.520 --> 01:39:55.400
+What's a consequence of that?
+
+01:39:55.400 --> 01:39:57.660
+You are beginning to get
+better at this stuff.
+
+01:39:57.660 --> 01:40:00.872
+And my guess is, it's not
+until, like, your grandkids
+
+01:40:00.872 --> 01:40:02.580
+that you're going to
+have people thinking
+
+01:40:02.580 --> 01:40:05.340
+so much in the emergent
+systems that we're finally
+
+01:40:05.340 --> 01:40:07.910
+going to be able to figure
+out what the brain is doing.
+
+01:40:07.910 --> 01:40:10.570
+And where you see
+there is all sorts
+
+01:40:10.570 --> 01:40:12.280
+of things that can happen.
+
+01:40:12.280 --> 01:40:14.860
+If there was more
+bottom-up communication
+
+01:40:14.860 --> 01:40:16.890
+in the trenches in
+World War I, they
+
+01:40:16.890 --> 01:40:18.530
+would have stopped the war.
+
+01:40:18.530 --> 01:40:20.970
+All these emergent
+things bottom up.
+
+01:40:20.970 --> 01:40:24.480
+We've now had
+revolutions when Marcos
+
+01:40:24.480 --> 01:40:25.970
+was overthrown in
+the Philippines
+
+01:40:25.970 --> 01:40:28.310
+back when that was
+basically bloodless.
+
+01:40:28.310 --> 01:40:29.970
+When the Czech
+revolution occurred,
+
+01:40:29.970 --> 01:40:31.580
+it was called the
+Velvet Revolution
+
+01:40:31.580 --> 01:40:33.410
+because there was no violence.
+
+01:40:33.410 --> 01:40:36.220
+All they had to do was get
+enough people in the town
+
+01:40:36.220 --> 01:40:39.430
+square in the capital
+and paralyze the country,
+
+01:40:39.430 --> 01:40:40.950
+and they took it over.
+
+01:40:40.950 --> 01:40:43.730
+I will predict that
+within our lifetime
+
+01:40:43.730 --> 01:40:45.330
+there is going to
+be a revolution
+
+01:40:45.330 --> 01:40:47.800
+in some country at
+some point where nobody
+
+01:40:47.800 --> 01:40:49.540
+leaves their living rooms.
+
+01:40:49.540 --> 01:40:52.380
+All they do is do
+something online
+
+01:40:52.380 --> 01:40:54.690
+with some emergent
+bottom-up thing
+
+01:40:54.690 --> 01:40:58.610
+and they collapse the government
+and do it in and no one
+
+01:40:58.610 --> 01:41:01.270
+will have to leave their
+living room because it will be
+
+01:41:01.270 --> 01:41:03.670
+all emergent things coming up.
+
+01:41:03.670 --> 01:41:05.650
+The final couple of points here.
+
+01:41:05.650 --> 01:41:10.060
+First one is, all that chaotic,
+strange, attractor stuff, all
+
+01:41:10.060 --> 01:41:12.360
+of us spend a lot
+of time thinking
+
+01:41:12.360 --> 01:41:16.570
+about how we're not quite
+up to the ideal this or not.
+
+01:41:16.570 --> 01:41:18.750
+We're not at the
+ideal appearance.
+
+01:41:18.750 --> 01:41:20.250
+We're not at the
+ideal intelligence.
+
+01:41:20.250 --> 01:41:22.140
+We're not at the ideal
+choice of perfume.
+
+01:41:22.140 --> 01:41:23.590
+We're not at the ideal anything.
+
+01:41:23.590 --> 01:41:25.815
+What strange attractors
+and chaos shows
+
+01:41:25.815 --> 01:41:28.800
+you is the notion that
+there is an ideal,
+
+01:41:28.800 --> 01:41:32.750
+that there is an essentialist
+optimal, whatever, is a myth.
+
+01:41:32.750 --> 01:41:35.590
+We are all deviating
+from the optima
+
+01:41:35.590 --> 01:41:39.670
+because the optima is just
+an emergent, imaginary thing.
+
+01:41:39.670 --> 01:41:42.600
+The other final point is,
+something that you guys are
+
+01:41:42.600 --> 01:41:45.670
+going to be much better at
+than any previous generation,
+
+01:41:45.670 --> 01:41:47.450
+which, if you grow
+up thinking, when
+
+01:41:47.450 --> 01:41:49.590
+I want to find out if
+a movie is good or not,
+
+01:41:49.590 --> 01:41:53.550
+I do bottom-up stuff, you
+are growing up with a mindset
+
+01:41:53.550 --> 01:41:55.970
+that you don't need blueprints.
+
+01:41:55.970 --> 01:41:59.150
+You don't need
+top-down blueprints.
+
+01:41:59.150 --> 01:42:01.680
+And implicit in
+that, when you look
+
+01:42:01.680 --> 01:42:05.820
+at how you can get complex,
+adaptive, optimized systems
+
+01:42:05.820 --> 01:42:08.140
+without blueprints is
+the fact that, if you
+
+01:42:08.140 --> 01:42:10.820
+don't need blueprints,
+you don't need somebody
+
+01:42:10.820 --> 01:42:12.610
+who makes the blueprints.
+
+01:42:12.610 --> 01:42:15.090
+And it will be a lot
+easier to comprehend that
+
+01:42:15.090 --> 01:42:16.410
+as being the case.
+
+01:42:16.410 --> 01:42:20.900
+You don't have to have a
+source of top-down instruction
+
+01:42:20.900 --> 01:42:22.747
+if you don't need a blueprint.
+
+01:42:22.747 --> 01:42:23.580
+OK, so I don't know.
+
+01:42:23.580 --> 01:42:25.470
+I'm talking about something--
+
+01:42:25.470 --> 01:42:28.990
+For more, please visit
+us at stanford.edu.
+

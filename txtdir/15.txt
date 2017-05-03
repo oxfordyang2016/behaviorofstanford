@@ -1,0 +1,8384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.465
+[MUSIC PLAYING]
+
+00:00:04.930 --> 00:00:08.230
+Stanford University.
+
+00:00:08.230 --> 00:00:09.930
+Is this on?
+
+00:00:09.930 --> 00:00:12.770
+Yes.
+
+00:00:12.770 --> 00:00:14.350
+Well, congratulations.
+
+00:00:14.350 --> 00:00:18.000
+Everybody has survived
+the midterm including
+
+00:00:18.000 --> 00:00:20.630
+the TAs so far, who
+recently have been let out
+
+00:00:20.630 --> 00:00:24.020
+of their entombment
+with thousands
+
+00:00:24.020 --> 00:00:27.600
+of pages of exam pages.
+
+00:00:27.600 --> 00:00:33.870
+So those are rolling along,
+and everybody is still awake
+
+00:00:33.870 --> 00:00:34.831
+so that's good.
+
+00:00:34.831 --> 00:00:35.330
+OK.
+
+00:00:35.330 --> 00:00:38.000
+So we have now
+officially entered
+
+00:00:38.000 --> 00:00:40.190
+the second half of the course.
+
+00:00:40.190 --> 00:00:43.560
+And organizational
+things-- readings
+
+00:00:43.560 --> 00:00:46.341
+will now be read hopefully.
+
+00:00:46.341 --> 00:00:46.840
+OK.
+
+00:00:46.840 --> 00:00:48.850
+So that's not useful.
+
+00:00:48.850 --> 00:00:49.430
+Books.
+
+00:00:49.430 --> 00:00:49.929
+Books.
+
+00:00:49.929 --> 00:00:52.080
+Now is a good time to
+actually go and start
+
+00:00:52.080 --> 00:00:54.280
+reading those books.
+
+00:00:54.280 --> 00:00:57.150
+And again, if you are not
+up to all of both of them,
+
+00:00:57.150 --> 00:01:00.220
+some recommend the
+chapters have come along.
+
+00:01:00.220 --> 00:01:01.720
+Pay attention to those.
+
+00:01:01.720 --> 00:01:06.650
+And again, a subset of you-- may
+not know it yet, but about 25%
+
+00:01:06.650 --> 00:01:10.470
+of you will have your life
+transformed by that chaos book,
+
+00:01:10.470 --> 00:01:13.760
+whereas 25% will resent
+the purchase price
+
+00:01:13.760 --> 00:01:16.180
+and my forcing you to do this.
+
+00:01:16.180 --> 00:01:18.970
+Also, another major,
+major transition here,
+
+00:01:18.970 --> 00:01:22.100
+which is, as far as I can
+tell so far, I have run out
+
+00:01:22.100 --> 00:01:23.870
+of steam turning
+the extended notes
+
+00:01:23.870 --> 00:01:26.860
+into actual expository
+writing, so they're just
+
+00:01:26.860 --> 00:01:31.580
+going to take the form of really
+poorly organized outlines.
+
+00:01:31.580 --> 00:01:32.860
+So that happens.
+
+00:01:32.860 --> 00:01:34.270
+OK.
+
+00:01:34.270 --> 00:01:34.860
+What else?
+
+00:01:34.860 --> 00:01:36.990
+What we now
+transition to is going
+
+00:01:36.990 --> 00:01:39.790
+to be our strategy for the
+rest of our course, which
+
+00:01:39.790 --> 00:01:42.805
+is to look at various subjects.
+
+00:01:42.805 --> 00:01:46.460
+And coming down the pike after
+the lectures today and Friday
+
+00:01:46.460 --> 00:01:50.710
+on sexual behavior will be
+aggression, competition,
+
+00:01:50.710 --> 00:01:55.050
+cooperation, empathy,
+potentially language
+
+00:01:55.050 --> 00:01:56.794
+use, schizophrenia.
+
+00:01:56.794 --> 00:01:58.210
+Somewhere in there,
+there is going
+
+00:01:58.210 --> 00:02:01.120
+to be a week or so
+on that chaos stuff.
+
+00:02:01.120 --> 00:02:03.270
+But for all of
+these subjects, we
+
+00:02:03.270 --> 00:02:05.580
+are now going to follow
+the general strategy.
+
+00:02:05.580 --> 00:02:10.259
+We will start off looking
+at what the behavior is.
+
+00:02:10.259 --> 00:02:12.100
+And what we're going
+to try to do there,
+
+00:02:12.100 --> 00:02:14.860
+in addition to looking at in
+lots of different species,
+
+00:02:14.860 --> 00:02:18.130
+is to be as objective as
+any good old ethologist
+
+00:02:18.130 --> 00:02:21.280
+in considering the
+fixed action patterns
+
+00:02:21.280 --> 00:02:23.520
+of the particular behavior.
+
+00:02:23.520 --> 00:02:26.320
+That established, with the
+promise that, in lots of cases,
+
+00:02:26.320 --> 00:02:28.340
+what we think comprise
+some of these behaviors
+
+00:02:28.340 --> 00:02:29.970
+turn out not to be the case.
+
+00:02:29.970 --> 00:02:31.770
+That established,
+what we will start
+
+00:02:31.770 --> 00:02:35.910
+is our inexorable march to
+the left, the timeline that
+
+00:02:35.910 --> 00:02:37.780
+constitutes everything
+we learn now,
+
+00:02:37.780 --> 00:02:39.880
+stepping back and saying, OK.
+
+00:02:39.880 --> 00:02:43.400
+One millisecond before
+that behavior occurred,
+
+00:02:43.400 --> 00:02:45.270
+what was going on in the brain?
+
+00:02:45.270 --> 00:02:46.610
+What parts of the brain?
+
+00:02:46.610 --> 00:02:48.380
+What neurotransmitters?
+
+00:02:48.380 --> 00:02:49.730
+All of that.
+
+00:02:49.730 --> 00:02:53.480
+Stepping back before that, a
+second before, a minute before,
+
+00:02:53.480 --> 00:02:56.390
+whatever, what was
+it in the environment
+
+00:02:56.390 --> 00:03:00.290
+that triggered the brain
+to produce that behavior?
+
+00:03:00.290 --> 00:03:02.960
+What was the acute
+releasing stimulus?
+
+00:03:02.960 --> 00:03:06.920
+Stepping back, what do
+hormone levels that hour,
+
+00:03:06.920 --> 00:03:09.770
+that day, some such
+time span of that,
+
+00:03:09.770 --> 00:03:14.400
+what acute hormonal exposure
+had to do with sensitizing you
+
+00:03:14.400 --> 00:03:16.920
+to the environmental
+stimulus which
+
+00:03:16.920 --> 00:03:19.970
+released the nervous system
+into generating the behavior.
+
+00:03:19.970 --> 00:03:24.850
+Marching all the way back, throw
+in culture some place or other.
+
+00:03:24.850 --> 00:03:28.320
+Perinatal effects, early
+developmental hormonal stuff,
+
+00:03:28.320 --> 00:03:32.290
+eventually considering what do
+the genetics of the individual,
+
+00:03:32.290 --> 00:03:35.150
+of the population, of
+the species-- evolution
+
+00:03:35.150 --> 00:03:37.050
+kicking in there
+some place or other--
+
+00:03:37.050 --> 00:03:40.460
+what do all of these things
+and something having to do
+
+00:03:40.460 --> 00:03:42.780
+with ecology thrown in
+there just for good measure.
+
+00:03:42.780 --> 00:03:45.600
+Working our way back
+in each of these cases,
+
+00:03:45.600 --> 00:03:49.450
+understanding what was
+the biology of one second
+
+00:03:49.450 --> 00:03:53.050
+before, one minute, one hour,
+one million years before that
+
+00:03:53.050 --> 00:03:54.240
+gave rise to it.
+
+00:03:54.240 --> 00:03:57.720
+Back to our two major
+themes from day one,
+
+00:03:57.720 --> 00:04:01.110
+we are now about to be
+unbound, unfettered,
+
+00:04:01.110 --> 00:04:04.190
+by our buckets, our
+categorical buckets,
+
+00:04:04.190 --> 00:04:07.020
+and instead explore
+their interactions.
+
+00:04:07.020 --> 00:04:10.740
+The other being that notion
+from the very first class, which
+
+00:04:10.740 --> 00:04:12.810
+is that any given
+point, if we're
+
+00:04:12.810 --> 00:04:16.350
+talking about chronic
+hormonal effects
+
+00:04:16.350 --> 00:04:18.709
+on this behavior, what
+we're talking about
+
+00:04:18.709 --> 00:04:21.709
+is the way those hormone
+patterns were shaped
+
+00:04:21.709 --> 00:04:23.880
+during this period,
+the way genes
+
+00:04:23.880 --> 00:04:26.860
+contributed to the
+enzymes that make
+
+00:04:26.860 --> 00:04:28.680
+the hormones, the receptors.
+
+00:04:28.680 --> 00:04:31.130
+The second you're talking
+about genetics, all of this
+
+00:04:31.130 --> 00:04:32.400
+is becoming apparent.
+
+00:04:32.400 --> 00:04:34.430
+At every one of these
+points, whatever
+
+00:04:34.430 --> 00:04:36.670
+point we are talking
+about is going
+
+00:04:36.670 --> 00:04:39.890
+to be the end product of
+everything to the left
+
+00:04:39.890 --> 00:04:43.176
+and just as temporary sort
+of footing before going
+
+00:04:43.176 --> 00:04:44.300
+to the things on the right.
+
+00:04:44.300 --> 00:04:48.490
+So this will be our
+strategy forever after now.
+
+00:04:48.490 --> 00:04:50.720
+So we start off doing
+this with looking
+
+00:04:50.720 --> 00:04:53.994
+at sexual behavior,
+the neurobiology,
+
+00:04:53.994 --> 00:04:56.285
+the endocrinology, the early
+experiences, et cetera, et
+
+00:04:56.285 --> 00:04:57.120
+cetera.
+
+00:04:57.120 --> 00:04:59.740
+So to inaugurate the second
+half of the course and the fact
+
+00:04:59.740 --> 00:05:02.440
+that it's starting off with
+lectures on sexual behavior,
+
+00:05:02.440 --> 00:05:05.960
+it has to start off with the
+stupid obligatory sex joke.
+
+00:05:05.960 --> 00:05:07.170
+OK.
+
+00:05:07.170 --> 00:05:11.450
+So the Martians come to
+Earth, and they turn out
+
+00:05:11.450 --> 00:05:13.440
+to be great guys.
+
+00:05:13.440 --> 00:05:14.770
+They are really terrific.
+
+00:05:14.770 --> 00:05:16.690
+They get along wonderfully
+with Earthlings.
+
+00:05:16.690 --> 00:05:18.490
+All of them like
+each other a lot.
+
+00:05:18.490 --> 00:05:20.140
+They're all becoming
+great friends.
+
+00:05:20.140 --> 00:05:23.980
+They pass their hours learning
+about each other's planets.
+
+00:05:23.980 --> 00:05:25.610
+What's the weather like there?
+
+00:05:25.610 --> 00:05:27.440
+What are sports like here?
+
+00:05:27.440 --> 00:05:28.445
+What are recipes?
+
+00:05:28.445 --> 00:05:30.070
+Everybody's getting
+along terrifically.
+
+00:05:30.070 --> 00:05:32.257
+And eventually, the
+Earthlings and the Martians
+
+00:05:32.257 --> 00:05:34.340
+are getting along well
+enough that they get around
+
+00:05:34.340 --> 00:05:37.230
+to asking the question that
+everybody is really interested
+
+00:05:37.230 --> 00:05:41.620
+in, which is, well, how do you
+folks go about reproducing?
+
+00:05:41.620 --> 00:05:42.780
+So the decision was made.
+
+00:05:42.780 --> 00:05:44.420
+The Martians are
+going to go first.
+
+00:05:44.420 --> 00:05:48.050
+So they clear out a big space,
+and a whole bunch of Martians
+
+00:05:48.050 --> 00:05:51.120
+come in there and they stand
+on top of each other heads,
+
+00:05:51.120 --> 00:05:53.500
+and their noses flash
+different colors,
+
+00:05:53.500 --> 00:05:56.402
+and steam comes out
+of various orifices,
+
+00:05:56.402 --> 00:05:58.110
+and there's clanking
+noises and whatever.
+
+00:05:58.110 --> 00:06:00.560
+And out pops a new
+little Martian.
+
+00:06:00.560 --> 00:06:04.190
+And the Earthlings say,
+wow, that was great.
+
+00:06:04.190 --> 00:06:05.310
+Love the concept.
+
+00:06:05.310 --> 00:06:07.021
+And I got great video of that.
+
+00:06:07.021 --> 00:06:08.520
+And that's terrific
+and all of that.
+
+00:06:08.520 --> 00:06:09.019
+OK
+
+00:06:09.019 --> 00:06:09.990
+So that's worked out.
+
+00:06:09.990 --> 00:06:11.760
+And now it's the humans turn.
+
+00:06:11.760 --> 00:06:15.390
+So a willing couple is found,
+and some space is cleared out.
+
+00:06:15.390 --> 00:06:18.030
+And the Martians sit down
+there with their video cameras
+
+00:06:18.030 --> 00:06:18.800
+as well.
+
+00:06:18.800 --> 00:06:20.470
+And clicking away.
+
+00:06:20.470 --> 00:06:21.920
+And this couple goes at it.
+
+00:06:21.920 --> 00:06:24.990
+And they finish the whole thing
+in a sweaty mess at the end.
+
+00:06:24.990 --> 00:06:26.960
+And the Martian say,
+that's wonderful.
+
+00:06:26.960 --> 00:06:28.200
+That's so interesting.
+
+00:06:28.200 --> 00:06:29.844
+You Earthlings are just endless.
+
+00:06:29.844 --> 00:06:31.260
+And the fascinating
+things you do,
+
+00:06:31.260 --> 00:06:35.000
+but we have one question
+though, which is,
+
+00:06:35.000 --> 00:06:36.990
+so where's the new human?
+
+00:06:36.990 --> 00:06:39.570
+And they said, oh,
+that takes nine months.
+
+00:06:39.570 --> 00:06:44.040
+They say, well, why were they
+in such a rush at the end?
+
+00:06:44.040 --> 00:06:47.870
+So our first question
+here is, why were they
+
+00:06:47.870 --> 00:06:49.480
+in such a rush at the end?
+
+00:06:49.480 --> 00:06:49.980
+OK.
+
+00:06:49.980 --> 00:06:51.290
+Three possible answers.
+
+00:06:51.290 --> 00:06:53.660
+Choice number
+one-- vote for it--
+
+00:06:53.660 --> 00:06:55.630
+why were they in such
+a rush at the end?
+
+00:06:55.630 --> 00:06:58.410
+Number one, because they
+were acting with this fervent
+
+00:06:58.410 --> 00:07:02.110
+desire to do something for
+the good of the species.
+
+00:07:02.110 --> 00:07:03.920
+Just seeing if any hands go up.
+
+00:07:03.920 --> 00:07:04.960
+That's a good thing.
+
+00:07:04.960 --> 00:07:08.605
+Option number two,
+doing that because you
+
+00:07:08.605 --> 00:07:10.730
+want to maximize the number
+of copies of your genes
+
+00:07:10.730 --> 00:07:12.460
+passed on to the
+next generation.
+
+00:07:12.460 --> 00:07:16.240
+Option number three,
+because it feels good.
+
+00:07:16.240 --> 00:07:16.740
+OK.
+
+00:07:16.740 --> 00:07:17.890
+One hand goes up.
+
+00:07:17.890 --> 00:07:20.130
+And I'm not sure what that
+indicates about everyone,
+
+00:07:20.130 --> 00:07:24.380
+but I will remind you from
+the survey in the first class
+
+00:07:24.380 --> 00:07:26.650
+there that a far greater
+percentage of you
+
+00:07:26.650 --> 00:07:29.220
+want to learn about depression
+than about sexual behavior.
+
+00:07:29.220 --> 00:07:32.131
+So there you have it with
+the Stanford experience.
+
+00:07:32.131 --> 00:07:32.630
+OK.
+
+00:07:32.630 --> 00:07:34.850
+Because it feels good.
+
+00:07:34.850 --> 00:07:37.310
+And what we deal with
+here right off the start
+
+00:07:37.310 --> 00:07:42.460
+is this important dichotomy
+between proximal and distal
+
+00:07:42.460 --> 00:07:44.330
+explanations for behavior.
+
+00:07:44.330 --> 00:07:46.780
+Explanation, a
+distal explanation,
+
+00:07:46.780 --> 00:07:48.930
+for sexual behavior,
+parentheses,
+
+00:07:48.930 --> 00:07:50.900
+why were they in such
+a rush at the end?
+
+00:07:50.900 --> 00:07:53.080
+Passing on copies of
+your genes, the effects
+
+00:07:53.080 --> 00:07:55.260
+of hormones, and
+certain reward pathways
+
+00:07:55.260 --> 00:07:56.490
+in the brain, all of that.
+
+00:07:56.490 --> 00:08:00.670
+Proximal mechanism being
+that it feels good.
+
+00:08:00.670 --> 00:08:02.840
+And starting off right
+off the bat the thing
+
+00:08:02.840 --> 00:08:04.860
+to make sense of
+with sexual behavior
+
+00:08:04.860 --> 00:08:08.930
+is it is driven by this
+amazing little loop here
+
+00:08:08.930 --> 00:08:12.290
+of sensory stimuli,
+and feedback,
+
+00:08:12.290 --> 00:08:16.680
+and immediate sensations that
+drive the behavior coming out.
+
+00:08:16.680 --> 00:08:20.440
+And all this stuff down here
+is for the doctoral thesis
+
+00:08:20.440 --> 00:08:21.870
+somewhere down the line.
+
+00:08:21.870 --> 00:08:24.010
+That's not what
+the motivation is.
+
+00:08:24.010 --> 00:08:27.100
+Probably more than any other of
+the behaviors we will look at,
+
+00:08:27.100 --> 00:08:30.280
+the driving forces are
+very proximal ones.
+
+00:08:30.280 --> 00:08:33.730
+Nobody sits there and figures
+out how many copies of genes
+
+00:08:33.730 --> 00:08:37.220
+they are passing on and thus are
+willing to speed up to produce
+
+00:08:37.220 --> 00:08:39.150
+a new human nine months later.
+
+00:08:39.150 --> 00:08:42.030
+It is instead, in
+species after species,
+
+00:08:42.030 --> 00:08:44.720
+it is proximal
+motivating mechanisms
+
+00:08:44.720 --> 00:08:46.800
+for generating the behaviors.
+
+00:08:46.800 --> 00:08:47.460
+OK.
+
+00:08:47.460 --> 00:08:49.740
+So beginning to look at
+the actual behaviors,
+
+00:08:49.740 --> 00:08:53.680
+there is a funny duality to
+making sense of sexual behavior
+
+00:08:53.680 --> 00:08:57.180
+across different species,
+a funny sort of contrast.
+
+00:08:57.180 --> 00:09:02.280
+The first one being that, well,
+all species go about sex--
+
+00:09:02.280 --> 00:09:05.190
+or all vertebrate
+species go about sex
+
+00:09:05.190 --> 00:09:07.570
+in a roughly similar way.
+
+00:09:07.570 --> 00:09:10.590
+Yet, you don't want to be
+too similar to the species
+
+00:09:10.590 --> 00:09:11.550
+next door.
+
+00:09:11.550 --> 00:09:13.890
+There's an interesting
+sort of dichotomy there.
+
+00:09:13.890 --> 00:09:17.570
+All sorts of vertebrate
+species are doing things
+
+00:09:17.570 --> 00:09:21.520
+with pelvic thrusting
+and orgasms and-- hey,
+
+00:09:21.520 --> 00:09:24.630
+stay tuned that's
+coming-- and ejaculation,
+
+00:09:24.630 --> 00:09:27.220
+and lordotic reflexes,
+and things of that sort.
+
+00:09:27.220 --> 00:09:32.280
+Highly conserved fixed action
+patterns across lots and lots
+
+00:09:32.280 --> 00:09:33.500
+of different species.
+
+00:09:33.500 --> 00:09:36.830
+None the less, amid that,
+you've got this other problem,
+
+00:09:36.830 --> 00:09:40.440
+which is you want to have these
+fixed action patterns being
+
+00:09:40.440 --> 00:09:42.940
+specific to your species.
+
+00:09:42.940 --> 00:09:44.690
+You do not want to mess up.
+
+00:09:44.690 --> 00:09:46.800
+So there is this
+strange simultaneity
+
+00:09:46.800 --> 00:09:50.910
+of very, very conserved
+basic building
+
+00:09:50.910 --> 00:09:53.980
+blocks of the fixed action
+patterns of sexual behavior.
+
+00:09:53.980 --> 00:09:58.880
+But along with that, a lot of
+selectivity within species.
+
+00:09:58.880 --> 00:10:01.300
+Now how does that
+selectivity begin to work?
+
+00:10:01.300 --> 00:10:04.870
+What you get is this very
+interesting interplay,
+
+00:10:04.870 --> 00:10:09.130
+this intercalation, between the
+releasing stimuli and the fixed
+
+00:10:09.130 --> 00:10:10.230
+action pattern.
+
+00:10:10.230 --> 00:10:13.175
+What you get is this
+chaining of behavior.
+
+00:10:13.175 --> 00:10:16.620
+In other words, the fixed
+action pattern of one
+
+00:10:16.620 --> 00:10:20.580
+of the individuals constitutes
+the releasing stimulus
+
+00:10:20.580 --> 00:10:23.840
+for the other individual's
+fixed action pattern, which
+
+00:10:23.840 --> 00:10:27.410
+constitutes the releasing
+stimulus for this individual's
+
+00:10:27.410 --> 00:10:28.810
+fixed action pattern.
+
+00:10:28.810 --> 00:10:31.880
+This chaining of
+transitions there,
+
+00:10:31.880 --> 00:10:34.180
+of interplay between
+these two, which
+
+00:10:34.180 --> 00:10:37.560
+is where you get the
+species specificity from.
+
+00:10:37.560 --> 00:10:38.420
+OK.
+
+00:10:38.420 --> 00:10:40.820
+So in terms of making
+sense of that, of course,
+
+00:10:40.820 --> 00:10:44.340
+any of this in terms of looking
+at the general features of how
+
+00:10:44.340 --> 00:10:47.300
+to think about sexual behavior
+across species, of course, what
+
+00:10:47.300 --> 00:10:51.670
+you have to have out the wazoo
+is your basic ethology credo
+
+00:10:51.670 --> 00:10:53.910
+of interviewing an animal
+in its own language
+
+00:10:53.910 --> 00:10:56.220
+about its sexual
+behavior, wonderfully
+
+00:10:56.220 --> 00:11:00.000
+summarized in this quote by
+Martha McClintock, researcher.
+
+00:11:00.000 --> 00:11:01.800
+I think I've used
+this quote already,
+
+00:11:01.800 --> 00:11:03.780
+which is, in her
+particular case,
+
+00:11:03.780 --> 00:11:07.370
+studying female rat sexual
+behavior, which turns out
+
+00:11:07.370 --> 00:11:09.550
+to be this very ornate
+process involving
+
+00:11:09.550 --> 00:11:11.930
+a lot of running around
+on the part of the female.
+
+00:11:11.930 --> 00:11:15.300
+Studying female rat
+sexual behavior in a cage
+
+00:11:15.300 --> 00:11:18.640
+is like trying to study swimming
+behavior of a dolphin in a bath
+
+00:11:18.640 --> 00:11:19.270
+tub.
+
+00:11:19.270 --> 00:11:21.670
+You need to get it in
+the natural setting,
+
+00:11:21.670 --> 00:11:24.430
+or else you are going to
+lose all sorts of insight.
+
+00:11:24.430 --> 00:11:27.770
+In the particular realm of
+female rat sexual behavior,
+
+00:11:27.770 --> 00:11:30.500
+the standard picture
+for decades and decades,
+
+00:11:30.500 --> 00:11:33.420
+the centuries where our
+finest minds have looked
+
+00:11:33.420 --> 00:11:35.980
+at rats having sex,
+the standard dogma
+
+00:11:35.980 --> 00:11:40.550
+has been that the female role
+is a very passive receptive one.
+
+00:11:40.550 --> 00:11:42.572
+And it turns out it's a
+very passive receptive
+
+00:11:42.572 --> 00:11:44.030
+one if she doesn't
+have enough room
+
+00:11:44.030 --> 00:11:46.930
+to run around and do all sorts
+of courting stuff on her own,
+
+00:11:46.930 --> 00:11:51.620
+all sorts of proceptive sexual
+behaviors, which she can't see,
+
+00:11:51.620 --> 00:11:54.500
+if you're studying an animal
+in a setting where they can't
+
+00:11:54.500 --> 00:11:56.390
+speak in their own language.
+
+00:11:56.390 --> 00:12:00.180
+So a big, big vote for
+ethological logical principles
+
+00:12:00.180 --> 00:12:01.690
+when it comes to this.
+
+00:12:01.690 --> 00:12:02.340
+All right.
+
+00:12:02.340 --> 00:12:05.250
+So just to get some jargon
+under our belt right
+
+00:12:05.250 --> 00:12:08.020
+from the start here, in terms
+of how the professionals talk
+
+00:12:08.020 --> 00:12:10.160
+about sex when they're
+talking about sex
+
+00:12:10.160 --> 00:12:11.920
+and trying to sound
+like professionals,
+
+00:12:11.920 --> 00:12:13.570
+here are some of the terms.
+
+00:12:13.570 --> 00:12:16.240
+Old outdated term,
+Freudian term,
+
+00:12:16.240 --> 00:12:20.220
+that nonetheless has
+entered the general world
+
+00:12:20.220 --> 00:12:25.110
+of referring to sexual arousal
+and motivation-- libido.
+
+00:12:25.110 --> 00:12:28.790
+Libido, as we will see that
+commonplace everyday usage
+
+00:12:28.790 --> 00:12:33.040
+term, is perhaps more
+technically described
+
+00:12:33.040 --> 00:12:34.400
+as horniness.
+
+00:12:34.400 --> 00:12:37.070
+But it can also be
+described as one term
+
+00:12:37.070 --> 00:12:39.910
+within a trio of the terms
+that people in the business
+
+00:12:39.910 --> 00:12:45.230
+really use most frequently--
+attractivity, proceptivity,
+
+00:12:45.230 --> 00:12:46.870
+and receptivity.
+
+00:12:46.870 --> 00:12:50.120
+Quick, get to work on poems
+about those three terms.
+
+00:12:50.120 --> 00:12:52.970
+But what you've got
+here is attractivity,
+
+00:12:52.970 --> 00:12:57.090
+how attractive an individual
+is to someone else.
+
+00:12:57.090 --> 00:13:00.380
+Receptivity, how
+receptive that individual
+
+00:13:00.380 --> 00:13:03.550
+is to the interest of
+the other individual.
+
+00:13:03.550 --> 00:13:07.330
+Proceptivity, the
+active behaviors
+
+00:13:07.330 --> 00:13:11.140
+that are carried out in
+response to being attracted to.
+
+00:13:11.140 --> 00:13:13.780
+And thus, you could say
+because of the attractiveness
+
+00:13:13.780 --> 00:13:16.150
+of this organism,
+this other organism
+
+00:13:16.150 --> 00:13:18.970
+began proceptive behaviors
+which did or did not
+
+00:13:18.970 --> 00:13:22.710
+prove to meet with receptive
+fixed action patterns
+
+00:13:22.710 --> 00:13:23.800
+and responses.
+
+00:13:23.800 --> 00:13:25.730
+The very words any
+of us would use
+
+00:13:25.730 --> 00:13:27.590
+to describe what
+goes on at a party.
+
+00:13:27.590 --> 00:13:28.090
+OK.
+
+00:13:28.090 --> 00:13:30.450
+So we've got that triad
+there, the terms that
+
+00:13:30.450 --> 00:13:34.470
+are much more in common than
+terms like libido or arousal
+
+00:13:34.470 --> 00:13:35.610
+or motivation.
+
+00:13:35.610 --> 00:13:37.270
+These are the more common ones.
+
+00:13:37.270 --> 00:13:40.400
+What is another realm, in
+terms that are much more used,
+
+00:13:40.400 --> 00:13:43.020
+these are much
+more zoology terms.
+
+00:13:43.020 --> 00:13:45.410
+What's used far more
+often in clinical medicine
+
+00:13:45.410 --> 00:13:49.140
+is a description, a
+dichotomy, between motivation
+
+00:13:49.140 --> 00:13:50.790
+and performance.
+
+00:13:50.790 --> 00:13:54.330
+And that is never used more
+frequently than in the realm
+
+00:13:54.330 --> 00:13:56.650
+of making sense of
+sexual motivation
+
+00:13:56.650 --> 00:14:00.440
+in men as dissociable
+from erectile function
+
+00:14:00.440 --> 00:14:03.820
+versus dysfunction,
+motivation being very, very
+
+00:14:03.820 --> 00:14:06.190
+different from performance.
+
+00:14:06.190 --> 00:14:08.760
+So that's another
+realm of distinctions.
+
+00:14:08.760 --> 00:14:12.770
+Other realms as well--
+desire, orgasms, arousal,
+
+00:14:12.770 --> 00:14:14.480
+all sorts of commonplace terms.
+
+00:14:14.480 --> 00:14:17.590
+The performance versus
+motivation dichotomy
+
+00:14:17.590 --> 00:14:21.400
+and the proceptivity,
+receptivity, [INAUDIBLE]
+
+00:14:21.400 --> 00:14:24.050
+are the major terms
+that are used.
+
+00:14:24.050 --> 00:14:26.220
+Next issue, in terms
+of getting to this,
+
+00:14:26.220 --> 00:14:28.770
+how do people find
+out information
+
+00:14:28.770 --> 00:14:30.360
+about sexual behavior?
+
+00:14:30.360 --> 00:14:33.230
+One option is to sit there
+with night viewing goggles.
+
+00:14:33.230 --> 00:14:35.460
+And that's very useful
+for nocturnal species.
+
+00:14:35.460 --> 00:14:38.470
+But how do people find out
+about human sexual behavior?
+
+00:14:38.470 --> 00:14:40.590
+All sorts of ways
+over the years,
+
+00:14:40.590 --> 00:14:42.580
+starting with anonymous
+questionnaires.
+
+00:14:42.580 --> 00:14:47.370
+But a really clever technique
+was worked out in the 1980s.
+
+00:14:47.370 --> 00:14:50.080
+A biological mathematician
+named Joel Cohen
+
+00:14:50.080 --> 00:14:52.830
+getting at how to get
+people to tell you
+
+00:14:52.830 --> 00:14:56.350
+about very embarrassing things
+about their sexual lives.
+
+00:14:56.350 --> 00:15:00.210
+And this was prompted in the
+80s when AIDS first swept in,
+
+00:15:00.210 --> 00:15:04.560
+and it was wildly,
+wildly taboo at the time
+
+00:15:04.560 --> 00:15:06.920
+in virtually every
+corner of this country
+
+00:15:06.920 --> 00:15:10.350
+to admit to having a less
+than standard, white bread
+
+00:15:10.350 --> 00:15:11.950
+sexual orientation.
+
+00:15:11.950 --> 00:15:15.220
+Take a look at the extended
+notes to see the trick
+
+00:15:15.220 --> 00:15:18.480
+that Joel Cohen came up
+with, a very clever device
+
+00:15:18.480 --> 00:15:21.250
+in order to figure out
+what percentage of people
+
+00:15:21.250 --> 00:15:24.540
+are doing what sexually
+without asking anybody
+
+00:15:24.540 --> 00:15:27.030
+to give an answer that
+they would find, perhaps,
+
+00:15:27.030 --> 00:15:31.650
+to be embarrassing or grounds
+for all sorts of persecution.
+
+00:15:31.650 --> 00:15:32.660
+OK.
+
+00:15:32.660 --> 00:15:36.660
+So beginning to look at
+aspects of behavior and other
+
+00:15:36.660 --> 00:15:40.060
+features of the rightmost
+end of all of this.
+
+00:15:40.060 --> 00:15:43.360
+We start off with the
+most central puzzle
+
+00:15:43.360 --> 00:15:46.590
+in making sense of any of
+this stuff, which is, so
+
+00:15:46.590 --> 00:15:49.640
+what's up with female orgasms?
+
+00:15:49.640 --> 00:15:53.090
+And we've got right off
+the bat the simple problem
+
+00:15:53.090 --> 00:15:56.930
+of making sense of this
+biological phenomenon and one
+
+00:15:56.930 --> 00:15:59.950
+where fertility is
+not dependent on it.
+
+00:15:59.950 --> 00:16:03.260
+One does not need to have
+orgasms to become pregnant,
+
+00:16:03.260 --> 00:16:06.400
+to give birth, to pass
+on copies of one's genes.
+
+00:16:06.400 --> 00:16:08.160
+So what's the deal with orgasms?
+
+00:16:08.160 --> 00:16:10.380
+First off, a question
+we will wind up
+
+00:16:10.380 --> 00:16:13.310
+asking with a whole lot of the
+behavior coming down the line
+
+00:16:13.310 --> 00:16:16.050
+is, are we the only species?
+
+00:16:16.050 --> 00:16:18.320
+And all sorts of
+careful studies have
+
+00:16:18.320 --> 00:16:21.010
+shown that we are
+not the only species.
+
+00:16:21.010 --> 00:16:24.310
+Other apes, other
+primate species, as well
+
+00:16:24.310 --> 00:16:28.110
+monkeys and apes, show
+orgasm among the females.
+
+00:16:28.110 --> 00:16:31.450
+And that is detectable by
+all sorts of physiology
+
+00:16:31.450 --> 00:16:32.780
+we'll hear about in a while.
+
+00:16:32.780 --> 00:16:34.590
+We are not the only species.
+
+00:16:34.590 --> 00:16:37.480
+One of the really
+bizarre, pathetic things
+
+00:16:37.480 --> 00:16:39.650
+about trying to do
+research in this area
+
+00:16:39.650 --> 00:16:43.060
+was one of the first papers
+that ever demonstrated something
+
+00:16:43.060 --> 00:16:46.860
+which physiologically was
+identical to female orgasm
+
+00:16:46.860 --> 00:16:49.680
+in rhesus monkey
+females, which wound up
+
+00:16:49.680 --> 00:16:51.800
+being a paper in
+this journal Science.
+
+00:16:51.800 --> 00:16:53.590
+Down there in the
+footnotes, the authors
+
+00:16:53.590 --> 00:16:58.100
+had to indicate this did not
+make use of any federal grant
+
+00:16:58.100 --> 00:17:00.420
+money to carry out the study.
+
+00:17:00.420 --> 00:17:03.430
+Just to give you a sense of
+where some of the stuff sits.
+
+00:17:03.430 --> 00:17:03.930
+OK.
+
+00:17:03.930 --> 00:17:06.339
+So what's up with female orgasm?
+
+00:17:06.339 --> 00:17:09.609
+It is not necessary
+for conception.
+
+00:17:09.609 --> 00:17:12.140
+It is not necessary to
+increase the number of copies
+
+00:17:12.140 --> 00:17:14.099
+of your genes in
+future generations.
+
+00:17:14.099 --> 00:17:16.690
+Despite that, there
+is some evidence
+
+00:17:16.690 --> 00:17:20.119
+that it facilitates
+fertilization.
+
+00:17:20.119 --> 00:17:22.930
+And the technical term that's
+always been given for that
+
+00:17:22.930 --> 00:17:26.319
+is, bizarrely
+enough, facilitation.
+
+00:17:26.319 --> 00:17:30.120
+The notion is something about
+the vaginal fluid, something
+
+00:17:30.120 --> 00:17:34.780
+about the biochemistry of,
+increases sperm motility.
+
+00:17:34.780 --> 00:17:39.590
+Sperm swim faster and harder
+and jump upstream back to spawn
+
+00:17:39.590 --> 00:17:41.540
+or whatever it is
+the sperm are doing
+
+00:17:41.540 --> 00:17:45.330
+with more avidity, with
+more energetic displays,
+
+00:17:45.330 --> 00:17:49.220
+in an environment of
+more vaginal secretion.
+
+00:17:49.220 --> 00:17:52.210
+And orgasm greatly
+increases that.
+
+00:17:52.210 --> 00:17:54.980
+So the argument there
+being that orgasm
+
+00:17:54.980 --> 00:17:58.970
+facilitates fertilization
+through the sperm facilitation
+
+00:17:58.970 --> 00:17:59.980
+process.
+
+00:17:59.980 --> 00:18:02.650
+Evidence for that has always
+been a little bit indirect.
+
+00:18:02.650 --> 00:18:05.810
+It is not airtight
+that that happens.
+
+00:18:05.810 --> 00:18:09.490
+Another argument for why
+this increases fertility.
+
+00:18:09.490 --> 00:18:13.770
+And this is sort of
+an interesting one.
+
+00:18:13.770 --> 00:18:16.760
+And the notion here is that
+what an orgasm does is,
+
+00:18:16.760 --> 00:18:19.360
+among other things,
+exhausts you enormously,
+
+00:18:19.360 --> 00:18:21.380
+causing you to be
+far more likely to be
+
+00:18:21.380 --> 00:18:24.610
+horizontal than vertical
+shortly thereafter, and thus,
+
+00:18:24.610 --> 00:18:27.190
+facilitating fertilization
+because the sperm don't
+
+00:18:27.190 --> 00:18:30.580
+have to swim straight
+up against gravity.
+
+00:18:30.580 --> 00:18:31.540
+I kid you not.
+
+00:18:31.540 --> 00:18:33.920
+This is one of the
+leading models out there.
+
+00:18:33.920 --> 00:18:37.200
+Then there's the orgasm
+facilitates female conception
+
+00:18:37.200 --> 00:18:40.050
+out of reinforcement
+theory, which is back
+
+00:18:40.050 --> 00:18:43.237
+to the it feels good and thus
+you are more likely to do it
+
+00:18:43.237 --> 00:18:45.570
+again and increasing the
+likelihood of passing on copies
+
+00:18:45.570 --> 00:18:46.290
+of your genes.
+
+00:18:46.290 --> 00:18:47.580
+All of this is wonderful.
+
+00:18:47.580 --> 00:18:49.960
+All of these possible
+mechanisms where,
+
+00:18:49.960 --> 00:18:54.070
+even though female orgasm is
+not necessary for conception,
+
+00:18:54.070 --> 00:18:57.160
+it nonetheless increases
+the likelihood of.
+
+00:18:57.160 --> 00:18:58.510
+That's great.
+
+00:18:58.510 --> 00:19:01.010
+However, what most of
+the studies have shown,
+
+00:19:01.010 --> 00:19:03.250
+though, is there
+is no relationship
+
+00:19:03.250 --> 00:19:06.400
+between the fertility of
+a woman and her propensity
+
+00:19:06.400 --> 00:19:07.680
+towards orgasm.
+
+00:19:07.680 --> 00:19:11.010
+It does not seem to play
+out in so far as any
+
+00:19:11.010 --> 00:19:13.690
+of this facilitation
+or horizontal
+
+00:19:13.690 --> 00:19:17.630
+swim enhancement techniques
+or whatever actually occurs--
+
+00:19:17.630 --> 00:19:20.370
+these are not big enough
+of effects to actually make
+
+00:19:20.370 --> 00:19:23.580
+a difference in terms
+of reproductive success.
+
+00:19:23.580 --> 00:19:24.370
+So what else?
+
+00:19:24.370 --> 00:19:25.570
+What else is known about it?
+
+00:19:25.570 --> 00:19:28.020
+There is a certain
+degree of heritability,
+
+00:19:28.020 --> 00:19:31.420
+of propensity towards
+orgasm in females.
+
+00:19:31.420 --> 00:19:34.050
+And this is shown with
+all our standard behavior
+
+00:19:34.050 --> 00:19:37.340
+genetics techniques in
+terms of comparing dizygotic
+
+00:19:37.340 --> 00:19:39.280
+versus monozygotic twins.
+
+00:19:39.280 --> 00:19:43.170
+We know what to do in terms
+of not overvaluing findings
+
+00:19:43.170 --> 00:19:43.980
+like those.
+
+00:19:43.980 --> 00:19:46.140
+Nonetheless, they are there.
+
+00:19:46.140 --> 00:19:50.510
+So if a basic puzzle is,
+why do females have orgasms
+
+00:19:50.510 --> 00:19:53.210
+if it's not necessary for
+conception and, in fact,
+
+00:19:53.210 --> 00:19:56.180
+the evidence is not great
+that it even facilitates it,
+
+00:19:56.180 --> 00:19:58.410
+why on top of all of
+that, why such things
+
+00:19:58.410 --> 00:20:01.930
+as clitoral orgasms, which
+the studies generally show
+
+00:20:01.930 --> 00:20:03.690
+are more easily
+brought about than
+
+00:20:03.690 --> 00:20:06.360
+are vaginal ones,
+what's up with that?
+
+00:20:06.360 --> 00:20:07.890
+Even more the same question.
+
+00:20:07.890 --> 00:20:10.000
+Now somewhere in
+there is a lurking
+
+00:20:10.000 --> 00:20:12.550
+the heart breaking
+possibility in making
+
+00:20:12.550 --> 00:20:16.790
+sense of why female orgasm
+exists the dreadful possibility
+
+00:20:16.790 --> 00:20:20.150
+that what we're dealing
+with here is a spandrel.
+
+00:20:20.150 --> 00:20:22.030
+And that it is a spandrel.
+
+00:20:22.030 --> 00:20:24.440
+It is simply baggage
+brought along
+
+00:20:24.440 --> 00:20:28.940
+that those guys have to go
+through this orgasm physiology
+
+00:20:28.940 --> 00:20:32.390
+to do any stuff with sperm
+and pass on copies of genes
+
+00:20:32.390 --> 00:20:33.380
+and all of that.
+
+00:20:33.380 --> 00:20:36.900
+And it's simply baggage
+that the same physiology
+
+00:20:36.900 --> 00:20:38.240
+occurs in females.
+
+00:20:38.240 --> 00:20:42.860
+That orgasm is simply
+a spandrel in women.
+
+00:20:42.860 --> 00:20:46.100
+And the counter scenario
+that's always given
+
+00:20:46.100 --> 00:20:48.960
+is, this is exactly
+equivalent to the notion
+
+00:20:48.960 --> 00:20:51.730
+that nipples are
+spandrels in men,
+
+00:20:51.730 --> 00:20:54.960
+in that women, female
+mammals, need to go about all
+
+00:20:54.960 --> 00:20:56.380
+this lactation business.
+
+00:20:56.380 --> 00:20:58.740
+And that's part of the
+whole package deal.
+
+00:20:58.740 --> 00:21:03.470
+And just as it would be way
+too much work to evolve females
+
+00:21:03.470 --> 00:21:05.410
+without orgasms,
+it would be way too
+
+00:21:05.410 --> 00:21:07.770
+much to get rid of those
+useless nipples on men.
+
+00:21:07.770 --> 00:21:08.270
+OK.
+
+00:21:08.270 --> 00:21:09.660
+Let's have a quick survey.
+
+00:21:09.660 --> 00:21:11.360
+Yes?
+
+00:21:11.360 --> 00:21:12.842
+So could a lot of
+those questions
+
+00:21:12.842 --> 00:21:15.686
+also be applied to why
+do male have orgasms?
+
+00:21:15.686 --> 00:21:18.060
+Because ejaculation can
+occur without orgasm.
+
+00:21:18.060 --> 00:21:18.650
+OK.
+
+00:21:18.650 --> 00:21:21.020
+So why do males have orgasms?
+
+00:21:21.020 --> 00:21:25.590
+Ejaculation can occur--
+it is far more voluminous
+
+00:21:25.590 --> 00:21:27.320
+in the face of an orgasm.
+
+00:21:27.320 --> 00:21:31.810
+So that's easily framed in
+terms of an adaptive mechanism.
+
+00:21:31.810 --> 00:21:32.350
+OK.
+
+00:21:32.350 --> 00:21:33.890
+Quick survey here.
+
+00:21:33.890 --> 00:21:37.370
+How many people--
+OK, how many guys
+
+00:21:37.370 --> 00:21:39.490
+who have those useless
+nipples, how many of you
+
+00:21:39.490 --> 00:21:42.496
+go for the nipple as
+spandrel in guys theory?
+
+00:21:46.001 --> 00:21:46.500
+Whoa.
+
+00:21:46.500 --> 00:21:48.370
+Is that slow in the hands?
+
+00:21:48.370 --> 00:21:48.920
+OK.
+
+00:21:48.920 --> 00:21:50.325
+Should I raise my hand?
+
+00:21:50.325 --> 00:21:51.450
+Should I not raise my hand?
+
+00:21:51.450 --> 00:21:53.440
+OK.
+
+00:21:53.440 --> 00:21:56.300
+Women in the room, how many
+go for the female orgasm
+
+00:21:56.300 --> 00:21:58.700
+is merely spandrel theory?
+
+00:22:02.500 --> 00:22:05.640
+If I recall, there was one other
+question somewhere a few weeks
+
+00:22:05.640 --> 00:22:07.840
+back that only got one
+person fessing up to it,
+
+00:22:07.840 --> 00:22:10.110
+and it came somewhere
+around there also.
+
+00:22:10.110 --> 00:22:12.615
+So I don't know if
+that's the lighting
+
+00:22:12.615 --> 00:22:15.270
+or if people tend to
+sit in the same places.
+
+00:22:15.270 --> 00:22:15.770
+OK.
+
+00:22:15.770 --> 00:22:19.690
+So not a whole lot of enthusiasm
+for the spandrel concepts here.
+
+00:22:19.690 --> 00:22:23.510
+Nonetheless, that needs to
+be seriously entertained.
+
+00:22:23.510 --> 00:22:24.190
+OK.
+
+00:22:24.190 --> 00:22:28.410
+So now looking at other features
+of the fixed action patterns,
+
+00:22:28.410 --> 00:22:30.840
+and amid all these
+different species
+
+00:22:30.840 --> 00:22:35.460
+doing lordotic stuff and
+orgasms and ejaculation and all
+
+00:22:35.460 --> 00:22:38.730
+of that, what are some of
+the realms of sexual behavior
+
+00:22:38.730 --> 00:22:41.460
+that are relatively
+unique to humans?
+
+00:22:41.460 --> 00:22:44.800
+First off, one that used to be
+thought to be absolutely unique
+
+00:22:44.800 --> 00:22:47.460
+was non-reproductive sex.
+
+00:22:47.460 --> 00:22:50.550
+This is a world of difference
+than those species where
+
+00:22:50.550 --> 00:22:53.910
+the female ovulates for like
+2 and 1/2 hours every year,
+
+00:22:53.910 --> 00:22:55.560
+and everybody mates
+at that point.
+
+00:22:55.560 --> 00:22:58.600
+Or species where
+somebody comes into heat,
+
+00:22:58.600 --> 00:23:00.210
+a female is in estrus.
+
+00:23:00.210 --> 00:23:03.100
+Humans have
+non-reproductive sex.
+
+00:23:03.100 --> 00:23:05.550
+And that was viewed
+as absolutely unique.
+
+00:23:05.550 --> 00:23:08.570
+What it is now clear is it
+is not completely unique.
+
+00:23:08.570 --> 00:23:10.810
+There are lots of
+other species that do,
+
+00:23:10.810 --> 00:23:14.910
+probably most famously bonobo
+chimps and various cetaceans
+
+00:23:14.910 --> 00:23:15.610
+like dolphins.
+
+00:23:15.610 --> 00:23:19.490
+Nonetheless, it is certainly
+a specialty among humans.
+
+00:23:19.490 --> 00:23:20.490
+What else?
+
+00:23:20.490 --> 00:23:24.750
+Foreplay, that used to be in the
+category of human specialties.
+
+00:23:24.750 --> 00:23:28.140
+And it is clear by now that
+bonobo chimps, for example,
+
+00:23:28.140 --> 00:23:30.960
+have vastly more
+patience with foreplay
+
+00:23:30.960 --> 00:23:32.210
+than average humans do.
+
+00:23:32.210 --> 00:23:34.960
+We are not the only
+species with that either.
+
+00:23:34.960 --> 00:23:37.430
+Huge, huge controversy.
+
+00:23:37.430 --> 00:23:42.070
+How unique is homosexuality
+to human behavior?
+
+00:23:42.070 --> 00:23:43.520
+Human sexual behavior?
+
+00:23:43.520 --> 00:23:47.170
+And what's clear increasingly
+is we're not the only species
+
+00:23:47.170 --> 00:23:48.260
+with that either.
+
+00:23:48.260 --> 00:23:52.250
+The original view, when people
+would view homosexual behavior,
+
+00:23:52.250 --> 00:23:55.040
+male-male, female-female,
+in other species,
+
+00:23:55.040 --> 00:23:57.010
+it would be animals
+in captivity.
+
+00:23:57.010 --> 00:23:58.800
+And it would be
+the, why is there
+
+00:23:58.800 --> 00:24:01.610
+so much homosexuality
+in prisons argument--
+
+00:24:01.610 --> 00:24:02.980
+lack of alternatives.
+
+00:24:02.980 --> 00:24:06.030
+This was not normal,
+natural behavior.
+
+00:24:06.030 --> 00:24:08.660
+What is clear from
+ethological field studies
+
+00:24:08.660 --> 00:24:11.060
+is we are by no means
+the only species
+
+00:24:11.060 --> 00:24:12.960
+to have homosexual behavior.
+
+00:24:12.960 --> 00:24:14.140
+What else?
+
+00:24:14.140 --> 00:24:17.560
+One of the things that we do
+seem to be fairly unique about
+
+00:24:17.560 --> 00:24:21.450
+is having egalitarian
+sex, which is
+
+00:24:21.450 --> 00:24:24.770
+to say that there are
+no human cultures where
+
+00:24:24.770 --> 00:24:28.820
+as part of the central
+tenets of that culture people
+
+00:24:28.820 --> 00:24:31.860
+are restricted, only a
+subset of individuals
+
+00:24:31.860 --> 00:24:33.490
+are allowed to reproduce.
+
+00:24:33.490 --> 00:24:35.280
+And this is a
+world of difference
+
+00:24:35.280 --> 00:24:36.500
+from various species.
+
+00:24:36.500 --> 00:24:39.280
+For example, New World
+monkeys, marmosets,
+
+00:24:39.280 --> 00:24:42.280
+where it is only one
+male and one female
+
+00:24:42.280 --> 00:24:44.400
+in a group that does
+the reproducing.
+
+00:24:44.400 --> 00:24:49.780
+Instead, humans in every culture
+ever seen have egalitarian sex.
+
+00:24:49.780 --> 00:24:50.580
+What else?
+
+00:24:50.580 --> 00:24:52.340
+What else is highly human?
+
+00:24:52.340 --> 00:24:54.560
+People used to
+think exclusively so
+
+00:24:54.560 --> 00:24:56.950
+this endless quest for variety.
+
+00:24:56.950 --> 00:24:59.560
+And again, just take a look
+at these bonobo chimps,
+
+00:24:59.560 --> 00:25:02.510
+and you'll see how small minded
+we are when it comes to this.
+
+00:25:02.510 --> 00:25:04.160
+But something else
+that is indeed
+
+00:25:04.160 --> 00:25:06.960
+unique to human sexual
+behavior is the notion
+
+00:25:06.960 --> 00:25:09.550
+that this is something
+you do in private.
+
+00:25:09.550 --> 00:25:14.440
+There is no other species where
+the majority of sexual behavior
+
+00:25:14.440 --> 00:25:17.820
+is conducted intentionally
+outside the sight of everybody
+
+00:25:17.820 --> 00:25:18.380
+else.
+
+00:25:18.380 --> 00:25:21.050
+That is rather unique to humans.
+
+00:25:21.050 --> 00:25:23.380
+What else about
+human sexual behavior
+
+00:25:23.380 --> 00:25:25.605
+seems to be specializations?
+
+00:25:25.605 --> 00:25:29.120
+One that is fairly unique,
+if not entirely so,
+
+00:25:29.120 --> 00:25:33.120
+is the subset of humans who
+psychopathological confuse
+
+00:25:33.120 --> 00:25:34.970
+sexual behavior with violence.
+
+00:25:34.970 --> 00:25:37.890
+And that seems not to have
+a whole lot of precedence.
+
+00:25:37.890 --> 00:25:40.930
+So immediately one
+asks other domains.
+
+00:25:40.930 --> 00:25:45.060
+Masturbation, that is not
+remotely a human specialty.
+
+00:25:45.060 --> 00:25:47.330
+That has all sorts of
+other species as well.
+
+00:25:47.330 --> 00:25:49.910
+And that used to get the,
+well, what else is there
+
+00:25:49.910 --> 00:25:53.460
+to do when you're sitting in
+the zoo-- for the animals-- what
+
+00:25:53.460 --> 00:25:54.640
+else is there to do?
+
+00:25:54.640 --> 00:25:56.060
+It is not natural.
+
+00:25:56.060 --> 00:25:57.720
+It is a default whatever.
+
+00:25:57.720 --> 00:25:59.420
+But looking out
+in the real world,
+
+00:25:59.420 --> 00:26:01.350
+and there is plenty of that.
+
+00:26:01.350 --> 00:26:04.410
+And one of the most like
+implausible suggestions
+
+00:26:04.410 --> 00:26:07.130
+for an adaptive
+just so story thing
+
+00:26:07.130 --> 00:26:09.640
+is, why do male
+primates masturbate
+
+00:26:09.640 --> 00:26:11.280
+to the point of ejaculation?
+
+00:26:11.280 --> 00:26:13.470
+They tend to eat
+the semen afterward.
+
+00:26:13.470 --> 00:26:14.310
+Whoa!
+
+00:26:14.310 --> 00:26:18.070
+Great source of protein,
+go the adaptationists.
+
+00:26:18.070 --> 00:26:20.880
+Everything has an
+adaptive basis.
+
+00:26:20.880 --> 00:26:24.040
+This one does not ring
+terribly true to me.
+
+00:26:24.040 --> 00:26:25.380
+What else?
+
+00:26:25.380 --> 00:26:25.940
+Fantasy.
+
+00:26:25.940 --> 00:26:28.420
+Fantasy in humans, is
+that unique to humans?
+
+00:26:28.420 --> 00:26:30.710
+Obviously, we haven't a clue.
+
+00:26:30.710 --> 00:26:33.380
+But here's one suggestion to
+me that this is not actually
+
+00:26:33.380 --> 00:26:33.900
+the case.
+
+00:26:33.900 --> 00:26:37.290
+And this was years ago where
+I was watching my baboons,
+
+00:26:37.290 --> 00:26:40.020
+and there was this
+one low ranking kid,
+
+00:26:40.020 --> 00:26:43.240
+this snivelly adolescent kid,
+where the nearest thing he has
+
+00:26:43.240 --> 00:26:45.080
+ever gotten to a
+female in his life
+
+00:26:45.080 --> 00:26:48.460
+with some high ranking female
+in a bad mood beating on him.
+
+00:26:48.460 --> 00:26:50.600
+And he's sitting there
+minding his own business.
+
+00:26:50.600 --> 00:26:54.020
+And along comes, I think by
+any baboon male standards,
+
+00:26:54.020 --> 00:26:58.480
+the hottest female in the troop,
+who has a peek estrus swelling,
+
+00:26:58.480 --> 00:27:00.450
+is no doubt ovulating that day.
+
+00:27:00.450 --> 00:27:02.630
+Comes walking along,
+followed two feet
+
+00:27:02.630 --> 00:27:04.720
+behind by the huge
+menacing male,
+
+00:27:04.720 --> 00:27:06.420
+who was in the
+consortship with her.
+
+00:27:06.420 --> 00:27:09.779
+And our guy just sits there
+and doesn't even quite
+
+00:27:09.779 --> 00:27:10.820
+look at what's happening.
+
+00:27:10.820 --> 00:27:13.430
+Every now and then, his eyes
+go up, watching them go past.
+
+00:27:13.430 --> 00:27:16.190
+And as she walks past,
+he gets an erection
+
+00:27:16.190 --> 00:27:19.540
+and then goes off
+and masturbates.
+
+00:27:19.540 --> 00:27:20.440
+OK.
+
+00:27:20.440 --> 00:27:22.370
+The charming-- I don't
+know if this is even
+
+00:27:22.370 --> 00:27:24.100
+the word you can use
+in this setting--
+
+00:27:24.100 --> 00:27:27.400
+but the charming notion is
+that we've just seen evidence
+
+00:27:27.400 --> 00:27:31.390
+for some sort of internal
+fantasy life going on this guy.
+
+00:27:31.390 --> 00:27:31.990
+OK.
+
+00:27:31.990 --> 00:27:34.420
+You could be a killjoy
+instead and say, no, no.
+
+00:27:34.420 --> 00:27:36.860
+She was giving off
+wafts of pheromones,
+
+00:27:36.860 --> 00:27:38.930
+and that was what was
+responsible for it.
+
+00:27:38.930 --> 00:27:40.710
+Nonetheless this is
+about as far as we
+
+00:27:40.710 --> 00:27:42.650
+can get at asking this
+critical question,
+
+00:27:42.650 --> 00:27:46.870
+are we the only species that
+does this fantasizing stuff?
+
+00:27:46.870 --> 00:27:48.250
+Marriage.
+
+00:27:48.250 --> 00:27:50.780
+Clearly, we've heard about
+monogamous pair bonding
+
+00:27:50.780 --> 00:27:51.540
+species.
+
+00:27:51.540 --> 00:27:55.230
+In terms of the formal structure
+of marriage, it is universal.
+
+00:27:55.230 --> 00:27:57.960
+All human cultures have
+some version of it.
+
+00:27:57.960 --> 00:28:01.070
+Across all human cultures,
+more than 90% of people
+
+00:28:01.070 --> 00:28:03.290
+wind up in that
+culture's equivalent
+
+00:28:03.290 --> 00:28:06.250
+of a permanent,
+stable relationship.
+
+00:28:06.250 --> 00:28:08.380
+And this is the case
+in polygamous cultures.
+
+00:28:08.380 --> 00:28:10.030
+We've already heard
+that business.
+
+00:28:10.030 --> 00:28:13.620
+Even though historically, the
+majority of human cultures
+
+00:28:13.620 --> 00:28:16.470
+have been polygamous,
+nonetheless, amid them,
+
+00:28:16.470 --> 00:28:19.140
+the vast majority of
+individuals have been
+
+00:28:19.140 --> 00:28:21.370
+in monogamous relationships.
+
+00:28:21.370 --> 00:28:24.040
+Amid that, nonetheless,
+what is also
+
+00:28:24.040 --> 00:28:27.570
+clear is amid that highly,
+highly prevalent pattern
+
+00:28:27.570 --> 00:28:30.850
+of monogamous relationships,
+there's a lot less monogamy
+
+00:28:30.850 --> 00:28:32.650
+going around than
+you would think.
+
+00:28:32.650 --> 00:28:35.960
+And this was first sorted
+out-- people like Alfred Kinsey
+
+00:28:35.960 --> 00:28:38.420
+when first working out
+that questionnaire approach
+
+00:28:38.420 --> 00:28:41.010
+to people's sexual
+behavior, what became clear
+
+00:28:41.010 --> 00:28:45.930
+was there is a lot less
+faith within pair bonding,
+
+00:28:45.930 --> 00:28:48.690
+within humans in this
+country and has since
+
+00:28:48.690 --> 00:28:50.870
+shown in all sorts
+of other societies
+
+00:28:50.870 --> 00:28:52.810
+than one would
+originally assume.
+
+00:28:52.810 --> 00:28:57.070
+There is social monogamy but
+not necessarily anywhere near
+
+00:28:57.070 --> 00:29:00.270
+as high of rates
+of sexual monogamy.
+
+00:29:00.270 --> 00:29:02.440
+And what the paternity
+studies have shown
+
+00:29:02.440 --> 00:29:05.390
+is in most Western
+European countries,
+
+00:29:05.390 --> 00:29:07.800
+the rate at which children
+have been fathered
+
+00:29:07.800 --> 00:29:11.850
+by an individual other
+than the person claiming
+
+00:29:11.850 --> 00:29:16.720
+marriageable credit for doing
+so ranges between 10% and 40%
+
+00:29:16.720 --> 00:29:17.940
+of children.
+
+00:29:17.940 --> 00:29:20.350
+How's that for a number?
+
+00:29:20.350 --> 00:29:21.070
+OK.
+
+00:29:21.070 --> 00:29:22.000
+What else?
+
+00:29:22.000 --> 00:29:25.900
+What else tends to be a feature
+of human sexual behavior?
+
+00:29:25.900 --> 00:29:29.875
+What you have is, of course,
+not only intrinsic in the fact
+
+00:29:29.875 --> 00:29:32.000
+that there's a difference
+between social and sexual
+
+00:29:32.000 --> 00:29:32.800
+monogamy.
+
+00:29:32.800 --> 00:29:34.280
+You have cheating.
+
+00:29:34.280 --> 00:29:36.840
+That is a human specialty
+in every culture.
+
+00:29:36.840 --> 00:29:39.850
+What else is absolutely
+wildly human?
+
+00:29:39.850 --> 00:29:41.730
+This notion of romance.
+
+00:29:41.730 --> 00:29:44.610
+And romance is,
+by most estimates,
+
+00:29:44.610 --> 00:29:48.080
+a relatively new invention
+in most cultures,
+
+00:29:48.080 --> 00:29:49.910
+maybe a couple of centuries old.
+
+00:29:49.910 --> 00:29:52.370
+And what is an even
+newer invention
+
+00:29:52.370 --> 00:29:55.290
+is the notion that romance,
+passion, et cetera,
+
+00:29:55.290 --> 00:29:58.910
+should persist, should last
+throughout the entire duration
+
+00:29:58.910 --> 00:30:00.530
+of the lifetime's marriage.
+
+00:30:00.530 --> 00:30:03.020
+That is an utterly
+novel concept.
+
+00:30:03.020 --> 00:30:05.820
+That is perhaps 30,
+40, 50 years old
+
+00:30:05.820 --> 00:30:07.740
+in most Westernized countries.
+
+00:30:07.740 --> 00:30:09.670
+That's a new one as well.
+
+00:30:09.670 --> 00:30:11.410
+What that, of
+course, ushers in is
+
+00:30:11.410 --> 00:30:12.900
+looking at issues of divorce.
+
+00:30:12.900 --> 00:30:16.370
+Across all cultures, the
+average duration of marriages
+
+00:30:16.370 --> 00:30:18.590
+are two to four years.
+
+00:30:18.590 --> 00:30:20.280
+And people have
+made the argument
+
+00:30:20.280 --> 00:30:24.030
+that that is the typical
+duration of children being
+
+00:30:24.030 --> 00:30:26.960
+dependent on a high
+degree of parenting,
+
+00:30:26.960 --> 00:30:28.490
+of both parents being around.
+
+00:30:28.490 --> 00:30:32.360
+That is the average interbirth
+interval, two to four years,
+
+00:30:32.360 --> 00:30:34.430
+in most traditional
+human cultures.
+
+00:30:34.430 --> 00:30:36.770
+What's the term
+being described then
+
+00:30:36.770 --> 00:30:39.960
+if that is the "natural"
+point at which most
+
+00:30:39.960 --> 00:30:43.600
+marriages dissolve and turn into
+other monogamous relationships?
+
+00:30:43.600 --> 00:30:46.660
+The term that is
+given is that humans
+
+00:30:46.660 --> 00:30:51.180
+tend toward being serial
+monogamists, moving from one
+
+00:30:51.180 --> 00:30:55.180
+monogamous relationship to
+another with, on the average,
+
+00:30:55.180 --> 00:30:59.140
+a lag time roughly corresponding
+to the interbirth interval.
+
+00:30:59.140 --> 00:31:00.290
+So that's charming.
+
+00:31:00.290 --> 00:31:01.510
+What else?
+
+00:31:01.510 --> 00:31:02.930
+What else do you have?
+
+00:31:02.930 --> 00:31:06.660
+All sorts of other aspects
+of human sexual variety,
+
+00:31:06.660 --> 00:31:09.430
+but ultimately, when you
+look at human sexual behavior
+
+00:31:09.430 --> 00:31:13.190
+versus other species,
+we are so boring.
+
+00:31:13.190 --> 00:31:16.880
+We are so limited when you look
+at the range of unlikely things
+
+00:31:16.880 --> 00:31:18.200
+going on out there.
+
+00:31:18.200 --> 00:31:22.570
+Species that are
+regularly hermaphroditic--
+
+00:31:22.570 --> 00:31:24.510
+and people, in fact,
+have done studies
+
+00:31:24.510 --> 00:31:27.510
+on how is it that a
+hermaphroditic animal does not
+
+00:31:27.510 --> 00:31:29.020
+try to have sex with itself?
+
+00:31:29.020 --> 00:31:31.170
+And these are usually
+worm type things.
+
+00:31:31.170 --> 00:31:33.520
+And that's some version
+of an incest avoidance.
+
+00:31:33.520 --> 00:31:36.720
+At the same time, there are
+other species where individuals
+
+00:31:36.720 --> 00:31:39.030
+change sex opportunistically.
+
+00:31:39.030 --> 00:31:41.480
+All sorts of fish species
+where that happens.
+
+00:31:41.480 --> 00:31:43.980
+Lots of species that
+are parthenogenetic,
+
+00:31:43.980 --> 00:31:47.970
+where an individual reproduces
+without the benefit of anybody
+
+00:31:47.970 --> 00:31:49.580
+else's genetic input.
+
+00:31:49.580 --> 00:31:53.040
+Even stranger, there's a bunch
+of snake species that are
+
+00:31:53.040 --> 00:31:56.740
+parthenogenic, but the
+females cannot reproduce
+
+00:31:56.740 --> 00:32:00.280
+parthenogenically unless
+they mate with males.
+
+00:32:00.280 --> 00:32:03.050
+They do not actually get
+any sperm from the males,
+
+00:32:03.050 --> 00:32:05.050
+and they get no
+genetic contribution,
+
+00:32:05.050 --> 00:32:07.140
+but something about
+that is necessary
+
+00:32:07.140 --> 00:32:10.780
+for the parthenogenetic
+event to occur.
+
+00:32:10.780 --> 00:32:11.280
+OK.
+
+00:32:11.280 --> 00:32:15.000
+So all sorts of bizarrities that
+make our fixed action patterns
+
+00:32:15.000 --> 00:32:16.840
+look really pretty dull.
+
+00:32:16.840 --> 00:32:19.900
+But nonetheless, these are the
+backbones of the human fixed
+
+00:32:19.900 --> 00:32:21.970
+action patterns,
+and some of them
+
+00:32:21.970 --> 00:32:24.160
+wildly unique, some
+of them far less
+
+00:32:24.160 --> 00:32:26.090
+than people used to
+think, some of them
+
+00:32:26.090 --> 00:32:28.000
+very, very unprecedented.
+
+00:32:28.000 --> 00:32:28.500
+OK.
+
+00:32:28.500 --> 00:32:32.040
+So what this allows us to do
+now is make our first big step.
+
+00:32:32.040 --> 00:32:33.810
+What's going on in the brain?
+
+00:32:33.810 --> 00:32:36.750
+What is the neurobiology
+of sexual behavior
+
+00:32:36.750 --> 00:32:39.700
+producing those fixed
+action patterns?
+
+00:32:39.700 --> 00:32:42.730
+And what you better bet
+right off the bat is we
+
+00:32:42.730 --> 00:32:44.920
+are talking about
+the limbic system.
+
+00:32:44.920 --> 00:32:46.850
+This is all limbic
+system until we
+
+00:32:46.850 --> 00:32:49.560
+see ways in which it's not
+just all the limbic system.
+
+00:32:49.560 --> 00:32:51.810
+But it is heavily
+centered-- no surprise--
+
+00:32:51.810 --> 00:32:53.000
+in the limbic system.
+
+00:32:53.000 --> 00:32:56.710
+And this was being noted
+first around the 1930s, 1940s
+
+00:32:56.710 --> 00:33:00.610
+with the first experiments where
+there were lesion studies done
+
+00:33:00.610 --> 00:33:03.550
+damaging different parts of
+the limbic system in animals.
+
+00:33:03.550 --> 00:33:06.600
+And what would be noted
+was animal sexual behavior
+
+00:33:06.600 --> 00:33:07.830
+would change.
+
+00:33:07.830 --> 00:33:10.880
+And this was eventually
+termed a profile,
+
+00:33:10.880 --> 00:33:13.930
+termed after the two scientists
+who pioneered this stuff called
+
+00:33:13.930 --> 00:33:18.230
+the Kluvre-Bucy Syndrome,
+which is when you damage some
+
+00:33:18.230 --> 00:33:22.980
+of these strange mysterious
+rhinencephalonic structures
+
+00:33:22.980 --> 00:33:25.880
+in there, you change
+the sexual behavior.
+
+00:33:25.880 --> 00:33:28.540
+You change, for
+example, in monkeys,
+
+00:33:28.540 --> 00:33:32.300
+whether they are attempting
+to mate with another monkey as
+
+00:33:32.300 --> 00:33:34.080
+opposed to an inanimate object.
+
+00:33:34.080 --> 00:33:37.100
+They change aspects of
+the fixed action patterns
+
+00:33:37.100 --> 00:33:38.430
+of the behavior and such.
+
+00:33:38.430 --> 00:33:40.820
+And out of it, this was
+one of the main driving
+
+00:33:40.820 --> 00:33:44.240
+forces on people saying,
+nose-brain, well, that's great.
+
+00:33:44.240 --> 00:33:45.850
+But actually, what
+we're looking at
+
+00:33:45.850 --> 00:33:49.210
+is a part of the brain that
+has lots to do with emotion
+
+00:33:49.210 --> 00:33:51.320
+and emotionally
+related behaviors.
+
+00:33:51.320 --> 00:33:53.070
+That was one of
+the driving forces
+
+00:33:53.070 --> 00:33:56.851
+on the limbic system being
+pulled together as a concept.
+
+00:33:56.851 --> 00:33:57.350
+OK.
+
+00:33:57.350 --> 00:34:00.480
+So what areas within the
+limbic system are relevant?
+
+00:34:00.480 --> 00:34:03.410
+First pass, there are
+different hot spots
+
+00:34:03.410 --> 00:34:06.340
+in there depending on gender.
+
+00:34:06.340 --> 00:34:09.350
+Among females, probably
+the most important area
+
+00:34:09.350 --> 00:34:11.820
+is a subsection of the
+hypothalamus called
+
+00:34:11.820 --> 00:34:14.469
+the ventral medial
+hypothalamus involved
+
+00:34:14.469 --> 00:34:16.360
+in female sexual behavior.
+
+00:34:16.360 --> 00:34:17.960
+What's the evidence for that?
+
+00:34:17.960 --> 00:34:20.870
+Just go back to last
+Friday's lecture--
+
+00:34:20.870 --> 00:34:25.040
+lesion studies, stimulation
+studies, recording studies.
+
+00:34:25.040 --> 00:34:28.610
+Destroy the VMH, you do not
+get sexual behavior anymore
+
+00:34:28.610 --> 00:34:29.659
+from a female.
+
+00:34:29.659 --> 00:34:32.320
+Stimulate it, and you will
+get the same behaviors
+
+00:34:32.320 --> 00:34:34.650
+that you would normally
+only see in an ovulating
+
+00:34:34.650 --> 00:34:36.630
+female rat for example.
+
+00:34:36.630 --> 00:34:39.360
+All the sorts of
+tools we heard about.
+
+00:34:39.360 --> 00:34:41.679
+Reinforcing this
+even more is this
+
+00:34:41.679 --> 00:34:44.730
+is the hot spot in the
+hypothalamus for receptors
+
+00:34:44.730 --> 00:34:48.179
+for estrogen and progesterone.
+
+00:34:48.179 --> 00:34:50.730
+So that makes lots of sense.
+
+00:34:50.730 --> 00:34:54.300
+Meanwhile, another region of
+the brain that is typically
+
+00:34:54.300 --> 00:34:56.469
+involved in sexual
+behavior in females,
+
+00:34:56.469 --> 00:34:58.150
+a region in the midbrain.
+
+00:34:58.150 --> 00:35:01.460
+The midbrain, which seems to
+have something to do with some
+
+00:35:01.460 --> 00:35:05.250
+of the hormonal aspects
+of sexual behavior
+
+00:35:05.250 --> 00:35:07.050
+that are specific to females.
+
+00:35:07.050 --> 00:35:10.590
+Finally, back to
+that lordosis reflex,
+
+00:35:10.590 --> 00:35:13.110
+you got to have a
+spinal cord to pull off
+
+00:35:13.110 --> 00:35:15.870
+the full array of typical
+mammalian female sexual
+
+00:35:15.870 --> 00:35:16.700
+behavior.
+
+00:35:16.700 --> 00:35:19.500
+So spinal pathways,
+which do not exist
+
+00:35:19.500 --> 00:35:23.560
+in males, lordotic reflexes,
+the back arching reflex,
+
+00:35:23.560 --> 00:35:26.930
+is exclusively a female one.
+
+00:35:26.930 --> 00:35:29.340
+Meanwhile, over on the
+other side of things,
+
+00:35:29.340 --> 00:35:31.460
+there are regions
+in the brain that
+
+00:35:31.460 --> 00:35:34.880
+tend to be more specialized
+for sexual behavior in males
+
+00:35:34.880 --> 00:35:38.370
+than in females-- a different
+part of the hypothalamus
+
+00:35:38.370 --> 00:35:41.270
+called the medial preoptic area.
+
+00:35:41.270 --> 00:35:43.740
+And the exact same
+sort of evidence
+
+00:35:43.740 --> 00:35:45.510
+is for the ventral
+medial hypothalamus
+
+00:35:45.510 --> 00:35:49.320
+in females-- lesion studies,
+stimulation, recording studies,
+
+00:35:49.320 --> 00:35:51.330
+all that sort of
+thing, and-- you
+
+00:35:51.330 --> 00:35:53.320
+guessed it-- whopping
+great amounts
+
+00:35:53.320 --> 00:35:56.970
+of testosterone receptors,
+androgen receptors,
+
+00:35:56.970 --> 00:36:00.020
+within the medial preoptic area.
+
+00:36:00.020 --> 00:36:04.140
+Very interestingly, something we
+will hear more about next week
+
+00:36:04.140 --> 00:36:06.780
+or so, is another
+region of the brain
+
+00:36:06.780 --> 00:36:09.420
+is involved in male
+sexual behavior, which
+
+00:36:09.420 --> 00:36:11.770
+is the amygdala.
+
+00:36:11.770 --> 00:36:12.560
+Mhm.
+
+00:36:12.560 --> 00:36:13.890
+That's kind of interesting.
+
+00:36:13.890 --> 00:36:14.620
+The amygdala.
+
+00:36:14.620 --> 00:36:17.295
+We've already heard about
+amygdala fear, anxiety,
+
+00:36:17.295 --> 00:36:18.440
+and all of that.
+
+00:36:18.440 --> 00:36:23.430
+But the amygdala also plays a
+very major role in aggression.
+
+00:36:23.430 --> 00:36:26.390
+And there's a little
+bit, a small domain,
+
+00:36:26.390 --> 00:36:28.570
+of amygdaloid function
+in males that's
+
+00:36:28.570 --> 00:36:33.560
+involved in sexual behavior,
+involved in sexual motivation.
+
+00:36:33.560 --> 00:36:37.640
+Medial preoptic area is much
+more about sexual performance
+
+00:36:37.640 --> 00:36:38.680
+in males.
+
+00:36:38.680 --> 00:36:42.350
+Amygdala is much more
+about sexual motivation.
+
+00:36:42.350 --> 00:36:45.500
+And all sorts of people have
+speculated fairly reasonably,
+
+00:36:45.500 --> 00:36:47.390
+I think, that this
+may have something
+
+00:36:47.390 --> 00:36:50.340
+to do with the fact explaining
+why, among humans, it
+
+00:36:50.340 --> 00:36:53.250
+is far more likely to
+be males than females
+
+00:36:53.250 --> 00:36:56.690
+who go about confusing
+sexuality with aggression.
+
+00:36:56.690 --> 00:36:59.470
+That it's got something
+to do with this weird role
+
+00:36:59.470 --> 00:37:02.140
+of the amygdala in
+male sexual motivation,
+
+00:37:02.140 --> 00:37:04.220
+male sexual arousal.
+
+00:37:04.220 --> 00:37:05.600
+What else?
+
+00:37:05.600 --> 00:37:06.410
+OK.
+
+00:37:06.410 --> 00:37:08.810
+Males have penises, thus
+they're the only ones
+
+00:37:08.810 --> 00:37:11.420
+who can have penile
+erections, and to do
+
+00:37:11.420 --> 00:37:14.020
+that, autonomic nervous system.
+
+00:37:14.020 --> 00:37:16.120
+And what we will hear
+about, what you already
+
+00:37:16.120 --> 00:37:18.480
+heard about in the introduction
+to the autonomic nervous
+
+00:37:18.480 --> 00:37:21.010
+system, but also in
+the zebra's book is
+
+00:37:21.010 --> 00:37:24.510
+that whole business in order to
+manage that, to pull that off
+
+00:37:24.510 --> 00:37:27.400
+initially, it is
+parasympathetic nervous system
+
+00:37:27.400 --> 00:37:29.180
+that establishes the erection.
+
+00:37:29.180 --> 00:37:32.930
+The process of arousal involves
+the transition to sympathetic.
+
+00:37:32.930 --> 00:37:34.960
+Full blast sympathetic
+nervous system
+
+00:37:34.960 --> 00:37:38.300
+needed for ejaculation, that's
+what all of that is about.
+
+00:37:38.300 --> 00:37:40.340
+Exclusive to males.
+
+00:37:40.340 --> 00:37:43.370
+But then it turns out it's
+not exclusive to males
+
+00:37:43.370 --> 00:37:46.960
+because it's virtually the
+exact same physiology underlying
+
+00:37:46.960 --> 00:37:50.970
+clitoral erections in females,
+the same exact sort of thing,
+
+00:37:50.970 --> 00:37:53.600
+which, of course, brings up
+the dangerous possibility
+
+00:37:53.600 --> 00:37:56.240
+of another spandrel in
+our laps here in terms
+
+00:37:56.240 --> 00:37:57.470
+of making sense of that.
+
+00:37:57.470 --> 00:37:58.640
+I didn't say that just now.
+
+00:37:58.640 --> 00:38:01.230
+Did I say spandrels in your lap?
+
+00:38:01.230 --> 00:38:02.370
+OK.
+
+00:38:02.370 --> 00:38:04.900
+Bringing up that
+possibility that is not
+
+00:38:04.900 --> 00:38:07.650
+specific to male physiology.
+
+00:38:07.650 --> 00:38:10.240
+What is specific,
+of course, is stuff
+
+00:38:10.240 --> 00:38:13.020
+that's going on with penises
+in terms of blood flow.
+
+00:38:13.020 --> 00:38:16.310
+There's generally a
+dichotomy between species,
+
+00:38:16.310 --> 00:38:19.910
+between whether or not
+males get vascular erections
+
+00:38:19.910 --> 00:38:22.070
+or muscular erections.
+
+00:38:22.070 --> 00:38:25.880
+Vascular erections, you increase
+blood flow into the penis,
+
+00:38:25.880 --> 00:38:28.190
+and you stop it from
+going out the other end.
+
+00:38:28.190 --> 00:38:31.060
+And thus, you get a
+vascular-driven engorgement
+
+00:38:31.060 --> 00:38:33.830
+as DH Lawrence would no
+doubt have described it.
+
+00:38:33.830 --> 00:38:35.750
+Alternatively, in
+lots of species
+
+00:38:35.750 --> 00:38:37.810
+there are muscular erections.
+
+00:38:37.810 --> 00:38:41.350
+There is a muscle, for example,
+found in rodent penises called
+
+00:38:41.350 --> 00:38:44.549
+the erector [? levae ?]
+muscle-- well,
+
+00:38:44.549 --> 00:38:46.590
+that's not too surprising
+that it's called that--
+
+00:38:46.590 --> 00:38:50.030
+and a whole bunch of
+cell bodied neurons
+
+00:38:50.030 --> 00:38:54.590
+in the spinal cord responsible
+for pulling up the sail
+
+00:38:54.590 --> 00:38:56.270
+or whatever it is you do there.
+
+00:38:56.270 --> 00:38:59.290
+And what you get are
+differences in general.
+
+00:38:59.290 --> 00:39:02.820
+The muscular-driven
+erections occur a lot faster.
+
+00:39:02.820 --> 00:39:05.150
+The vascular ones,
+the hemodynamic ones,
+
+00:39:05.150 --> 00:39:07.110
+last a lot longer.
+
+00:39:07.110 --> 00:39:09.160
+Take your pick, but
+it's essentially
+
+00:39:09.160 --> 00:39:13.370
+the exact same autonomic
+physiology in both cases.
+
+00:39:13.370 --> 00:39:16.170
+Finally, one other
+thing, a factoid,
+
+00:39:16.170 --> 00:39:19.190
+a useful one we heard last
+week, which is insofar
+
+00:39:19.190 --> 00:39:22.120
+as there is very
+similar physiology
+
+00:39:22.120 --> 00:39:25.890
+to orgasms in both sexes,
+there is that difference
+
+00:39:25.890 --> 00:39:28.810
+in recovery time,
+how long it takes
+
+00:39:28.810 --> 00:39:30.800
+for the sympathetic
+nervous system
+
+00:39:30.800 --> 00:39:33.500
+to go back to
+baseline post orgasm.
+
+00:39:33.500 --> 00:39:36.000
+And on the average,
+a substantial sex
+
+00:39:36.000 --> 00:39:36.980
+difference in that.
+
+00:39:36.980 --> 00:39:39.810
+Yes, everybody managed
+to guess it last week,
+
+00:39:39.810 --> 00:39:41.220
+which direction it went.
+
+00:39:41.220 --> 00:39:46.460
+A far slower recovery time
+in females than in males.
+
+00:39:46.460 --> 00:39:48.580
+In terms of underlying
+neurobiology,
+
+00:39:48.580 --> 00:39:51.850
+something that was a
+major finding in the field
+
+00:39:51.850 --> 00:39:55.640
+were brain regions that
+differed in size depending
+
+00:39:55.640 --> 00:39:58.710
+on your gender,
+including in humans.
+
+00:39:58.710 --> 00:40:03.020
+And this ushered in a whole
+world of sexual dimorphism
+
+00:40:03.020 --> 00:40:04.110
+in the brain.
+
+00:40:04.110 --> 00:40:07.420
+And there have now been shown
+to be all sorts of brain regions
+
+00:40:07.420 --> 00:40:10.250
+where, on the average,
+you get differences
+
+00:40:10.250 --> 00:40:12.350
+in the size of nuclei.
+
+00:40:12.350 --> 00:40:14.070
+You get differences
+in the number
+
+00:40:14.070 --> 00:40:17.980
+of axons going through a
+bundle of fiber, all of that.
+
+00:40:17.980 --> 00:40:20.509
+And we will hear about some
+more of those down the line.
+
+00:40:20.509 --> 00:40:22.800
+But the one that has gotten
+the most attention in terms
+
+00:40:22.800 --> 00:40:27.800
+of sexual behavior is a
+cluster of tiny nuclei
+
+00:40:27.800 --> 00:40:31.564
+in the hypothalamus
+called the INAH cluster,
+
+00:40:31.564 --> 00:40:36.810
+the Interstitial Nucleus of
+the Anterior Hypothalamus.
+
+00:40:36.810 --> 00:40:38.690
+Do not write down
+what that stands for.
+
+00:40:38.690 --> 00:40:40.950
+But it's a little
+nucleus in there
+
+00:40:40.950 --> 00:40:44.260
+there, a little subset
+of neuronal cell bodies,
+
+00:40:44.260 --> 00:40:47.460
+where you get a very
+substantial sex difference
+
+00:40:47.460 --> 00:40:50.710
+in the size of this area,
+where on the average,
+
+00:40:50.710 --> 00:40:54.780
+it is about twice the
+size in men as in women.
+
+00:40:54.780 --> 00:40:57.690
+And back to the
+other week's rant
+
+00:40:57.690 --> 00:41:00.620
+about statistical
+significance versus magnitude,
+
+00:41:00.620 --> 00:41:02.110
+this is a big effect.
+
+00:41:02.110 --> 00:41:05.070
+It is almost,
+almost in the range
+
+00:41:05.070 --> 00:41:07.890
+where you can identify
+the sex of somebody
+
+00:41:07.890 --> 00:41:10.440
+by looking at the size of
+this nucleus in their brain
+
+00:41:10.440 --> 00:41:11.390
+post-mortem.
+
+00:41:11.390 --> 00:41:13.680
+In rodents, you pretty much can.
+
+00:41:13.680 --> 00:41:17.140
+A very reliable two-fold
+difference, males
+
+00:41:17.140 --> 00:41:18.630
+larger than females.
+
+00:41:18.630 --> 00:41:21.880
+As we'll hear in a while,
+one really interesting
+
+00:41:21.880 --> 00:41:23.500
+exception to that.
+
+00:41:23.500 --> 00:41:24.150
+OK.
+
+00:41:24.150 --> 00:41:28.150
+So either some areas of the
+brain that are preferentially
+
+00:41:28.150 --> 00:41:31.000
+involved and activated
+by sexual behavior,
+
+00:41:31.000 --> 00:41:34.320
+depending on your gender,
+or regions that differ in
+
+00:41:34.320 --> 00:41:36.660
+size substantially
+by your gender.
+
+00:41:36.660 --> 00:41:38.430
+But then, at the end
+of the day, there's
+
+00:41:38.430 --> 00:41:40.930
+all sorts of things that
+are absolutely in common.
+
+00:41:40.930 --> 00:41:45.250
+Again, the physiology of
+orgasm, exactly the same.
+
+00:41:45.250 --> 00:41:48.810
+What clinically the
+picture is is males having
+
+00:41:48.810 --> 00:41:50.460
+problems with the whole system.
+
+00:41:50.460 --> 00:41:54.110
+The problem tends to be
+too rapid of a transition
+
+00:41:54.110 --> 00:41:56.550
+from parasympathetic
+to sympathetic.
+
+00:41:56.550 --> 00:41:59.540
+In other words, the world
+of premature ejaculation.
+
+00:41:59.540 --> 00:42:02.050
+The more typical
+medical problem in women
+
+00:42:02.050 --> 00:42:05.390
+is failure of the
+transition from
+
+00:42:05.390 --> 00:42:09.120
+parasympathetic to sympathetic,
+inability to reach orgasm.
+
+00:42:09.120 --> 00:42:13.540
+And it is, of course, a huge
+social, cultural, political,
+
+00:42:13.540 --> 00:42:15.860
+philosophical
+argument whether that
+
+00:42:15.860 --> 00:42:19.860
+counts as a pathology or
+normal human variability.
+
+00:42:19.860 --> 00:42:21.840
+I'm not going anywhere
+near that one.
+
+00:42:21.840 --> 00:42:25.440
+But nonetheless, that is
+the more common pattern.
+
+00:42:25.440 --> 00:42:28.460
+Neurobiology that's
+absolutely in common
+
+00:42:28.460 --> 00:42:31.510
+between the sexes, which
+is all of that stuff
+
+00:42:31.510 --> 00:42:34.870
+at the very beginning of why
+are they in such a rush at end,
+
+00:42:34.870 --> 00:42:40.360
+the neurobiology of pleasure,
+and the neurobiology of reward,
+
+00:42:40.360 --> 00:42:42.200
+and of anticipation.
+
+00:42:42.200 --> 00:42:44.690
+And this is this
+whole world of-- as we
+
+00:42:44.690 --> 00:42:46.800
+know already-- dopamine.
+
+00:42:46.800 --> 00:42:49.520
+The role of dopamine
+in sexual behavior
+
+00:42:49.520 --> 00:42:52.130
+is virtually identical
+in both sexes, which
+
+00:42:52.130 --> 00:42:55.510
+is to say it plays a huge role.
+
+00:42:55.510 --> 00:42:58.760
+You find circumstances
+where you deplete dopamine
+
+00:42:58.760 --> 00:43:00.320
+from the relevant
+brain regions--
+
+00:43:00.320 --> 00:43:02.980
+back to last Friday--
+limbic system.
+
+00:43:02.980 --> 00:43:05.760
+You remember that
+ventral tegmental area,
+
+00:43:05.760 --> 00:43:08.170
+which sends that big
+dopaminergic projection
+
+00:43:08.170 --> 00:43:11.500
+to the nucleus accumbens,
+which then passes it
+
+00:43:11.500 --> 00:43:14.180
+on to all sorts of
+places in the brain.
+
+00:43:14.180 --> 00:43:17.240
+Deplete that
+pathway of dopamine,
+
+00:43:17.240 --> 00:43:20.230
+and you're not going to
+get a whole lot of interest
+
+00:43:20.230 --> 00:43:21.750
+in sexual behavior.
+
+00:43:21.750 --> 00:43:26.040
+You're not going to get a whole
+lot of libido proceptivity.
+
+00:43:26.040 --> 00:43:28.680
+What's the classic
+circumstance where
+
+00:43:28.680 --> 00:43:30.880
+you see depletion
+of dopamine there
+
+00:43:30.880 --> 00:43:34.000
+and loss of proceptive libido?
+
+00:43:34.000 --> 00:43:35.590
+Clinical depression.
+
+00:43:35.590 --> 00:43:38.270
+That's one of the defining
+symptoms of depression
+
+00:43:38.270 --> 00:43:41.290
+amid the various numerous
+forms of pleasure
+
+00:43:41.290 --> 00:43:42.820
+that go down the tubes.
+
+00:43:42.820 --> 00:43:46.990
+Loss of sexual interest, one
+of the defining symptoms.
+
+00:43:46.990 --> 00:43:48.570
+So the dopamine system.
+
+00:43:48.570 --> 00:43:50.760
+The general term
+given for that is
+
+00:43:50.760 --> 00:43:55.030
+the mesolimbic dopamine
+system to distinguish it
+
+00:43:55.030 --> 00:43:57.890
+from some of the other ways that
+dopamine is used in the brain.
+
+00:43:57.890 --> 00:44:00.490
+The mesolimbic
+dopamine system is
+
+00:44:00.490 --> 00:44:04.350
+absolutely central to
+the reinforcing aspects
+
+00:44:04.350 --> 00:44:06.340
+of sexual behavior.
+
+00:44:06.340 --> 00:44:07.940
+So what's the evidence for that?
+
+00:44:07.940 --> 00:44:10.100
+First off, back to
+that distinction
+
+00:44:10.100 --> 00:44:12.810
+that I think I brought up
+last week-- I wasn't paying
+
+00:44:12.810 --> 00:44:14.920
+attention-- but I
+think I talked about,
+
+00:44:14.920 --> 00:44:17.330
+which is the dopamine
+system there is not
+
+00:44:17.330 --> 00:44:21.340
+so much about reward, it's about
+the anticipation of reward.
+
+00:44:21.340 --> 00:44:23.410
+Did I talk about that in
+monkeys pressing levers?
+
+00:44:23.410 --> 00:44:23.910
+Yes.
+
+00:44:23.910 --> 00:44:24.460
+OK.
+
+00:44:24.460 --> 00:44:27.716
+I should probably read the
+extended notes at some point
+
+00:44:27.716 --> 00:44:29.740
+or look at the film of this.
+
+00:44:29.740 --> 00:44:30.320
+OK.
+
+00:44:30.320 --> 00:44:32.380
+What you see there
+is the dopamine
+
+00:44:32.380 --> 00:44:34.620
+is about the anticipation of.
+
+00:44:34.620 --> 00:44:37.940
+And the dopamine,
+as we heard, is
+
+00:44:37.940 --> 00:44:43.750
+about also fueling the behaviors
+needed to achieve the reward.
+
+00:44:43.750 --> 00:44:46.760
+Dopamine in this
+mesolimbic pathway
+
+00:44:46.760 --> 00:44:49.760
+as driving
+goal-directed behavior.
+
+00:44:49.760 --> 00:44:52.340
+And that is certainly the
+case with sexual behavior.
+
+00:44:52.340 --> 00:44:56.600
+By now, there is a whole
+literature involving humans
+
+00:44:56.600 --> 00:44:58.660
+where you stick them
+in brain scanners
+
+00:44:58.660 --> 00:45:01.490
+and you do something
+or other sexually
+
+00:45:01.490 --> 00:45:04.750
+arousing or interesting or
+something or other to them.
+
+00:45:04.750 --> 00:45:07.950
+And then you see what parts
+of the brain activate.
+
+00:45:07.950 --> 00:45:12.250
+And it's these dopamine pathways
+consistently way up there.
+
+00:45:12.250 --> 00:45:15.950
+Showing just how subtle
+this can be, how's this?
+
+00:45:15.950 --> 00:45:19.720
+You take men-- there's been a
+whole literature by now showing
+
+00:45:19.720 --> 00:45:23.410
+that you present people in
+brain scanners with pornography.
+
+00:45:23.410 --> 00:45:26.360
+And that must have been a really
+interesting in human subjects
+
+00:45:26.360 --> 00:45:27.950
+release form you worked out.
+
+00:45:27.950 --> 00:45:30.660
+But showing in both sexes,
+what you tend to see
+
+00:45:30.660 --> 00:45:33.760
+is activation of
+dopaminergic regions.
+
+00:45:33.760 --> 00:45:36.090
+We will hear in a little
+while a sex difference
+
+00:45:36.090 --> 00:45:39.090
+in that domain that will
+probably not surprise anyone.
+
+00:45:39.090 --> 00:45:41.220
+But how's this for subtle?
+
+00:45:41.220 --> 00:45:44.510
+You take a guy, and you
+show him the picture
+
+00:45:44.510 --> 00:45:48.100
+of someone of the opposite
+sex if he is heterosexual.
+
+00:45:48.100 --> 00:45:50.100
+And you show him the
+picture of this individual.
+
+00:45:50.100 --> 00:45:54.140
+And if it is someone who he
+assesses as being attractive,
+
+00:45:54.140 --> 00:45:57.160
+you don't necessarily get
+this dopaminergic pathway
+
+00:45:57.160 --> 00:45:58.250
+to activate.
+
+00:45:58.250 --> 00:45:59.440
+It depends.
+
+00:45:59.440 --> 00:46:03.240
+What this study showed was
+if the person is making what
+
+00:46:03.240 --> 00:46:06.870
+would pass for eye contact, if
+they were looking straight out,
+
+00:46:06.870 --> 00:46:08.800
+the dopamine system activates.
+
+00:46:08.800 --> 00:46:12.150
+And if they're looking
+elsewhere, it doesn't activate.
+
+00:46:12.150 --> 00:46:15.370
+How's that for a classic
+male sort of responsiveness?
+
+00:46:15.370 --> 00:46:17.650
+If it looks as if this
+attractive person is
+
+00:46:17.650 --> 00:46:19.490
+looking at you, it activates.
+
+00:46:19.490 --> 00:46:21.910
+Even more distressingly
+from this study,
+
+00:46:21.910 --> 00:46:24.260
+when you show men--
+on the average,
+
+00:46:24.260 --> 00:46:26.230
+blah, blah--
+pictures of women who
+
+00:46:26.230 --> 00:46:29.350
+they would rate as
+being unattractive,
+
+00:46:29.350 --> 00:46:31.950
+it's when they're looking
+away that the dopamine system
+
+00:46:31.950 --> 00:46:33.360
+activates.
+
+00:46:33.360 --> 00:46:35.040
+Oh my god!
+
+00:46:35.040 --> 00:46:37.090
+What is going on here?
+
+00:46:37.090 --> 00:46:39.300
+This is pitiful.
+
+00:46:39.300 --> 00:46:43.050
+What also has been shown is
+the exact same eye contact
+
+00:46:43.050 --> 00:46:47.530
+phenomenon of gay men looking
+at pictures of attractive men.
+
+00:46:47.530 --> 00:46:50.340
+Another theme we're going
+to see over and over, which
+
+00:46:50.340 --> 00:46:53.430
+is sexual orientation
+being pretty much
+
+00:46:53.430 --> 00:46:55.680
+trivial in terms of
+how it influences
+
+00:46:55.680 --> 00:46:57.300
+some of this neurobiology.
+
+00:46:57.300 --> 00:46:59.600
+Just switch the gender
+of the other individual,
+
+00:46:59.600 --> 00:47:02.100
+and it works exactly the same.
+
+00:47:02.100 --> 00:47:05.780
+Now when you look at this
+business about dopamine rising
+
+00:47:05.780 --> 00:47:09.430
+in anticipation of a reward
+rather than a response
+
+00:47:09.430 --> 00:47:12.860
+to the reward itself, it
+brings up one of the-- it
+
+00:47:12.860 --> 00:47:14.720
+doesn't bring that
+up-- it brings up
+
+00:47:14.720 --> 00:47:17.000
+one of the all-time
+interesting studies
+
+00:47:17.000 --> 00:47:19.080
+that was published
+about a decade ago.
+
+00:47:19.080 --> 00:47:19.580
+OK.
+
+00:47:19.580 --> 00:47:21.730
+So the paradigm I
+described last week,
+
+00:47:21.730 --> 00:47:24.640
+you put on the light, which
+tells the monkey that,
+
+00:47:24.640 --> 00:47:26.950
+OK, we're starting
+one of those sessions
+
+00:47:26.950 --> 00:47:29.090
+where if you press
+the levers adequately,
+
+00:47:29.090 --> 00:47:30.380
+you will get a reward.
+
+00:47:30.380 --> 00:47:33.120
+And they now carry
+out this behavior.
+
+00:47:33.120 --> 00:47:35.050
+And as a result, they
+get the reward here.
+
+00:47:35.050 --> 00:47:38.230
+And as we saw, dopamine
+doesn't go up after the reward.
+
+00:47:38.230 --> 00:47:40.450
+It goes up at this point.
+
+00:47:40.450 --> 00:47:43.240
+This is the I how to do this.
+
+00:47:43.240 --> 00:47:44.420
+This is going to be great.
+
+00:47:44.420 --> 00:47:45.300
+This is terrific.
+
+00:47:45.300 --> 00:47:47.400
+Here's where you get
+the rise in dopamine.
+
+00:47:47.400 --> 00:47:50.040
+This is not only
+the anticipation,
+
+00:47:50.040 --> 00:47:52.350
+but if you don't
+have this rise, you
+
+00:47:52.350 --> 00:47:55.340
+don't get the behavior,
+the goal-directed behavior.
+
+00:47:55.340 --> 00:47:58.490
+Now in this brilliant
+study, what they did
+
+00:47:58.490 --> 00:48:00.810
+was transition from
+a paradigm where,
+
+00:48:00.810 --> 00:48:04.710
+OK, the monkey presses the lever
+10 times and gets the reward.
+
+00:48:04.710 --> 00:48:07.490
+Now what you do is
+the monkey works,
+
+00:48:07.490 --> 00:48:11.170
+and it gets the reward
+only half the time.
+
+00:48:11.170 --> 00:48:16.390
+It gets only a 50% reward
+rate unpredictably.
+
+00:48:16.390 --> 00:48:18.690
+And what happens to dopamine?
+
+00:48:18.690 --> 00:48:19.700
+OK.
+
+00:48:19.700 --> 00:48:20.550
+Got your choice.
+
+00:48:20.550 --> 00:48:21.600
+What's your vote?
+
+00:48:21.600 --> 00:48:24.820
+It doesn't rise as much.
+
+00:48:24.820 --> 00:48:28.520
+It rises the exact same amount.
+
+00:48:28.520 --> 00:48:30.780
+It rises even higher.
+
+00:48:30.780 --> 00:48:31.390
+OK.
+
+00:48:31.390 --> 00:48:34.630
+You guys all understand
+anticipation and goal--
+
+00:48:34.630 --> 00:48:35.900
+it does this.
+
+00:48:35.900 --> 00:48:37.610
+It's one of the
+biggest rises you
+
+00:48:37.610 --> 00:48:40.640
+will find in dopamine in
+the brain short of cocaine.
+
+00:48:40.640 --> 00:48:43.910
+What have you just
+introduced into there?
+
+00:48:43.910 --> 00:48:45.830
+This is, I'm all over it.
+
+00:48:45.830 --> 00:48:46.970
+I know how this works.
+
+00:48:46.970 --> 00:48:48.130
+This is going to be great.
+
+00:48:48.130 --> 00:48:49.840
+I have mastery and control.
+
+00:48:49.840 --> 00:48:52.220
+I am the captain of
+my own lever pressing.
+
+00:48:52.220 --> 00:48:53.690
+This is all about that.
+
+00:48:53.690 --> 00:48:55.460
+What's this about?
+
+00:48:55.460 --> 00:48:57.230
+This is what dopamine
+does when you've
+
+00:48:57.230 --> 00:49:00.550
+introduced the word
+maybe into the equation.
+
+00:49:00.550 --> 00:49:04.510
+And that is incredibly
+reinforcing.
+
+00:49:04.510 --> 00:49:09.020
+And people will work like
+mad in contexts of maybe
+
+00:49:09.020 --> 00:49:12.770
+far more so than when they
+work in contexts of certainty.
+
+00:49:12.770 --> 00:49:14.990
+Psychologists have
+known this forever.
+
+00:49:14.990 --> 00:49:17.730
+This is intermittent
+reinforcement.
+
+00:49:17.730 --> 00:49:20.730
+You never get more
+behavior out of an organism
+
+00:49:20.730 --> 00:49:23.940
+than when you have
+introduced a maybe into it.
+
+00:49:23.940 --> 00:49:26.020
+And part of the
+brilliance of this study
+
+00:49:26.020 --> 00:49:27.750
+was what they then did.
+
+00:49:27.750 --> 00:49:31.920
+Now animals either got
+reward 25% of the time
+
+00:49:31.920 --> 00:49:34.860
+or 75% of the time.
+
+00:49:34.860 --> 00:49:37.170
+On a certain level,
+these are diametrically
+
+00:49:37.170 --> 00:49:38.690
+opposite manipulations.
+
+00:49:38.690 --> 00:49:40.244
+In one, you're
+getting more rewards.
+
+00:49:40.244 --> 00:49:41.660
+In the other,
+you're getting less.
+
+00:49:41.660 --> 00:49:43.910
+What's the thing
+they have in common?
+
+00:49:43.910 --> 00:49:48.210
+They both had smaller
+maybes than the 50% version.
+
+00:49:48.210 --> 00:49:51.670
+And what you see is it
+would look like this.
+
+00:49:51.670 --> 00:49:57.680
+100%, 25% or 75%, 50%
+maximizing the maybe.
+
+00:49:57.680 --> 00:49:59.850
+And one of the most
+brilliant things
+
+00:49:59.850 --> 00:50:02.820
+that various social
+engineers do with humans
+
+00:50:02.820 --> 00:50:06.770
+is convince people that there's
+a 50% maybe when it is not
+
+00:50:06.770 --> 00:50:08.490
+50% in the slightest.
+
+00:50:08.490 --> 00:50:10.890
+That's what Las Vegas is about.
+
+00:50:10.890 --> 00:50:14.670
+That's an entire world of very
+smart psychologists making
+
+00:50:14.670 --> 00:50:17.170
+people think in
+circumstances where there's
+
+00:50:17.170 --> 00:50:21.450
+like one tenth of 1% of a maybe
+going on there that is actually
+
+00:50:21.450 --> 00:50:22.700
+a 50%.
+
+00:50:22.700 --> 00:50:25.950
+And when you do that, you
+get dopamine like crazy,
+
+00:50:25.950 --> 00:50:28.550
+and you get
+goal-directed behavior
+
+00:50:28.550 --> 00:50:32.080
+as a result. Really,
+really powerful.
+
+00:50:32.080 --> 00:50:35.910
+And this is so strongly the case
+that this explains an extremely
+
+00:50:35.910 --> 00:50:38.750
+cynical thing that a
+guy I knew in my dorm
+
+00:50:38.750 --> 00:50:40.610
+back when used to
+say all the time.
+
+00:50:40.610 --> 00:50:42.990
+How's this for like a
+dispirited view of what
+
+00:50:42.990 --> 00:50:47.250
+life is like, but possibly
+absolutely accurate, which is,
+
+00:50:47.250 --> 00:50:51.102
+a relationship is the price you
+pay for the anticipation of it.
+
+00:50:52.640 --> 00:50:55.280
+How's that for a grim worldview?
+
+00:50:55.280 --> 00:50:55.860
+Go figure.
+
+00:50:55.860 --> 00:50:59.590
+This guy had-- what a string
+of disastrous relationships.
+
+00:50:59.590 --> 00:51:03.380
+But what you see here
+is introduce a maybe,
+
+00:51:03.380 --> 00:51:05.910
+and it is very, very powerful.
+
+00:51:05.910 --> 00:51:09.910
+One final piece of the dopamine
+system here that is pertinent,
+
+00:51:09.910 --> 00:51:12.170
+which is, as you
+might expect from all
+
+00:51:12.170 --> 00:51:14.600
+of our molecular
+biology stuff, there's
+
+00:51:14.600 --> 00:51:18.450
+all sorts of different
+dopamine receptor subtypes.
+
+00:51:18.450 --> 00:51:21.910
+And two of them are pertinent
+to this world of sexual behavior
+
+00:51:21.910 --> 00:51:25.900
+and reward, what is called
+the shockingly the D1 dopamine
+
+00:51:25.900 --> 00:51:28.610
+receptor and the D2
+dopamine receptor.
+
+00:51:28.610 --> 00:51:32.720
+And what studies show is
+in monogamous species, what
+
+00:51:32.720 --> 00:51:36.700
+happens is right after mating,
+when a pair bond is first
+
+00:51:36.700 --> 00:51:41.390
+formed, the second that's over
+with, levels of the D2 receptor
+
+00:51:41.390 --> 00:51:42.530
+go way down.
+
+00:51:42.530 --> 00:51:46.080
+You down regulate the
+levels of the receptor,
+
+00:51:46.080 --> 00:51:50.130
+and you up regulate the
+levels of the D1 receptor.
+
+00:51:50.130 --> 00:51:51.740
+What's that about?
+
+00:51:51.740 --> 00:51:56.160
+If you drive down the D2
+levels before they even mate,
+
+00:51:56.160 --> 00:51:59.230
+they don't form a pair bond.
+
+00:51:59.230 --> 00:52:03.050
+If you prevent the decline in
+the D2's after they've mated
+
+00:52:03.050 --> 00:52:07.780
+and pair bonded or if you
+prevent the rise in the D1's,
+
+00:52:07.780 --> 00:52:08.840
+they'll pair bond.
+
+00:52:08.840 --> 00:52:10.440
+And then, 8 and
+1/2 minutes later,
+
+00:52:10.440 --> 00:52:12.950
+they will go and pair
+bond with somebody else.
+
+00:52:12.950 --> 00:52:18.380
+The D2's seem to mediate the
+rewarding anticipatory aspects
+
+00:52:18.380 --> 00:52:19.750
+of pair bonding.
+
+00:52:19.750 --> 00:52:22.610
+The D1's, on a certain
+rodential level,
+
+00:52:22.610 --> 00:52:26.600
+seem to mediate the pleasure
+of the monogamous, the truly
+
+00:52:26.600 --> 00:52:28.880
+monogamous features
+of the pair bond.
+
+00:52:28.880 --> 00:52:32.160
+So a very interesting
+interaction between the two.
+
+00:52:32.160 --> 00:52:32.660
+OK.
+
+00:52:32.660 --> 00:52:34.800
+One last thing about
+dopamine, and this one
+
+00:52:34.800 --> 00:52:38.070
+is like even more depressing
+than relationships
+
+00:52:38.070 --> 00:52:39.300
+are the price you pay.
+
+00:52:39.300 --> 00:52:42.980
+This was a study which
+was really like someday
+
+00:52:42.980 --> 00:52:44.840
+may come to haunt you majorly.
+
+00:52:44.840 --> 00:52:46.610
+And in this study,
+what they did--
+
+00:52:46.610 --> 00:52:49.430
+it was another one of those
+brain imaging study ones.
+
+00:52:49.430 --> 00:52:51.880
+And what they did was they
+took people in two categories.
+
+00:52:51.880 --> 00:52:53.940
+In both cases,
+these are people who
+
+00:52:53.940 --> 00:52:58.050
+had found their beloved,
+their beloved, the person who
+
+00:52:58.050 --> 00:53:00.990
+was their soul mate,
+the person in whose arms
+
+00:53:00.990 --> 00:53:03.560
+they were going to die
+someday, the person.
+
+00:53:03.560 --> 00:53:05.440
+And they divided it
+between these two groups.
+
+00:53:05.440 --> 00:53:08.000
+One was a group where they had
+known the person in whose arms
+
+00:53:08.000 --> 00:53:10.520
+they were going to die
+for like 2 and 1/2 weeks.
+
+00:53:10.520 --> 00:53:12.510
+And the other is when
+they had been together
+
+00:53:12.510 --> 00:53:14.620
+for more than five years.
+
+00:53:14.620 --> 00:53:18.230
+So you put somebody
+in the brain scanner,
+
+00:53:18.230 --> 00:53:21.480
+and you start flashing up
+at speed, subliminal speeds,
+
+00:53:21.480 --> 00:53:23.843
+of pictures of
+individuals they know.
+
+00:53:23.843 --> 00:53:25.750
+Important control in the study.
+
+00:53:25.750 --> 00:53:28.920
+And embedded in there is a
+picture of their beloved.
+
+00:53:28.920 --> 00:53:30.620
+And suddenly, somewhere
+along the way,
+
+00:53:30.620 --> 00:53:32.830
+up flashes the picture
+of their beloved.
+
+00:53:32.830 --> 00:53:37.230
+Be in a short-term relationship
+and the dopamine system
+
+00:53:37.230 --> 00:53:40.630
+goes crazy and
+activates like mad.
+
+00:53:40.630 --> 00:53:43.100
+Now, you come back
+five years later
+
+00:53:43.100 --> 00:53:45.440
+into that same relationship
+with the beloved,
+
+00:53:45.440 --> 00:53:47.250
+and you do the exact same thing.
+
+00:53:47.250 --> 00:53:50.540
+And you flash up their picture,
+and the dopamine system
+
+00:53:50.540 --> 00:53:51.750
+doesn't activate.
+
+00:53:51.750 --> 00:53:55.680
+What activates instead was
+that anterior cingulate thing
+
+00:53:55.680 --> 00:53:59.610
+we heard about on Friday
+having to do with empathy,
+
+00:53:59.610 --> 00:54:02.210
+and comfort, and all of that.
+
+00:54:02.210 --> 00:54:05.920
+In other words, what we see here
+is the neurochemical transition
+
+00:54:05.920 --> 00:54:09.140
+from one's beloved
+from causing your blood
+
+00:54:09.140 --> 00:54:12.420
+to run scalding hot
+to your beloved being
+
+00:54:12.420 --> 00:54:14.580
+like a comfortable old armchair.
+
+00:54:14.580 --> 00:54:17.830
+This is one depressing study.
+
+00:54:17.830 --> 00:54:21.260
+So let's take a five-minute
+break to contemplate that one.
+
+00:54:21.260 --> 00:54:21.760
+OK.
+
+00:54:21.760 --> 00:54:22.760
+And then we will resume.
+
+00:54:27.850 --> 00:54:31.450
+Lots of good questions
+just now during the break.
+
+00:54:31.450 --> 00:54:33.750
+Disappointingly few
+along the lines of,
+
+00:54:33.750 --> 00:54:35.680
+I've got a friend who.
+
+00:54:35.680 --> 00:54:37.370
+So not a bunch of those.
+
+00:54:37.370 --> 00:54:38.054
+But let's see.
+
+00:54:38.054 --> 00:54:38.970
+A number of questions.
+
+00:54:38.970 --> 00:54:42.370
+First one, can I repeat what
+I said about the D1 and the D2
+
+00:54:42.370 --> 00:54:43.410
+receptors?
+
+00:54:43.410 --> 00:54:44.020
+OK.
+
+00:54:44.020 --> 00:54:47.230
+These are different types
+of receptors for dopamine.
+
+00:54:47.230 --> 00:54:50.590
+In other words, they all respond
+to the same neurotransmitter
+
+00:54:50.590 --> 00:54:53.420
+dopamine, but in different ways.
+
+00:54:53.420 --> 00:54:56.320
+And these receptors are found
+on different neuron types.
+
+00:54:56.320 --> 00:54:58.810
+So you're getting into all
+sorts of different pathways.
+
+00:54:58.810 --> 00:55:03.480
+What you see is, in rodents,
+in pair bonding rodents,
+
+00:55:03.480 --> 00:55:05.570
+they better have
+elevated levels,
+
+00:55:05.570 --> 00:55:09.160
+they better have D2
+receptors on neurons
+
+00:55:09.160 --> 00:55:12.470
+being fed by this mesolimbic
+reward dopamine pathway.
+
+00:55:12.470 --> 00:55:17.720
+They have to have D2 receptors
+to form the pair bond
+
+00:55:17.720 --> 00:55:20.970
+for the attachment to occur.
+
+00:55:20.970 --> 00:55:25.770
+The second that happens, you
+need to have low levels of D2
+
+00:55:25.770 --> 00:55:30.820
+and high levels of D1 to remain
+faithful in your pair bonded
+
+00:55:30.820 --> 00:55:31.950
+relationship.
+
+00:55:31.950 --> 00:55:34.930
+So what you see in these voles
+is right after the pair bond
+
+00:55:34.930 --> 00:55:39.020
+occurs, there's down regulation
+of the D2's and up regulation
+
+00:55:39.020 --> 00:55:40.200
+of the D1's.
+
+00:55:40.200 --> 00:55:42.390
+And if you prevent
+that from happening,
+
+00:55:42.390 --> 00:55:46.164
+the pair bond that's been
+formed does not prove lasting.
+
+00:55:46.164 --> 00:55:47.580
+So that's what I
+was saying there.
+
+00:55:47.580 --> 00:55:49.850
+Somebody brought up
+the great question,
+
+00:55:49.850 --> 00:55:52.470
+which I was going to say
+something about and forgot,
+
+00:55:52.470 --> 00:55:56.370
+which is, well, how
+about like the D2 D1
+
+00:55:56.370 --> 00:56:00.410
+ratios in humans and their
+sexual behavior stuff?
+
+00:56:00.410 --> 00:56:03.130
+And there's been
+one study showing
+
+00:56:03.130 --> 00:56:06.230
+that a higher ratio
+of D2 to D1 predicts
+
+00:56:06.230 --> 00:56:08.290
+more stable relationships.
+
+00:56:08.290 --> 00:56:09.550
+Small effect.
+
+00:56:09.550 --> 00:56:11.030
+Not replicated yet.
+
+00:56:11.030 --> 00:56:14.640
+But nonetheless, that's
+kind of interesting.
+
+00:56:14.640 --> 00:56:17.860
+So on a certain
+level then, D2 seems
+
+00:56:17.860 --> 00:56:20.070
+to be required, at
+least shown in rodents.
+
+00:56:20.070 --> 00:56:21.170
+Who knows about us?
+
+00:56:21.170 --> 00:56:24.270
+D2 is about the formation
+of the attachment.
+
+00:56:24.270 --> 00:56:28.410
+D1 is about the maintenance
+of it, the faithfulness of it,
+
+00:56:28.410 --> 00:56:29.550
+if you will.
+
+00:56:29.550 --> 00:56:31.540
+Next, somebody
+bringing up the issue
+
+00:56:31.540 --> 00:56:33.800
+in terms of female orgasm.
+
+00:56:33.800 --> 00:56:37.090
+Maybe what female orgasm is
+about is a mate selection
+
+00:56:37.090 --> 00:56:42.310
+mechanism, as in
+individuals who increase
+
+00:56:42.310 --> 00:56:44.500
+your likelihood of
+having orgasms are ones
+
+00:56:44.500 --> 00:56:48.810
+you are more likely to
+lower your D2 receptors for.
+
+00:56:48.810 --> 00:56:50.430
+But the one problem
+with that one
+
+00:56:50.430 --> 00:56:52.650
+that makes wonderful sense--
+what the studies tend
+
+00:56:52.650 --> 00:56:55.100
+to show though is the
+likelihood of orgasm
+
+00:56:55.100 --> 00:56:58.360
+is much more a function
+of who the female is
+
+00:56:58.360 --> 00:57:01.640
+than who the male is that they
+are with, arguing against that.
+
+00:57:01.640 --> 00:57:02.350
+Let's see.
+
+00:57:02.350 --> 00:57:03.630
+Finally-- no.
+
+00:57:03.630 --> 00:57:04.130
+Not that.
+
+00:57:04.130 --> 00:57:04.290
+OK.
+
+00:57:04.290 --> 00:57:05.450
+So we already covered that.
+
+00:57:05.450 --> 00:57:07.720
+And there was one
+additional question.
+
+00:57:07.720 --> 00:57:08.220
+OK.
+
+00:57:08.220 --> 00:57:10.550
+So what's the driving
+force in terms
+
+00:57:10.550 --> 00:57:14.020
+of the proximal reinforcing
+pleasurable aspects
+
+00:57:14.020 --> 00:57:15.330
+of sexual behavior?
+
+00:57:15.330 --> 00:57:17.490
+What's up with why
+only some species--
+
+00:57:17.490 --> 00:57:20.680
+us predominantly-- have
+non-reproductive sex,
+
+00:57:20.680 --> 00:57:23.220
+can have sex all the
+time, versus other species
+
+00:57:23.220 --> 00:57:25.010
+that only do for reproduction?
+
+00:57:25.010 --> 00:57:27.640
+What that means is
+in other species,
+
+00:57:27.640 --> 00:57:31.320
+the endocrinology of
+ovulation is the thing
+
+00:57:31.320 --> 00:57:33.380
+that makes sex pleasurable.
+
+00:57:33.380 --> 00:57:35.440
+And we will see shortly
+what that's about.
+
+00:57:35.440 --> 00:57:38.520
+In females, it's the
+hormones associated
+
+00:57:38.520 --> 00:57:42.580
+with ovulation that
+sensitize various tactile
+
+00:57:42.580 --> 00:57:48.470
+receptors to respond in ways
+that mediate proximal pleasure.
+
+00:57:48.470 --> 00:57:51.720
+And in males, it's
+the female giving off,
+
+00:57:51.720 --> 00:57:54.860
+for example, the right
+pheromones, the right releasing
+
+00:57:54.860 --> 00:57:58.750
+stimuli, driven by the
+right hormone levels that
+
+00:57:58.750 --> 00:58:03.020
+constitute the proximal signal
+of pleasurable anticipation.
+
+00:58:03.020 --> 00:58:06.390
+And what you find in humans
+is it doesn't work that way.
+
+00:58:06.390 --> 00:58:09.250
+You do not need, for
+example, in women
+
+00:58:09.250 --> 00:58:13.360
+the elevated levels of estrogen
+typical of ovulation in order
+
+00:58:13.360 --> 00:58:18.560
+to have tactile responsiveness
+to sexually arousing stimuli.
+
+00:58:18.560 --> 00:58:19.890
+Stay tuned though.
+
+00:58:19.890 --> 00:58:23.290
+It's easier though when
+estrogen levels are higher.
+
+00:58:23.290 --> 00:58:23.810
+OK.
+
+00:58:23.810 --> 00:58:26.520
+Final brain region
+relevant to all of this
+
+00:58:26.520 --> 00:58:28.500
+is the frontal cortex.
+
+00:58:28.500 --> 00:58:32.230
+We already got a first pass at
+the frontal cortex last week.
+
+00:58:32.230 --> 00:58:37.760
+And frontal cortex regulating
+your behavior, impulse control,
+
+00:58:37.760 --> 00:58:40.360
+all that sort of thing,
+gratification postponement--
+
+00:58:40.360 --> 00:58:43.260
+this plays a large role
+in sexual behavior.
+
+00:58:43.260 --> 00:58:46.000
+What's the easy
+immediate explanation
+
+00:58:46.000 --> 00:58:49.290
+that one can come up with,
+what the frontal cortex does
+
+00:58:49.290 --> 00:58:54.050
+is it makes you be appropriate
+in your sexual behavior.
+
+00:58:54.050 --> 00:58:56.490
+It teaches you the
+appropriate context.
+
+00:58:56.490 --> 00:59:00.730
+It teaches you what aspects
+of proceptive sexual behavior
+
+00:59:00.730 --> 00:59:02.920
+is not a good idea.
+
+00:59:02.920 --> 00:59:06.050
+It keeps you from doing
+things you would regret vastly
+
+00:59:06.050 --> 00:59:06.920
+afterward.
+
+00:59:06.920 --> 00:59:08.980
+That's a very easy
+version of it.
+
+00:59:08.980 --> 00:59:11.240
+And commensurate
+with that, you see
+
+00:59:11.240 --> 00:59:13.540
+lots of circumstances
+of individuals
+
+00:59:13.540 --> 00:59:17.190
+with frontal cortical damage
+doing highly inappropriate
+
+00:59:17.190 --> 00:59:18.640
+sexual behavior.
+
+00:59:18.640 --> 00:59:22.030
+One example of it, and one
+of those horrifying things
+
+00:59:22.030 --> 00:59:23.640
+that can happen--
+this was a case
+
+00:59:23.640 --> 00:59:26.780
+that actually happened in
+a nursing home in Martinez
+
+00:59:26.780 --> 00:59:28.830
+in the East Bay a
+number of years ago.
+
+00:59:28.830 --> 00:59:32.490
+This was a man in his 80s
+who had had stroke damage
+
+00:59:32.490 --> 00:59:34.710
+to his frontal
+cortex, who was found
+
+00:59:34.710 --> 00:59:38.090
+to have raped a woman
+there, another 80-year-old
+
+00:59:38.090 --> 00:59:39.930
+with Alzheimer's disease.
+
+00:59:39.930 --> 00:59:42.230
+Damage the frontal
+cortex, and all sorts
+
+00:59:42.230 --> 00:59:45.790
+of the, "this is not sexual
+behavior that you do"
+
+00:59:45.790 --> 00:59:48.260
+constraints go down the tubes.
+
+00:59:48.260 --> 00:59:51.380
+Just as importantly though,
+what the frontal cortex,
+
+00:59:51.380 --> 00:59:53.620
+with all of it's giving
+you the discipline
+
+00:59:53.620 --> 00:59:55.590
+to do the right thing,
+some of the time,
+
+00:59:55.590 --> 00:59:57.630
+what that takes the
+form of is getting
+
+00:59:57.630 --> 01:00:00.460
+you to do proceptive
+sexual behavior.
+
+01:00:00.460 --> 01:00:03.080
+For example, you
+are trying to do
+
+01:00:03.080 --> 01:00:06.730
+some courtship of some
+other antlered ungulate
+
+01:00:06.730 --> 01:00:07.920
+that you are courting.
+
+01:00:07.920 --> 01:00:11.130
+And this is terrifying because
+there is another individual
+
+01:00:11.130 --> 01:00:12.320
+challenging you.
+
+01:00:12.320 --> 01:00:13.960
+And there's the
+frontal cortex that
+
+01:00:13.960 --> 01:00:17.480
+is getting you to carry
+out those sexual behaviors
+
+01:00:17.480 --> 01:00:20.530
+to that point, even if it is
+a terrifying circumstance.
+
+01:00:20.530 --> 01:00:23.750
+Nonetheless, what the frontal
+cortex mostly is about
+
+01:00:23.750 --> 01:00:26.510
+is reigning in sexual behavior.
+
+01:00:26.510 --> 01:00:31.230
+It's not changing the fixed
+action patterns of sex.
+
+01:00:31.230 --> 01:00:33.760
+It's changing the context
+in which the fixed action
+
+01:00:33.760 --> 01:00:35.940
+patterns occur.
+
+01:00:35.940 --> 01:00:38.170
+So now, we are ready
+to look at one more
+
+01:00:38.170 --> 01:00:40.260
+feature of the
+neurobiology, which
+
+01:00:40.260 --> 01:00:44.370
+is when somebody is having sex,
+what hormonal responses are
+
+01:00:44.370 --> 01:00:45.360
+triggered?
+
+01:00:45.360 --> 01:00:47.840
+Notice this is not here.
+
+01:00:47.840 --> 01:00:51.130
+This is not what hormones
+have to do with bringing
+
+01:00:51.130 --> 01:00:52.700
+about sexual behavior.
+
+01:00:52.700 --> 01:00:57.910
+This is, what are the hormonal
+responses to sexual behavior?
+
+01:00:57.910 --> 01:01:02.470
+Starting off in females,
+including human females,
+
+01:01:02.470 --> 01:01:05.530
+having sex increases
+secretion of
+
+01:01:05.530 --> 01:01:07.850
+progesterone-derived hormones.
+
+01:01:07.850 --> 01:01:12.960
+And that has something to do
+with reinforcing the pleasure.
+
+01:01:12.960 --> 01:01:16.750
+Interestingly, in females
+the world over, having sex
+
+01:01:16.750 --> 01:01:20.470
+increases the level of
+testosterone-related hormones
+
+01:01:20.470 --> 01:01:22.550
+in the bloodstream, androgens.
+
+01:01:22.550 --> 01:01:26.760
+Women, females, generate
+androgens maybe 5%
+
+01:01:26.760 --> 01:01:28.430
+the levels you see in males.
+
+01:01:28.430 --> 01:01:30.830
+And they come out of
+the adrenal glands.
+
+01:01:30.830 --> 01:01:34.230
+And they seem to play
+a very central role
+
+01:01:34.230 --> 01:01:39.120
+in mediating sexual motivation,
+sexual arousal, in females.
+
+01:01:39.120 --> 01:01:40.340
+How is that's shown?
+
+01:01:40.340 --> 01:01:43.270
+Obvious experimental
+studies with lab rats.
+
+01:01:43.270 --> 01:01:45.030
+How is that's shown in humans?
+
+01:01:45.030 --> 01:01:49.480
+When women have any of a number
+of types of diseases where you
+
+01:01:49.480 --> 01:01:51.650
+have to take out
+the adrenal glands,
+
+01:01:51.650 --> 01:01:55.140
+sexual motivation, sexual
+arousal, goes down.
+
+01:01:55.140 --> 01:01:58.090
+Give them replacement
+androgens, and
+
+01:01:58.090 --> 01:02:01.900
+sexual arousal, sexual
+proceptivity, returns, so
+
+01:02:01.900 --> 01:02:04.490
+androgens there playing a role.
+
+01:02:04.490 --> 01:02:06.730
+But probably most
+importantly, in terms
+
+01:02:06.730 --> 01:02:10.220
+of hormones triggered by
+sexual behavior in females,
+
+01:02:10.220 --> 01:02:13.230
+is the release of oxytocin.
+
+01:02:13.230 --> 01:02:15.940
+Oxytocin is really interesting.
+
+01:02:15.940 --> 01:02:17.840
+We've heard about
+oxytocin twice already.
+
+01:02:17.840 --> 01:02:21.640
+One, is when it's coming out
+of the posterior pituitary.
+
+01:02:21.640 --> 01:02:24.660
+And the second is that minor
+business the other day,
+
+01:02:24.660 --> 01:02:26.790
+last Wednesday,
+of oxytocin being
+
+01:02:26.790 --> 01:02:29.570
+another one of those
+hypothalamic hormones that
+
+01:02:29.570 --> 01:02:32.430
+helps to release ACTH
+from the pituitary.
+
+01:02:32.430 --> 01:02:34.300
+Remember, it doesn't
+directly release.
+
+01:02:34.300 --> 01:02:37.950
+It's a modulator, a CRH action,
+if-then clause, et cetera.
+
+01:02:37.950 --> 01:02:40.950
+But those are the two ways
+we've heard about oxytocin.
+
+01:02:40.950 --> 01:02:45.690
+Oxytocin also works in the
+brain as a neurotransmitter
+
+01:02:45.690 --> 01:02:47.550
+and neuromodulator.
+
+01:02:47.550 --> 01:02:49.140
+And what does it do there?
+
+01:02:49.140 --> 01:02:52.080
+It appears to play
+a very central role
+
+01:02:52.080 --> 01:02:55.680
+in forming attachments,
+a very central role
+
+01:02:55.680 --> 01:02:57.780
+in forming of pair bonds.
+
+01:02:57.780 --> 01:03:01.040
+And it, along with dopamine
+and the D2 receptors,
+
+01:03:01.040 --> 01:03:05.110
+are critical for female
+voles of monogamous species
+
+01:03:05.110 --> 01:03:06.610
+to form pair bonds.
+
+01:03:06.610 --> 01:03:11.400
+Female humans, when having
+sex, secrete lots of oxytocin
+
+01:03:11.400 --> 01:03:14.250
+and activate oxytocin
+pathways in the brain.
+
+01:03:14.250 --> 01:03:19.040
+And it appears to play a role
+in the formation of attachment.
+
+01:03:19.040 --> 01:03:22.950
+Interestingly-- how's this--
+a whole body of research
+
+01:03:22.950 --> 01:03:26.750
+now showing that if
+you introduce oxytocin
+
+01:03:26.750 --> 01:03:29.770
+into the brains of
+humans experimentally,
+
+01:03:29.770 --> 01:03:32.900
+they become more trusting.
+
+01:03:32.900 --> 01:03:37.800
+Amazing body of research where
+you take aerosolized oxytocin
+
+01:03:37.800 --> 01:03:40.180
+and you spritz it
+up people's noses.
+
+01:03:40.180 --> 01:03:41.760
+And what they showed
+in the studies
+
+01:03:41.760 --> 01:03:44.410
+were, number one,
+one type of study.
+
+01:03:44.410 --> 01:03:48.360
+You then play a clip of
+somebody making an argument
+
+01:03:48.360 --> 01:03:51.170
+for some stance in
+some debate, and people
+
+01:03:51.170 --> 01:03:52.700
+believe the person more.
+
+01:03:52.700 --> 01:03:54.900
+They find their argument
+more convincing.
+
+01:03:54.900 --> 01:03:56.770
+They trust the person more.
+
+01:03:56.770 --> 01:03:58.690
+Or the other version
+that's been shown
+
+01:03:58.690 --> 01:04:01.800
+is you spritz oxytocin
+up the noses of people,
+
+01:04:01.800 --> 01:04:04.820
+and you make them more
+cooperative in their game
+
+01:04:04.820 --> 01:04:07.290
+theory play, the
+ways in which they
+
+01:04:07.290 --> 01:04:10.450
+go about playing prisoner's
+dilemma and other games
+
+01:04:10.450 --> 01:04:12.780
+we will hear about
+later on as well.
+
+01:04:12.780 --> 01:04:16.770
+This has given rise to a whole
+new field-- I kid you not--
+
+01:04:16.770 --> 01:04:19.450
+called neuromarketing.
+
+01:04:19.450 --> 01:04:22.880
+The notion that if only you
+could spritz oxytocin up
+
+01:04:22.880 --> 01:04:26.730
+the noses of people right before
+your television ad comes on,
+
+01:04:26.730 --> 01:04:29.150
+they're going to believe
+you when you say it
+
+01:04:29.150 --> 01:04:31.800
+will make you happy
+to buy our thing.
+
+01:04:31.800 --> 01:04:33.370
+And they will fall for it.
+
+01:04:33.370 --> 01:04:35.820
+There are actually
+neuroendocrinologists
+
+01:04:35.820 --> 01:04:40.050
+making a living now selling
+their wares to neuromarketing
+
+01:04:40.050 --> 01:04:42.950
+people-- self-proclaimed ones.
+
+01:04:42.950 --> 01:04:45.030
+No doubt they are
+spritzing oxytocin up
+
+01:04:45.030 --> 01:04:48.270
+the noses of those
+capitalists to get
+
+01:04:48.270 --> 01:04:49.840
+them to hire them to do this.
+
+01:04:49.840 --> 01:04:53.660
+But oxytocin playing
+a role in this.
+
+01:04:53.660 --> 01:04:55.850
+So that's kind of interesting.
+
+01:04:55.850 --> 01:04:58.970
+Because what's oxytocin
+mostly doing in the body?
+
+01:04:58.970 --> 01:05:01.820
+The vast majority
+of oxytocin is not
+
+01:05:01.820 --> 01:05:04.130
+this stuff up in the
+brain in these pathways,
+
+01:05:04.130 --> 01:05:07.690
+some of them impinging on
+dopamine-releasing neurons.
+
+01:05:07.690 --> 01:05:11.000
+The vast majority is not
+the oxytocin sitting there
+
+01:05:11.000 --> 01:05:13.960
+in the hypothalamus doing
+something or other to ACTH
+
+01:05:13.960 --> 01:05:15.100
+in the pituitary.
+
+01:05:15.100 --> 01:05:18.280
+The vast majority is this stuff
+coming out of the posterior
+
+01:05:18.280 --> 01:05:19.460
+pituitary.
+
+01:05:19.460 --> 01:05:22.670
+And what does oxytocin
+have to do there?
+
+01:05:22.670 --> 01:05:25.060
+It has to do with milk letdown.
+
+01:05:25.060 --> 01:05:27.120
+It has to do with nursing.
+
+01:05:27.120 --> 01:05:30.200
+And suddenly, instead,
+it's playing a role
+
+01:05:30.200 --> 01:05:32.640
+in forming sexual pair bonding.
+
+01:05:32.640 --> 01:05:35.800
+And the argument is
+made that attachment,
+
+01:05:35.800 --> 01:05:40.470
+monogamous attachment, sexual
+attachment, is in some way,
+
+01:05:40.470 --> 01:05:44.020
+evolutionarily a descendent
+of the neurobiology
+
+01:05:44.020 --> 01:05:46.660
+of mother-offspring attachment.
+
+01:05:46.660 --> 01:05:49.990
+That that's where it is
+originally being driven by.
+
+01:05:49.990 --> 01:05:53.620
+So oxytocin playing
+a role there as well.
+
+01:05:53.620 --> 01:05:56.580
+Meanwhile, over at the
+male end of things,
+
+01:05:56.580 --> 01:05:58.990
+up go testosterone
+levels during sex.
+
+01:05:58.990 --> 01:06:02.560
+In a surprisingly linear
+way, the more sexual behavior
+
+01:06:02.560 --> 01:06:04.640
+in a male, the higher
+testosterone levels
+
+01:06:04.640 --> 01:06:06.100
+are found afterward.
+
+01:06:06.100 --> 01:06:09.280
+Critically, critically--
+stay tuned for a little
+
+01:06:09.280 --> 01:06:13.890
+while-- these are elevations
+of testosterone in response
+
+01:06:13.890 --> 01:06:15.510
+to sexual behavior.
+
+01:06:15.510 --> 01:06:19.570
+As we'll see, the evidence
+that high testosterone levels
+
+01:06:19.570 --> 01:06:24.500
+make males more sexually active
+is basically nonexistent.
+
+01:06:24.500 --> 01:06:27.250
+So critical, critical
+proviso here.
+
+01:06:27.250 --> 01:06:31.430
+This is sex increasing
+testosterone secretion, not
+
+01:06:31.430 --> 01:06:33.440
+the other way around.
+
+01:06:33.440 --> 01:06:34.610
+What else?
+
+01:06:34.610 --> 01:06:37.590
+Meanwhile, back to the
+posterior pituitary.
+
+01:06:37.590 --> 01:06:39.080
+Was that a question?
+
+01:06:39.080 --> 01:06:39.580
+No.
+
+01:06:39.580 --> 01:06:39.920
+OK.
+
+01:06:39.920 --> 01:06:41.030
+That was a head scratch.
+
+01:06:41.030 --> 01:06:41.590
+OK.
+
+01:06:41.590 --> 01:06:43.360
+Back to the posterior pituitary.
+
+01:06:43.360 --> 01:06:46.870
+The other hormone coming
+out from there, vasopressin.
+
+01:06:46.870 --> 01:06:51.420
+And oxytocin is to females
+as vasopressin is to males.
+
+01:06:51.420 --> 01:06:52.830
+And we've already
+heard something
+
+01:06:52.830 --> 01:06:55.440
+about this back in
+the molecular genetics
+
+01:06:55.440 --> 01:06:59.310
+stuff in those if-then clauses
+and unlikely ways in which you
+
+01:06:59.310 --> 01:07:00.570
+get mutations.
+
+01:07:00.570 --> 01:07:04.620
+vasopressin, vasopressin
+also is found
+
+01:07:04.620 --> 01:07:09.260
+in the nervous system, where it
+serves as neuromodulatory role.
+
+01:07:09.260 --> 01:07:14.130
+And vasopressin is critical
+for forming a pair bond.
+
+01:07:14.130 --> 01:07:16.220
+Back to that business
+about when you
+
+01:07:16.220 --> 01:07:20.190
+look at monogamous versus
+polygamist species,
+
+01:07:20.190 --> 01:07:21.510
+what's going on?
+
+01:07:21.510 --> 01:07:23.910
+What you have uniquely
+in the monogamous
+
+01:07:23.910 --> 01:07:27.830
+species is expression of
+the vasopressin receptor
+
+01:07:27.830 --> 01:07:32.731
+gene on neurons that
+released dopamine.
+
+01:07:32.731 --> 01:07:36.810
+In other words, male
+secrete vasopressin.
+
+01:07:36.810 --> 01:07:41.320
+And if you are of a species
+where vasopressin now goes
+
+01:07:41.320 --> 01:07:45.540
+and stimulates dopamine
+neurons, you decide you really,
+
+01:07:45.540 --> 01:07:48.720
+really, really liked having
+sex with this other vole.
+
+01:07:48.720 --> 01:07:50.720
+And you come back for more.
+
+01:07:50.720 --> 01:07:54.520
+And that's the driving force on
+the formation of the pair bond.
+
+01:07:54.520 --> 01:07:57.480
+Incredible studies
+showing that if you
+
+01:07:57.480 --> 01:08:00.630
+take male voles from
+the polygamist species
+
+01:08:00.630 --> 01:08:03.070
+and, due to gene
+transfer techniques--
+
+01:08:03.070 --> 01:08:04.720
+I've mentioned the
+study already--
+
+01:08:04.720 --> 01:08:08.220
+but you now stick
+vasopressin receptors
+
+01:08:08.220 --> 01:08:12.050
+into those dopamine neurons,
+those polygamist males
+
+01:08:12.050 --> 01:08:14.520
+now become pair bonding males.
+
+01:08:14.520 --> 01:08:16.810
+They now become monogamous.
+
+01:08:16.810 --> 01:08:19.319
+So really interesting.
+
+01:08:19.319 --> 01:08:21.960
+What you then see
+in these studies is
+
+01:08:21.960 --> 01:08:24.960
+you look at these monogamous
+species where the males have
+
+01:08:24.960 --> 01:08:27.750
+vasopressin receptors on
+these dopamine neurons,
+
+01:08:27.750 --> 01:08:29.899
+and you look at
+individual males,
+
+01:08:29.899 --> 01:08:32.290
+and the ones who
+have more receptors
+
+01:08:32.290 --> 01:08:35.920
+there are forming
+pair bonds faster.
+
+01:08:35.920 --> 01:08:38.620
+It takes fewer rounds
+of mating with a female
+
+01:08:38.620 --> 01:08:41.229
+to form a pair bond.
+
+01:08:41.229 --> 01:08:43.510
+So what about primates?
+
+01:08:43.510 --> 01:08:46.960
+So you start off looking at two
+different primate species, one
+
+01:08:46.960 --> 01:08:50.939
+pair bonding, marmoset monkeys,
+New World marmoset monkeys,
+
+01:08:50.939 --> 01:08:53.479
+and then one classic
+tournament species,
+
+01:08:53.479 --> 01:08:57.250
+polygamous primate
+species, rhesus monkeys.
+
+01:08:57.250 --> 01:09:00.729
+And what you see is
+you've got the variant,
+
+01:09:00.729 --> 01:09:04.830
+the monogamous vole,
+vasopressin receptor gene
+
+01:09:04.830 --> 01:09:07.600
+variant in the pair
+bonding monkey species,
+
+01:09:07.600 --> 01:09:08.830
+in the marmosets.
+
+01:09:08.830 --> 01:09:10.850
+And you get the
+polygamous version
+
+01:09:10.850 --> 01:09:16.670
+of the gene in the
+rhesus monkeys.
+
+01:09:16.670 --> 01:09:18.689
+So it maps on there as well.
+
+01:09:18.689 --> 01:09:22.240
+So the more of this receptor
+in these dopamine pathways
+
+01:09:22.240 --> 01:09:25.140
+within monogamous
+species, the more rapidly
+
+01:09:25.140 --> 01:09:26.810
+they form a pair bond.
+
+01:09:26.810 --> 01:09:30.960
+And what you see is differences
+in the mere presence of them
+
+01:09:30.960 --> 01:09:34.990
+in comparing pair bonding
+versus non-pair bonding rodents
+
+01:09:34.990 --> 01:09:37.600
+and monkeys.
+
+01:09:37.600 --> 01:09:40.020
+So how about humans?
+
+01:09:40.020 --> 01:09:43.189
+First thing that comes
+up is, among the apes,
+
+01:09:43.189 --> 01:09:47.620
+you also find the two
+variants, the monogamous vole
+
+01:09:47.620 --> 01:09:50.590
+variant of the
+vasopressin receptor gene
+
+01:09:50.590 --> 01:09:53.450
+and the polygamous male variant.
+
+01:09:53.450 --> 01:09:55.380
+So what species
+do you see it in?
+
+01:09:55.380 --> 01:09:59.510
+In chimpanzees, you see
+the polygamous vole species
+
+01:09:59.510 --> 01:10:01.380
+version.
+
+01:10:01.380 --> 01:10:03.000
+That makes lots of sense.
+
+01:10:03.000 --> 01:10:06.430
+They are a major polygamist
+species in their behavior.
+
+01:10:06.430 --> 01:10:08.740
+But then, this
+beautiful dichotomy
+
+01:10:08.740 --> 01:10:12.260
+comes crashing down
+when you see that you've
+
+01:10:12.260 --> 01:10:17.480
+got the monogamous gene
+version in bonobos.
+
+01:10:17.480 --> 01:10:19.610
+And as we will hear
+about in a while,
+
+01:10:19.610 --> 01:10:25.520
+bonobos are the most
+hyperpolygamously, hyper
+
+01:10:25.520 --> 01:10:30.000
+varietyish sexually behaving
+organisms on the entire planet.
+
+01:10:30.000 --> 01:10:33.220
+They are as far as you could
+get from a monogamous species
+
+01:10:33.220 --> 01:10:36.180
+as you can ever ask for,
+if you ask for such things.
+
+01:10:36.180 --> 01:10:40.110
+And you've got the wrong type
+of vasopressin receptor gene.
+
+01:10:40.110 --> 01:10:42.610
+Whatever is going on,
+it's more complicated
+
+01:10:42.610 --> 01:10:45.340
+than the have the
+version that winds up
+
+01:10:45.340 --> 01:10:47.260
+on the dopamine
+neurons and you are
+
+01:10:47.260 --> 01:10:50.760
+going to have 50th wedding
+anniversaries if you are a vole
+
+01:10:50.760 --> 01:10:52.320
+or you are a marmoset.
+
+01:10:52.320 --> 01:10:55.760
+And it's got to be more
+complicated than that.
+
+01:10:55.760 --> 01:10:57.690
+So how about humans?
+
+01:10:57.690 --> 01:11:00.350
+And what you see
+is not explicitly
+
+01:11:00.350 --> 01:11:03.600
+as much genetic
+variability as some people
+
+01:11:03.600 --> 01:11:06.080
+having the monogamous vole
+version and some people
+
+01:11:06.080 --> 01:11:07.120
+have the polygamist.
+
+01:11:07.120 --> 01:11:09.440
+But nonetheless,
+you get variation.
+
+01:11:09.440 --> 01:11:13.250
+The gene basically is
+about halfway in between.
+
+01:11:13.250 --> 01:11:13.790
+Whoa.
+
+01:11:13.790 --> 01:11:16.790
+We keep having that
+theme over and over,
+
+01:11:16.790 --> 01:11:20.500
+all these different ways
+of looking at body size,
+
+01:11:20.500 --> 01:11:23.350
+and sexual dimorphism,
+and imprinted genes,
+
+01:11:23.350 --> 01:11:24.470
+and all that stuff.
+
+01:11:24.470 --> 01:11:27.280
+And humans keep winding
+up being about a halfway
+
+01:11:27.280 --> 01:11:29.450
+between a classic
+monogamous pair
+
+01:11:29.450 --> 01:11:32.790
+bonder and a classic
+polygamist tournament species.
+
+01:11:32.790 --> 01:11:36.780
+So the basic human version of
+it is somewhere in between.
+
+01:11:36.780 --> 01:11:38.600
+But you get variations.
+
+01:11:38.600 --> 01:11:41.760
+You've got genetic variations
+that either look a little bit
+
+01:11:41.760 --> 01:11:45.710
+more like the monogamous vole
+version or the polygamous vole
+
+01:11:45.710 --> 01:11:46.670
+version.
+
+01:11:46.670 --> 01:11:49.810
+And what studies have now
+shown-- two different studies
+
+01:11:49.810 --> 01:11:54.010
+independently showing this--
+have the monogamous vole
+
+01:11:54.010 --> 01:11:54.950
+version.
+
+01:11:54.950 --> 01:11:59.690
+And with the small effect, you
+are more likely to get married,
+
+01:11:59.690 --> 01:12:01.870
+you are more likely
+to remain married,
+
+01:12:01.870 --> 01:12:03.960
+and both you and
+your partner are
+
+01:12:03.960 --> 01:12:08.600
+more likely to rate the
+marriage as stable and happy.
+
+01:12:08.600 --> 01:12:10.980
+That's kind of interesting.
+
+01:12:10.980 --> 01:12:14.260
+Finally, in terms of
+the role of vasopressin,
+
+01:12:14.260 --> 01:12:17.380
+in terms of attachment
+in males, all of that,
+
+01:12:17.380 --> 01:12:20.170
+and in terms of
+social connectiveness,
+
+01:12:20.170 --> 01:12:22.930
+a large body of
+studies now have shown
+
+01:12:22.930 --> 01:12:26.220
+mutations in the
+vasopressin receptor gene.
+
+01:12:26.220 --> 01:12:26.720
+OK.
+
+01:12:26.720 --> 01:12:31.140
+Anybody want to guess
+what disorder you find it?
+
+01:12:31.140 --> 01:12:33.724
+I put that in the
+extended notes, haven't I?
+
+01:12:33.724 --> 01:12:34.890
+People have read it already.
+
+01:12:34.890 --> 01:12:36.350
+I know, I fell for it last time.
+
+01:12:36.350 --> 01:12:38.560
+I am not falling for
+that stupid trick
+
+01:12:38.560 --> 01:12:41.810
+again of asking you to prove.
+
+01:12:41.810 --> 01:12:43.320
+He sniffed some oxytocin.
+
+01:12:43.320 --> 01:12:45.660
+So does anybody want to
+guess which the-- OK.
+
+01:12:45.660 --> 01:12:48.160
+What do you now all
+know is there's now
+
+01:12:48.160 --> 01:12:50.650
+been a lot of
+demonstrations of mutations
+
+01:12:50.650 --> 01:12:53.360
+in the vasopressin
+receptor gene in family
+
+01:12:53.360 --> 01:12:58.760
+pedigrees with autism, a disease
+of very, very little attachment
+
+01:12:58.760 --> 01:13:00.050
+to other humans.
+
+01:13:00.050 --> 01:13:03.570
+So we've got written
+all over the place here
+
+01:13:03.570 --> 01:13:08.940
+some sort of role of oxytocin
+in female attachment formation
+
+01:13:08.940 --> 01:13:10.630
+and vasopressin.
+
+01:13:10.630 --> 01:13:12.680
+And we've already
+gotten interesting hints
+
+01:13:12.680 --> 01:13:14.450
+that this applies to humans.
+
+01:13:14.450 --> 01:13:16.750
+And we've already
+gotten interesting hints
+
+01:13:16.750 --> 01:13:20.120
+that individual differences
+in the molecular biology
+
+01:13:20.120 --> 01:13:22.080
+of these genes
+predicts something
+
+01:13:22.080 --> 01:13:26.120
+about individual differences in
+the stability of relationships
+
+01:13:26.120 --> 01:13:28.030
+in humans.
+
+01:13:28.030 --> 01:13:28.530
+OK.
+
+01:13:28.850 --> 01:13:31.540
+So everything we've been hearing
+about with the neurobiology--
+
+01:13:31.540 --> 01:13:34.110
+and we're still living in
+this part, in this bucket here
+
+01:13:34.110 --> 01:13:36.020
+temporarily-- has
+been built around
+
+01:13:36.020 --> 01:13:37.930
+heterosexual relationships.
+
+01:13:37.930 --> 01:13:40.130
+What's known about
+the neurobiology
+
+01:13:40.130 --> 01:13:42.500
+of sexual orientation?
+
+01:13:42.500 --> 01:13:47.790
+What has been found is most
+strikingly one landmark study,
+
+01:13:47.790 --> 01:13:50.920
+one that got on the
+cover of Time magazine,
+
+01:13:50.920 --> 01:13:54.300
+one that had a gigantic,
+gigantic impact,
+
+01:13:54.300 --> 01:13:57.640
+which was looking back at
+that hypothalamic nucleus,
+
+01:13:57.640 --> 01:14:01.280
+that INAH, I-N-A-H. Yes.
+
+01:14:01.280 --> 01:14:03.850
+Where what we saw
+before was very reliably
+
+01:14:03.850 --> 01:14:07.690
+on the average, men, their
+size of it is about twice
+
+01:14:07.690 --> 01:14:09.360
+the size as in women.
+
+01:14:09.360 --> 01:14:12.120
+And in other species,
+males about twice
+
+01:14:12.120 --> 01:14:14.040
+the size as in females.
+
+01:14:14.040 --> 01:14:16.610
+And a study was
+done in the late 80s
+
+01:14:16.610 --> 01:14:19.470
+by a neuroanatomist
+names Simon LeVay.
+
+01:14:19.470 --> 01:14:21.800
+LeVay is one of the all-time
+great neuroanatomists.
+
+01:14:21.800 --> 01:14:24.250
+He was trained by
+Hubel and Wiesel,
+
+01:14:24.250 --> 01:14:26.650
+was a professor at
+Harvard Med School
+
+01:14:26.650 --> 01:14:29.110
+for a while before moving
+to the Salk Institute.
+
+01:14:29.110 --> 01:14:31.880
+And what he did was
+look post-mortem
+
+01:14:31.880 --> 01:14:34.630
+at the brains of a bunch of
+individuals where he knew
+
+01:14:34.630 --> 01:14:36.900
+the sexual orientation, men.
+
+01:14:36.900 --> 01:14:41.180
+And what he showed was gay
+men, on the average, had
+
+01:14:41.180 --> 01:14:45.270
+this nucleus on the
+average was half the size
+
+01:14:45.270 --> 01:14:48.060
+that you saw in
+heterosexual men.
+
+01:14:48.060 --> 01:14:50.940
+On the average, it was
+about the same size
+
+01:14:50.940 --> 01:14:53.800
+as you saw in
+heterosexual women.
+
+01:14:53.800 --> 01:14:56.330
+Amazing landmark study.
+
+01:14:56.330 --> 01:14:59.670
+Everybody learned about
+the homosexual brain
+
+01:14:59.670 --> 01:15:00.800
+from this study.
+
+01:15:00.800 --> 01:15:03.850
+Hugely widely reported.
+
+01:15:03.850 --> 01:15:06.680
+And this is kind of interesting.
+
+01:15:06.680 --> 01:15:07.180
+OK.
+
+01:15:07.180 --> 01:15:08.360
+What's interesting about it?
+
+01:15:08.360 --> 01:15:12.690
+First off, the question you need
+to ask is how much variability?
+
+01:15:12.690 --> 01:15:13.510
+Fair amount.
+
+01:15:13.510 --> 01:15:15.890
+It wasn't all that
+reliable of a difference.
+
+01:15:15.890 --> 01:15:19.920
+On the average, it was
+about a half the size.
+
+01:15:19.920 --> 01:15:21.295
+Next thing you
+would want to know
+
+01:15:21.295 --> 01:15:24.480
+is, has anybody
+replicated it since then?
+
+01:15:24.480 --> 01:15:25.830
+Yes.
+
+01:15:25.830 --> 01:15:27.340
+Next thing you
+would want to know
+
+01:15:27.340 --> 01:15:30.180
+is, where did LeVay
+get the brains from?
+
+01:15:30.180 --> 01:15:32.310
+And these were
+predominantly from gay men
+
+01:15:32.310 --> 01:15:33.940
+who had died of AIDS.
+
+01:15:33.940 --> 01:15:35.570
+Is that a confound?
+
+01:15:35.570 --> 01:15:39.430
+Is that going to perhaps
+atrophy this part of the brain?
+
+01:15:39.430 --> 01:15:40.540
+Nobody knows.
+
+01:15:40.540 --> 01:15:43.610
+So that remains as a
+caveat in that study.
+
+01:15:43.610 --> 01:15:46.980
+What was striking
+though was everybody
+
+01:15:46.980 --> 01:15:48.740
+learned about this finding.
+
+01:15:48.740 --> 01:15:50.370
+This became famous.
+
+01:15:50.370 --> 01:15:52.880
+LeVay became extremely
+famous for this.
+
+01:15:52.880 --> 01:15:54.380
+And what was also
+very interesting
+
+01:15:54.380 --> 01:15:57.950
+about it was the political
+context of this finding.
+
+01:15:57.950 --> 01:16:00.750
+A few years before
+that, another group
+
+01:16:00.750 --> 01:16:04.420
+had reported another
+difference in the hypothalamus
+
+01:16:04.420 --> 01:16:06.520
+based on sexual orientation.
+
+01:16:06.520 --> 01:16:12.640
+And this was-- there it is.
+
+01:16:12.640 --> 01:16:15.100
+And what you found was in
+this part of the brain,
+
+01:16:15.100 --> 01:16:20.210
+on the average, it would tend
+be bigger in women than in men.
+
+01:16:20.210 --> 01:16:23.900
+And what these guys
+reported was in gay men,
+
+01:16:23.900 --> 01:16:28.230
+it tended to be bigger
+than in straight men.
+
+01:16:28.230 --> 01:16:30.010
+What was puzzling
+about the study
+
+01:16:30.010 --> 01:16:32.730
+was this was a part of
+a hypothalamus having
+
+01:16:32.730 --> 01:16:35.840
+to do with regulation
+of your kidneys.
+
+01:16:35.840 --> 01:16:38.950
+And it was totally ignored
+and completely bizarre,
+
+01:16:38.950 --> 01:16:40.540
+except there was
+one thing that was
+
+01:16:40.540 --> 01:16:42.730
+done with it, which
+was this was viewed
+
+01:16:42.730 --> 01:16:46.670
+as a totally offensive
+study in the gay community.
+
+01:16:46.670 --> 01:16:49.160
+This was viewed as an
+attempt by scientists
+
+01:16:49.160 --> 01:16:53.640
+to pathologize sexual
+orientation, to say, you see,
+
+01:16:53.640 --> 01:16:58.130
+we found something wrong in
+the brains of homosexual men.
+
+01:16:58.130 --> 01:17:01.410
+This part of the brain is
+bigger than it should be.
+
+01:17:01.410 --> 01:17:03.400
+It's bigger than
+it's supposed to be.
+
+01:17:03.400 --> 01:17:06.190
+There's probably two
+reasons why that occurred.
+
+01:17:06.190 --> 01:17:09.730
+The first one was that
+the scientists who did it
+
+01:17:09.730 --> 01:17:11.430
+were straight.
+
+01:17:11.430 --> 01:17:14.530
+And the second reason being
+that they were a Dutch group.
+
+01:17:14.530 --> 01:17:17.260
+And I am willing to
+bet unconsciously there
+
+01:17:17.260 --> 01:17:22.350
+was something central European
+Nazi echoes of Germanic
+
+01:17:22.350 --> 01:17:25.490
+sounding authors producing
+this finding, which there
+
+01:17:25.490 --> 01:17:28.750
+is no shortage of history in
+the gay community for being
+
+01:17:28.750 --> 01:17:31.650
+skittish about Nazi
+notions of what normality
+
+01:17:31.650 --> 01:17:34.350
+is in human behavior
+and human brains.
+
+01:17:34.350 --> 01:17:38.650
+This finding got widely
+condemned in the gay community.
+
+01:17:38.650 --> 01:17:43.820
+Out came LeVay with his
+finding, and he became the most
+
+01:17:43.820 --> 01:17:48.600
+beloved neuroanatomist ever in
+the history of gay communities.
+
+01:17:48.600 --> 01:17:51.310
+One probably important
+feature reason for it
+
+01:17:51.310 --> 01:17:54.860
+is that LeVay was
+gay, very openly so.
+
+01:17:54.860 --> 01:17:58.830
+Another reason was the part of
+the brain he found made sense.
+
+01:17:58.830 --> 01:18:02.370
+It had something to do with
+sexual behavior as opposed
+
+01:18:02.370 --> 01:18:04.710
+to the totally puzzling thing.
+
+01:18:04.710 --> 01:18:06.440
+So what was this about?
+
+01:18:06.440 --> 01:18:09.790
+Very interestingly, the
+explanation almost certainly
+
+01:18:09.790 --> 01:18:12.780
+is that this was the
+part of the hypothalamus
+
+01:18:12.780 --> 01:18:15.800
+next door to the area
+that LeVay studied.
+
+01:18:15.800 --> 01:18:19.950
+And if this part were
+smaller in gay men
+
+01:18:19.950 --> 01:18:23.380
+simply because of just
+physical constraints stuff,
+
+01:18:23.380 --> 01:18:25.710
+this part could get
+bigger in gay men.
+
+01:18:25.710 --> 01:18:27.890
+Because this one was
+taking up less area.
+
+01:18:27.890 --> 01:18:29.800
+That's probably
+what was going on.
+
+01:18:29.800 --> 01:18:33.820
+What's really fascinating
+though is the political context
+
+01:18:33.820 --> 01:18:35.760
+that this research was done in.
+
+01:18:35.760 --> 01:18:38.970
+And this was that first group,
+the senior author of it,
+
+01:18:38.970 --> 01:18:40.850
+a man named Dick Schwab.
+
+01:18:40.850 --> 01:18:44.730
+And he got death threats
+because of that study reporting,
+
+01:18:44.730 --> 01:18:48.500
+ooh, here is-- easily
+interpreted as-- something
+
+01:18:48.500 --> 01:18:51.380
+wrong in the brains of gay man.
+
+01:18:51.380 --> 01:18:55.120
+And Simon LeVay became
+the hero in the community.
+
+01:18:55.120 --> 01:18:57.820
+This was utterly embraced
+by the community.
+
+01:18:57.820 --> 01:19:00.990
+Because in large part,
+how it was interpreted as,
+
+01:19:00.990 --> 01:19:02.730
+this is biology.
+
+01:19:02.730 --> 01:19:04.160
+This isn't choice.
+
+01:19:04.160 --> 01:19:05.510
+This is biology.
+
+01:19:05.510 --> 01:19:06.660
+Look at this.
+
+01:19:06.660 --> 01:19:09.250
+This is ridiculous,
+us saying, oh my god.
+
+01:19:09.250 --> 01:19:11.440
+If we have gay teachers
+in the classroom,
+
+01:19:11.440 --> 01:19:14.880
+we will turn the Boy Scouts
+of America into a gay men.
+
+01:19:14.880 --> 01:19:18.050
+Oh my god, if we have blue-eyed
+teachers in the classroom--
+
+01:19:18.050 --> 01:19:22.380
+the usual argument that this is
+absolute gibberish to demonize
+
+01:19:22.380 --> 01:19:24.290
+sexual orientation as a choice.
+
+01:19:24.290 --> 01:19:24.910
+Look at this.
+
+01:19:24.910 --> 01:19:26.960
+There's a neurobiology of it.
+
+01:19:26.960 --> 01:19:31.020
+And this was sufficiently that
+I've seen people in the Castro
+
+01:19:31.020 --> 01:19:33.550
+District in San Francisco--
+this has disappeared somewhat,
+
+01:19:33.550 --> 01:19:36.290
+showing the half life of
+neuroanatomical knowledge.
+
+01:19:36.290 --> 01:19:38.959
+But during that time, people
+in the Castro District up
+
+01:19:38.959 --> 01:19:41.000
+in the city there, which
+is a very gay community,
+
+01:19:41.000 --> 01:19:44.400
+I have seen people with
+t-shirts saying-- the other term
+
+01:19:44.400 --> 01:19:47.930
+people never really wanted
+to embrace this INAH,
+
+01:19:47.930 --> 01:19:51.050
+so its nickname was the
+sexually dimorphic nucleus
+
+01:19:51.050 --> 01:19:52.450
+of the hypothalamus.
+
+01:19:52.450 --> 01:19:54.430
+And I have seen people
+with t-shirts saying,
+
+01:19:54.430 --> 01:19:58.025
+the only small thing about me is
+my sexually dimorphic nucleus.
+
+01:20:00.530 --> 01:20:02.950
+They were actually
+selling t-shirts
+
+01:20:02.950 --> 01:20:06.690
+that would say this during
+gay pride parades around 1990
+
+01:20:06.690 --> 01:20:07.410
+or so.
+
+01:20:07.410 --> 01:20:10.000
+Isn't it great when
+people learn neuroanatomy
+
+01:20:10.000 --> 01:20:12.140
+out in the general public there?
+
+01:20:12.140 --> 01:20:12.840
+OK.
+
+01:20:12.840 --> 01:20:15.950
+So an interesting
+brain difference
+
+01:20:15.950 --> 01:20:18.880
+confounded by people
+who died of AIDS.
+
+01:20:18.880 --> 01:20:20.960
+It's still not clear
+what that means
+
+01:20:20.960 --> 01:20:23.850
+in terms of possibly
+negating the finding at least
+
+01:20:23.850 --> 01:20:25.440
+independently replicated.
+
+01:20:25.440 --> 01:20:27.600
+Fascinating piece
+of not science,
+
+01:20:27.600 --> 01:20:30.320
+but the political
+context of science.
+
+01:20:30.320 --> 01:20:34.360
+This politically incorrect
+to an extreme, this very,
+
+01:20:34.360 --> 01:20:36.000
+very widely embraced.
+
+01:20:36.000 --> 01:20:38.920
+One interesting thing is
+that paper by LeVay of
+
+01:20:38.920 --> 01:20:40.770
+was published in
+the journal Science.
+
+01:20:40.770 --> 01:20:44.140
+Again, constantly mentioned as
+probably the most influential
+
+01:20:44.140 --> 01:20:46.110
+science journal in this country.
+
+01:20:46.110 --> 01:20:49.030
+And it was published--
+what year was it? '88.
+
+01:20:49.030 --> 01:20:51.390
+'88, '92, '90?
+
+01:20:51.390 --> 01:20:51.890
+OK.
+
+01:20:51.890 --> 01:20:53.100
+I'm getting the year wrong.
+
+01:20:53.100 --> 01:20:57.000
+But it was just before the
+Clinton election against Bush
+
+01:20:57.000 --> 01:21:00.180
+where one of the big issues
+was gays in the military.
+
+01:21:00.180 --> 01:21:02.550
+That was the first thing
+that Clinton turned to
+
+01:21:02.550 --> 01:21:03.820
+after he was elected.
+
+01:21:03.820 --> 01:21:06.450
+I happen to know the man
+who is the editor of Science
+
+01:21:06.450 --> 01:21:07.330
+at the time.
+
+01:21:07.330 --> 01:21:08.880
+And they timed the publication.
+
+01:21:08.880 --> 01:21:11.570
+That paper came out in
+late October of that year.
+
+01:21:11.570 --> 01:21:14.270
+And they held it for
+that time because they
+
+01:21:14.270 --> 01:21:17.830
+knew that this was going to be
+an issue in the election, which
+
+01:21:17.830 --> 01:21:21.480
+was kind of cool that they did
+that, although some people may
+
+01:21:21.480 --> 01:21:22.410
+disagree.
+
+01:21:22.410 --> 01:21:22.910
+OK.
+
+01:21:22.910 --> 01:21:24.040
+But we hurtle on.
+
+01:21:24.040 --> 01:21:27.560
+So what other biological,
+neurobiological differences,
+
+01:21:27.560 --> 01:21:29.780
+as a function of
+sexual orientation?
+
+01:21:29.780 --> 01:21:32.980
+Another one that comes through
+over and over and over again,
+
+01:21:32.980 --> 01:21:35.280
+which-- what do
+you make of this--
+
+01:21:35.280 --> 01:21:38.950
+is apparently there is a
+reliable gender difference
+
+01:21:38.950 --> 01:21:41.110
+in the length of
+the second finger
+
+01:21:41.110 --> 01:21:44.150
+versus the fourth finger,
+the ratio of the two.
+
+01:21:44.150 --> 01:21:47.020
+And just to show how bi--
+whoa, did a lot of hands
+
+01:21:47.020 --> 01:21:49.300
+just go up in this auditorium.
+
+01:21:49.300 --> 01:21:51.690
+And just to show how
+biologically compelling
+
+01:21:51.690 --> 01:21:54.190
+the explanation is for
+it, I don't actually
+
+01:21:54.190 --> 01:21:58.250
+remember which like-- who's
+got the greater four to two
+
+01:21:58.250 --> 01:22:00.620
+ratio, which sex, or whatever.
+
+01:22:00.620 --> 01:22:02.900
+But it is a very--
+now people are
+
+01:22:02.900 --> 01:22:04.840
+checking each other's hands.
+
+01:22:04.840 --> 01:22:05.450
+OK.
+
+01:22:05.450 --> 01:22:10.200
+The first wave of-- and now
+all this chimp hand inspection
+
+01:22:10.200 --> 01:22:11.660
+stuff happening in here.
+
+01:22:11.660 --> 01:22:15.200
+And what has been shown
+quite reliably since then is,
+
+01:22:15.200 --> 01:22:18.550
+on the average, gay men tend
+to have the finger length
+
+01:22:18.550 --> 01:22:22.080
+ratio of straight women
+rather than of straight men.
+
+01:22:22.080 --> 01:22:23.860
+A small effect there.
+
+01:22:23.860 --> 01:22:26.920
+Another even more
+bizarre finding,
+
+01:22:26.920 --> 01:22:31.720
+which is there is something
+called the autoacoustic reflex.
+
+01:22:31.720 --> 01:22:35.300
+And what that is is if you sit
+there and plug your ears up
+
+01:22:35.300 --> 01:22:37.980
+with your fingers, you will
+hear a noise that is just
+
+01:22:37.980 --> 01:22:40.560
+coming from the intrinsic
+vibration of something
+
+01:22:40.560 --> 01:22:42.220
+right there in your
+ears, and that's
+
+01:22:42.220 --> 01:22:45.240
+the autoacoustic reflex
+generating some low Hertz
+
+01:22:45.240 --> 01:22:46.440
+sound in there.
+
+01:22:46.440 --> 01:22:50.950
+And the rate of the oscillation
+differs by sex in humans,
+
+01:22:50.950 --> 01:22:53.240
+which no doubt
+explains everything
+
+01:22:53.240 --> 01:22:56.990
+about the tragic
+wars of the sexes
+
+01:22:56.990 --> 01:22:59.380
+and why people just don't
+understand each other
+
+01:22:59.380 --> 01:23:02.490
+by gender because of their ears
+vibrating at different speeds.
+
+01:23:02.490 --> 01:23:04.260
+But what these studies
+have also shown
+
+01:23:04.260 --> 01:23:07.700
+was gay men having the
+autoacoustic reflexive
+
+01:23:07.700 --> 01:23:10.850
+vibratory speed more
+typical of straight women
+
+01:23:10.850 --> 01:23:11.710
+than straight men.
+
+01:23:11.710 --> 01:23:13.710
+Again, a very small effect.
+
+01:23:13.710 --> 01:23:15.490
+What are all of these about?
+
+01:23:15.490 --> 01:23:17.480
+The assumptions
+are it's got to do
+
+01:23:17.480 --> 01:23:20.980
+with something with prenatal
+hormone environment.
+
+01:23:20.980 --> 01:23:21.750
+Stay tuned.
+
+01:23:21.750 --> 01:23:24.070
+We will be coming back to this.
+
+01:23:24.070 --> 01:23:26.120
+Now somewhere in
+there you may ask, OK,
+
+01:23:26.120 --> 01:23:29.490
+well what about the neurobiology
+of sexual orientation in women?
+
+01:23:29.490 --> 01:23:31.660
+Vastly smaller literature.
+
+01:23:31.660 --> 01:23:33.460
+Far, far less studied.
+
+01:23:33.460 --> 01:23:36.780
+What has been shown so far
+are only two endpoints.
+
+01:23:36.780 --> 01:23:40.820
+One is the same deal with the
+fourth to second finger ratio.
+
+01:23:40.820 --> 01:23:44.980
+On the average, gay women
+have the ratio more typical
+
+01:23:44.980 --> 01:23:46.615
+of straight men
+than straight women.
+
+01:23:46.615 --> 01:23:47.990
+The other thing
+that's been shown
+
+01:23:47.990 --> 01:23:52.050
+is the same autoacoustic
+reflex thingy going on there.
+
+01:23:52.050 --> 01:23:54.890
+Final realm of
+neurobiology, rather than
+
+01:23:54.890 --> 01:23:57.950
+issues of gay versus
+straight, what
+
+01:23:57.950 --> 01:24:01.000
+is the neurobiology
+of transsexuality?
+
+01:24:01.000 --> 01:24:04.020
+And that used to be
+considered to be purely
+
+01:24:04.020 --> 01:24:06.660
+a domain of psychopathology.
+
+01:24:06.660 --> 01:24:10.660
+If being gay used to be
+a certifiable psychiatric
+
+01:24:10.660 --> 01:24:14.450
+disorder-- up until the early
+1970s, the American Psychiatric
+
+01:24:14.450 --> 01:24:17.200
+Association in their textbook,
+the Diagnostic Statistical
+
+01:24:17.200 --> 01:24:21.090
+Manual, you could be
+psychiatrically certified
+
+01:24:21.090 --> 01:24:21.620
+as ill.
+
+01:24:21.620 --> 01:24:25.710
+A psychiatric disorder was
+being homosexual or lesbian.
+
+01:24:25.710 --> 01:24:28.370
+And then in what had to
+have been one of the more
+
+01:24:28.370 --> 01:24:31.310
+all-time blow out
+committee meetings ever,
+
+01:24:31.310 --> 01:24:33.510
+they decided that,
+no, actually it's
+
+01:24:33.510 --> 01:24:34.780
+not a psychiatric disorder.
+
+01:24:34.780 --> 01:24:37.100
+And overnight, about
+40 million Americans
+
+01:24:37.100 --> 01:24:39.330
+were cured of a
+psychiatric disease.
+
+01:24:39.330 --> 01:24:43.410
+The notion of transsexuality
+as a psychiatric disorder
+
+01:24:43.410 --> 01:24:46.320
+has had much, much
+longer shelf life.
+
+01:24:46.320 --> 01:24:49.020
+What's the neurobiology of that?
+
+01:24:49.020 --> 01:24:52.350
+To date, there have been
+a handful of studies,
+
+01:24:52.350 --> 01:24:55.490
+and they show essentially
+the same thing-- really,
+
+01:24:55.490 --> 01:24:56.900
+really interesting.
+
+01:24:56.900 --> 01:24:59.310
+Another region of
+the brain that shows
+
+01:24:59.310 --> 01:25:01.340
+a sex difference in
+its average size--
+
+01:25:01.340 --> 01:25:03.580
+don't even worry about
+the name of this.
+
+01:25:03.580 --> 01:25:06.790
+It's called the bed nucleus
+of the stria terminalis.
+
+01:25:06.790 --> 01:25:09.950
+It's where the amygdala
+begins to send its projection
+
+01:25:09.950 --> 01:25:11.370
+into the hypothalamus.
+
+01:25:11.370 --> 01:25:13.820
+Another one to those
+gender differences.
+
+01:25:13.820 --> 01:25:16.320
+There is one type
+of neuron in there
+
+01:25:16.320 --> 01:25:20.190
+with a certain type of
+neurotransmitter, where very,
+
+01:25:20.190 --> 01:25:23.690
+very reliably it is about
+twice the size in males
+
+01:25:23.690 --> 01:25:24.790
+than in females.
+
+01:25:24.790 --> 01:25:26.870
+Sufficiently so that
+even in human brains,
+
+01:25:26.870 --> 01:25:29.800
+you could pretty confidently
+determine the sex of somebody
+
+01:25:29.800 --> 01:25:31.550
+by seeing the number
+of these neurons.
+
+01:25:31.550 --> 01:25:33.030
+You'll see, I'm not
+even saying the name
+
+01:25:33.030 --> 01:25:34.030
+of the neurotransmitter.
+
+01:25:34.030 --> 01:25:34.710
+It's irrelevant.
+
+01:25:34.710 --> 01:25:37.050
+It's just another one
+of those differences,
+
+01:25:37.050 --> 01:25:40.850
+a dimorphism in a region of
+the brain, a really, really
+
+01:25:40.850 --> 01:25:42.490
+reliable one.
+
+01:25:42.490 --> 01:25:47.140
+And this was a study done by
+some superb neuroanatomists
+
+01:25:47.140 --> 01:25:49.980
+looking at transsexuals.
+
+01:25:49.980 --> 01:25:52.680
+And what they showed
+was very interesting,
+
+01:25:52.680 --> 01:25:57.900
+which was very, very reliably
+and a very powerful effect.
+
+01:25:57.900 --> 01:26:00.540
+What you would see
+in their large sample
+
+01:26:00.540 --> 01:26:03.500
+size of transsexuals
+brains post-mortem
+
+01:26:03.500 --> 01:26:07.760
+was people would have this
+part of the brain, the size not
+
+01:26:07.760 --> 01:26:12.150
+of their sex that they were
+born with, but rather of the sex
+
+01:26:12.150 --> 01:26:16.280
+they insisted they
+always actually were.
+
+01:26:16.280 --> 01:26:17.520
+Wow.
+
+01:26:17.520 --> 01:26:19.921
+Immediate questions
+one must ask.
+
+01:26:19.921 --> 01:26:20.420
+OK.
+
+01:26:20.420 --> 01:26:22.330
+Well, maybe this
+is due to the fact
+
+01:26:22.330 --> 01:26:26.450
+that when people change
+gender, transsexual procedures,
+
+01:26:26.450 --> 01:26:29.610
+there's a whole lot
+of hormones involved.
+
+01:26:29.610 --> 01:26:32.510
+And maybe that's doing something
+to this part of the brain.
+
+01:26:32.510 --> 01:26:35.130
+Critical control
+that they had was
+
+01:26:35.130 --> 01:26:37.250
+this was looking
+both at transsexuals
+
+01:26:37.250 --> 01:26:41.210
+who had made gender changes and
+those who went to their death
+
+01:26:41.210 --> 01:26:44.130
+bed saying this is
+not the sex that I am,
+
+01:26:44.130 --> 01:26:47.340
+I got the wrong body, but
+never made the change.
+
+01:26:47.340 --> 01:26:49.270
+It wasn't a function
+of having actually
+
+01:26:49.270 --> 01:26:52.730
+gone through the transition
+and the endocrine manipulations
+
+01:26:52.730 --> 01:26:53.470
+with it.
+
+01:26:53.470 --> 01:26:56.230
+Another control
+they had, which was
+
+01:26:56.230 --> 01:26:59.020
+looking at men who would get
+a certain type of testicular
+
+01:26:59.020 --> 01:27:00.820
+cancer where they
+would have to be
+
+01:27:00.820 --> 01:27:03.252
+treated with certain
+feminizing hormones.
+
+01:27:03.252 --> 01:27:05.460
+In other words, very similar
+to some of the endocrine
+
+01:27:05.460 --> 01:27:08.970
+treatments of male-to-female
+transgendered individuals.
+
+01:27:08.970 --> 01:27:12.120
+And post-mortem, you didn't
+see the changes there.
+
+01:27:12.120 --> 01:27:14.350
+It has nothing to do
+with the hormones.
+
+01:27:14.350 --> 01:27:18.650
+It had to do with the person
+insisting from day one
+
+01:27:18.650 --> 01:27:20.880
+that they got the wrong body.
+
+01:27:20.880 --> 01:27:23.930
+And this was a landmark
+study, fabulously
+
+01:27:23.930 --> 01:27:26.730
+well done and controlled,
+and replicated once
+
+01:27:26.730 --> 01:27:30.000
+since then showing that
+what transsexualism used
+
+01:27:30.000 --> 01:27:32.180
+to be thought of
+is that people who
+
+01:27:32.180 --> 01:27:35.380
+think that they're a different
+gender than they actually are.
+
+01:27:35.380 --> 01:27:38.750
+What this study suggests is
+what transsexualism is about
+
+01:27:38.750 --> 01:27:42.300
+is people who got the
+wrong gendered body.
+
+01:27:42.300 --> 01:27:47.800
+And these are people who are
+chromosomally of one sex.
+
+01:27:47.800 --> 01:27:50.110
+In terms of their gonads,
+they're of that sex.
+
+01:27:50.110 --> 01:27:52.400
+In terms of their hormones,
+they're of that sex.
+
+01:27:52.400 --> 01:27:55.310
+In terms of their genitalia
+and their secondary sexual
+
+01:27:55.310 --> 01:27:57.650
+characteristics,
+they are of that sex.
+
+01:27:57.650 --> 01:28:01.100
+But they're insisting,
+that's not who I really am.
+
+01:28:01.100 --> 01:28:04.220
+This part of the brain
+agrees with them.
+
+01:28:04.220 --> 01:28:06.560
+Also very interestingly
+that study
+
+01:28:06.560 --> 01:28:10.360
+was done by the same Dutch
+scientists who did this one.
+
+01:28:10.360 --> 01:28:13.790
+Again, this is very
+complex terrain
+
+01:28:13.790 --> 01:28:16.930
+in terms of what these
+things wind up implicating.
+
+01:28:16.930 --> 01:28:20.240
+Interestingly, that study was
+published right around the time
+
+01:28:20.240 --> 01:28:23.750
+that the city of San Francisco
+did something very cool, which
+
+01:28:23.750 --> 01:28:26.970
+was for city employees
+now, medical insurance
+
+01:28:26.970 --> 01:28:29.350
+will cover transgender
+operations.
+
+01:28:29.350 --> 01:28:32.150
+However, there is no evidence
+that the obscure endocrine
+
+01:28:32.150 --> 01:28:34.520
+journal published out
+of Latvia or something
+
+01:28:34.520 --> 01:28:37.840
+did that like the afternoon
+before the San Francisco
+
+01:28:37.840 --> 01:28:39.930
+commissioners had their
+meeting on that one.
+
+01:28:39.930 --> 01:28:42.280
+But nonetheless,
+this is a subject
+
+01:28:42.280 --> 01:28:44.550
+with all sorts of
+realms of implications.
+
+01:28:44.550 --> 01:28:48.120
+One additional study
+about transsexualism.
+
+01:28:48.120 --> 01:28:48.730
+OK.
+
+01:28:48.730 --> 01:28:52.040
+How many of you know about
+Phantom Limb Syndrome?
+
+01:28:52.040 --> 01:28:53.150
+OK.
+
+01:28:53.150 --> 01:28:57.600
+You are a guy with a penis,
+and you get a certain type
+
+01:28:57.600 --> 01:28:58.730
+of penile cancer.
+
+01:28:58.730 --> 01:29:02.270
+And what's often done is
+your penis is excised.
+
+01:29:02.270 --> 01:29:03.400
+It is cut off.
+
+01:29:03.400 --> 01:29:06.460
+And about 60% of men who have
+had to have their penises
+
+01:29:06.460 --> 01:29:08.730
+removed because of
+cancer there wind up
+
+01:29:08.730 --> 01:29:14.890
+getting phantom penile
+sensations, which
+
+01:29:14.890 --> 01:29:17.180
+I don't want to know about.
+
+01:29:17.180 --> 01:29:21.500
+What you see though is when you
+take transgendered individuals
+
+01:29:21.500 --> 01:29:24.340
+who go from male to
+female, in other words,
+
+01:29:24.340 --> 01:29:28.160
+as part of it having
+their penises removed, 0%
+
+01:29:28.160 --> 01:29:30.970
+rate of penile
+phantom sensation.
+
+01:29:30.970 --> 01:29:34.660
+Suggestion being that there
+is something much more
+
+01:29:34.660 --> 01:29:38.050
+"normal" in that case than
+when a penis is being removed
+
+01:29:38.050 --> 01:29:43.630
+for cancer, a whole new area
+of research, very novel,
+
+01:29:43.630 --> 01:29:44.780
+very challenging.
+
+01:29:44.780 --> 01:29:45.390
+OK.
+
+01:29:45.390 --> 01:29:48.410
+So this has giving us a
+sense now of this bucket.
+
+01:29:48.410 --> 01:29:52.400
+And we are now ready to move
+on to, what in the environment
+
+01:29:52.400 --> 01:29:54.700
+releases some of
+these fixed action
+
+01:29:54.700 --> 01:29:56.210
+patterns of sexual behavior?
+
+01:29:56.210 --> 01:29:58.740
+What in the environment
+is doing this or that
+
+01:29:58.740 --> 01:30:02.080
+to the medial preoptic
+area or the amygdala
+
+01:30:02.080 --> 01:30:04.950
+or vasopressin receptor
+levels or any such thing.
+
+01:30:04.950 --> 01:30:08.750
+What are the sensory
+triggers for the neurobiology
+
+01:30:08.750 --> 01:30:10.290
+of sexual behavior?
+
+01:30:10.290 --> 01:30:10.990
+OK.
+
+01:30:10.990 --> 01:30:15.690
+Right off, what is obvious is
+we are in ethologyville here.
+
+01:30:15.690 --> 01:30:19.170
+It's going to depend on the
+species which sensory modality
+
+01:30:19.170 --> 01:30:20.375
+is most important.
+
+01:30:20.375 --> 01:30:24.180
+And this is, once again, the
+crushing of the limbic system
+
+01:30:24.180 --> 01:30:26.340
+equals nose-brain concept.
+
+01:30:26.340 --> 01:30:29.040
+Limbic system equals
+nose-brain if you are a rat.
+
+01:30:29.040 --> 01:30:30.850
+It's, once again, going
+to be interviewing
+
+01:30:30.850 --> 01:30:33.410
+an animal in its own language.
+
+01:30:33.410 --> 01:30:35.990
+You've got species where
+the releasing stimuli
+
+01:30:35.990 --> 01:30:37.460
+are all visual.
+
+01:30:37.460 --> 01:30:39.530
+And we've heard one
+example of that already,
+
+01:30:39.530 --> 01:30:42.550
+which were the pathetic male
+turkeys getting faked out
+
+01:30:42.550 --> 01:30:46.120
+by the Styrofoam female turkeys
+with the feathers pointing
+
+01:30:46.120 --> 01:30:47.070
+the wrong way.
+
+01:30:47.070 --> 01:30:48.730
+Visual stimuli.
+
+01:30:48.730 --> 01:30:52.110
+Other species are
+quite visual as well.
+
+01:30:52.110 --> 01:30:56.440
+Primates, non-human primates,
+monkeys, for example.
+
+01:30:56.440 --> 01:31:00.031
+And what studies have shown
+is-- how's this for remarkable?
+
+01:31:00.031 --> 01:31:00.530
+OK.
+
+01:31:00.530 --> 01:31:04.370
+Here we have-- nah, forget it.
+
+01:31:04.370 --> 01:31:05.040
+OK.
+
+01:31:05.040 --> 01:31:07.490
+You will take a rhesus
+monkey, a rhesus monkey
+
+01:31:07.490 --> 01:31:08.660
+from a social group.
+
+01:31:08.660 --> 01:31:11.250
+And he's sitting there,
+and he can lever press
+
+01:31:11.250 --> 01:31:12.470
+for various rewards.
+
+01:31:12.470 --> 01:31:15.120
+And he will press a lever
+a certain number of times
+
+01:31:15.120 --> 01:31:19.180
+to get some juice as a reward.
+
+01:31:19.180 --> 01:31:21.670
+He will press a lever a
+certain number of times
+
+01:31:21.670 --> 01:31:24.970
+to see a high ranking male
+from his social group,
+
+01:31:24.970 --> 01:31:26.860
+no doubt to keep
+an eye on the guy.
+
+01:31:26.860 --> 01:31:30.000
+He will not lever press
+to see a male who is lower
+
+01:31:30.000 --> 01:31:33.340
+ranking than him, but
+he will lever the most
+
+01:31:33.340 --> 01:31:38.590
+to see pictures of female
+rhesus monkeys who are in heat.
+
+01:31:38.590 --> 01:31:39.680
+Whoa!
+
+01:31:39.680 --> 01:31:41.360
+Is that weird or what?
+
+01:31:41.360 --> 01:31:44.340
+And the bigger the estrus
+swelling on the female,
+
+01:31:44.340 --> 01:31:45.990
+the more levered
+pressing the male
+
+01:31:45.990 --> 01:31:49.690
+will do to be able to see this.
+
+01:31:49.690 --> 01:31:50.960
+So that's kind of interesting.
+
+01:31:50.960 --> 01:31:54.180
+And this close relative of ours,
+in terms of visual stimuli.
+
+01:31:54.180 --> 01:31:56.840
+What is also known
+is humans are highly
+
+01:31:56.840 --> 01:31:59.850
+visual in their sexual
+responsiveness as well.
+
+01:31:59.850 --> 01:32:02.570
+Visual stimuli as
+releasing stimuli.
+
+01:32:02.570 --> 01:32:06.550
+What is no surprise
+whatsoever is on the average,
+
+01:32:06.550 --> 01:32:09.870
+males are more responsive
+to visual releasing stimuli
+
+01:32:09.870 --> 01:32:11.850
+than are females among humans.
+
+01:32:11.850 --> 01:32:14.650
+And this has been
+shown in various ways.
+
+01:32:14.650 --> 01:32:18.750
+For example, now studies using
+brain imaging showing that
+
+01:32:18.750 --> 01:32:23.720
+for visually sexually arousing
+material that not only
+
+01:32:23.720 --> 01:32:27.640
+are men on the average
+subjectively more responsive,
+
+01:32:27.640 --> 01:32:29.190
+but you get more
+of an activation
+
+01:32:29.190 --> 01:32:33.200
+of the dopamine pathways
+in men than in women.
+
+01:32:33.200 --> 01:32:36.250
+What's interesting also
+is that in men, you
+
+01:32:36.250 --> 01:32:40.690
+uniquely get activation of that
+area of the amygdala as well.
+
+01:32:40.690 --> 01:32:43.920
+And again, that weird world
+of the structure of the brain
+
+01:32:43.920 --> 01:32:47.690
+heavily involved in aggression
+also being involved something
+
+01:32:47.690 --> 01:32:50.490
+about male sexual motivation.
+
+01:32:50.490 --> 01:32:51.620
+What else?
+
+01:32:51.620 --> 01:32:54.820
+Then there, of course, is the
+world of tactile stimulation.
+
+01:32:54.820 --> 01:32:58.790
+And what you've got is a whole
+domain where, not surprisingly,
+
+01:32:58.790 --> 01:33:01.670
+stimulate the right
+tactile receptors,
+
+01:33:01.670 --> 01:33:03.920
+and it is sexually arousing.
+
+01:33:03.920 --> 01:33:04.810
+Are they sure?
+
+01:33:04.810 --> 01:33:06.520
+Have they done enough
+research on this?
+
+01:33:06.520 --> 01:33:08.730
+And you will activate
+dopamine regions.
+
+01:33:08.730 --> 01:33:10.830
+All of that making
+perfect sense.
+
+01:33:10.830 --> 01:33:15.500
+What also makes perfect sense is
+some types of tactile receptors
+
+01:33:15.500 --> 01:33:18.700
+in some part of the body
+activate dopamine more
+
+01:33:18.700 --> 01:33:20.500
+than other types.
+
+01:33:20.500 --> 01:33:23.580
+We are now in the whole
+world of erogenous zones
+
+01:33:23.580 --> 01:33:25.070
+and that whole deal.
+
+01:33:25.070 --> 01:33:28.630
+What is also clear is
+that these receptors,
+
+01:33:28.630 --> 01:33:32.680
+these tactile receptors, their
+responsiveness to stimuli
+
+01:33:32.680 --> 01:33:36.150
+will change depending
+on your hormone levels.
+
+01:33:36.150 --> 01:33:40.180
+And what you see is in women,
+tactile responsiveness,
+
+01:33:40.180 --> 01:33:43.780
+the extent to which
+tactile stimulation of skin
+
+01:33:43.780 --> 01:33:46.870
+throughout the body, but
+especially of the genitals,
+
+01:33:46.870 --> 01:33:50.730
+tactile stimulation evokes
+more dopamine activation
+
+01:33:50.730 --> 01:33:52.650
+when somebody is ovulating.
+
+01:33:52.650 --> 01:33:56.180
+In other words, at
+ovulation, women's skin
+
+01:33:56.180 --> 01:33:59.620
+is more sensitive to
+sexually arousing touch.
+
+01:33:59.620 --> 01:34:02.520
+In men, it requires
+testosterone.
+
+01:34:02.520 --> 01:34:07.220
+Men who are castrated, tactile
+responsiveness to stimuli
+
+01:34:07.220 --> 01:34:09.910
+goes down in terms of
+finding them pleasurable,
+
+01:34:09.910 --> 01:34:11.320
+sexually arousing.
+
+01:34:11.320 --> 01:34:14.680
+Final domain of tactile
+stuff, the specialized version
+
+01:34:14.680 --> 01:34:18.250
+we've heard of already, that
+lordosis reflex business.
+
+01:34:18.250 --> 01:34:21.460
+Again, that's a spinal
+reflex, but this is not
+
+01:34:21.460 --> 01:34:23.820
+a spinal reflex of bopping
+somebody on the knee
+
+01:34:23.820 --> 01:34:25.480
+and their leg goes flying out.
+
+01:34:25.480 --> 01:34:27.960
+This is spinal
+reflex where you only
+
+01:34:27.960 --> 01:34:31.970
+get the lordotic arch backing
+in females-- arch backing?
+
+01:34:31.970 --> 01:34:33.410
+Back arching.
+
+01:34:33.410 --> 01:34:34.424
+OK.
+
+01:34:34.424 --> 01:34:36.090
+You don't get either,
+but you especially
+
+01:34:36.090 --> 01:34:38.320
+don't get the arch
+backing when you don't
+
+01:34:38.320 --> 01:34:40.140
+have elevated estrogen levels.
+
+01:34:40.140 --> 01:34:44.840
+Only when females are ovulating
+are those tactile receptors
+
+01:34:44.840 --> 01:34:48.620
+sensitive to pressure on
+the flanks of the rear end,
+
+01:34:48.620 --> 01:34:50.500
+and out comes the reflex there.
+
+01:34:50.500 --> 01:34:52.480
+So tactile stimulation.
+
+01:34:52.480 --> 01:34:54.840
+At the end of the day,
+though, without question,
+
+01:34:54.840 --> 01:34:57.360
+as agreed upon by every
+scientist on earth,
+
+01:34:57.360 --> 01:35:02.100
+the coolest sensory modality
+for sexual release stimuli
+
+01:35:02.100 --> 01:35:05.710
+are olfactory cues, pheromones.
+
+01:35:05.710 --> 01:35:08.840
+And thus, we enter the
+magnificent wonderful world
+
+01:35:08.840 --> 01:35:13.140
+of pheromonal communication
+and pheromonal sexual arousal.
+
+01:35:13.140 --> 01:35:16.540
+All sorts of interesting
+findings there.
+
+01:35:16.540 --> 01:35:20.140
+First, at the end of
+generating pheromones
+
+01:35:20.140 --> 01:35:21.740
+that are sexually arousing.
+
+01:35:21.740 --> 01:35:26.200
+What is required in both
+species-- in both species?
+
+01:35:26.200 --> 01:35:26.800
+Whoa.
+
+01:35:26.800 --> 01:35:28.240
+That was an interesting slip.
+
+01:35:28.240 --> 01:35:32.690
+What's required in
+both sexes-- OK.
+
+01:35:32.690 --> 01:35:40.610
+What's required in both kinds
+is the right hormones into order
+
+01:35:40.610 --> 01:35:42.510
+to generate pheromones.
+
+01:35:42.510 --> 01:35:45.444
+Sexually arousing pheromones
+in all the different species
+
+01:35:45.444 --> 01:35:47.110
+look-- that's where
+the species part was
+
+01:35:47.110 --> 01:35:48.490
+coming into that sentence.
+
+01:35:48.490 --> 01:35:52.900
+What you see is males do not
+generate sexually arousing
+
+01:35:52.900 --> 01:35:56.010
+pheromones if they lack
+testosterone levels.
+
+01:35:56.010 --> 01:35:59.930
+Ovariectomized females,
+women, rats, monkeys,
+
+01:35:59.930 --> 01:36:02.460
+et cetera, who have had
+their ovaries removed
+
+01:36:02.460 --> 01:36:06.560
+do not produce pheromones
+that are sexually arousing.
+
+01:36:06.560 --> 01:36:08.460
+What that of course
+brings up is,
+
+01:36:08.460 --> 01:36:12.950
+what are some of the chemical
+constituents of pheromones?
+
+01:36:12.950 --> 01:36:15.810
+And this is very interesting
+because it brings up
+
+01:36:15.810 --> 01:36:19.150
+another one of those weird
+domains of neuromarketing,
+
+01:36:19.150 --> 01:36:22.440
+pheromones that have
+sexually arousing components.
+
+01:36:22.440 --> 01:36:25.530
+There's all sorts of fatty
+acids that play a role in that.
+
+01:36:25.530 --> 01:36:28.300
+But a lot of what is sexually
+arousing about pheromones
+
+01:36:28.300 --> 01:36:31.330
+in different species
+are breakdown products
+
+01:36:31.330 --> 01:36:33.010
+of sex hormones.
+
+01:36:33.010 --> 01:36:36.770
+Breakdown products of
+androgens in males,
+
+01:36:36.770 --> 01:36:39.130
+of estrogens in females.
+
+01:36:39.130 --> 01:36:42.340
+And that winds of providing
+some of these sexually
+
+01:36:42.340 --> 01:36:45.600
+arousing aspects of those odors.
+
+01:36:45.600 --> 01:36:47.860
+What does that
+immediately tell you?
+
+01:36:47.860 --> 01:36:51.590
+Your olfactory receptors have
+all sorts of receptors there
+
+01:36:51.590 --> 01:36:54.650
+that could pick up on remnants
+of testosterone and estrogen,
+
+01:36:54.650 --> 01:36:55.930
+things of that sort.
+
+01:36:55.930 --> 01:36:58.140
+That makes a lot of sense.
+
+01:36:58.140 --> 01:37:00.010
+What doesn't make
+any sense at all
+
+01:37:00.010 --> 01:37:04.430
+is the following finding,
+which is perfume.
+
+01:37:04.430 --> 01:37:07.860
+Perfume, in its classic
+form, is made out
+
+01:37:07.860 --> 01:37:11.510
+of the sweat of various animals.
+
+01:37:11.510 --> 01:37:12.880
+OK.
+
+01:37:12.880 --> 01:37:16.680
+Except we're going to get into
+even worse domain here, which
+
+01:37:16.680 --> 01:37:19.080
+is perfumes
+traditionally, before
+
+01:37:19.080 --> 01:37:21.390
+getting the synthetic
+versions, were typically
+
+01:37:21.390 --> 01:37:26.461
+made from the sweat
+of male animals.
+
+01:37:26.461 --> 01:37:26.960
+Hm.
+
+01:37:26.960 --> 01:37:28.310
+What's that about?
+
+01:37:28.310 --> 01:37:29.450
+Musk.
+
+01:37:29.450 --> 01:37:30.860
+Things of that sort.
+
+01:37:30.860 --> 01:37:32.020
+Chanel No.
+
+01:37:32.020 --> 01:37:37.380
+5 is made from the sweat of
+whipped male Abyssinian cats.
+
+01:37:37.380 --> 01:37:38.370
+I kid you not.
+
+01:37:38.370 --> 01:37:41.650
+And this even produced
+protests some years ago,
+
+01:37:41.650 --> 01:37:44.160
+animal rights groups,
+about how we should not
+
+01:37:44.160 --> 01:37:46.000
+be perfuming ourselves
+with the sweat
+
+01:37:46.000 --> 01:37:48.550
+of whipped male Abyssinian cats.
+
+01:37:48.550 --> 01:37:51.600
+Suddenly, you've
+got a real puzzle.
+
+01:37:51.600 --> 01:37:55.210
+Along comes synthetic perfumes,
+and the majority of them
+
+01:37:55.210 --> 01:37:58.520
+are made of synthetic
+versions of androgens.
+
+01:37:58.520 --> 01:37:59.810
+Wait a second.
+
+01:37:59.810 --> 01:38:03.530
+Perfume is made up of all
+sorts of breakdown products
+
+01:38:03.530 --> 01:38:05.450
+of male sweat.
+
+01:38:05.450 --> 01:38:09.830
+Isn't perfume supposed to
+like smell good to guys?
+
+01:38:09.830 --> 01:38:13.080
+We have a deep
+abiding puzzle here.
+
+01:38:13.080 --> 01:38:14.720
+And there is an answer for it.
+
+01:38:14.720 --> 01:38:16.590
+Let me survey people first off.
+
+01:38:16.590 --> 01:38:17.170
+OK.
+
+01:38:17.170 --> 01:38:19.070
+Guys in the room,
+how many of you
+
+01:38:19.070 --> 01:38:21.280
+basically think that
+most perfumes smell
+
+01:38:21.280 --> 01:38:22.150
+kind of appealing?
+
+01:38:25.240 --> 01:38:26.710
+OK.
+
+01:38:26.710 --> 01:38:29.560
+How many of you don't?
+
+01:38:29.560 --> 01:38:30.060
+OK.
+
+01:38:30.060 --> 01:38:32.960
+Females, how many of you think
+your basic off-the-rack perfume
+
+01:38:32.960 --> 01:38:33.792
+smells appealing?
+
+01:38:37.411 --> 01:38:37.910
+OK.
+
+01:38:37.910 --> 01:38:39.190
+Well, that proves something.
+
+01:38:39.190 --> 01:38:39.700
+OK.
+
+01:38:39.700 --> 01:38:42.290
+Just complete it, how
+many of you don't?
+
+01:38:42.290 --> 01:38:42.830
+OK.
+
+01:38:42.830 --> 01:38:47.000
+The vast majority of perfumes
+are not purchased by men.
+
+01:38:47.000 --> 01:38:49.260
+The vast majority are
+purchased by women.
+
+01:38:49.260 --> 01:38:52.390
+In other words, most of
+the marketing decisions
+
+01:38:52.390 --> 01:38:54.660
+about what to stick
+in your perfumes
+
+01:38:54.660 --> 01:38:56.380
+are being marketed
+for people who
+
+01:38:56.380 --> 01:38:58.450
+are going to decide if
+it's appealing or not,
+
+01:38:58.450 --> 01:39:01.210
+people who have lots of
+estrogen in their bloodstream
+
+01:39:01.210 --> 01:39:02.320
+rather than androgens.
+
+01:39:02.320 --> 01:39:05.480
+That is thought to be
+the explanation for how
+
+01:39:05.480 --> 01:39:09.150
+it is that most perfumes are
+derived from male pheromones.
+
+01:39:09.150 --> 01:39:10.020
+Yeah.
+
+01:39:10.020 --> 01:39:13.271
+The other thing is if
+I were to wear perfume
+
+01:39:13.271 --> 01:39:15.520
+it would more so that girls
+think I smell good instead
+
+01:39:15.520 --> 01:39:16.680
+of for me to think I smell god.
+
+01:39:16.680 --> 01:39:17.255
+OK.
+
+01:39:17.255 --> 01:39:17.754
+Yes.
+
+01:39:20.420 --> 01:39:23.030
+The strategizing starts.
+
+01:39:23.030 --> 01:39:23.530
+OK.
+
+01:39:23.530 --> 01:39:26.720
+So a whole new world of
+potential neuromarketing here.
+
+01:39:26.720 --> 01:39:30.450
+But this taps into, what are
+the chemical constituents
+
+01:39:30.450 --> 01:39:31.610
+of pheromones?
+
+01:39:31.610 --> 01:39:33.540
+What sort of
+information is carried
+
+01:39:33.540 --> 01:39:37.370
+by pheromones, olfactory
+communication, between genders?
+
+01:39:37.370 --> 01:39:40.410
+It will tell you the
+species of the individual.
+
+01:39:40.410 --> 01:39:42.090
+It will tell you their gender.
+
+01:39:42.090 --> 01:39:45.700
+It will tell you whether
+they are gonadally intact,
+
+01:39:45.700 --> 01:39:47.590
+whether they've been
+castrated or not.
+
+01:39:47.590 --> 01:39:49.520
+It will tell you something
+about their health.
+
+01:39:49.520 --> 01:39:52.290
+It will tell you whether
+they are terrified or not.
+
+01:39:52.290 --> 01:39:55.450
+Have the sweat from someone or
+something that is terrified,
+
+01:39:55.450 --> 01:39:57.920
+and as we already know,
+it will smell differently
+
+01:39:57.920 --> 01:39:58.830
+to the amygdala.
+
+01:39:58.830 --> 01:40:02.310
+It will have a lot more
+glucocorticoid breakdown
+
+01:40:02.310 --> 01:40:03.360
+products in it.
+
+01:40:03.360 --> 01:40:05.530
+And it will tell you,
+as we know already,
+
+01:40:05.530 --> 01:40:09.580
+if it's the right species, if
+this person is related to you.
+
+01:40:09.580 --> 01:40:12.780
+Final point before we then
+go into the specifics of what
+
+01:40:12.780 --> 01:40:16.410
+pheromones are doing to the
+neurobiology of all this,
+
+01:40:16.410 --> 01:40:20.170
+finally, not only do you need
+to have hormones intact in order
+
+01:40:20.170 --> 01:40:22.450
+to generate the
+pheromones, you need
+
+01:40:22.450 --> 01:40:25.160
+to have the right
+reproductive hormones on board
+
+01:40:25.160 --> 01:40:27.320
+in order to perceive them.
+
+01:40:27.320 --> 01:40:30.620
+Men who are castrated
+no longer find
+
+01:40:30.620 --> 01:40:35.390
+the smells of
+female ovarian-- OK,
+
+01:40:35.390 --> 01:40:36.791
+I'm getting ahead
+of myself here.
+
+01:40:36.791 --> 01:40:37.290
+OK.
+
+01:40:37.290 --> 01:40:38.956
+If you don't have the
+hormones on board,
+
+01:40:38.956 --> 01:40:41.120
+if you have no estrogen
+and you're female,
+
+01:40:41.120 --> 01:40:43.340
+or if you have no
+testosterone and you are male,
+
+01:40:43.340 --> 01:40:45.510
+you will not be
+able to distinguish
+
+01:40:45.510 --> 01:40:47.960
+the sweat of women and men.
+
+01:40:47.960 --> 01:40:51.980
+Gonadally intact people can
+at above the chance level.
+
+01:40:51.980 --> 01:40:56.120
+Finally, women become
+far better at detecting
+
+01:40:56.120 --> 01:40:59.800
+the smell of-- distinguishing
+the smell of men versus women
+
+01:40:59.800 --> 01:41:01.840
+when they are ovulating.
+
+01:41:01.840 --> 01:41:04.810
+Finally, finally,
+that's not what you see
+
+01:41:04.810 --> 01:41:06.900
+when you have gay individuals.
+
+01:41:06.900 --> 01:41:10.540
+Gay men are better at
+detecting the smell of gay men
+
+01:41:10.540 --> 01:41:13.240
+than either straight
+men or straight women.
+
+01:41:13.240 --> 01:41:14.920
+So we've gotten the
+first pieces of here
+
+01:41:14.920 --> 01:41:16.490
+with the pheromonal system.
+
+01:41:16.490 --> 01:41:19.790
+You have to be hormonally
+intact to generate
+
+01:41:19.790 --> 01:41:23.970
+pheromones that are sexually
+informative and to detect them.
+
+01:41:23.970 --> 01:41:27.590
+What we will then transition
+to is, what sort of information
+
+01:41:27.590 --> 01:41:29.680
+is being carried
+in the pheromones
+
+01:41:29.680 --> 01:41:32.800
+and what effect does it
+have on the neurobiology
+
+01:41:32.800 --> 01:41:36.010
+of depending on who's
+pheromones you are sniffing?
+
+01:41:36.010 --> 01:41:36.510
+OK.
+
+01:41:36.510 --> 01:41:38.120
+So we will--
+
+01:41:38.120 --> 01:41:41.370
+For more, please visit
+us at stanford.edu.
+

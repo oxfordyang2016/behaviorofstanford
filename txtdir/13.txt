@@ -1,0 +1,5784 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.940
+[MUSIC PLAYING]
+
+00:00:04.940 --> 00:00:07.959
+Stanford University.
+
+00:00:07.959 --> 00:00:09.000
+Where have we got to now?
+
+00:00:09.000 --> 00:00:11.330
+You guys have all
+the basics in hand
+
+00:00:11.330 --> 00:00:16.280
+now for our next two buckets--
+neurobiology and endocrinology.
+
+00:00:16.280 --> 00:00:20.940
+What you have now, I hope, is
+a sense of especially the neuro
+
+00:00:20.940 --> 00:00:23.790
+as the final common
+funnel out of which
+
+00:00:23.790 --> 00:00:26.320
+comes all that behavior
+stuff we've been thinking
+
+00:00:26.320 --> 00:00:30.750
+about-- genes-- whether they
+are changing in a static
+
+00:00:30.750 --> 00:00:33.580
+and then punctuated way
+or a gradualist way.
+
+00:00:33.580 --> 00:00:36.760
+What they code for we
+now know are proteins.
+
+00:00:36.760 --> 00:00:39.340
+And in the realm of behavior,
+what that's all about,
+
+00:00:39.340 --> 00:00:44.420
+you now know, are enzymes that
+make neurotransmitters, enzymes
+
+00:00:44.420 --> 00:00:49.660
+that break them apart, receptors
+for neurotransmitters, the ion
+
+00:00:49.660 --> 00:00:52.650
+channels that allow all
+the excitability stuff--
+
+00:00:52.650 --> 00:00:55.800
+all of that should be a
+way of conceptualizing
+
+00:00:55.800 --> 00:00:59.980
+what all that gene stuff that
+we've had so far funnels into.
+
+00:00:59.980 --> 00:01:03.040
+Likewise with the
+endocrinology-- all those ways
+
+00:01:03.040 --> 00:01:05.820
+in which reproductive
+status is going
+
+00:01:05.820 --> 00:01:07.770
+to change how the
+brain works, all
+
+00:01:07.770 --> 00:01:10.650
+of those great evolutionary
+models, blah, blah.
+
+00:01:10.650 --> 00:01:12.990
+That's now endocrinology.
+
+00:01:12.990 --> 00:01:15.140
+That's now the
+ability of hormones
+
+00:01:15.140 --> 00:01:17.000
+to affect the nervous system.
+
+00:01:17.000 --> 00:01:18.650
+And what came
+through, hopefully,
+
+00:01:18.650 --> 00:01:22.380
+over and over for all of you in
+the lectures over the last week
+
+00:01:22.380 --> 00:01:25.280
+are two themes-- lots
+of different ways
+
+00:01:25.280 --> 00:01:28.150
+by which the nervous system
+and the endocrine system
+
+00:01:28.150 --> 00:01:31.470
+can change its
+function over time.
+
+00:01:31.470 --> 00:01:33.890
+And number two, lots
+of different realms
+
+00:01:33.890 --> 00:01:36.710
+where there will be
+individual differences--
+
+00:01:36.710 --> 00:01:38.370
+all the ways in
+which you will have
+
+00:01:38.370 --> 00:01:40.217
+a brain and a bunch
+of glands that
+
+00:01:40.217 --> 00:01:42.300
+are different than the
+person sitting next to you.
+
+00:01:42.300 --> 00:01:45.260
+And what you should be able
+to piece apart readily by now
+
+00:01:45.260 --> 00:01:47.980
+is where some of those
+individual differences
+
+00:01:47.980 --> 00:01:51.650
+are coming from in the
+form of genetic influences,
+
+00:01:51.650 --> 00:01:54.380
+where some of them are coming
+from environmental ones,
+
+00:01:54.380 --> 00:01:57.970
+to begin to take some
+of those if/then clauses
+
+00:01:57.970 --> 00:02:02.770
+back in the genetics lectures--
+if it smells like a relative,
+
+00:02:02.770 --> 00:02:06.000
+then cooperate with them--
+to begin to imagine now
+
+00:02:06.000 --> 00:02:08.889
+how the nervous system,
+how hormones would actually
+
+00:02:08.889 --> 00:02:12.460
+translate that stuff
+into this next bucket.
+
+00:02:12.460 --> 00:02:14.560
+So this will be our last bucket.
+
+00:02:14.560 --> 00:02:16.294
+Today we'll be looking
+at all the ways
+
+00:02:16.294 --> 00:02:18.210
+in which everything you
+heard in the last week
+
+00:02:18.210 --> 00:02:19.890
+is vastly more complicated.
+
+00:02:19.890 --> 00:02:21.900
+And on Friday what
+we will do is focus
+
+00:02:21.900 --> 00:02:24.160
+in on the part of the
+nervous system that
+
+00:02:24.160 --> 00:02:26.280
+is most pertinent to
+rest of the course.
+
+00:02:26.280 --> 00:02:28.680
+Should you ever
+happen by some chance
+
+00:02:28.680 --> 00:02:31.650
+to stumble into medical school
+somewhere down the line, when
+
+00:02:31.650 --> 00:02:33.720
+they get around to the
+nervous system there,
+
+00:02:33.720 --> 00:02:37.320
+you are going to hear about
+the spinal cord endlessly.
+
+00:02:37.320 --> 00:02:39.670
+You're going to hear
+about the cerebellum.
+
+00:02:39.670 --> 00:02:42.050
+You're going to hear
+about parts of the cortex.
+
+00:02:42.050 --> 00:02:43.660
+You are going to
+hear next to nothing
+
+00:02:43.660 --> 00:02:46.190
+about the part we'll be
+talking to on Friday.
+
+00:02:46.190 --> 00:02:50.640
+And what it's about is
+emotion, and behavior,
+
+00:02:50.640 --> 00:02:54.130
+and affect-- a part of the
+brain called the limbic system.
+
+00:02:54.130 --> 00:02:56.510
+In medical school, they
+will pound into your head
+
+00:02:56.510 --> 00:02:59.420
+over and over and over
+how the spinal cord moves
+
+00:02:59.420 --> 00:03:00.710
+different motor systems.
+
+00:03:00.710 --> 00:03:03.470
+Because that's 99%
+of what neurology
+
+00:03:03.470 --> 00:03:05.090
+can concern itself with.
+
+00:03:05.090 --> 00:03:07.710
+Because it at least has a
+fighting chance of doing
+
+00:03:07.710 --> 00:03:09.570
+something therapeutic there.
+
+00:03:09.570 --> 00:03:11.010
+This is the part
+of the brain that
+
+00:03:11.010 --> 00:03:15.840
+is most defining to who we
+are-- personality, temperament,
+
+00:03:15.840 --> 00:03:16.590
+all of that.
+
+00:03:16.590 --> 00:03:18.620
+And it will be central
+to making sense
+
+00:03:18.620 --> 00:03:21.760
+of all of this stuff coming in
+the second half of the course.
+
+00:03:21.760 --> 00:03:23.780
+So it's going to be a
+very different domain
+
+00:03:23.780 --> 00:03:25.680
+of the nervous system.
+
+00:03:25.680 --> 00:03:27.920
+So what today is about
+is taking everything
+
+00:03:27.920 --> 00:03:29.580
+you've learned
+over the last week,
+
+00:03:29.580 --> 00:03:32.520
+and discovering that the ways
+in which it is tragically
+
+00:03:32.520 --> 00:03:36.320
+distortive and not quite right,
+and comes with all of these
+
+00:03:36.320 --> 00:03:39.800
+but wait-a-seconds and
+qualifiers, and all
+
+00:03:39.800 --> 00:03:43.090
+the ways in which this first
+pass you had in the last week
+
+00:03:43.090 --> 00:03:47.290
+sets you up now for
+appreciating an enormously more
+
+00:03:47.290 --> 00:03:49.630
+complicated system than
+you've already seen,
+
+00:03:49.630 --> 00:03:53.730
+one which generates, thus,
+vastly more possibilities
+
+00:03:53.730 --> 00:03:56.850
+of communication, of
+information contained
+
+00:03:56.850 --> 00:03:59.820
+within these neural
+pathways, one which generates
+
+00:03:59.820 --> 00:04:04.150
+vastly more possibilities
+of individual differences
+
+00:04:04.150 --> 00:04:06.760
+and of experience
+leaving its imprint,
+
+00:04:06.760 --> 00:04:10.360
+one that generates vastly
+more possibilities for things
+
+00:04:10.360 --> 00:04:14.360
+to go really wrong in the
+realms of abnormal behavior.
+
+00:04:14.360 --> 00:04:16.320
+OK so a lot of
+what we'll be doing
+
+00:04:16.320 --> 00:04:18.680
+is taking what you
+got in the last week
+
+00:04:18.680 --> 00:04:22.230
+and seeing where, in fact,
+current research shows that it
+
+00:04:22.230 --> 00:04:24.170
+is much, much more complicated.
+
+00:04:24.170 --> 00:04:27.650
+OK, first version--
+one of the rules that
+
+00:04:27.650 --> 00:04:29.260
+runs through all
+of neurobiology--
+
+00:04:29.260 --> 00:04:31.400
+you start learning the
+field and at some point,
+
+00:04:31.400 --> 00:04:34.580
+they pull out the
+name of this guy Dale.
+
+00:04:34.580 --> 00:04:36.790
+Dale who was the law giver.
+
+00:04:36.790 --> 00:04:39.200
+Dale was some
+neurobiologist early
+
+00:04:39.200 --> 00:04:42.380
+in the 20th century
+who generated two laws
+
+00:04:42.380 --> 00:04:44.600
+that every single
+child was forced
+
+00:04:44.600 --> 00:04:46.930
+to learn throughout
+the 1920s and 1930s
+
+00:04:46.930 --> 00:04:48.670
+about how the nervous
+system worked.
+
+00:04:48.670 --> 00:04:51.440
+Some time later than
+that, Dale's two laws--
+
+00:04:51.440 --> 00:04:53.440
+and we will start
+off with one of them.
+
+00:04:53.440 --> 00:04:56.470
+And it makes perfect sense
+until you see that, in fact, it
+
+00:04:56.470 --> 00:04:58.310
+has no basis in reality.
+
+00:04:58.310 --> 00:05:02.572
+Here is Dale's first law,
+which was you got your neuron--
+
+00:05:02.572 --> 00:05:04.280
+and you should know
+by now we are dealing
+
+00:05:04.280 --> 00:05:06.090
+with our schematic neuron.
+
+00:05:06.090 --> 00:05:08.390
+And once we get into
+circuits in more detail,
+
+00:05:08.390 --> 00:05:11.570
+we will give up the diamond
+shape on the neuron cell bodies
+
+00:05:11.570 --> 00:05:13.230
+and switch over to
+circles, showing
+
+00:05:13.230 --> 00:05:14.780
+just how fast evolution can be.
+
+00:05:14.780 --> 00:05:16.580
+But we've got the neuron here.
+
+00:05:16.580 --> 00:05:20.820
+And what we've got are the
+axon and the axon terminals.
+
+00:05:20.820 --> 00:05:23.556
+And what Dale's law number
+two-- and of course, it's
+
+00:05:23.556 --> 00:05:25.930
+irritating that we're doing
+number two before number one,
+
+00:05:25.930 --> 00:05:29.660
+but tough-- what you've got
+here with Dale's law number
+
+00:05:29.660 --> 00:05:34.380
+two is, each neuron has
+one characteristic type
+
+00:05:34.380 --> 00:05:38.000
+of neurotransmitter--
+one and only one.
+
+00:05:38.000 --> 00:05:42.520
+And that's what it's releasing
+from all of its axon terminals.
+
+00:05:42.520 --> 00:05:45.340
+And thus, you could
+categorize any given neuron
+
+00:05:45.340 --> 00:05:47.860
+as this is one that
+releases serotonin.
+
+00:05:47.860 --> 00:05:50.940
+This one is one that releases
+dopamine, et cetera, et cetera.
+
+00:05:50.940 --> 00:05:53.400
+Notice that's a
+world of difference
+
+00:05:53.400 --> 00:05:56.200
+as to what types of
+neurotransmitters
+
+00:05:56.200 --> 00:05:58.140
+it has receptors for.
+
+00:05:58.140 --> 00:05:59.680
+That's something else entirely.
+
+00:05:59.680 --> 00:06:02.630
+That's what neurons over
+there it's listening to.
+
+00:06:02.630 --> 00:06:05.920
+But any given neuron is
+releasing only one kind
+
+00:06:05.920 --> 00:06:07.730
+of neurotransmitter.
+
+00:06:07.730 --> 00:06:10.010
+So that one went down
+the tube during the '80s
+
+00:06:10.010 --> 00:06:11.810
+with the discovery,
+in fact, that there
+
+00:06:11.810 --> 00:06:15.650
+are multiple neurotransmitters
+released by neurons.
+
+00:06:15.650 --> 00:06:19.000
+And this was boggling to
+people, and forced people
+
+00:06:19.000 --> 00:06:21.520
+to give up on Dale number two.
+
+00:06:21.520 --> 00:06:25.340
+And initially, this just seems
+like pointless complication.
+
+00:06:25.340 --> 00:06:27.150
+What you wind up
+seeing is it puts
+
+00:06:27.150 --> 00:06:30.100
+a lot more potential
+for information
+
+00:06:30.100 --> 00:06:31.380
+into the whole business here.
+
+00:06:31.380 --> 00:06:34.860
+OK, so here we have our
+archetypal synapse here,
+
+00:06:34.860 --> 00:06:36.670
+going from left to
+right as always.
+
+00:06:36.670 --> 00:06:39.770
+And we've got the one on the
+left here with its vesicles--
+
+00:06:39.770 --> 00:06:42.700
+those little water balloons
+filled with neurotransmitter.
+
+00:06:42.700 --> 00:06:44.720
+Along comes the
+action potential.
+
+00:06:44.720 --> 00:06:48.200
+As a result, the vesicle
+moves to the cell membrane,
+
+00:06:48.200 --> 00:06:51.670
+merges with it, dumps the
+neurotransmitter into there.
+
+00:06:51.670 --> 00:06:55.870
+As you might guess, that
+actual process of exocytosis,
+
+00:06:55.870 --> 00:06:59.160
+dumping the neurotransmitter,
+is vastly more complicated.
+
+00:06:59.160 --> 00:07:00.760
+But this is our general model.
+
+00:07:00.760 --> 00:07:05.250
+And what people began to realize
+was that all sorts of neurons,
+
+00:07:05.250 --> 00:07:07.880
+all sorts of neurotransmitter
+types, in fact,
+
+00:07:07.880 --> 00:07:11.880
+came with two different
+colors of neurotransmitters
+
+00:07:11.880 --> 00:07:14.770
+in the vesicles-- came
+with two different kinds.
+
+00:07:14.770 --> 00:07:19.400
+Notice this is different
+from in this axon terminal
+
+00:07:19.400 --> 00:07:21.880
+you release this type
+of neurotransmitter.
+
+00:07:21.880 --> 00:07:23.920
+And in this one, you
+release that type.
+
+00:07:23.920 --> 00:07:26.780
+No, every single
+axon terminal would
+
+00:07:26.780 --> 00:07:29.800
+contain both of these
+types of neurotransmitters.
+
+00:07:29.800 --> 00:07:33.090
+And notice also, it
+would not be one vesicle
+
+00:07:33.090 --> 00:07:36.310
+was a blue neurotransmitter
+vesicle and one was a red.
+
+00:07:36.310 --> 00:07:39.970
+Each one of them had a
+mixture of the two types.
+
+00:07:39.970 --> 00:07:42.600
+What has been found
+is that occurs in lots
+
+00:07:42.600 --> 00:07:43.870
+of different types of neurons.
+
+00:07:43.870 --> 00:07:46.190
+I believe the record
+is that there are now
+
+00:07:46.190 --> 00:07:48.760
+some vesicles that contain
+three different types
+
+00:07:48.760 --> 00:07:50.320
+of neurotransmitters.
+
+00:07:50.320 --> 00:07:53.240
+So what we've got here
+are two different classes
+
+00:07:53.240 --> 00:07:54.690
+of messengers coming out.
+
+00:07:54.690 --> 00:07:57.080
+And what you should be
+able to immediately imagine
+
+00:07:57.080 --> 00:07:59.900
+is, that's going to
+produce a lot more
+
+00:07:59.900 --> 00:08:02.020
+potential for information.
+
+00:08:02.020 --> 00:08:03.870
+Two different types
+of messengers-- one
+
+00:08:03.870 --> 00:08:06.970
+of the characteristics that
+tends to be the pattern
+
+00:08:06.970 --> 00:08:09.780
+is that when you get
+two neurotransmitters
+
+00:08:09.780 --> 00:08:12.750
+in the same neuron,
+the same axon
+
+00:08:12.750 --> 00:08:14.470
+terminal and the
+same vesicle, they
+
+00:08:14.470 --> 00:08:18.460
+tend to be structurally very
+different sorts of classes
+
+00:08:18.460 --> 00:08:19.940
+of neurotransmitters.
+
+00:08:19.940 --> 00:08:24.150
+One might be a type made from
+a simple single amino acid.
+
+00:08:24.150 --> 00:08:26.880
+Another one is somewhat
+of a complicated protein.
+
+00:08:26.880 --> 00:08:29.560
+They tend to have fairly
+different structures.
+
+00:08:29.560 --> 00:08:31.590
+And what that
+often tells you is,
+
+00:08:31.590 --> 00:08:34.559
+they're going to have
+different mechanisms of action.
+
+00:08:34.559 --> 00:08:36.679
+They're going to have
+different speeds of action.
+
+00:08:36.679 --> 00:08:39.200
+What you wind up seeing
+is very often, when
+
+00:08:39.200 --> 00:08:41.450
+two different types
+of neurotransmitters
+
+00:08:41.450 --> 00:08:44.120
+are contained in the
+neuron, one of them
+
+00:08:44.120 --> 00:08:46.820
+works much more
+rapidly than the other.
+
+00:08:46.820 --> 00:08:51.000
+One has a rapid, short-term
+effect-- quickly decrementing.
+
+00:08:51.000 --> 00:08:53.250
+The other will have
+a longer effect.
+
+00:08:53.250 --> 00:08:55.410
+And by now, you can
+begin to imagine
+
+00:08:55.410 --> 00:08:57.460
+what counts as a longer effect.
+
+00:08:57.460 --> 00:09:01.150
+You change gene
+transcription in that neuron.
+
+00:09:01.150 --> 00:09:03.540
+You change structural
+stuff happening,
+
+00:09:03.540 --> 00:09:05.920
+as opposed to the short
+one, where just suddenly
+
+00:09:05.920 --> 00:09:09.260
+some little ionic
+excitability change occurs
+
+00:09:09.260 --> 00:09:10.750
+in a couple of milliseconds.
+
+00:09:10.750 --> 00:09:15.450
+You begin to see this pattern of
+two different ways of coding--
+
+00:09:15.450 --> 00:09:18.240
+coding for different
+types of information.
+
+00:09:18.240 --> 00:09:22.490
+What we'll see shortly is one
+of the truly bizarre things that
+
+00:09:22.490 --> 00:09:26.730
+pops up a lot with these cases
+of multiple neurotransmitters.
+
+00:09:26.730 --> 00:09:32.060
+One of them will have receptors
+for it on the neuron itself.
+
+00:09:32.060 --> 00:09:33.540
+And we will focus
+on that shortly.
+
+00:09:33.540 --> 00:09:36.740
+That actually winds up making
+a fair amount of sense.
+
+00:09:36.740 --> 00:09:39.760
+OK, so Dale trashed
+in terms of the notion
+
+00:09:39.760 --> 00:09:42.740
+of any given neuron having
+only one neurotransmitter.
+
+00:09:42.740 --> 00:09:45.810
+In some types of neurons
+you have, instead, pairs,
+
+00:09:45.810 --> 00:09:47.900
+but following the
+same sort of rules.
+
+00:09:47.900 --> 00:09:50.510
+And thanks to the typical
+structural difference
+
+00:09:50.510 --> 00:09:52.420
+between the pairs of
+neurotransmitters,
+
+00:09:52.420 --> 00:09:55.450
+you tend to get different
+sorts of functions.
+
+00:09:55.450 --> 00:09:58.780
+You see a similar principle
+over at the endocrine end
+
+00:09:58.780 --> 00:10:03.310
+of things-- a world of more than
+one single messenger carrying
+
+00:10:03.310 --> 00:10:06.420
+the same message, or the
+same source of information
+
+00:10:06.420 --> 00:10:08.060
+carrying multiple messengers.
+
+00:10:08.060 --> 00:10:11.970
+Where we see here is what by
+now should be familiar as well,
+
+00:10:11.970 --> 00:10:13.760
+here where you got
+your pituitary,
+
+00:10:13.760 --> 00:10:15.940
+and you got your
+anterior pituitary,
+
+00:10:15.940 --> 00:10:17.540
+which is always facing left.
+
+00:10:17.540 --> 00:10:22.110
+And the anterior here, we have
+the glandular cells releasing,
+
+00:10:22.110 --> 00:10:24.770
+as you saw the other day, ACTH.
+
+00:10:24.770 --> 00:10:26.300
+Lots of this lecture
+is going to be
+
+00:10:26.300 --> 00:10:29.240
+about the regulation of the
+adrenal cortical system--
+
+00:10:29.240 --> 00:10:31.140
+the glucocorticoid
+system-- because it's
+
+00:10:31.140 --> 00:10:32.510
+the best hormone on Earth.
+
+00:10:32.510 --> 00:10:33.740
+And I'm willing to prove it.
+
+00:10:33.740 --> 00:10:36.040
+But what we have here
+is ACTH coming out.
+
+00:10:36.040 --> 00:10:38.570
+And you remember what you
+had the other day, which
+
+00:10:38.570 --> 00:10:40.920
+is incorrectly named.
+
+00:10:40.920 --> 00:10:42.810
+You've got CRH.
+
+00:10:42.810 --> 00:10:47.140
+That's that business about the
+brain as an endocrine gland,
+
+00:10:47.140 --> 00:10:50.480
+the brain releasing hormones
+into this little portal
+
+00:10:50.480 --> 00:10:51.920
+circulatory system.
+
+00:10:51.920 --> 00:10:55.000
+And out comes its characteristic
+pituitary hormone.
+
+00:10:55.000 --> 00:10:57.790
+So what you saw the
+other day is CRH
+
+00:10:57.790 --> 00:11:01.790
+is the hormone, the
+hypothalamic hormone
+
+00:11:01.790 --> 00:11:03.620
+at the base of the
+brain here that's
+
+00:11:03.620 --> 00:11:06.540
+released into this local
+circulatory system, which
+
+00:11:06.540 --> 00:11:09.530
+stimulates these
+cells to dump ACTH
+
+00:11:09.530 --> 00:11:12.140
+into the general circulation.
+
+00:11:12.140 --> 00:11:14.110
+And that's the pattern
+you've gotten already
+
+00:11:14.110 --> 00:11:16.580
+of neuroendocrine axis.
+
+00:11:16.580 --> 00:11:20.900
+The brain releases a hormone
+into the local circulation,
+
+00:11:20.900 --> 00:11:23.220
+which stimulates the
+pituitary to release
+
+00:11:23.220 --> 00:11:26.660
+a typical hormone in response
+to it, which then goes and does
+
+00:11:26.660 --> 00:11:28.690
+something rather
+to a distant gland.
+
+00:11:28.690 --> 00:11:30.250
+You've got that one already.
+
+00:11:30.250 --> 00:11:34.630
+You have Follicle Stimulating
+Hormone, releasing hormone
+
+00:11:34.630 --> 00:11:38.400
+up here, which triggers Follicle
+Stimulating Hormone, which then
+
+00:11:38.400 --> 00:11:41.490
+goes does something or other to
+your follicles or to your sperm
+
+00:11:41.490 --> 00:11:43.570
+if you don't have
+follicles, and these sort
+
+00:11:43.570 --> 00:11:45.190
+of three-step cascades.
+
+00:11:45.190 --> 00:11:47.800
+What we see with
+the CRH system here
+
+00:11:47.800 --> 00:11:50.240
+is one example of
+how you can also
+
+00:11:50.240 --> 00:11:53.040
+have a version of
+multiple messengers.
+
+00:11:53.040 --> 00:11:57.370
+Turns out CRH is not the
+only hormone coming out
+
+00:11:57.370 --> 00:12:00.960
+of the base of the hypothalamus
+that could release ACTH
+
+00:12:00.960 --> 00:12:02.520
+during stress.
+
+00:12:02.520 --> 00:12:06.110
+And instead, you've got
+a whole array of these.
+
+00:12:06.110 --> 00:12:08.940
+There are neurons in the
+hypothalamus that instead
+
+00:12:08.940 --> 00:12:12.300
+release vasopressin into
+the circulation here,
+
+00:12:12.300 --> 00:12:16.370
+others that release
+oxytocin, others that release
+
+00:12:16.370 --> 00:12:19.200
+norepinephrine, others
+that release epinephrine.
+
+00:12:19.200 --> 00:12:21.030
+And collectively,
+what they're doing
+
+00:12:21.030 --> 00:12:24.460
+is stimulating the
+release of ACTH.
+
+00:12:24.460 --> 00:12:27.110
+You have an entire
+array of these.
+
+00:12:27.110 --> 00:12:29.220
+And a huge amount
+of work in the '80s
+
+00:12:29.220 --> 00:12:31.000
+went into sorting this out.
+
+00:12:31.000 --> 00:12:35.360
+And what's going on here-- what
+you have are stress signatures.
+
+00:12:35.360 --> 00:12:37.620
+Different types
+of stressors will
+
+00:12:37.620 --> 00:12:43.680
+trigger different orchestrations
+of these ACTH-releasing neurons
+
+00:12:43.680 --> 00:12:46.220
+up there-- different
+orchestrations as to which
+
+00:12:46.220 --> 00:12:48.160
+hormones bring it about.
+
+00:12:48.160 --> 00:12:52.900
+And it will be things like low
+blood pressure or hypotension
+
+00:12:52.900 --> 00:12:56.330
+will tend to trigger
+CRH and vasopressin.
+
+00:12:56.330 --> 00:12:58.930
+Low blood sugar,
+I think, was CRH
+
+00:12:58.930 --> 00:13:00.830
+and epinephrine
+and norepinephrine.
+
+00:13:00.830 --> 00:13:03.600
+The whole point is that
+you get a signature up
+
+00:13:03.600 --> 00:13:06.520
+at the hypothalamic
+level regulating
+
+00:13:06.520 --> 00:13:08.860
+this release of ACTH.
+
+00:13:08.860 --> 00:13:12.260
+Why have all these
+different ways of doing it?
+
+00:13:12.260 --> 00:13:15.110
+Two advantages--
+one is depending
+
+00:13:15.110 --> 00:13:20.120
+on which orchestration of these
+you use, the shape of the ACTH
+
+00:13:20.120 --> 00:13:23.090
+secretory curve
+will be different.
+
+00:13:23.090 --> 00:13:24.700
+It's the same deal here.
+
+00:13:24.700 --> 00:13:27.670
+You use two of these to
+get a short, rapid effect,
+
+00:13:27.670 --> 00:13:28.900
+a more prolonged one.
+
+00:13:28.900 --> 00:13:31.460
+Here, depending on
+which mixture you have,
+
+00:13:31.460 --> 00:13:35.560
+you will have a different
+profile of ACTH secretion.
+
+00:13:35.560 --> 00:13:38.510
+That's so you get
+control on that level.
+
+00:13:38.510 --> 00:13:42.830
+The other thing is that
+each one of these not only
+
+00:13:42.830 --> 00:13:45.590
+helps to release ACTH
+from the pituitary.
+
+00:13:45.590 --> 00:13:48.450
+It does other stuff
+down here as well,
+
+00:13:48.450 --> 00:13:53.230
+so that you get a way of coding
+under this sort of stressor
+
+00:13:53.230 --> 00:13:57.240
+you want to release ACTH and do
+something or other in addition.
+
+00:13:57.240 --> 00:13:59.590
+The way you bring it about
+is getting these two.
+
+00:13:59.590 --> 00:14:01.670
+With some other
+stressor, you want
+
+00:14:01.670 --> 00:14:05.390
+to secrete ACTH, and bring about
+some additional step there.
+
+00:14:05.390 --> 00:14:08.420
+And you do it with these
+three-- that sort of thing.
+
+00:14:08.420 --> 00:14:12.290
+So you get control over the
+shape of the stress response,
+
+00:14:12.290 --> 00:14:14.340
+and to fine tune it there.
+
+00:14:14.340 --> 00:14:17.940
+So here we've got this
+completely more complicated
+
+00:14:17.940 --> 00:14:22.240
+picture of all these
+different releasers of ACTH.
+
+00:14:22.240 --> 00:14:25.160
+In addition, just to make
+things even more complicated,
+
+00:14:25.160 --> 00:14:30.360
+there are clearly
+hormones coming in there
+
+00:14:30.360 --> 00:14:34.870
+which, instead of releasing
+ACTH from the pituitary,
+
+00:14:34.870 --> 00:14:37.530
+they inhibit its release.
+
+00:14:37.530 --> 00:14:40.850
+And they release their hormone
+into the circulation also.
+
+00:14:40.850 --> 00:14:45.390
+And people have had evidence for
+these corticotropin-inhibiting
+
+00:14:45.390 --> 00:14:48.500
+factors for decades and
+decades and decades.
+
+00:14:48.500 --> 00:14:52.230
+And people have had an amazingly
+tough time trying to figure out
+
+00:14:52.230 --> 00:14:54.020
+what these things actually are.
+
+00:14:54.020 --> 00:14:56.720
+The best implicated
+molecule so far
+
+00:14:56.720 --> 00:15:01.830
+is a peptide called Delta
+Sleep Inducing Factor.
+
+00:15:01.830 --> 00:15:04.320
+Think about that--
+you go to sleep.
+
+00:15:04.320 --> 00:15:07.080
+And that's a very good
+time for turning off
+
+00:15:07.080 --> 00:15:09.010
+your stress response.
+
+00:15:09.010 --> 00:15:11.880
+So that making
+wonderful sense there.
+
+00:15:11.880 --> 00:15:14.120
+The main point for
+our purposes is
+
+00:15:14.120 --> 00:15:16.060
+you've got
+bi-directional control.
+
+00:15:16.060 --> 00:15:17.750
+You've got a bunch
+of hormones that
+
+00:15:17.750 --> 00:15:20.040
+stimulate the release of ACTH.
+
+00:15:20.040 --> 00:15:22.570
+You've got at least one
+fairly well-implicated
+
+00:15:22.570 --> 00:15:23.944
+that inhibits the release.
+
+00:15:23.944 --> 00:15:25.860
+There is no way that
+there's not a whole bunch
+
+00:15:25.860 --> 00:15:29.060
+of other ones doing the
+same sort of signature
+
+00:15:29.060 --> 00:15:30.890
+coding at the inhibitory end.
+
+00:15:30.890 --> 00:15:34.760
+And you've got different ways of
+translating different stressors
+
+00:15:34.760 --> 00:15:36.780
+into different
+endocrine profiles.
+
+00:15:36.780 --> 00:15:39.100
+And of course, what
+that winds up meaning
+
+00:15:39.100 --> 00:15:42.755
+is you get stressed-- like
+your big toe is telling you
+
+00:15:42.755 --> 00:15:46.480
+you just burned it-- and you
+are going to have projections
+
+00:15:46.480 --> 00:15:48.850
+to a different array
+of these than if you
+
+00:15:48.850 --> 00:15:51.860
+were getting stressed, you
+were thinking about mortality.
+
+00:15:51.860 --> 00:15:54.100
+That's going to be having
+a different projection
+
+00:15:54.100 --> 00:15:55.840
+profile onto these neurons.
+
+00:15:55.840 --> 00:15:58.470
+What that suggests
+is a huge amount
+
+00:15:58.470 --> 00:16:01.240
+of coding information
+going on in the brain
+
+00:16:01.240 --> 00:16:05.260
+and the spinal cord producing
+these different arrangements
+
+00:16:05.260 --> 00:16:08.760
+of how you dump out ACTH
+and the other hormones.
+
+00:16:08.760 --> 00:16:11.570
+OK, so that as a
+first complication
+
+00:16:11.570 --> 00:16:14.360
+in these various neural
+and endocrine systems.
+
+00:16:14.360 --> 00:16:17.490
+You can actually have multiple
+neurotransmitters coming out
+
+00:16:17.490 --> 00:16:18.590
+of the same neuron.
+
+00:16:18.590 --> 00:16:21.260
+You can have an array
+of different hormones
+
+00:16:21.260 --> 00:16:23.900
+that bring about the
+same general response,
+
+00:16:23.900 --> 00:16:27.430
+but they differ in terms
+of fine-tuning the system.
+
+00:16:27.430 --> 00:16:30.040
+Next elaboration--
+one now having
+
+00:16:30.040 --> 00:16:33.070
+to do with some spatial
+characteristics of how
+
+00:16:33.070 --> 00:16:34.470
+these systems work.
+
+00:16:34.470 --> 00:16:37.570
+And here we have the
+same exact neuron again.
+
+00:16:37.570 --> 00:16:40.850
+And now we deal with
+Dale's law number one,
+
+00:16:40.850 --> 00:16:45.580
+which is you know by now you
+get the depolarization here,
+
+00:16:45.580 --> 00:16:47.480
+sufficient to get
+to the axon hillock.
+
+00:16:47.480 --> 00:16:49.170
+You get your action potential.
+
+00:16:49.170 --> 00:16:52.570
+All hell breaks loose-- very
+exciting ionic of events
+
+00:16:52.570 --> 00:16:55.790
+of excitation-- all
+or none regenerating
+
+00:16:55.790 --> 00:16:58.960
+go shooting down the axon
+to the axon terminals.
+
+00:16:58.960 --> 00:17:03.670
+Dale's lawyer number one was you
+get an action potential started
+
+00:17:03.670 --> 00:17:06.630
+here, and it is going
+to result in the release
+
+00:17:06.630 --> 00:17:11.050
+of neurotransmitter from
+every single axon terminal.
+
+00:17:11.050 --> 00:17:14.910
+So Dale's two laws-- an
+action potential causes
+
+00:17:14.910 --> 00:17:17.990
+neurotransmitter to be
+released from every single axon
+
+00:17:17.990 --> 00:17:19.280
+terminal of a neuron.
+
+00:17:19.280 --> 00:17:21.720
+Dale's law number
+two just trashed.
+
+00:17:21.720 --> 00:17:25.170
+And it's going to be the same
+neurotransmitter released
+
+00:17:25.170 --> 00:17:27.170
+from every single axon terminal.
+
+00:17:27.170 --> 00:17:30.170
+And Dale's law number one
+has held reasonably well,
+
+00:17:30.170 --> 00:17:31.840
+except for some work by a guy.
+
+00:17:31.840 --> 00:17:35.610
+And this is one of these sort
+of mad geniuses of neuroscience,
+
+00:17:35.610 --> 00:17:38.850
+a guy at MIT named
+Jerry Lettvin.
+
+00:17:38.850 --> 00:17:40.740
+What he did was, as
+far as I can tell,
+
+00:17:40.740 --> 00:17:44.310
+he just sat around in a dark,
+sort of abandoned warehouse
+
+00:17:44.310 --> 00:17:45.629
+for decades on end.
+
+00:17:45.629 --> 00:17:47.170
+And about once every
+decade, he would
+
+00:17:47.170 --> 00:17:49.930
+write a paper that would
+transform neuroscience.
+
+00:17:49.930 --> 00:17:52.280
+And he actually was like this.
+
+00:17:52.280 --> 00:17:53.240
+I met the guy once.
+
+00:17:53.240 --> 00:17:56.120
+And it was one of the more
+terrifying experiences I had.
+
+00:17:56.120 --> 00:17:58.350
+I was working in
+a lab where I had
+
+00:17:58.350 --> 00:18:02.110
+to go get an oscilloscope from
+someplace, and pick up one
+
+00:18:02.110 --> 00:18:03.370
+because ours was broken.
+
+00:18:03.370 --> 00:18:05.290
+And everybody agreed
+the place to find
+
+00:18:05.290 --> 00:18:07.670
+it was in Jerry
+Lettvin's warehouse
+
+00:18:07.670 --> 00:18:10.590
+that he lived in, because
+he lived with oscilloscopes.
+
+00:18:10.590 --> 00:18:14.690
+And going in there, and it
+was basically pitch dark.
+
+00:18:14.690 --> 00:18:18.790
+And there was this
+sweaty, Sydney Greenstreet
+
+00:18:18.790 --> 00:18:22.780
+kind of guy sitting there.
+
+00:18:22.780 --> 00:18:24.990
+And he was in a ripped t-shirt.
+
+00:18:24.990 --> 00:18:26.780
+And he had been in
+there for decades.
+
+00:18:26.780 --> 00:18:29.550
+And he was chain smoking
+and sweating in there,
+
+00:18:29.550 --> 00:18:31.680
+because it was 150 degrees.
+
+00:18:31.680 --> 00:18:34.900
+So he spent a large part of the
+last part of the 20th century
+
+00:18:34.900 --> 00:18:38.590
+inside that warehouse
+writing one paper per decade
+
+00:18:38.590 --> 00:18:39.850
+that was transforming.
+
+00:18:39.850 --> 00:18:41.880
+So this was his
+particular paper.
+
+00:18:41.880 --> 00:18:43.890
+And I think this one
+was from the '70s.
+
+00:18:43.890 --> 00:18:47.180
+And what he showed was that
+under some circumstances,
+
+00:18:47.180 --> 00:18:49.770
+with him lined up with his
+hundreds of oscilloscopes
+
+00:18:49.770 --> 00:18:53.700
+proving this, you in fact had a
+violation of Dale's law number
+
+00:18:53.700 --> 00:18:57.190
+one, which was you
+can get blockades here
+
+00:18:57.190 --> 00:18:59.540
+or there that would
+stop the action
+
+00:18:59.540 --> 00:19:02.040
+potential from
+propagating down some
+
+00:19:02.040 --> 00:19:05.820
+of the branches of this
+whole axonal treee--
+
+00:19:05.820 --> 00:19:09.770
+in other words, a whole
+different domain of controlling
+
+00:19:09.770 --> 00:19:11.340
+the flow of information.
+
+00:19:11.340 --> 00:19:13.820
+More subtlety
+there-- neurons could
+
+00:19:13.820 --> 00:19:16.600
+regulate which of
+their branches actually
+
+00:19:16.600 --> 00:19:18.290
+were sending on the message.
+
+00:19:18.290 --> 00:19:21.690
+And remarkably little has been
+learned in the years since then
+
+00:19:21.690 --> 00:19:25.600
+as to how this works, let alone
+how common a phenomenon it is.
+
+00:19:25.600 --> 00:19:27.120
+Most people wound
+up ignoring it.
+
+00:19:27.120 --> 00:19:32.610
+What has since been shown
+also is the wave of excitation
+
+00:19:32.610 --> 00:19:35.380
+that could come in through
+different dendritic spines
+
+00:19:35.380 --> 00:19:39.210
+back at the end-- that there are
+ways in which branch points can
+
+00:19:39.210 --> 00:19:43.620
+be sort of blocked on one side
+so that the flow is shunted
+
+00:19:43.620 --> 00:19:46.360
+in one direction on the
+branches and not the other.
+
+00:19:46.360 --> 00:19:48.610
+This is this whole
+unexplored world
+
+00:19:48.610 --> 00:19:52.380
+suggesting there's all
+sorts of regulation going on
+
+00:19:52.380 --> 00:19:53.860
+at these branch points.
+
+00:19:53.860 --> 00:19:56.640
+It's not simply the
+case, action potential
+
+00:19:56.640 --> 00:19:58.610
+and you are going to
+dump neurotransmitter
+
+00:19:58.610 --> 00:20:00.610
+from every single axon terminal.
+
+00:20:00.610 --> 00:20:03.350
+So down goes Dale
+on that one as well.
+
+00:20:03.350 --> 00:20:07.310
+Equivalent over at
+the endocrine end--
+
+00:20:07.310 --> 00:20:10.650
+and here we have our
+pituitary, which now no longer
+
+00:20:10.650 --> 00:20:12.270
+has a brain connected to it.
+
+00:20:12.270 --> 00:20:14.290
+But you've got the
+theme by now, which
+
+00:20:14.290 --> 00:20:16.030
+is you've got the
+hypothalamic hormone
+
+00:20:16.030 --> 00:20:17.800
+and out comes the
+pituitary hormone.
+
+00:20:17.800 --> 00:20:20.820
+And there's a whole bunch of
+different pituitary hormones
+
+00:20:20.820 --> 00:20:27.220
+producing the acronym flat
+bread, peg leg, flat, flat peg.
+
+00:20:27.220 --> 00:20:33.540
+FLAT PEG-- go to your death
+bed remembering that acronym,
+
+00:20:33.540 --> 00:20:38.960
+because it will make
+you happy and fulfilled.
+
+00:20:38.960 --> 00:20:41.240
+OK, so here's a bunch
+of pituitary hormones,
+
+00:20:41.240 --> 00:20:45.030
+and whatever verkakte acronym
+these guys came up with.
+
+00:20:45.030 --> 00:20:48.030
+But what we have here,
+just to make life simpler,
+
+00:20:48.030 --> 00:20:51.990
+is we'll focus in
+on four of them.
+
+00:20:51.990 --> 00:20:56.500
+FLAT PEG-- so we're
+missing some of them there.
+
+00:20:56.500 --> 00:20:59.450
+But we've got growth
+hormone that comes out,
+
+00:20:59.450 --> 00:21:02.800
+prolactin ACTH, Follicle
+Stimulating Hormone.
+
+00:21:02.800 --> 00:21:04.960
+I'm picking these
+completely randomly.
+
+00:21:04.960 --> 00:21:07.650
+OK, in the simplest
+possible of worlds,
+
+00:21:07.650 --> 00:21:11.320
+you would have all sorts of
+secretory cells, glandular
+
+00:21:11.320 --> 00:21:12.630
+cells, sitting in here.
+
+00:21:12.630 --> 00:21:15.620
+And each one of them
+is capable of secreting
+
+00:21:15.620 --> 00:21:18.920
+all of those flat bread
+hormones coming out of there.
+
+00:21:18.920 --> 00:21:20.460
+It could be doing that.
+
+00:21:20.460 --> 00:21:23.480
+And it would simply be choosing
+which as a result of which
+
+00:21:23.480 --> 00:21:26.860
+hypothalamic hormone is
+coming down the pike there.
+
+00:21:26.860 --> 00:21:28.200
+That's not what you see.
+
+00:21:28.200 --> 00:21:32.350
+Instead, you have specialized
+cells within the pituitary.
+
+00:21:32.350 --> 00:21:35.930
+There's one type that only
+secretes growth hormone, which
+
+00:21:35.930 --> 00:21:40.850
+causes somatic growth, somatic
+body, somatic something
+
+00:21:40.850 --> 00:21:41.350
+or other.
+
+00:21:41.350 --> 00:21:43.110
+And those are
+called somatotrophs,
+
+00:21:43.110 --> 00:21:44.310
+and don't memorize that.
+
+00:21:44.310 --> 00:21:46.790
+Ones that only
+secrete prolactin,
+
+00:21:46.790 --> 00:21:51.660
+which cause lactation-- these
+are lactotrophs, corticotrophs,
+
+00:21:51.660 --> 00:21:53.250
+gonadotrophs,
+something or other.
+
+00:21:53.250 --> 00:21:56.430
+So all of these, in fact,
+have specialized cells.
+
+00:21:56.430 --> 00:21:58.650
+Within the pituitary,
+there are cells
+
+00:21:58.650 --> 00:22:00.920
+that specialize in
+releasing only one
+
+00:22:00.920 --> 00:22:03.600
+of these types of hormones.
+
+00:22:03.600 --> 00:22:04.530
+So you got into that.
+
+00:22:04.530 --> 00:22:06.850
+So what would be the next
+simplest thing going on?
+
+00:22:06.850 --> 00:22:10.560
+So here's the growth hormone
+releasing into the pituitary,
+
+00:22:10.560 --> 00:22:13.510
+and there is going to be
+the ACTH releasing end.
+
+00:22:13.510 --> 00:22:15.910
+No, that's not what you see.
+
+00:22:15.910 --> 00:22:20.780
+Instead, there is a mosaic all
+across the pituitary of all
+
+00:22:20.780 --> 00:22:24.010
+the different flat bread
+cell-secreting types there,
+
+00:22:24.010 --> 00:22:25.480
+all throughout it.
+
+00:22:25.480 --> 00:22:27.490
+OK, so that's just this mosaic.
+
+00:22:27.490 --> 00:22:30.660
+Good, somebody was sloppy at
+the sort of fetal end gluing it
+
+00:22:30.660 --> 00:22:32.940
+all together, and just
+scattered them all over.
+
+00:22:32.940 --> 00:22:34.980
+And what winds up
+happening is you
+
+00:22:34.980 --> 00:22:37.660
+get local, little
+neighborhood effects.
+
+00:22:37.660 --> 00:22:40.910
+For example, here
+we have somatotrophs
+
+00:22:40.910 --> 00:22:42.360
+that secrete growth hormone.
+
+00:22:42.360 --> 00:22:47.040
+And one is in a FSH
+neighborhood and the other
+
+00:22:47.040 --> 00:22:48.710
+is in a prolactin neighborhood.
+
+00:22:48.710 --> 00:22:52.550
+And what you see is you throw in
+the hypothalamic hormone, which
+
+00:22:52.550 --> 00:22:54.820
+causes growth hormone
+to get secreted.
+
+00:22:54.820 --> 00:22:57.530
+And this particular
+cell is going
+
+00:22:57.530 --> 00:23:00.580
+to be secreting totally
+different amounts of growth
+
+00:23:00.580 --> 00:23:02.810
+hormone than this one will.
+
+00:23:02.810 --> 00:23:05.800
+Because it's in a different
+sort of neighborhood.
+
+00:23:05.800 --> 00:23:07.800
+And what's the
+implication of that?
+
+00:23:07.800 --> 00:23:10.010
+There's all sorts
+of communication
+
+00:23:10.010 --> 00:23:14.750
+going on between the individual
+cells in the pituitary.
+
+00:23:14.750 --> 00:23:17.450
+And it depends on what
+sort of neighborhood
+
+00:23:17.450 --> 00:23:19.620
+each particular
+cell is living in,
+
+00:23:19.620 --> 00:23:23.080
+how it is responding to the
+hypothalamic signal coming
+
+00:23:23.080 --> 00:23:25.950
+down, wildly complicating.
+
+00:23:25.950 --> 00:23:29.470
+What that lets you do
+instead is different areas
+
+00:23:29.470 --> 00:23:33.760
+of the hypothalamus will turf
+its hormones to different parts
+
+00:23:33.760 --> 00:23:36.470
+of the pituitary where
+its particular cell
+
+00:23:36.470 --> 00:23:38.760
+targets will be living
+in different sorts
+
+00:23:38.760 --> 00:23:39.700
+of neighborhoods.
+
+00:23:39.700 --> 00:23:44.400
+Simply more regulation, more
+complexity going on there.
+
+00:23:44.400 --> 00:23:48.860
+Next theme that comes through
+in terms of elaboration--
+
+00:23:48.860 --> 00:23:51.610
+we all have the negative
+feedback concept by now
+
+00:23:51.610 --> 00:23:54.830
+that came through throughout
+the lectures last week.
+
+00:23:54.830 --> 00:23:58.150
+The whole notion
+you get excited.
+
+00:23:58.150 --> 00:24:01.020
+You release a neurotransmitter
+into your synapse
+
+00:24:01.020 --> 00:24:02.230
+if you're a neuron.
+
+00:24:02.230 --> 00:24:04.240
+You've got to do some
+regulation there.
+
+00:24:04.240 --> 00:24:06.390
+You have to clean
+up after yourself.
+
+00:24:06.390 --> 00:24:09.390
+You remove the neurotransmitter
+from the synapse.
+
+00:24:09.390 --> 00:24:11.430
+You break down the
+neurotransmitter.
+
+00:24:11.430 --> 00:24:13.200
+You have to finish
+the whole thing.
+
+00:24:13.200 --> 00:24:14.930
+You are the endocrine system.
+
+00:24:14.930 --> 00:24:15.770
+You are the brain.
+
+00:24:15.770 --> 00:24:17.560
+And you have gotten
+it into your head
+
+00:24:17.560 --> 00:24:22.130
+that you want your adrenals
+to secrete glucocorticoids.
+
+00:24:22.130 --> 00:24:24.430
+And you start that whole
+cascade in which everywhere--
+
+00:24:24.430 --> 00:24:27.710
+and you need to know
+when to stop secreting
+
+00:24:27.710 --> 00:24:29.120
+those hormones up on top.
+
+00:24:29.120 --> 00:24:31.800
+You need negative
+feedback information.
+
+00:24:31.800 --> 00:24:34.740
+All of these biological
+systems are characterized
+
+00:24:34.740 --> 00:24:40.110
+by that-- you have enzymes
+where this enzyme turns this
+
+00:24:40.110 --> 00:24:41.340
+into this.
+
+00:24:41.340 --> 00:24:43.760
+And how does it know when
+they should stop doing it?
+
+00:24:43.760 --> 00:24:45.220
+When there is so
+much of this stuff
+
+00:24:45.220 --> 00:24:48.530
+building up that this
+inhibits its activity.
+
+00:24:48.530 --> 00:24:52.210
+You get negative feedback,
+feedback regulation.
+
+00:24:52.210 --> 00:24:53.910
+You're making a lot of x.
+
+00:24:53.910 --> 00:24:56.950
+And whatever is making it
+has to be able to measure
+
+00:24:56.950 --> 00:24:58.300
+the levels of x.
+
+00:24:58.300 --> 00:25:01.870
+That is the simple rule of all
+this negative feedback stuff.
+
+00:25:01.870 --> 00:25:08.970
+So a first example on the
+neurobiological level-- so
+
+00:25:08.970 --> 00:25:12.980
+what we have are what are
+called auto receptors.
+
+00:25:12.980 --> 00:25:16.630
+What I inferred before,
+which is this weirdo world
+
+00:25:16.630 --> 00:25:18.920
+in which you not only
+will have receptors
+
+00:25:18.920 --> 00:25:21.570
+for a neurotransmitter
+exactly where they should
+
+00:25:21.570 --> 00:25:24.250
+be on the post-synaptic
+neuron on the other side
+
+00:25:24.250 --> 00:25:28.430
+of the synapse, but you will
+have them on the neuron that's
+
+00:25:28.430 --> 00:25:30.390
+releasing the neurotransmitter.
+
+00:25:30.390 --> 00:25:31.970
+It is an auto receptor.
+
+00:25:31.970 --> 00:25:34.930
+It is a receptor
+right there on it.
+
+00:25:34.930 --> 00:25:36.240
+What's it doing?
+
+00:25:36.240 --> 00:25:38.500
+It's for bookkeeping.
+
+00:25:38.500 --> 00:25:41.160
+What you have is
+some sort of rule.
+
+00:25:41.160 --> 00:25:43.960
+If the neurotransmitters
+come pouring out of there,
+
+00:25:43.960 --> 00:25:46.930
+and most of them go floating
+across-- let's assume
+
+00:25:46.930 --> 00:25:48.960
+these are only red
+neurotransmitters here,
+
+00:25:48.960 --> 00:25:52.920
+and bind to their
+red receptors there,
+
+00:25:52.920 --> 00:25:54.770
+and do their thing
+to the next neuron.
+
+00:25:54.770 --> 00:25:57.160
+And just thanks to
+the floating around,
+
+00:25:57.160 --> 00:26:00.830
+random life in the Brownian
+synaptic sludge there,
+
+00:26:00.830 --> 00:26:03.340
+a certain number of them
+are going to, instead, bind
+
+00:26:03.340 --> 00:26:04.250
+to this one.
+
+00:26:04.250 --> 00:26:06.620
+And all there has
+to be is some sort
+
+00:26:06.620 --> 00:26:09.950
+of rule in this
+pre-synaptic neuron
+
+00:26:09.950 --> 00:26:12.520
+that for every time
+one of these hits here,
+
+00:26:12.520 --> 00:26:15.410
+it means I've
+released 1,000 copies
+
+00:26:15.410 --> 00:26:18.570
+of this neurotransmitter,
+or 1,000 molecules of that.
+
+00:26:18.570 --> 00:26:21.810
+And that's how I keep
+track of the numbers.
+
+00:26:21.810 --> 00:26:23.560
+And I will have
+a rule that if it
+
+00:26:23.560 --> 00:26:25.780
+gets below a certain
+level of my picking
+
+00:26:25.780 --> 00:26:28.120
+up this bookkeeping
+signal, that will
+
+00:26:28.120 --> 00:26:30.670
+be a signal to start
+making more of the stuff.
+
+00:26:30.670 --> 00:26:32.350
+If I'm getting too
+much of a signal,
+
+00:26:32.350 --> 00:26:37.300
+decrease the release-- feedback
+regulation along those realms.
+
+00:26:37.300 --> 00:26:40.470
+This is where you see
+one of the elaborations
+
+00:26:40.470 --> 00:26:42.700
+on this two-neurotransmitter
+business.
+
+00:26:42.700 --> 00:26:47.330
+What you very often see is
+one of the neurotransmitters
+
+00:26:47.330 --> 00:26:52.000
+will exclusively work on a
+pre-synaptic auto-receptor.
+
+00:26:52.000 --> 00:26:54.930
+That one is stuck
+in there merely
+
+00:26:54.930 --> 00:26:57.140
+in order to do the bookkeeping.
+
+00:26:57.140 --> 00:26:59.320
+You would think neurons
+might have figured out
+
+00:26:59.320 --> 00:27:01.090
+a more direct way
+of keeping track,
+
+00:27:01.090 --> 00:27:03.010
+like how many
+vesicles they dump.
+
+00:27:03.010 --> 00:27:05.000
+But instead, this
+theme is there is
+
+00:27:05.000 --> 00:27:08.790
+some pre-synaptic
+auto-receptor, which tells you
+
+00:27:08.790 --> 00:27:13.460
+on some statistical basis, every
+time we get buzzed at this end,
+
+00:27:13.460 --> 00:27:16.480
+it means we buzz these
+guys 100 zillion times.
+
+00:27:16.480 --> 00:27:20.260
+And that's how we keep track
+of how much we want to make--
+
+00:27:20.260 --> 00:27:22.710
+negative feedback loops there.
+
+00:27:22.710 --> 00:27:26.010
+You then see the
+exact same equivalent
+
+00:27:26.010 --> 00:27:30.101
+in endocrine systems, which
+is all this negative feedback
+
+00:27:30.101 --> 00:27:30.600
+stuff.
+
+00:27:30.600 --> 00:27:32.520
+Something that was
+under-emphasized
+
+00:27:32.520 --> 00:27:35.050
+in the endocrine
+lectures last week
+
+00:27:35.050 --> 00:27:37.550
+has been this element
+of neuroendocrinology.
+
+00:27:37.550 --> 00:27:39.540
+What you mostly
+heard about is what's
+
+00:27:39.540 --> 00:27:41.710
+going to be most
+dominating in the classes
+
+00:27:41.710 --> 00:27:44.870
+to come, which is hormones
+get into the brain
+
+00:27:44.870 --> 00:27:48.900
+and change how you think,
+and feel, and behave,
+
+00:27:48.900 --> 00:27:50.150
+and all of that stuff.
+
+00:27:50.150 --> 00:27:53.070
+But also, some of the time what
+hormones are doing in the brain
+
+00:27:53.070 --> 00:27:55.510
+is letting the brain know
+how much hormones there
+
+00:27:55.510 --> 00:27:57.190
+were in the
+circulation, in order
+
+00:27:57.190 --> 00:28:01.170
+to do the bookkeeping, the
+negative feedback regulation.
+
+00:28:01.170 --> 00:28:04.620
+Your brain decides it wants
+to have this much growth
+
+00:28:04.620 --> 00:28:06.440
+hormone in the bloodstream.
+
+00:28:06.440 --> 00:28:10.080
+And thus, it releases
+its hypothalamic hormone,
+
+00:28:10.080 --> 00:28:10.740
+which goes.
+
+00:28:10.740 --> 00:28:13.591
+And all over, the pituitary
+gets those somatotrophs
+
+00:28:13.591 --> 00:28:15.840
+to release growth hormone
+and does its thing elsewhere
+
+00:28:15.840 --> 00:28:16.520
+in the body.
+
+00:28:16.520 --> 00:28:18.480
+And the brain has
+to be measuring
+
+00:28:18.480 --> 00:28:22.950
+some consequence of that
+growth hormone doing its thing,
+
+00:28:22.950 --> 00:28:25.200
+measuring up there, in
+order to figure out,
+
+00:28:25.200 --> 00:28:27.790
+have we gotten where
+we want to yet?
+
+00:28:27.790 --> 00:28:29.280
+Same thing with prolactin.
+
+00:28:29.280 --> 00:28:31.070
+Same thing with
+every one of those.
+
+00:28:31.070 --> 00:28:34.420
+You have to have negative
+feedback regulation.
+
+00:28:34.420 --> 00:28:36.670
+So what do you need to
+do to pull that off?
+
+00:28:36.670 --> 00:28:39.060
+You need to have a
+part of the brain that
+
+00:28:39.060 --> 00:28:43.930
+is sensitive to that hormone
+signal-- sensitive in some sort
+
+00:28:43.930 --> 00:28:48.060
+of quantitative way, where
+it can, in effect, count
+
+00:28:48.060 --> 00:28:51.060
+how much of the stuff there
+is in the bloodstream using
+
+00:28:51.060 --> 00:28:53.060
+the exact same sort of rule.
+
+00:28:53.060 --> 00:28:56.200
+If I've had one of those
+hormones in the circulation
+
+00:28:56.200 --> 00:28:58.890
+come and bind to
+one of my receptors,
+
+00:28:58.890 --> 00:29:01.940
+it means I have released
+100 billion copies of it,
+
+00:29:01.940 --> 00:29:04.080
+thanks to my starting
+this whole cascade.
+
+00:29:04.080 --> 00:29:05.390
+Did we want 100 billion?
+
+00:29:05.390 --> 00:29:07.010
+Did we want 107 billion?
+
+00:29:07.010 --> 00:29:08.960
+Do we want 93 billion?
+
+00:29:08.960 --> 00:29:09.970
+What do we do now?
+
+00:29:09.970 --> 00:29:12.880
+Does that tell us we've
+completed what we want?
+
+00:29:12.880 --> 00:29:15.750
+You get this negative
+feedback signal there.
+
+00:29:15.750 --> 00:29:17.240
+So the first thing
+you have to have
+
+00:29:17.240 --> 00:29:21.130
+is cells-- parts of the
+brain-- that will measure,
+
+00:29:21.130 --> 00:29:24.790
+that will be responsive
+to a hormone signal.
+
+00:29:24.790 --> 00:29:28.800
+Those cells have to be able
+to have some kind of set point
+
+00:29:28.800 --> 00:29:29.940
+rule in there.
+
+00:29:29.940 --> 00:29:32.620
+This is the point of
+life that I am at,
+
+00:29:32.620 --> 00:29:34.460
+the point of my menstrual cycle.
+
+00:29:34.460 --> 00:29:37.110
+This is the point of
+reaching adolescence.
+
+00:29:37.110 --> 00:29:39.410
+This is the point of
+am I stressed or not?
+
+00:29:39.410 --> 00:29:40.530
+This is the set point.
+
+00:29:40.530 --> 00:29:42.560
+This is the amount
+of hormone I would
+
+00:29:42.560 --> 00:29:44.520
+like to have in
+the bloodstream--
+
+00:29:44.520 --> 00:29:46.550
+this particular type of hormone.
+
+00:29:46.550 --> 00:29:49.040
+And what you need to
+then be able to do
+
+00:29:49.040 --> 00:29:53.500
+is, if levels have not
+reached that set point yet,
+
+00:29:53.500 --> 00:29:57.790
+you send a stimulatory
+signal to the hypothalamus.
+
+00:29:57.790 --> 00:29:59.650
+Keep doing what you were doing.
+
+00:29:59.650 --> 00:30:01.950
+We need to push the
+levels up higher.
+
+00:30:01.950 --> 00:30:04.950
+And if the levels reach
+here or get even higher,
+
+00:30:04.950 --> 00:30:09.130
+you need to be able to turn this
+into an inhibitory signal going
+
+00:30:09.130 --> 00:30:10.900
+to the hypothalamus.
+
+00:30:10.900 --> 00:30:13.440
+So what you see are
+all sorts of regions
+
+00:30:13.440 --> 00:30:17.260
+of the brain that are sensitive
+to these various hormones, not
+
+00:30:17.260 --> 00:30:19.050
+just in terms of
+hormones affecting
+
+00:30:19.050 --> 00:30:20.950
+all the behaviors we're
+going to hear about,
+
+00:30:20.950 --> 00:30:25.840
+but also negative feedback
+regulation-- so a way now
+
+00:30:25.840 --> 00:30:29.190
+of showing just how much
+more complicated it can be.
+
+00:30:29.190 --> 00:30:31.560
+So what would you assume
+is the general rule?
+
+00:30:31.560 --> 00:30:35.750
+Here's an example of--
+OK, let's make it simpler.
+
+00:30:38.850 --> 00:30:40.530
+OK, so what would
+you expect to see?
+
+00:30:40.530 --> 00:30:43.300
+You're able to
+measure CRH coming out
+
+00:30:43.300 --> 00:30:44.920
+of the base of the hypothalamus.
+
+00:30:44.920 --> 00:30:48.660
+And the deal is something
+stressful occurs,
+
+00:30:48.660 --> 00:30:50.900
+and so it's pumping out CRH.
+
+00:30:50.900 --> 00:30:54.530
+And at some point, you've
+got as much glucocorticoids
+
+00:30:54.530 --> 00:30:56.150
+in the blood stream
+as the brain would
+
+00:30:56.150 --> 00:30:57.860
+like for that sort of stressor.
+
+00:30:57.860 --> 00:30:59.540
+And that leads to
+the negative feedback
+
+00:30:59.540 --> 00:31:01.260
+signal, which stops
+the hypothalamus
+
+00:31:01.260 --> 00:31:02.720
+from releasing CRH.
+
+00:31:02.720 --> 00:31:05.960
+What measuring is
+the brain doing?
+
+00:31:05.960 --> 00:31:08.260
+Most obvious version
+would be what
+
+00:31:08.260 --> 00:31:12.720
+the brain does is measure
+how much glucocorticoids
+
+00:31:12.720 --> 00:31:14.530
+are in the bloodstream.
+
+00:31:14.530 --> 00:31:17.240
+And a simple rule, the
+more glucocorticoids
+
+00:31:17.240 --> 00:31:19.910
+there are in the bloodstream,
+the more likely levels
+
+00:31:19.910 --> 00:31:22.750
+are to have reached
+the threshold, the set
+
+00:31:22.750 --> 00:31:24.060
+point, that you want.
+
+00:31:24.060 --> 00:31:27.470
+So the higher the levels, the
+more of a negative feedback
+
+00:31:27.470 --> 00:31:28.150
+signal.
+
+00:31:28.150 --> 00:31:31.760
+And thus, the less
+CRH being secreted.
+
+00:31:31.760 --> 00:31:34.170
+Totally straightforward,
+logical,
+
+00:31:34.170 --> 00:31:38.380
+measuring the level of
+hormone in the bloodstream.
+
+00:31:38.380 --> 00:31:41.810
+And this is how most endocrine
+negative feedback works.
+
+00:31:41.810 --> 00:31:43.680
+Measuring how much
+of the stuff--
+
+00:31:43.680 --> 00:31:46.630
+the more stuff there is,
+the greater the likelihood
+
+00:31:46.630 --> 00:31:48.340
+that you shut down the system.
+
+00:31:48.340 --> 00:31:50.270
+You put in the negative
+feedback signal.
+
+00:31:50.270 --> 00:31:53.960
+But in addition, there's
+a whole other domain
+
+00:31:53.960 --> 00:31:57.040
+of glucocorticoid negative
+feedback regulation,
+
+00:31:57.040 --> 00:31:59.860
+where in this domain,
+what the brain
+
+00:31:59.860 --> 00:32:03.550
+is doing is not measuring
+how much glucocorticoids
+
+00:32:03.550 --> 00:32:06.470
+there are in the
+bloodstream, but measuring
+
+00:32:06.470 --> 00:32:11.550
+the rate of change-- the rate
+at which levels are increasing.
+
+00:32:11.550 --> 00:32:16.450
+And that's a totally different
+domain of information there.
+
+00:32:16.450 --> 00:32:18.230
+Now what you're
+doing is measuring
+
+00:32:18.230 --> 00:32:22.330
+how many units of increase
+per second are you getting.
+
+00:32:22.330 --> 00:32:25.220
+And what you've got is
+this bizarre world there,
+
+00:32:25.220 --> 00:32:29.220
+where you go from 10
+units of glucocorticoids
+
+00:32:29.220 --> 00:32:32.820
+in the bloodstream to
+12 units in one minute.
+
+00:32:32.820 --> 00:32:34.410
+And that means the
+same exact thing
+
+00:32:34.410 --> 00:32:37.910
+as going from a million
+and 10 units to a million
+
+00:32:37.910 --> 00:32:40.510
+and 12 units in the
+same length of time.
+
+00:32:40.510 --> 00:32:42.760
+It's not measuring
+absolute levels.
+
+00:32:42.760 --> 00:32:44.730
+It's measuring rate of change.
+
+00:32:44.730 --> 00:32:49.040
+And the faster the rate of
+change, the less likely CRH
+
+00:32:49.040 --> 00:32:50.620
+is to get secreted.
+
+00:32:50.620 --> 00:32:53.990
+And it turns out there are some
+domains of stress responses
+
+00:32:53.990 --> 00:32:55.920
+where what the brain
+is paying attention to
+
+00:32:55.920 --> 00:32:58.730
+is rate of change of
+hormone in the bloodstream.
+
+00:32:58.730 --> 00:33:01.360
+There are other circumstances
+where it's paying attention
+
+00:33:01.360 --> 00:33:02.740
+to absolute level.
+
+00:33:02.740 --> 00:33:05.110
+This tends to be what
+the brain listens
+
+00:33:05.110 --> 00:33:08.510
+to very early on in
+a stress response.
+
+00:33:08.510 --> 00:33:10.790
+This tends to be the
+more delayed response.
+
+00:33:10.790 --> 00:33:15.140
+But totally different dynamics
+there-- cells that measure
+
+00:33:15.140 --> 00:33:18.060
+the amount of
+hormone-- that's not
+
+00:33:18.060 --> 00:33:21.690
+that hard to imagine-- number
+of receptors, stuff like that.
+
+00:33:21.690 --> 00:33:24.390
+Cells that measure
+the rate of change,
+
+00:33:24.390 --> 00:33:27.220
+where going from 10 to 12
+is the exact same thing
+
+00:33:27.220 --> 00:33:29.960
+as going from a million
+10 to a million 12.
+
+00:33:29.960 --> 00:33:32.630
+What is that wiring
+going to be like?
+
+00:33:32.630 --> 00:33:34.700
+To this day, nobody has a clue.
+
+00:33:34.700 --> 00:33:37.435
+This was first sort of
+figured out in the 1960s.
+
+00:33:37.435 --> 00:33:40.130
+An amazing scientist
+up in UCSF named
+
+00:33:40.130 --> 00:33:44.420
+Mary Dallman who just sat and
+out of sheer just modeling
+
+00:33:44.420 --> 00:33:46.570
+work in terms of
+endocrine systems
+
+00:33:46.570 --> 00:33:48.740
+predicted with
+glucocorticoids, there
+
+00:33:48.740 --> 00:33:51.420
+are going to be two different
+domains of feedback.
+
+00:33:51.420 --> 00:33:54.940
+There is going to be a rapid
+rate-of-change sensitive
+
+00:33:54.940 --> 00:33:55.610
+system.
+
+00:33:55.610 --> 00:33:58.620
+There is going to be a
+delayed level of hormone
+
+00:33:58.620 --> 00:33:59.930
+in the bloodstream system.
+
+00:33:59.930 --> 00:34:02.040
+And here's exactly why
+I'm predicting this.
+
+00:34:02.040 --> 00:34:03.790
+And she turned out to
+be absolutely right.
+
+00:34:03.790 --> 00:34:06.420
+And decades later,
+people still don't fully
+
+00:34:06.420 --> 00:34:09.830
+understand how a cell
+measures the rate of change
+
+00:34:09.830 --> 00:34:13.260
+of something independent
+of the absolute levels.
+
+00:34:13.260 --> 00:34:15.210
+One thing that makes
+life a little bit easier
+
+00:34:15.210 --> 00:34:18.199
+is it's different parts
+of the nervous system
+
+00:34:18.199 --> 00:34:20.739
+that do each type here.
+
+00:34:20.739 --> 00:34:24.280
+The very rapid rate-of-change
+stuff, in fact,
+
+00:34:24.280 --> 00:34:26.429
+is not even occurring
+at the brain.
+
+00:34:26.429 --> 00:34:29.310
+It's occurring at the
+level of the pituitary.
+
+00:34:29.310 --> 00:34:33.850
+And thus, it's not so much
+regulating CRH release,
+
+00:34:33.850 --> 00:34:36.199
+but ACTH release.
+
+00:34:36.199 --> 00:34:39.330
+OK, complicated-- the
+main point of that
+
+00:34:39.330 --> 00:34:42.659
+is, even something
+as logical as how
+
+00:34:42.659 --> 00:34:45.020
+do you keep your toilet
+bowl sort of thing
+
+00:34:45.020 --> 00:34:47.530
+from overflowing the
+tank in the back there?
+
+00:34:47.530 --> 00:34:49.780
+You need a negative
+feedback signal.
+
+00:34:49.780 --> 00:34:52.230
+You need a way for
+the toilet bowl tank
+
+00:34:52.230 --> 00:34:55.360
+to measure how much water there
+is there, and the flotation
+
+00:34:55.360 --> 00:34:59.390
+device, and for that to have
+a set point and a way of then
+
+00:34:59.390 --> 00:35:02.880
+transducing, reaching that
+point into putting the lid
+
+00:35:02.880 --> 00:35:06.230
+on the top of the pipe
+that's generating the water.
+
+00:35:06.230 --> 00:35:09.190
+Totally all these logical
+negative feedback loop stuff,
+
+00:35:09.190 --> 00:35:12.530
+and then suddenly, in these
+neuroendocrine systems,
+
+00:35:12.530 --> 00:35:16.870
+you get much, much more subtle,
+complicated things going on.
+
+00:35:16.870 --> 00:35:20.480
+In some cases, you
+have positive feedback.
+
+00:35:20.480 --> 00:35:22.580
+The more of a hormone
+in the bloodstream,
+
+00:35:22.580 --> 00:35:25.190
+the more you stimulate
+the system to do more.
+
+00:35:25.190 --> 00:35:28.006
+You get that at certain
+points in reproduction--
+
+00:35:28.006 --> 00:35:29.380
+reproductive life
+histories where
+
+00:35:29.380 --> 00:35:32.760
+you have massive changes
+of estrogen, progesterone.
+
+00:35:32.760 --> 00:35:35.550
+And what you have will be
+transient periods where
+
+00:35:35.550 --> 00:35:37.210
+you have positive feedback.
+
+00:35:37.210 --> 00:35:41.070
+All of these somehow have to
+get translated into how cells
+
+00:35:41.070 --> 00:35:43.560
+are working-- very unclear.
+
+00:35:43.560 --> 00:35:47.780
+OK, so negative feedback-- the
+next elaboration-- something
+
+00:35:47.780 --> 00:35:50.810
+going on at the receptor level.
+
+00:35:50.810 --> 00:35:53.685
+It's something known
+as auto-regulation.
+
+00:35:53.685 --> 00:35:55.980
+And you could probably
+begin to figure out what
+
+00:35:55.980 --> 00:35:57.130
+that one's about.
+
+00:35:57.130 --> 00:35:59.690
+And it will make perfect
+sense as follows--
+
+00:35:59.690 --> 00:36:02.580
+if somebody screams
+at you all the time,
+
+00:36:02.580 --> 00:36:04.540
+you stop listening to them.
+
+00:36:04.540 --> 00:36:08.800
+And what you have done is just
+down-regulated your sensitivity
+
+00:36:08.800 --> 00:36:10.830
+to this pain-in-the-neck person.
+
+00:36:10.830 --> 00:36:13.520
+If they give a
+very large signal,
+
+00:36:13.520 --> 00:36:17.170
+you down-regulate your
+sensitivity to the signal.
+
+00:36:17.170 --> 00:36:20.090
+If a signal, instead,
+becomes very weak,
+
+00:36:20.090 --> 00:36:24.070
+very often you will increase
+the attention you pay to it.
+
+00:36:24.070 --> 00:36:27.370
+You are showing auto-regulation.
+
+00:36:27.370 --> 00:36:30.010
+Within the realm of
+neuroendocrine stuff,
+
+00:36:30.010 --> 00:36:33.800
+you will be changing
+the amount of receptor
+
+00:36:33.800 --> 00:36:36.510
+for a neurotransmitter
+or hormone
+
+00:36:36.510 --> 00:36:39.940
+as a function of the
+levels in the bloodstream.
+
+00:36:39.940 --> 00:36:42.290
+And thus, you have
+this logic-- if you
+
+00:36:42.290 --> 00:36:45.830
+get a huge increase in
+the levels of some hormone
+
+00:36:45.830 --> 00:36:48.260
+in the blood stream,
+there will be a likelihood
+
+00:36:48.260 --> 00:36:50.680
+that various target
+tissues will begin
+
+00:36:50.680 --> 00:36:56.350
+to down-regulate the number
+of receptors for that hormone
+
+00:36:56.350 --> 00:36:57.520
+or neurotransmitter.
+
+00:36:57.520 --> 00:37:00.250
+Conversely, levels go way
+down, they go right up.
+
+00:37:00.250 --> 00:37:02.790
+And this is a
+general feature all
+
+00:37:02.790 --> 00:37:05.500
+these neural and
+endocrine systems.
+
+00:37:05.500 --> 00:37:07.050
+Why is that interesting?
+
+00:37:07.050 --> 00:37:11.170
+When this regulatory,
+auto-regulatory stuff
+
+00:37:11.170 --> 00:37:12.860
+screws up.
+
+00:37:12.860 --> 00:37:15.440
+In principle, it
+should work perfectly.
+
+00:37:15.440 --> 00:37:18.230
+OK, for some reason,
+there's a doubling
+
+00:37:18.230 --> 00:37:19.880
+of the hormone
+message coming through
+
+00:37:19.880 --> 00:37:22.270
+in the bloodstream
+under some circumstance
+
+00:37:22.270 --> 00:37:24.290
+where it's going
+on for a long time.
+
+00:37:24.290 --> 00:37:25.390
+And that's not right.
+
+00:37:25.390 --> 00:37:27.630
+And somebody down at
+some gland down there
+
+00:37:27.630 --> 00:37:30.430
+is messing up and drooling
+out way too much hormone.
+
+00:37:30.430 --> 00:37:31.610
+So what are we going to do?
+
+00:37:31.610 --> 00:37:33.290
+We have no idea
+what's up with them.
+
+00:37:33.290 --> 00:37:35.490
+But you've doubled
+the level of hormone.
+
+00:37:35.490 --> 00:37:37.830
+Most folks down
+there, OK, let's have
+
+00:37:37.830 --> 00:37:40.180
+an auto-regulatory response.
+
+00:37:40.180 --> 00:37:42.570
+Let's cut the number
+of our receptors
+
+00:37:42.570 --> 00:37:44.500
+in half to compensate.
+
+00:37:44.500 --> 00:37:47.190
+You can see in a rough way
+that's going to compensate.
+
+00:37:47.190 --> 00:37:51.240
+So massively increase the
+signal thanks to some disease
+
+00:37:51.240 --> 00:37:55.050
+state, something weird going on,
+and do a compensatory decrease.
+
+00:37:55.050 --> 00:37:57.070
+Have some disease
+or abnormal state
+
+00:37:57.070 --> 00:37:59.070
+where levels of some
+hormone or neurotransmitter
+
+00:37:59.070 --> 00:38:01.220
+go way down-- what do you do?
+
+00:38:01.220 --> 00:38:05.140
+Let's up the amount of receptor
+enough to compensate for it.
+
+00:38:05.140 --> 00:38:06.280
+That's great.
+
+00:38:06.280 --> 00:38:10.660
+Where problems occur is if you
+don't compensate quite enough,
+
+00:38:10.660 --> 00:38:14.860
+or if you overshoot, if you
+begin to get a mismatch.
+
+00:38:14.860 --> 00:38:17.260
+And that's where
+you've got problems.
+
+00:38:17.260 --> 00:38:20.400
+We will see, as you read
+in the [INAUDIBLE] book--
+
+00:38:20.400 --> 00:38:23.560
+with hopefully great detail--
+the chapter on depression,
+
+00:38:23.560 --> 00:38:26.650
+that's probably a critical
+thing that's happening.
+
+00:38:26.650 --> 00:38:29.780
+Because we'll see with
+depression what's probably
+
+00:38:29.780 --> 00:38:32.640
+wrong are levels of a few
+different neurotransmitters--
+
+00:38:32.640 --> 00:38:35.370
+serotonin, dopamine,
+norepinephrine.
+
+00:38:35.370 --> 00:38:37.240
+All of this is
+going to come soon.
+
+00:38:37.240 --> 00:38:40.370
+And all of the standard
+anti-depressant drugs
+
+00:38:40.370 --> 00:38:43.340
+change the levels of
+these neurotransmitters
+
+00:38:43.340 --> 00:38:44.500
+in the bloodstream.
+
+00:38:44.500 --> 00:38:45.680
+And that's great.
+
+00:38:45.680 --> 00:38:48.250
+And we know just how it
+works, except there's always
+
+00:38:48.250 --> 00:38:50.080
+a problem making sense of that.
+
+00:38:50.080 --> 00:38:54.114
+Which is you throw in some of
+these standard drugs-- SSRIs,
+
+00:38:54.114 --> 00:38:56.280
+things of that sort-- don't
+worry about the details.
+
+00:38:56.280 --> 00:38:57.800
+All of this will come later.
+
+00:38:57.800 --> 00:39:00.950
+The main point being that
+these anti-depressant drugs,
+
+00:39:00.950 --> 00:39:03.140
+when you throw them
+in, they're changing
+
+00:39:03.140 --> 00:39:06.990
+levels of neurotransmitters
+within minutes to hours.
+
+00:39:06.990 --> 00:39:09.730
+You get somebody who
+is deeply depressed.
+
+00:39:09.730 --> 00:39:12.880
+And you start them off
+on an SSRI like Prozac.
+
+00:39:12.880 --> 00:39:16.310
+And they don't start feeling
+better for days to weeks.
+
+00:39:16.310 --> 00:39:20.000
+There is some sort of
+lag time going on there.
+
+00:39:20.000 --> 00:39:21.990
+And as people have
+sorted it out,
+
+00:39:21.990 --> 00:39:24.670
+what the common sort
+of conclusion is,
+
+00:39:24.670 --> 00:39:26.870
+these drugs are
+not working so much
+
+00:39:26.870 --> 00:39:29.830
+by changing the levels of
+these neurotransmitters.
+
+00:39:29.830 --> 00:39:33.580
+What they're really doing
+is by changing the levels,
+
+00:39:33.580 --> 00:39:37.640
+they are eventually going to
+cause an auto-regulatory change
+
+00:39:37.640 --> 00:39:39.540
+in the number of receptors.
+
+00:39:39.540 --> 00:39:41.990
+And these change within
+minutes to hours.
+
+00:39:41.990 --> 00:39:44.100
+These change within
+days to weeks.
+
+00:39:44.100 --> 00:39:47.070
+And that's what these
+drugs are probably doing.
+
+00:39:47.070 --> 00:39:48.230
+We will go through that.
+
+00:39:48.230 --> 00:39:51.602
+Just to give you a sense of
+how awful it is going to get,
+
+00:39:51.602 --> 00:39:53.310
+there are some reasons
+to think that some
+
+00:39:53.310 --> 00:39:55.710
+of these anti-depressant
+drugs work
+
+00:39:55.710 --> 00:39:58.600
+not by changing the level so
+much of this neurotransmitter,
+
+00:39:58.600 --> 00:40:00.550
+or not so much
+secondarily causing
+
+00:40:00.550 --> 00:40:03.410
+an auto-regulatory
+change here, but instead,
+
+00:40:03.410 --> 00:40:08.300
+causing an auto-regulatory
+change in these auto-receptors.
+
+00:40:08.300 --> 00:40:09.980
+Unbelievably complicated.
+
+00:40:09.980 --> 00:40:10.920
+We will come to that.
+
+00:40:10.920 --> 00:40:13.360
+For our purposes
+right now, what that
+
+00:40:13.360 --> 00:40:16.220
+begins to tell you
+is that certainly,
+
+00:40:16.220 --> 00:40:18.960
+the amount of hormone and the
+amount of neurotransmitter
+
+00:40:18.960 --> 00:40:19.930
+makes a difference.
+
+00:40:19.930 --> 00:40:21.980
+The amount of receptor, as well.
+
+00:40:21.980 --> 00:40:24.310
+And have big
+pathological changes
+
+00:40:24.310 --> 00:40:26.130
+in the levels of the messengers.
+
+00:40:26.130 --> 00:40:30.640
+The body attempts to regulate
+with auto-regulatory changes.
+
+00:40:30.640 --> 00:40:32.760
+And a lot of what
+disease is about
+
+00:40:32.760 --> 00:40:35.740
+is overshooting
+or undershooting.
+
+00:40:35.740 --> 00:40:38.270
+So that's one realm within
+the nervous system--
+
+00:40:38.270 --> 00:40:40.236
+neurotransmitters--
+pertinent to depression.
+
+00:40:42.940 --> 00:40:45.980
+OK within endocrine
+systems, an equivalent one
+
+00:40:45.980 --> 00:40:47.760
+is as follows--
+something that you
+
+00:40:47.760 --> 00:40:51.150
+see that goes wrong in
+diabetes-- adult-onset
+
+00:40:51.150 --> 00:40:52.650
+diabetes.
+
+00:40:52.650 --> 00:40:55.640
+One of the things you have
+is a number of ways things
+
+00:40:55.640 --> 00:40:56.430
+can go wrong.
+
+00:40:56.430 --> 00:40:58.910
+But what your body
+does is, when there's
+
+00:40:58.910 --> 00:41:01.180
+glucose in the bloodstream,
+when you've just
+
+00:41:01.180 --> 00:41:03.410
+had a meal, when you
+have all these nutrients
+
+00:41:03.410 --> 00:41:05.450
+in the bloodstream,
+your pancreas
+
+00:41:05.450 --> 00:41:08.150
+can detect the levels of
+glucose in your bloodstream
+
+00:41:08.150 --> 00:41:10.390
+and secretes insulin.
+
+00:41:10.390 --> 00:41:12.610
+Sugar shows up in the
+bloodstream-- glucose.
+
+00:41:12.610 --> 00:41:13.790
+You secrete insulin.
+
+00:41:13.790 --> 00:41:16.890
+And what insulin does
+is tell your fat cells
+
+00:41:16.890 --> 00:41:19.790
+to absorb the sugar
+and store it away.
+
+00:41:19.790 --> 00:41:22.960
+Great, but you've
+got a problem, which
+
+00:41:22.960 --> 00:41:26.260
+is that your fat cells
+are already full.
+
+00:41:26.260 --> 00:41:29.020
+Because you are a typical
+Westernized human,
+
+00:41:29.020 --> 00:41:30.780
+and you've been
+eating to excess.
+
+00:41:30.780 --> 00:41:34.290
+And what you have is fat
+cells that are full up.
+
+00:41:34.290 --> 00:41:37.550
+And they stop listening
+to insulin, because they
+
+00:41:37.550 --> 00:41:38.620
+can't take it anymore.
+
+00:41:38.620 --> 00:41:41.900
+Because they can't take up any
+more stuff and store it away.
+
+00:41:41.900 --> 00:41:45.690
+The cells begin to
+be insulin resistant.
+
+00:41:45.690 --> 00:41:48.020
+And we'll see in a
+minute how that works.
+
+00:41:48.020 --> 00:41:50.630
+So suddenly, you
+have fat cells that
+
+00:41:50.630 --> 00:41:52.390
+aren't responding to insulin.
+
+00:41:52.390 --> 00:41:55.724
+And what happens is your
+pancreas says, this is crazy.
+
+00:41:55.724 --> 00:41:58.140
+We're trying to get rid of the
+sugar from the bloodstream.
+
+00:41:58.140 --> 00:41:59.260
+And it's not disappearing.
+
+00:41:59.260 --> 00:42:01.250
+The person just ate
+eight Hershey bars,
+
+00:42:01.250 --> 00:42:03.220
+and their fat cells
+are already full.
+
+00:42:03.220 --> 00:42:05.890
+But we're not clearing the
+sugar out of the bloodstream.
+
+00:42:05.890 --> 00:42:08.180
+So let's secrete
+even more insulin.
+
+00:42:08.180 --> 00:42:10.190
+And let's secrete
+even more insulin.
+
+00:42:10.190 --> 00:42:12.880
+And what happens at the
+fat cells, they say,
+
+00:42:12.880 --> 00:42:14.520
+this is ridiculous.
+
+00:42:14.520 --> 00:42:15.460
+We're full up.
+
+00:42:15.460 --> 00:42:16.120
+Forget it.
+
+00:42:16.120 --> 00:42:19.000
+We're not taking up any more
+of these nutrient things.
+
+00:42:19.000 --> 00:42:20.950
+And in fact, what
+we're going to do is,
+
+00:42:20.950 --> 00:42:23.600
+we're going to decrease
+the number of our insulin
+
+00:42:23.600 --> 00:42:24.640
+receptors.
+
+00:42:24.640 --> 00:42:28.890
+We're going to down-regulate
+our number of insulin receptors.
+
+00:42:28.890 --> 00:42:32.210
+And the pancreas freaks out,
+and secretes even more insulin
+
+00:42:32.210 --> 00:42:33.030
+as a result.
+
+00:42:33.030 --> 00:42:34.800
+And you down-regulate even more.
+
+00:42:34.800 --> 00:42:38.280
+And what you have is
+this downward spiral.
+
+00:42:38.280 --> 00:42:40.540
+Because at some
+point, your pancreas
+
+00:42:40.540 --> 00:42:44.200
+is working so hard to dump
+these boatloads of insulin
+
+00:42:44.200 --> 00:42:47.470
+into the bloodstream that your
+body's paying no attention to,
+
+00:42:47.470 --> 00:42:50.430
+that you burn out the
+cells in your pancreas that
+
+00:42:50.430 --> 00:42:51.560
+make insulin.
+
+00:42:51.560 --> 00:42:54.720
+And now you've got yourself
+a real serious problem.
+
+00:42:54.720 --> 00:42:57.110
+What's the key of
+what's gone wrong here?
+
+00:42:57.110 --> 00:43:00.010
+Too much nutrients, and
+thus too much insulin.
+
+00:43:00.010 --> 00:43:02.037
+And the fat cells
+begin to say, we're
+
+00:43:02.037 --> 00:43:03.120
+not going to listen to it.
+
+00:43:03.120 --> 00:43:04.780
+And they down-regulate
+receptors.
+
+00:43:04.780 --> 00:43:07.510
+More insulin, down-regulate,
+down-regulate-- and this
+
+00:43:07.510 --> 00:43:10.440
+is at the core of what
+goes wrong in diabetes.
+
+00:43:10.440 --> 00:43:13.190
+So we see these
+auto-regulatory changes.
+
+00:43:13.190 --> 00:43:15.230
+And they can emerge slowly.
+
+00:43:15.230 --> 00:43:17.850
+They can help explain why
+some of these drugs work.
+
+00:43:17.850 --> 00:43:20.050
+Almost certainly,
+they help explain
+
+00:43:20.050 --> 00:43:22.600
+what's wrong in some of
+these psychiatric diseases,
+
+00:43:22.600 --> 00:43:24.110
+metabolic diseases.
+
+00:43:24.110 --> 00:43:25.630
+What's the punchline there?
+
+00:43:25.630 --> 00:43:28.920
+Number one, the amount of
+a messenger is important,
+
+00:43:28.920 --> 00:43:31.770
+but the sensitivity
+to the messenger
+
+00:43:31.770 --> 00:43:33.370
+is at least as important.
+
+00:43:33.370 --> 00:43:36.480
+You have as much
+capacity to regulate this
+
+00:43:36.480 --> 00:43:38.890
+as this in these
+biological systems,
+
+00:43:38.890 --> 00:43:40.640
+and thus you have
+as much potential
+
+00:43:40.640 --> 00:43:43.900
+for screwing up at
+this end as screwing up
+
+00:43:43.900 --> 00:43:45.440
+with the amount of messenger.
+
+00:43:45.440 --> 00:43:47.760
+Yeah, did I see a
+hand up someplace?
+
+00:43:47.760 --> 00:43:48.722
+Yes.
+
+00:43:48.722 --> 00:43:55.080
+[INAUDIBLE] but wouldn't
+the SSRI example, then,
+
+00:43:55.080 --> 00:43:58.380
+be the opposite of what
+you're saying [INAUDIBLE]?
+
+00:43:58.380 --> 00:44:01.845
+Because you'd expect
+increasing neurotransmitters
+
+00:44:01.845 --> 00:44:04.815
+to eventually cause a
+decrease in receptors.
+
+00:44:04.815 --> 00:44:08.800
+So you should see
+that [INAUDIBLE].
+
+00:44:08.800 --> 00:44:10.800
+Great, OK.
+
+00:44:10.800 --> 00:44:12.680
+Don't listen to
+anything she just said,
+
+00:44:12.680 --> 00:44:16.550
+because she's just gotten to an
+incredibly subtle, complicated
+
+00:44:16.550 --> 00:44:18.470
+point about how
+this stuff works.
+
+00:44:18.470 --> 00:44:21.850
+Go and read, and memorize,
+and recite to your roommates
+
+00:44:21.850 --> 00:44:24.375
+the section on the zebra
+chapter about-- the section
+
+00:44:24.375 --> 00:44:26.520
+in zebras-- on
+depression, looking
+
+00:44:26.520 --> 00:44:29.930
+at the paradoxical things
+where, at the end of the day,
+
+00:44:29.930 --> 00:44:33.710
+people are not sure say, an
+SSRI, a selective serotonin
+
+00:44:33.710 --> 00:44:35.110
+re-uptake inhibitor.
+
+00:44:35.110 --> 00:44:38.400
+What it does is it blocks
+the re-uptake of serotonin.
+
+00:44:38.400 --> 00:44:41.050
+And thus, you wind up with more
+serotonin in the bloodstream.
+
+00:44:41.050 --> 00:44:42.560
+Somebody feels less depressed.
+
+00:44:42.560 --> 00:44:45.440
+I bet their problem was they
+didn't have enough serotonin.
+
+00:44:45.440 --> 00:44:48.790
+Work through the logic of all
+this auto-regulatory stuff
+
+00:44:48.790 --> 00:44:49.540
+going on.
+
+00:44:49.540 --> 00:44:52.010
+And people still
+are not positive
+
+00:44:52.010 --> 00:44:55.750
+if the problem with depression
+is too little serotonin or too
+
+00:44:55.750 --> 00:44:56.540
+much.
+
+00:44:56.540 --> 00:45:00.560
+Because depending on whether
+the auto-regulation partially
+
+00:45:00.560 --> 00:45:04.030
+compensates, completely,
+whether it overshoots,
+
+00:45:04.030 --> 00:45:06.340
+and whether it's these
+receptors or these,
+
+00:45:06.340 --> 00:45:08.560
+will completely determine
+whether the problem
+
+00:45:08.560 --> 00:45:12.320
+is too much or too little of a
+neurotransmitter-- incredibly
+
+00:45:12.320 --> 00:45:15.190
+complicated, exactly some
+of the complexities there.
+
+00:45:15.190 --> 00:45:17.350
+And that is so
+complicated, in fact,
+
+00:45:17.350 --> 00:45:19.080
+that it is essential
+that everybody
+
+00:45:19.080 --> 00:45:21.530
+stand up now and go to the
+bathroom for five minutes.
+
+00:45:21.530 --> 00:45:25.970
+OK, again, back from the
+other [INAUDIBLE] day.
+
+00:45:25.970 --> 00:45:28.280
+Your pituitary is
+releasing all sorts
+
+00:45:28.280 --> 00:45:31.720
+of different types of
+hormones under the control
+
+00:45:31.720 --> 00:45:34.050
+of all sorts of different
+types of hormones
+
+00:45:34.050 --> 00:45:36.580
+signaling from the brain.
+
+00:45:36.580 --> 00:45:39.590
+What you get is, the
+pituitary is not just
+
+00:45:39.590 --> 00:45:42.650
+made up of one type of
+cell that can secrete
+
+00:45:42.650 --> 00:45:44.850
+every single type of
+hormone and response
+
+00:45:44.850 --> 00:45:47.660
+to each type there of
+messenger from the brain.
+
+00:45:47.660 --> 00:45:50.060
+Instead, you've got
+specialized cells.
+
+00:45:50.060 --> 00:45:52.330
+You've got types
+of pituitary cells
+
+00:45:52.330 --> 00:45:54.520
+that only secrete
+prolactin in response
+
+00:45:54.520 --> 00:45:57.772
+to what's happening there,
+types that only secrete ACTH,
+
+00:45:57.772 --> 00:46:01.920
+or secrete luteinizing hormone,
+follicle stimulating hormone,
+
+00:46:01.920 --> 00:46:03.020
+so on.
+
+00:46:03.020 --> 00:46:05.470
+OK, so they're
+specialized cells.
+
+00:46:05.470 --> 00:46:09.490
+Rather than having one part
+of the pituitary, which
+
+00:46:09.490 --> 00:46:12.520
+is the we're in charge of
+secreting growth hormone
+
+00:46:12.520 --> 00:46:15.940
+neighborhood, and one part
+that's the we do prolactin,
+
+00:46:15.940 --> 00:46:18.660
+and rather than it being
+broken up like that,
+
+00:46:18.660 --> 00:46:22.355
+instead, it's just a mosaic of
+all the different types that
+
+00:46:22.355 --> 00:46:24.480
+are scattered throughout there.
+
+00:46:24.480 --> 00:46:28.330
+So that would initially just
+seem like sheer sloppiness.
+
+00:46:28.330 --> 00:46:30.550
+Embryology-- they didn't
+quite get it together
+
+00:46:30.550 --> 00:46:33.010
+to have discrete neighborhoods,
+that sort of thing.
+
+00:46:33.010 --> 00:46:34.770
+But it's just scattered there.
+
+00:46:34.770 --> 00:46:37.060
+What's interesting
+about that is,
+
+00:46:37.060 --> 00:46:42.370
+you will see any given
+cell in the pituitary
+
+00:46:42.370 --> 00:46:46.070
+will go about its
+business, which
+
+00:46:46.070 --> 00:46:49.960
+is responding to its
+specific hypothalamic signal
+
+00:46:49.960 --> 00:46:54.290
+by secreting whichever
+hormone it specializes in.
+
+00:46:54.290 --> 00:46:57.020
+Every single cell in
+the pituitary going
+
+00:46:57.020 --> 00:47:00.660
+about its business will be
+a little bit more or less
+
+00:47:00.660 --> 00:47:04.290
+sensitive to its
+hypothalamic signal,
+
+00:47:04.290 --> 00:47:08.080
+depending on what sort of
+neighborhood it's living in,
+
+00:47:08.080 --> 00:47:11.640
+depending on which other
+types of these cells
+
+00:47:11.640 --> 00:47:13.290
+it's surrounded by.
+
+00:47:13.290 --> 00:47:17.340
+So that you will
+get, for example,
+
+00:47:17.340 --> 00:47:19.830
+FSH secreting cells,
+when they tend
+
+00:47:19.830 --> 00:47:23.960
+to be in a GH
+neighborhood, are far more
+
+00:47:23.960 --> 00:47:25.920
+responsive to their
+signal than when
+
+00:47:25.920 --> 00:47:28.670
+they're in an ACTH
+neighborhood or one that's
+
+00:47:28.670 --> 00:47:30.580
+a hodgepodge of any of these.
+
+00:47:30.580 --> 00:47:32.080
+I don't know what the rules are.
+
+00:47:32.080 --> 00:47:34.620
+But what you've got
+there are increased
+
+00:47:34.620 --> 00:47:37.840
+ways for regulation of
+the amount of secretion
+
+00:47:37.840 --> 00:47:41.370
+by determining which way
+you, the hypothalamus,
+
+00:47:41.370 --> 00:47:42.680
+turf the signals.
+
+00:47:42.680 --> 00:47:44.560
+Are you aiming for these types?
+
+00:47:44.560 --> 00:47:46.400
+Or are you aiming
+for these types?
+
+00:47:46.400 --> 00:47:49.740
+More regulation that
+way-- how does that work?
+
+00:47:49.740 --> 00:47:54.070
+What it has to be is all sorts
+of communication going on
+
+00:47:54.070 --> 00:47:56.610
+amongst the various
+pituitary cells.
+
+00:47:56.610 --> 00:47:59.810
+So the pituitary is not
+just sitting there passively
+
+00:47:59.810 --> 00:48:02.580
+responding to whatever the
+hypothalamus is saying.
+
+00:48:02.580 --> 00:48:06.190
+Instead, there's all this local
+regulatory stuff happening.
+
+00:48:07.960 --> 00:48:11.570
+One additional thing
+that was asked-- so
+
+00:48:11.570 --> 00:48:14.020
+in this case, what
+we go back to is
+
+00:48:14.020 --> 00:48:17.630
+that business of the
+more glucocorticoids
+
+00:48:17.630 --> 00:48:23.780
+in the bloodstream in this
+boring, level-sensitive domain
+
+00:48:23.780 --> 00:48:26.140
+of you're just measuring
+how much of the stuff
+
+00:48:26.140 --> 00:48:28.160
+there is in the
+bloodstream, you're
+
+00:48:28.160 --> 00:48:30.790
+measuring there--
+some part of the brain
+
+00:48:30.790 --> 00:48:33.070
+is measuring the levels
+of glucocorticoids.
+
+00:48:33.070 --> 00:48:34.690
+And the part is actually known.
+
+00:48:34.690 --> 00:48:36.850
+It's measuring there,
+and it has its rule.
+
+00:48:36.850 --> 00:48:39.310
+Once glucocorticoid
+levels get this high,
+
+00:48:39.310 --> 00:48:44.360
+I will send an an inhibitory
+signal to those CRH neurons.
+
+00:48:44.360 --> 00:48:48.390
+And as a result, they'll
+secrete less CRH.
+
+00:48:48.390 --> 00:48:50.590
+And that turns off
+the stress response.
+
+00:48:50.590 --> 00:48:53.010
+The more glucocorticoids
+in the bloodstream,
+
+00:48:53.010 --> 00:48:54.940
+the more of a negative
+feedback signal.
+
+00:48:54.940 --> 00:48:58.980
+What the person brought up was
+the very astute observation
+
+00:48:58.980 --> 00:49:01.050
+that wait, what about
+all those other types
+
+00:49:01.050 --> 00:49:03.320
+up there-- oxytocin,
+vasopressin, epinephrine?
+
+00:49:03.320 --> 00:49:07.100
+What that means is
+there are sensors
+
+00:49:07.100 --> 00:49:10.110
+that are talking to each
+one of those types there.
+
+00:49:10.110 --> 00:49:11.830
+And the brain at
+any given point,
+
+00:49:11.830 --> 00:49:13.780
+depending on the
+stressor, is saying,
+
+00:49:13.780 --> 00:49:17.030
+well, we want this
+much CRH, and we
+
+00:49:17.030 --> 00:49:19.850
+want this much of vasopressin
+and this much oxytocin.
+
+00:49:19.850 --> 00:49:21.940
+And we're going to
+determine it all
+
+00:49:21.940 --> 00:49:25.890
+by measuring the level and the
+shape of glucocorticoid levels
+
+00:49:25.890 --> 00:49:28.670
+in the bloodstream, so that
+there's feedback going on--
+
+00:49:28.670 --> 00:49:32.200
+not just onto the CRH neurons,
+but to all those other types
+
+00:49:32.200 --> 00:49:36.810
+of neurons as well-- incredibly
+messy and complicated,
+
+00:49:36.810 --> 00:49:39.240
+nonetheless very elegant.
+
+00:49:39.240 --> 00:49:42.260
+Pushing on-- next
+version of complications.
+
+00:49:42.260 --> 00:49:44.830
+Now what we've got
+is another feature
+
+00:49:44.830 --> 00:49:47.290
+of how receptors go
+about their business.
+
+00:49:47.290 --> 00:49:50.740
+This general principle
+doesn't apply all the time.
+
+00:49:50.740 --> 00:49:55.000
+But in general, more of
+a ligand for a receptor.
+
+00:49:55.000 --> 00:49:57.610
+A ligand, for folks
+not familiar with this,
+
+00:49:57.610 --> 00:50:01.980
+a neurotransmitter is a
+ligand for a neurotransmitter
+
+00:50:01.980 --> 00:50:02.920
+receptor.
+
+00:50:02.920 --> 00:50:06.100
+A hormone is a ligand
+for a hormone receptor.
+
+00:50:06.100 --> 00:50:10.190
+The ligand is whatever the
+receptor normally binds.
+
+00:50:10.190 --> 00:50:13.060
+So this general-- not
+universal, but general-- rule
+
+00:50:13.060 --> 00:50:16.610
+of the higher the ligand
+levels, the more likely
+
+00:50:16.610 --> 00:50:20.070
+you are to trigger this
+compensatory down-regulation
+
+00:50:20.070 --> 00:50:21.800
+to lower the
+levels, all of that.
+
+00:50:21.800 --> 00:50:25.430
+Here's another level of
+regulation that can go on.
+
+00:50:25.430 --> 00:50:28.100
+So you've got these receptors.
+
+00:50:28.100 --> 00:50:31.140
+They are complicated,
+because their job
+
+00:50:31.140 --> 00:50:36.910
+is to bind their ligand and
+to then do something or other.
+
+00:50:36.910 --> 00:50:38.830
+And the cell, as
+a result, opens up
+
+00:50:38.830 --> 00:50:42.330
+some channel that allows
+a change in excitability
+
+00:50:42.330 --> 00:50:43.750
+in the neuron,
+that sort of thing.
+
+00:50:43.750 --> 00:50:46.610
+These receptors tend
+to be very complicated.
+
+00:50:46.610 --> 00:50:50.980
+And what you wind up seeing is,
+in lots of realms of receptors
+
+00:50:50.980 --> 00:50:53.930
+for different types of hormones,
+neurotransmitters, et cetera,
+
+00:50:53.930 --> 00:50:56.860
+you actually have
+the receptor made up
+
+00:50:56.860 --> 00:50:59.570
+of a number of
+different proteins,
+
+00:50:59.570 --> 00:51:02.510
+of a complex of proteins.
+
+00:51:02.510 --> 00:51:19.080
+So that for example, here
+we have a receptor that's
+
+00:51:19.080 --> 00:51:25.650
+binding a ligand that looks like
+that, just like your premolars.
+
+00:51:25.650 --> 00:51:27.920
+And what you have
+there is, it's got
+
+00:51:27.920 --> 00:51:30.460
+to come up with a complementary
+shape and lock and key,
+
+00:51:30.460 --> 00:51:31.680
+blah, blah, all of that.
+
+00:51:31.680 --> 00:51:34.690
+And in this particular
+case, this receptor complex
+
+00:51:34.690 --> 00:51:37.520
+is made up of three
+different proteins that
+
+00:51:37.520 --> 00:51:40.820
+are needed to pull this off--
+three different proteins, three
+
+00:51:40.820 --> 00:51:43.150
+different genes--
+a receptor being
+
+00:51:43.150 --> 00:51:45.810
+coded for by multiple genes.
+
+00:51:45.810 --> 00:51:49.120
+When you get the more
+fancy, complicated receptors
+
+00:51:49.120 --> 00:51:54.270
+they tend to be complexes of
+more than one protein forming
+
+00:51:54.270 --> 00:51:56.130
+this pattern.
+
+00:51:56.130 --> 00:51:58.830
+So you've got multiple genes.
+
+00:51:58.830 --> 00:51:59.762
+That's interesting.
+
+00:51:59.762 --> 00:52:01.720
+And of course, we're off
+and running with that.
+
+00:52:01.720 --> 00:52:03.850
+What that means,
+then, is you've got
+
+00:52:03.850 --> 00:52:06.840
+the potential for
+variation, different flavors
+
+00:52:06.840 --> 00:52:09.370
+of the different genes,
+more different ways
+
+00:52:09.370 --> 00:52:10.740
+that this could appear.
+
+00:52:10.740 --> 00:52:13.720
+There's two different
+variants on this gene.
+
+00:52:13.720 --> 00:52:15.830
+There's 17 on this one.
+
+00:52:15.830 --> 00:52:18.320
+And you just do the
+combinatorial stuff.
+
+00:52:18.320 --> 00:52:20.680
+And thus, you've
+got a huge number
+
+00:52:20.680 --> 00:52:24.600
+of ways of generating different
+versions of that same receptor,
+
+00:52:24.600 --> 00:52:27.800
+which, of course, will work a
+little bit better, or a little
+
+00:52:27.800 --> 00:52:32.130
+slower, or a little whatever--
+variation like that.
+
+00:52:32.130 --> 00:52:35.180
+Next complexity that
+you get with receptors--
+
+00:52:35.180 --> 00:52:37.570
+you can have a
+receptor that's made up
+
+00:52:37.570 --> 00:52:39.570
+of three different proteins.
+
+00:52:39.570 --> 00:52:43.040
+And there's four
+different genes that
+
+00:52:43.040 --> 00:52:46.880
+make proteins that
+can help construct
+
+00:52:46.880 --> 00:52:48.560
+one of these receptors.
+
+00:52:48.560 --> 00:52:54.520
+So you can make a receptor out
+of proteins 1, 2, 3, or 1, 2,
+
+00:52:54.520 --> 00:52:57.640
+4, or 1, 3, 4, or
+off you go with that.
+
+00:52:57.640 --> 00:53:01.370
+Or you can make a receptor out
+of three copies of number one,
+
+00:53:01.370 --> 00:53:05.080
+or two copies of number two
+and one copy of number four.
+
+00:53:05.080 --> 00:53:09.940
+There's these possibilities of
+all these different subunits
+
+00:53:09.940 --> 00:53:13.660
+being different--
+variability that way.
+
+00:53:13.660 --> 00:53:16.450
+So another realm
+of regulation is
+
+00:53:16.450 --> 00:53:22.820
+when cells change the
+subunits on their receptors,
+
+00:53:22.820 --> 00:53:27.570
+when cells will cause,
+say, degradation of-- OK,
+
+00:53:27.570 --> 00:53:35.650
+so here we've got this
+three-protein receptor complex.
+
+00:53:35.650 --> 00:53:37.250
+And there's four
+different proteins
+
+00:53:37.250 --> 00:53:38.950
+that potentially plug into it.
+
+00:53:38.950 --> 00:53:41.920
+And this version has one
+copy of A, one copy of B,
+
+00:53:41.920 --> 00:53:44.920
+and one copy of C.
+Something may happen
+
+00:53:44.920 --> 00:53:49.720
+which will cause the neuron
+to degrade the copies of B
+
+00:53:49.720 --> 00:53:53.390
+and replace it with
+D, or replace it
+
+00:53:53.390 --> 00:53:57.670
+with another copy of A, replace
+all this combinatorial stuff,
+
+00:53:57.670 --> 00:54:01.390
+and thus change a little
+bit how well the receptor is
+
+00:54:01.390 --> 00:54:02.720
+doing its job.
+
+00:54:02.720 --> 00:54:06.470
+And you see these subunit
+changes all over the place.
+
+00:54:06.470 --> 00:54:10.250
+One domain, in terms of the
+neurobiology neurotransmitter
+
+00:54:10.250 --> 00:54:13.730
+stuff-- aspects of
+glutamate receptors--
+
+00:54:13.730 --> 00:54:16.750
+you guys heard something about
+that the other day-- glutamate
+
+00:54:16.750 --> 00:54:18.610
+receptor's essential
+for learning,
+
+00:54:18.610 --> 00:54:21.940
+very complicated receptors,
+insanely complicated.
+
+00:54:21.940 --> 00:54:24.530
+Part of what learning
+appears to be about
+
+00:54:24.530 --> 00:54:27.400
+is not only
+increasing the number
+
+00:54:27.400 --> 00:54:31.250
+of copies of a certain
+type of glutamate receptor,
+
+00:54:31.250 --> 00:54:34.240
+but changing the
+subunit composition,
+
+00:54:34.240 --> 00:54:37.990
+and making for a more
+responsive, more excitable
+
+00:54:37.990 --> 00:54:41.010
+version of that receptor.
+
+00:54:41.010 --> 00:54:43.930
+There's other realms with a
+different type of receptor
+
+00:54:43.930 --> 00:54:47.180
+where, in fact, you've got
+an abnormal subunit that's
+
+00:54:47.180 --> 00:54:48.550
+not supposed to be there.
+
+00:54:48.550 --> 00:54:50.550
+And as a result,
+this now produces
+
+00:54:50.550 --> 00:54:54.360
+a cell that is prone
+towards insanely high levels
+
+00:54:54.360 --> 00:54:55.600
+of excitation.
+
+00:54:55.600 --> 00:54:58.850
+This is a congenital reason
+for causing epilepsy.
+
+00:54:58.850 --> 00:55:02.180
+This is one of the genetic
+forms of epilepsy, where you've
+
+00:55:02.180 --> 00:55:07.210
+got the wrong subunit winding
+up in another neurotransmitter
+
+00:55:07.210 --> 00:55:08.190
+and its receptor.
+
+00:55:08.190 --> 00:55:12.760
+All we're seeing here is lots
+of room for more regulation
+
+00:55:12.760 --> 00:55:16.880
+here, mixing and matching,
+changing the subunit stuff.
+
+00:55:16.880 --> 00:55:20.540
+That's how you begin to do
+that critical principle.
+
+00:55:20.540 --> 00:55:23.840
+Remember, all the stuff
+from the basic functioning,
+
+00:55:23.840 --> 00:55:25.890
+the flow of information
+from the dendrites
+
+00:55:25.890 --> 00:55:28.460
+to the axon hillock--
+what's that all about?
+
+00:55:28.460 --> 00:55:31.950
+No single dendritic input is
+enough to trigger an action
+
+00:55:31.950 --> 00:55:32.470
+potential.
+
+00:55:32.470 --> 00:55:35.180
+Instead, you have to have enough
+of them, enough summation,
+
+00:55:35.180 --> 00:55:39.680
+to reach the threshold that the
+axon hillock has to initiate
+
+00:55:39.680 --> 00:55:41.040
+the action potential.
+
+00:55:41.040 --> 00:55:44.090
+And the threshold
+could change over time.
+
+00:55:44.090 --> 00:55:45.610
+Translate that into this.
+
+00:55:45.610 --> 00:55:49.970
+What does it mean when an axon
+hillock's threshold is changed?
+
+00:55:49.970 --> 00:55:53.160
+Those critical first channels
+that open up-- you've
+
+00:55:53.160 --> 00:55:55.690
+changed the subunit composition.
+
+00:55:55.690 --> 00:55:58.310
+So that is a theme all
+throughout this world
+
+00:55:58.310 --> 00:56:02.540
+of receptorology and channels
+that open and close and stuff,
+
+00:56:02.540 --> 00:56:06.720
+where cells can change which
+are the pieces that make it up,
+
+00:56:06.720 --> 00:56:09.610
+and change the
+properties subtly.
+
+00:56:09.610 --> 00:56:13.260
+Similar theme that could
+come through with hormone
+
+00:56:13.260 --> 00:56:15.000
+receptors-- same exact deal.
+
+00:56:15.000 --> 00:56:18.350
+A whole bunch of them are
+multi-protein complexes--
+
+00:56:18.350 --> 00:56:20.330
+exact same story.
+
+00:56:20.330 --> 00:56:23.060
+You can see something a
+little different when you
+
+00:56:23.060 --> 00:56:25.147
+have steroid hormone receptors.
+
+00:56:28.360 --> 00:56:30.650
+And as we saw the
+other week, remember,
+
+00:56:30.650 --> 00:56:34.910
+it's got two domains-- one
+which binds the hormone--
+
+00:56:34.910 --> 00:56:38.110
+glucocorticoid, just to pick
+a random steroid or estrogen,
+
+00:56:38.110 --> 00:56:42.850
+progesterone, or whatever-- and
+one that binds to the promoter
+
+00:56:42.850 --> 00:56:44.230
+element in the DNA.
+
+00:56:44.230 --> 00:56:46.020
+We've got our if/then clause.
+
+00:56:46.020 --> 00:56:49.460
+If and only if this
+steroid hormone shows up,
+
+00:56:49.460 --> 00:56:52.890
+then you go and you
+activate that gene--
+
+00:56:52.890 --> 00:56:54.030
+our conditional clause.
+
+00:56:54.030 --> 00:56:55.940
+But what turns
+out to be the case
+
+00:56:55.940 --> 00:57:00.640
+is all sorts of steroid
+hormone receptors
+
+00:57:00.640 --> 00:57:04.680
+have various other proteins
+that they bind there.
+
+00:57:04.680 --> 00:57:07.660
+Co-factors is the
+term given for it.
+
+00:57:07.660 --> 00:57:12.610
+And you get different arrays
+of co-factors in different cell
+
+00:57:12.610 --> 00:57:13.510
+types.
+
+00:57:13.510 --> 00:57:16.630
+And as a result, when
+you activate this,
+
+00:57:16.630 --> 00:57:19.470
+it will do different things
+in different cell types--
+
+00:57:19.470 --> 00:57:21.690
+cell-type specific coding.
+
+00:57:21.690 --> 00:57:24.310
+And of course, the
+exact same theme
+
+00:57:24.310 --> 00:57:27.190
+here-- under some
+circumstances, cells
+
+00:57:27.190 --> 00:57:30.110
+will change which
+cofactors they have
+
+00:57:30.110 --> 00:57:32.150
+holding onto those receptors.
+
+00:57:32.150 --> 00:57:35.380
+So what we see here are
+these additional layers
+
+00:57:35.380 --> 00:57:38.350
+of potential regulation.
+
+00:57:38.350 --> 00:57:42.410
+More complexities--
+next one-- now
+
+00:57:42.410 --> 00:57:45.260
+we've hurdled past the
+notion of only one type
+
+00:57:45.260 --> 00:57:47.190
+of neurotransmitter per neuron.
+
+00:57:47.190 --> 00:57:50.530
+We have hurdled past the
+notion of the same action
+
+00:57:50.530 --> 00:57:53.970
+potential will be manifest in
+every single axon terminal.
+
+00:57:53.970 --> 00:57:57.160
+Now we see all sorts of
+additional information built
+
+00:57:57.160 --> 00:58:00.190
+around changing the
+number of receptors,
+
+00:58:00.190 --> 00:58:04.130
+changing the composition of
+them, regulating those ways.
+
+00:58:04.130 --> 00:58:07.300
+One additional complication
+here with these receptors,
+
+00:58:07.300 --> 00:58:11.910
+which is a lot of them can
+bind more than one thing,
+
+00:58:11.910 --> 00:58:14.860
+can bind more than one ligand.
+
+00:58:14.860 --> 00:58:18.930
+And we see an amazing example
+of this at the neurotransmitter
+
+00:58:18.930 --> 00:58:20.930
+end of the world.
+
+00:58:20.930 --> 00:58:23.410
+You guys heard about the
+neurotransmitter GABA.
+
+00:58:23.410 --> 00:58:28.660
+GABA is the main inhibitory
+neurotransmitter in the brain.
+
+00:58:28.660 --> 00:58:30.740
+It is the workhorse
+for doing that.
+
+00:58:30.740 --> 00:58:35.400
+The GABA receptor-- no
+surprise-- binds GABA.
+
+00:58:35.400 --> 00:58:37.210
+Its ligand is GABA.
+
+00:58:37.210 --> 00:58:39.710
+It is found on the
+dendritic spines
+
+00:58:39.710 --> 00:58:42.920
+of GABA-responsive neurons.
+
+00:58:42.920 --> 00:58:44.720
+And the neurons
+just upstream of it
+
+00:58:44.720 --> 00:58:48.560
+will release GABA in response
+to its action potential,
+
+00:58:48.560 --> 00:58:50.020
+and just goes about its thing.
+
+00:58:50.020 --> 00:58:51.920
+So what does the
+GABA receptor do?
+
+00:58:51.920 --> 00:58:53.050
+It binds GABA.
+
+00:58:53.050 --> 00:58:55.230
+And when it binds GABA,
+something or other
+
+00:58:55.230 --> 00:58:59.590
+happens so that this neuron
+becomes less excitable.
+
+00:58:59.590 --> 00:59:02.140
+It's an inhibitory
+neurotransmitter.
+
+00:59:02.140 --> 00:59:06.550
+It turns out the GABA receptor
+is insanely complicated.
+
+00:59:06.550 --> 00:59:09.180
+It is, instead, a
+receptor complex
+
+00:59:09.180 --> 00:59:11.110
+of a whole bunch of
+different proteins.
+
+00:59:11.110 --> 00:59:13.530
+And what the GABA
+receptor does is
+
+00:59:13.530 --> 00:59:16.450
+it binds some other
+things as well--
+
+00:59:16.450 --> 00:59:20.100
+three different classes, all
+of which are very interesting.
+
+00:59:20.100 --> 00:59:23.570
+The first class of additional
+things that it binds
+
+00:59:23.570 --> 00:59:27.980
+are things called
+major tranquilizers.
+
+00:59:27.980 --> 00:59:30.510
+What does the GABA complex bind?
+
+00:59:30.510 --> 00:59:36.870
+And here we have
+our GABA receptor.
+
+00:59:36.870 --> 00:59:38.550
+And GABA fits right in there.
+
+00:59:38.550 --> 00:59:40.960
+And it turns out the
+GABA receptor also
+
+00:59:40.960 --> 00:59:45.810
+has another binding site
+here for major tranquilizers.
+
+00:59:45.810 --> 00:59:47.650
+What are major tranquilizers?
+
+00:59:47.650 --> 00:59:52.970
+Barbiturates-- this is how
+barbiturates work in the brain.
+
+00:59:52.970 --> 00:59:55.400
+There are not
+barbiturate receptors.
+
+00:59:55.400 --> 00:59:57.860
+They bind to the GABA receptor.
+
+00:59:57.860 --> 01:00:00.310
+There is a side complex on it.
+
+01:00:00.310 --> 01:00:03.470
+There is a minor binding
+site on the GABA receptor
+
+01:00:03.470 --> 01:00:05.470
+for barbiturates.
+
+01:00:05.470 --> 01:00:09.860
+OK, so GABA, inhibitory
+neurotransmitter-- when
+
+01:00:09.860 --> 01:00:13.240
+barbiturates are around, does
+that increase or decrease
+
+01:00:13.240 --> 01:00:14.000
+GABA signaling?
+
+01:00:17.260 --> 01:00:20.620
+OK, who says increase?
+
+01:00:20.620 --> 01:00:23.170
+Who says decrease?
+
+01:00:23.170 --> 01:00:24.910
+Who says, what?
+
+01:00:24.910 --> 01:00:27.030
+OK, me, too.
+
+01:00:27.030 --> 01:00:30.250
+I wasn't listening either.
+
+01:00:30.250 --> 01:00:32.130
+I'll tell you, lurking
+around in the back
+
+01:00:32.130 --> 01:00:34.360
+during those TA's
+lectures, you really
+
+01:00:34.360 --> 01:00:37.050
+do get a sense of what
+interesting, non-academic
+
+01:00:37.050 --> 01:00:39.790
+things are going on
+people's computer screens.
+
+01:00:39.790 --> 01:00:43.050
+But I digress.
+
+01:00:43.050 --> 01:00:48.080
+So what barbiturates do is they
+make GABA more inhibitory--
+
+01:00:48.080 --> 01:00:50.150
+inhibitory enough
+that you keel over.
+
+01:00:50.150 --> 01:00:52.610
+And now they can slice
+you open for surgery.
+
+01:00:52.610 --> 01:00:55.640
+This is how one of the main
+classes of surgical anesthetics
+
+01:00:55.640 --> 01:00:56.570
+work.
+
+01:00:56.570 --> 01:00:59.380
+Then there is
+another binding site
+
+01:00:59.380 --> 01:01:01.380
+on the GABA receptor complex.
+
+01:01:01.380 --> 01:01:05.420
+And what that does is it
+binds the minor tranquilizers.
+
+01:01:05.420 --> 01:01:06.380
+And what are those?
+
+01:01:06.380 --> 01:01:08.910
+We've heard about those
+a bunch of times already.
+
+01:01:08.910 --> 01:01:13.680
+Those are the benzodiazepine,
+the valium, and the librium.
+
+01:01:13.680 --> 01:01:15.560
+And they work there as well.
+
+01:01:15.560 --> 01:01:17.490
+And we've already
+heard about how
+
+01:01:17.490 --> 01:01:20.420
+anxiety disorders
+in some rodent lines
+
+01:01:20.420 --> 01:01:22.130
+are related to
+different versions
+
+01:01:22.130 --> 01:01:25.130
+of the gene for the
+benzodiazepine receptor.
+
+01:01:25.130 --> 01:01:27.360
+We've just defined
+what that gene is.
+
+01:01:27.360 --> 01:01:31.470
+That gene codes for one of the
+subunits of this massive GABA
+
+01:01:31.470 --> 01:01:32.440
+complex.
+
+01:01:32.440 --> 01:01:36.270
+So there's another domain there
+that binds benzodiazepines--
+
+01:01:36.270 --> 01:01:37.890
+the minor tranquilizers.
+
+01:01:37.890 --> 01:01:39.670
+What do they do?
+
+01:01:39.670 --> 01:01:42.700
+They increase the force
+of GABA signaling as well?
+
+01:01:42.700 --> 01:01:45.550
+Do they do it as much as
+the major tranquilizers?
+
+01:01:45.550 --> 01:01:47.830
+Of course it's not the case,
+because you wouldn't call
+
+01:01:47.830 --> 01:01:49.620
+them minor tranquilizers then.
+
+01:01:49.620 --> 01:01:53.880
+These guys potentiate GABA
+signaling a moderate amount.
+
+01:01:53.880 --> 01:01:57.200
+These guys potentiate
+it enormously.
+
+01:01:57.200 --> 01:02:01.940
+So now we have these additional
+factors binding to these GABA
+
+01:02:01.940 --> 01:02:02.840
+receptors.
+
+01:02:02.840 --> 01:02:05.640
+A third class-- and
+this is, in lots of ways
+
+01:02:05.640 --> 01:02:07.620
+the most interesting
+one of all, which
+
+01:02:07.620 --> 01:02:10.060
+is an additional
+binding site there.
+
+01:02:10.060 --> 01:02:14.940
+That responds to a hormone
+or a derivative of a hormone.
+
+01:02:14.940 --> 01:02:16.540
+What is it responding to?
+
+01:02:16.540 --> 01:02:19.780
+Derivatives of progesterone.
+
+01:02:19.780 --> 01:02:25.820
+Progesterone has a binding
+site on the GABA receptor.
+
+01:02:25.820 --> 01:02:28.100
+Progesterone is a
+steroid hormone.
+
+01:02:28.100 --> 01:02:30.110
+It's normally doing
+its thing here.
+
+01:02:30.110 --> 01:02:34.820
+And now we have, instead, having
+a minor slot there on the side
+
+01:02:34.820 --> 01:02:36.950
+there that responds
+to progesterone.
+
+01:02:36.950 --> 01:02:39.160
+What does progesterone do?
+
+01:02:39.160 --> 01:02:42.690
+It also potentiates
+the effects of GABA.
+
+01:02:42.690 --> 01:02:44.820
+What's that about?
+
+01:02:44.820 --> 01:02:48.470
+Two implications--
+one is, in the 1950s,
+
+01:02:48.470 --> 01:02:51.470
+one of the most common
+surgical anesthetics used
+
+01:02:51.470 --> 01:02:54.090
+was a drug called
+Althesin, and it was
+
+01:02:54.090 --> 01:02:56.500
+a derivative of progesterone.
+
+01:02:56.500 --> 01:02:59.090
+People in the '50s
+would be anesthetized
+
+01:02:59.090 --> 01:03:02.230
+with this supposedly
+reproductive steroid hormone,
+
+01:03:02.230 --> 01:03:06.610
+because it has this effect
+on the then undiscovered GABA
+
+01:03:06.610 --> 01:03:07.510
+receptor.
+
+01:03:07.510 --> 01:03:11.140
+It potentiates inhibitory
+GABA signaling.
+
+01:03:11.140 --> 01:03:12.860
+That's weird.
+
+01:03:12.860 --> 01:03:16.100
+So progesterone--
+clearly, this relationship
+
+01:03:16.100 --> 01:03:18.360
+did not evolve so that
+people could do surgery
+
+01:03:18.360 --> 01:03:21.030
+on people who didn't want
+to get major tranquilizers,
+
+01:03:21.030 --> 01:03:23.180
+and instead deal with
+the progesterone route.
+
+01:03:23.180 --> 01:03:24.940
+Where is this relevant?
+
+01:03:24.940 --> 01:03:29.540
+It seems to have something to
+do with some of the mood shifts
+
+01:03:29.540 --> 01:03:32.010
+over the course of the
+reproductive cycle.
+
+01:03:32.010 --> 01:03:34.380
+There are reasons, and
+pretty good evidence
+
+01:03:34.380 --> 01:03:37.680
+in lots of domains, where
+perimenstrual syndrome--
+
+01:03:37.680 --> 01:03:39.670
+pre-menstrual
+syndrome, PMS-- which
+
+01:03:39.670 --> 01:03:41.850
+is more accurately
+called perimenstrual--
+
+01:03:41.850 --> 01:03:43.190
+both before and after.
+
+01:03:43.190 --> 01:03:46.120
+What that involves,
+clearly in some women,
+
+01:03:46.120 --> 01:03:49.350
+is a shortage of
+progesterone having
+
+01:03:49.350 --> 01:03:53.610
+some of these minor
+tranquilizing effects
+
+01:03:53.610 --> 01:03:56.640
+by way of the GABA
+receptor complex.
+
+01:03:56.640 --> 01:03:59.760
+So this is incredibly
+complicated stuff
+
+01:03:59.760 --> 01:04:03.020
+going on here, as you can see.
+
+01:04:03.020 --> 01:04:06.510
+Final domain-- final
+interesting elaboration,
+
+01:04:06.510 --> 01:04:10.730
+which is now bringing in a
+whole additional concept--
+
+01:04:10.730 --> 01:04:13.840
+and deserves a board
+all of its own.
+
+01:04:19.030 --> 01:04:22.860
+So here we have
+circular neurons.
+
+01:04:22.860 --> 01:04:26.040
+And what we've got is, this is
+the neuron we're interested in.
+
+01:04:26.040 --> 01:04:27.260
+What's it up to?
+
+01:04:27.260 --> 01:04:30.750
+And this is neuron
+A. And just to force
+
+01:04:30.750 --> 01:04:33.060
+some cognitive flexibility,
+this is neuron B,
+
+01:04:33.060 --> 01:04:34.460
+going in the wrong direction.
+
+01:04:34.460 --> 01:04:39.690
+So we've got neuron B releases
+an excitatory neurotransmitter,
+
+01:04:39.690 --> 01:04:43.990
+and thus, excites A. OK,
+this is not earth shattering.
+
+01:04:43.990 --> 01:04:47.440
+It's probably releasing,
+say, glutamate for example.
+
+01:04:47.440 --> 01:04:51.090
+So remember GABA-- that
+inhibitory neurotransmitter
+
+01:04:51.090 --> 01:04:52.340
+we just heard about.
+
+01:04:52.340 --> 01:04:55.610
+So GABA does inhibitory stuff.
+
+01:04:55.610 --> 01:04:59.030
+So maybe there is a GABA neuron
+here sending its projection,
+
+01:04:59.030 --> 01:05:00.590
+and this one is inhibitory.
+
+01:05:00.590 --> 01:05:03.170
+Notice what we've done by
+turning neurons into spheres.
+
+01:05:03.170 --> 01:05:05.580
+We've lost all the
+little dendritic spines.
+
+01:05:05.580 --> 01:05:09.390
+So translate that into back to
+what it actually looks like.
+
+01:05:09.390 --> 01:05:10.870
+This is just schematic.
+
+01:05:10.870 --> 01:05:12.510
+So we've got two inputs.
+
+01:05:12.510 --> 01:05:15.900
+We've got an excitatory
+input by way of glutamate.
+
+01:05:15.900 --> 01:05:18.020
+We have an inhibitory
+one with GABA.
+
+01:05:18.020 --> 01:05:19.260
+What does that imply?
+
+01:05:19.260 --> 01:05:23.240
+Dendritic spines in this
+neuron contain both receptors
+
+01:05:23.240 --> 01:05:25.680
+for glutamate and
+receptors for GABA.
+
+01:05:25.680 --> 01:05:27.620
+That would be straightforward.
+
+01:05:27.620 --> 01:05:30.430
+That would be simple,
+if that's how it works.
+
+01:05:30.430 --> 01:05:32.200
+That's not what you see.
+
+01:05:32.200 --> 01:05:37.120
+Instead, GABA neurons
+never send a projection
+
+01:05:37.120 --> 01:05:39.730
+onto what would
+be neuron A. What
+
+01:05:39.730 --> 01:05:47.060
+they do is they send a
+projection onto neuron B.
+
+01:05:47.060 --> 01:05:49.650
+What's that about?
+
+01:05:49.650 --> 01:05:53.000
+What's that about is
+what GABA is doing
+
+01:05:53.000 --> 01:05:56.770
+is making this neuron
+less excitable.
+
+01:05:56.770 --> 01:05:59.270
+It's working as an
+inhibitory neurotransmitter.
+
+01:05:59.270 --> 01:06:01.500
+It's making this
+neuron less excitable.
+
+01:06:01.500 --> 01:06:03.980
+What's happening
+here-- this neuron
+
+01:06:03.980 --> 01:06:06.680
+has just started
+an action potential
+
+01:06:06.680 --> 01:06:08.800
+that's coming down the axon.
+
+01:06:08.800 --> 01:06:11.990
+And thanks to a heavy
+GABA signal coming out,
+
+01:06:11.990 --> 01:06:13.760
+it silences it.
+
+01:06:13.760 --> 01:06:17.970
+It never gets to the end, and
+dumps the neurotransmitter.
+
+01:06:17.970 --> 01:06:20.140
+This is totally weird.
+
+01:06:20.140 --> 01:06:22.730
+This is completely different
+from all the wiring
+
+01:06:22.730 --> 01:06:23.800
+you've seen already.
+
+01:06:23.800 --> 01:06:25.450
+What's bizarre about it?
+
+01:06:25.450 --> 01:06:28.930
+Number one, this is a
+neuron forming synapses
+
+01:06:28.930 --> 01:06:31.420
+not on the dendrites
+of this neuron.
+
+01:06:31.420 --> 01:06:34.490
+It's forming a synapse
+on the axon of this.
+
+01:06:34.490 --> 01:06:39.680
+And thus, we have what is
+termed an axoaxonic synapse.
+
+01:06:39.680 --> 01:06:41.970
+What does that also imply?
+
+01:06:41.970 --> 01:06:47.680
+That there have to be GABA
+receptors sitting there
+
+01:06:47.680 --> 01:06:49.670
+at the pre-synaptic
+end-- just as
+
+01:06:49.670 --> 01:06:52.530
+bizarre as the
+pre-synaptic autoreceptors.
+
+01:06:52.530 --> 01:06:54.580
+Remember, those are for
+measuring the amount
+
+01:06:54.580 --> 01:06:56.240
+of release-- bookkeeping stuff.
+
+01:06:56.240 --> 01:06:58.820
+But here, this is
+perfectly conventional
+
+01:06:58.820 --> 01:07:01.010
+neuronal responding
+to a neurotransmitter,
+
+01:07:01.010 --> 01:07:03.970
+but coming at the
+completely wrong end
+
+01:07:03.970 --> 01:07:07.910
+with this weird
+axoaxonic projection.
+
+01:07:07.910 --> 01:07:12.020
+But what's most important here
+is seeing this implication.
+
+01:07:12.020 --> 01:07:15.820
+So what is it that
+this neuron does to A?
+
+01:07:15.820 --> 01:07:20.525
+What does this GABA neuron
+do to the excitability of A?
+
+01:07:20.525 --> 01:07:24.310
+And the answer is,
+it does nothing.
+
+01:07:24.310 --> 01:07:28.120
+It has no effect on
+the excitability of A.
+
+01:07:28.120 --> 01:07:33.790
+What this GABA neuron does is
+alter the ability of neuron B
+
+01:07:33.790 --> 01:07:37.850
+to do something
+to A. This neuron
+
+01:07:37.850 --> 01:07:40.030
+has no direct effect here.
+
+01:07:40.030 --> 01:07:45.950
+What it does is it modulates
+the activity of this neuron.
+
+01:07:45.950 --> 01:07:49.880
+And thus, you have a whole new
+class of type of communication.
+
+01:07:49.880 --> 01:07:52.920
+Technically, rather than
+working as a neurotransmitter,
+
+01:07:52.920 --> 01:07:54.960
+it would be termed
+GABA typically
+
+01:07:54.960 --> 01:08:00.150
+serves a neuromodulatory
+role in the nervous system.
+
+01:08:00.150 --> 01:08:03.060
+And that's this wonderful
+conditional clause
+
+01:08:03.060 --> 01:08:05.920
+yet again-- yet
+another if/then clause.
+
+01:08:05.920 --> 01:08:09.930
+GABA decreases
+excitability if and only
+
+01:08:09.930 --> 01:08:14.650
+if this neuron is trying to
+send an excitatory signal.
+
+01:08:14.650 --> 01:08:18.910
+All that GABA does is snuff
+out an excitatory signal
+
+01:08:18.910 --> 01:08:22.810
+coming down here-- so
+modulation in that regard.
+
+01:08:22.810 --> 01:08:26.590
+We've already seen another
+example of that writ small.
+
+01:08:26.590 --> 01:08:29.210
+Back to the GABA complex here.
+
+01:08:29.210 --> 01:08:34.000
+What do the major
+tranquilizers do there?
+
+01:08:34.000 --> 01:08:35.810
+What do barbiturates do?
+
+01:08:35.810 --> 01:08:41.160
+They do not make this
+neuron less excitable.
+
+01:08:41.160 --> 01:08:47.370
+What they do is, if and only
+if there is GABA coming in,
+
+01:08:47.370 --> 01:08:50.000
+it makes the GABA
+work even better.
+
+01:08:50.000 --> 01:08:54.189
+The tranquilizers do
+not inhibit the neuron.
+
+01:08:54.189 --> 01:08:57.520
+The tranquilizers
+modulate, potentiate,
+
+01:08:57.520 --> 01:08:59.899
+the activity of GABA.
+
+01:08:59.899 --> 01:09:02.620
+The minor tranquilizers the
+same thing, the progesterone
+
+01:09:02.620 --> 01:09:03.510
+the same thing.
+
+01:09:03.510 --> 01:09:05.930
+So this is a different
+level of this concept
+
+01:09:05.930 --> 01:09:09.350
+of neuromodulation--
+if/then clauses
+
+01:09:09.350 --> 01:09:11.210
+all over the place here.
+
+01:09:11.210 --> 01:09:14.979
+So if and only if GABA
+is doing its thing,
+
+01:09:14.979 --> 01:09:18.580
+any of these minor ligands
+will potentiate it.
+
+01:09:18.580 --> 01:09:23.500
+If and only if this neuron
+is trying to stimulate here,
+
+01:09:23.500 --> 01:09:27.550
+GABA will have an inhibitory
+effect on the whole system.
+
+01:09:27.550 --> 01:09:31.450
+So you see lots and lots
+of this modulatory stuff.
+
+01:09:31.450 --> 01:09:35.430
+Final example, seeing the
+same principle of modulation,
+
+01:09:35.430 --> 01:09:37.159
+now occurring in an
+endocrine system.
+
+01:09:58.570 --> 01:10:02.380
+OK, so now we're measuring
+the amount of ACTH coming out
+
+01:10:02.380 --> 01:10:05.090
+of the pituitary,
+and back to that deal
+
+01:10:05.090 --> 01:10:07.010
+that we've got all
+these different ways
+
+01:10:07.010 --> 01:10:10.560
+in which the brain can
+cause the release of ACTH.
+
+01:10:10.560 --> 01:10:13.390
+And starting off, we saw CRH.
+
+01:10:13.390 --> 01:10:17.920
+So suppose you throw in some
+CRH on top of the pituitary
+
+01:10:17.920 --> 01:10:19.814
+there, inject it
+into the circulation.
+
+01:10:19.814 --> 01:10:23.220
+And this much ACTH comes out.
+
+01:10:23.220 --> 01:10:25.220
+OK, that's good.
+
+01:10:25.220 --> 01:10:29.670
+Now, instead of putting on
+CRH, you put in both CRH
+
+01:10:29.670 --> 01:10:32.560
+and vasopressin-- a
+second one of those.
+
+01:10:32.560 --> 01:10:34.380
+And what do you see?
+
+01:10:34.380 --> 01:10:36.380
+That's perfectly logical.
+
+01:10:36.380 --> 01:10:40.220
+You've got two things
+driving ACTH secretion.
+
+01:10:40.220 --> 01:10:44.180
+Now you put on vasopressin
+just by itself.
+
+01:10:44.180 --> 01:10:47.730
+And what you get is this.
+
+01:10:47.730 --> 01:10:51.100
+You get no secretion.
+
+01:10:51.100 --> 01:10:55.780
+Does vasopressin stimulate
+the release of ACTH?
+
+01:10:55.780 --> 01:10:57.010
+No, it doesn't.
+
+01:10:57.010 --> 01:11:00.310
+What vasopressin does
+is it potentiates
+
+01:11:00.310 --> 01:11:02.690
+the activity of CRH.
+
+01:11:02.690 --> 01:11:06.230
+It modulates CRH's activity.
+
+01:11:06.230 --> 01:11:08.990
+Vasopressin does
+nothing by itself.
+
+01:11:08.990 --> 01:11:12.810
+If and only if
+there is CRH getting
+
+01:11:12.810 --> 01:11:15.910
+to those pituitary
+cells, then vasopressin
+
+01:11:15.910 --> 01:11:17.950
+will potentiate its actions.
+
+01:11:17.950 --> 01:11:20.940
+All of those other
+releasors-- the vasopressin,
+
+01:11:20.940 --> 01:11:24.240
+the oxytocin, epinephrine,
+norepinephrine-- none of them
+
+01:11:24.240 --> 01:11:26.640
+are direct releasors
+on their own.
+
+01:11:26.640 --> 01:11:31.490
+They all are modulating,
+potentiating CRH's effects.
+
+01:11:31.490 --> 01:11:34.370
+So what we've got here
+is this enormous realm
+
+01:11:34.370 --> 01:11:37.050
+of complexity of
+all of these if/then
+
+01:11:37.050 --> 01:11:40.720
+clauses, various hormones
+that are not directly
+
+01:11:40.720 --> 01:11:43.630
+causing anything,
+neurotransmitters that are not
+
+01:11:43.630 --> 01:11:46.870
+directly causing anything,
+ligands for receptors
+
+01:11:46.870 --> 01:11:48.090
+that are not, either.
+
+01:11:48.090 --> 01:11:50.480
+What they're all
+doing is, if and only
+
+01:11:50.480 --> 01:11:54.584
+if something else is happening,
+something else is going on,
+
+01:11:54.584 --> 01:11:56.000
+there's an additional
+ligand, they
+
+01:11:56.000 --> 01:11:59.830
+do their thing-- lots and lots
+of these conditional clauses.
+
+01:11:59.830 --> 01:12:01.420
+More complexity there.
+
+01:12:01.420 --> 01:12:04.970
+OK, so what does all of
+this get us here at the end?
+
+01:12:04.970 --> 01:12:08.610
+Obvious-- lots of
+individual variability,
+
+01:12:08.610 --> 01:12:11.370
+lots of ways in which
+these systems are changing
+
+01:12:11.370 --> 01:12:15.790
+in response to experience, all
+that subunit changing business.
+
+01:12:15.790 --> 01:12:19.400
+Something happens and you
+get rid of one subunit.
+
+01:12:19.400 --> 01:12:21.230
+Replace it with another,
+and you've changed
+
+01:12:21.230 --> 01:12:23.240
+the excitability of the system.
+
+01:12:23.240 --> 01:12:27.380
+All sorts of over and over
+conditional if/then clauses,
+
+01:12:27.380 --> 01:12:30.110
+tremendous increase
+in the complexity.
+
+01:12:30.110 --> 01:12:32.770
+These themes will come
+through again and again
+
+01:12:32.770 --> 01:12:35.030
+in the second half
+of the course.
+
+01:12:35.030 --> 01:12:36.630
+So let's stop at this point.
+
+01:12:36.630 --> 01:12:39.270
+Are there any questions, since
+this was a major download?
+
+01:12:39.270 --> 01:12:40.620
+Check the extended notes.
+
+01:12:40.620 --> 01:12:42.590
+Are the extended
+notes posted yet?
+
+01:12:42.590 --> 01:12:43.230
+Not yet.
+
+01:12:43.230 --> 01:12:45.740
+They will be some time or other.
+
+01:12:45.740 --> 01:12:47.485
+OK, any questions?
+
+01:12:52.460 --> 01:12:56.260
+OK, so go read those notes
+as soon as they're up.
+
+01:12:56.260 --> 01:12:59.520
+For more, please visit
+us at Stanford.edu.
+
